@@ -12,7 +12,7 @@ import os
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Ruta del pdf
-PDF_file='/Users/Mateo/Documents/Pruebas OCR/DECRETO.pdf'
+PDF_file='/Users/Mateo/Documents/OCR/Resolucion No. 128-2020 actividades bonificables.pdf'
   
 ''' 
 Part #1 : Convertir pdfs a imagenes
@@ -47,7 +47,7 @@ Parte #2 - OCR
 filelimit = image_counter-1
   
 # Creacion del archivo plano de salida
-outfile = "out_text.txt"
+outfile = "Resolucion2020.txt"
   
 #   
 # el texto de todas las imagenes es añadido al archivo plano 
