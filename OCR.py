@@ -11,6 +11,10 @@ import os
 #Ruta del OCR
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
+#entries = os.listdir('my_directory/')
+
+
+
 # Ruta del pdf
 PDF_file='/Users/Mateo/Documents/OCR/Resolucion No. 128-2020 actividades bonificables.pdf'
   
