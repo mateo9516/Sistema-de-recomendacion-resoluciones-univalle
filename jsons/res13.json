@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5379,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa alternativa",
+      "relevance": 0.809491,
+      "count": 2
+    },
+    {
+      "text": "grado programas academicos",
+      "relevance": 0.766552,
+      "count": 1
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.752399,
+      "count": 5
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.722884,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.61111,
+      "count": 4
+    },
+    {
+      "text": "trabajo grado",
+      "relevance": 0.574524,
+      "count": 2
+    },
+    {
+      "text": "personas estudiantes regulares",
+      "relevance": 0.56913,
+      "count": 1
+    },
+    {
+      "text": "establecio programa alternativa",
+      "relevance": 0.564743,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.56272,
+      "count": 1
+    },
+    {
+      "text": "personas vinculadas",
+      "relevance": 0.555216,
+      "count": 1
+    },
+    {
+      "text": "campos afines respectivo",
+      "relevance": 0.549561,
+      "count": 1
+    },
+    {
+      "text": "rendimiento academico",
+      "relevance": 0.546905,
+      "count": 2
+    },
+    {
+      "text": "reglamentacion vigente",
+      "relevance": 0.544101,
+      "count": 1
+    },
+    {
+      "text": "carrera profesional",
+      "relevance": 0.543684,
+      "count": 1
+    },
+    {
+      "text": "nombre completo",
+      "relevance": 0.536118,
+      "count": 1
+    },
+    {
+      "text": "requisitos grado",
+      "relevance": 0.533633,
+      "count": 1
+    },
+    {
+      "text": "grado programas",
+      "relevance": 0.531277,
+      "count": 1
+    },
+    {
+      "text": "tesis equivalente",
+      "relevance": 0.522535,
+      "count": 1
+    },
+    {
+      "text": "sanciones disciplinarias",
+      "relevance": 0.517549,
+      "count": 1
+    },
+    {
+      "text": "universidad obtenido",
+      "relevance": 0.517023,
+      "count": 1
+    },
+    {
+      "text": "asignaturas actividades",
+      "relevance": 0.516712,
+      "count": 1
+    },
+    {
+      "text": "razones distintas",
+      "relevance": 0.515528,
+      "count": 2
+    },
+    {
+      "text": "campo propio",
+      "relevance": 0.513973,
+      "count": 1
+    },
+    {
+      "text": "afios universidad valle",
+      "relevance": 0.509777,
+      "count": 1
+    },
+    {
+      "text": "programa academico",
+      "relevance": 0.508877,
+      "count": 4
+    },
+    {
+      "text": "titulo correspondiente",
+      "relevance": 0.506859,
+      "count": 1
+    },
+    {
+      "text": "fecha presente",
+      "relevance": 0.503827,
+      "count": 1
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.502719,
+      "count": 1
+    },
+    {
+      "text": "programa estudios vigente",
+      "relevance": 0.502189,
+      "count": 1
+    },
+    {
+      "text": "momento retiro",
+      "relevance": 0.501752,
+      "count": 2
+    }
+  ]
+}

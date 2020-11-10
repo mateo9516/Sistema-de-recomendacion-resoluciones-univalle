@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4957,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "desempefio academico",
+      "relevance": 0.7328,
+      "count": 6
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.708092,
+      "count": 4
+    },
+    {
+      "text": "unidad academica",
+      "relevance": 0.674173,
+      "count": 4
+    },
+    {
+      "text": "actividad integral",
+      "relevance": 0.672737,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.663008,
+      "count": 5
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.615651,
+      "count": 3
+    },
+    {
+      "text": "desempefio profesor universitario",
+      "relevance": 0.599428,
+      "count": 1
+    },
+    {
+      "text": "generales evaluacion",
+      "relevance": 0.547099,
+      "count": 1
+    },
+    {
+      "text": "asignacion academica",
+      "relevance": 0.544388,
+      "count": 1
+    },
+    {
+      "text": "integrantes cuerpo profesoral",
+      "relevance": 0.543836,
+      "count": 1
+    },
+    {
+      "text": "parte estatuto profesoral",
+      "relevance": 0.543761,
+      "count": 1
+    },
+    {
+      "text": "plan trabajo convenido",
+      "relevance": 0.538482,
+      "count": 1
+    },
+    {
+      "text": "politicas generales",
+      "relevance": 0.533374,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.528809,
+      "count": 5
+    },
+    {
+      "text": "actividad academica",
+      "relevance": 0.524694,
+      "count": 1
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.522306,
+      "count": 1
+    },
+    {
+      "text": "logros falencias",
+      "relevance": 0.521135,
+      "count": 1
+    },
+    {
+      "text": "resultados propuestas concertadas",
+      "relevance": 0.52054,
+      "count": 1
+    },
+    {
+      "text": "evaluadas base siguientes",
+      "relevance": 0.518365,
+      "count": 1
+    },
+    {
+      "text": "informe actividades presentado",
+      "relevance": 0.517443,
+      "count": 1
+    },
+    {
+      "text": "profesor ponderadas segin",
+      "relevance": 0.516835,
+      "count": 1
+    },
+    {
+      "text": "actividades consignadas",
+      "relevance": 0.513336,
+      "count": 1
+    },
+    {
+      "text": "comites internos",
+      "relevance": 0.512895,
+      "count": 1
+    },
+    {
+      "text": "mayor aprovechamiento institucional",
+      "relevance": 0.511795,
+      "count": 1
+    },
+    {
+      "text": "base establecido",
+      "relevance": 0.511182,
+      "count": 1
+    },
+    {
+      "text": "desarrollo capacidades",
+      "relevance": 0.510431,
+      "count": 1
+    },
+    {
+      "text": "instituto academico",
+      "relevance": 0.509077,
+      "count": 2
+    },
+    {
+      "text": "periodo academico",
+      "relevance": 0.50639,
+      "count": 1
+    },
+    {
+      "text": "tal efecto podra",
+      "relevance": 0.506091,
+      "count": 1
+    },
+    {
+      "text": "concepto evaluacion",
+      "relevance": 0.503889,
+      "count": 1
+    }
+  ]
+}

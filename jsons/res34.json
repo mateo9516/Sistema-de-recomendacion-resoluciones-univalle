@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5429,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo superior",
+      "relevance": 0.769605,
+      "count": 3
+    },
+    {
+      "text": "titulo academico universitario",
+      "relevance": 0.690191,
+      "count": 1
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.632851,
+      "count": 3
+    },
+    {
+      "text": "consejo directivo",
+      "relevance": 0.629249,
+      "count": 1
+    },
+    {
+      "text": "solicitud consistente",
+      "relevance": 0.609569,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento respectivo",
+      "relevance": 0.58889,
+      "count": 1
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.5863,
+      "count": 2
+    },
+    {
+      "text": "instituto academico",
+      "relevance": 0.574494,
+      "count": 2
+    },
+    {
+      "text": "nivel profesional",
+      "relevance": 0.566296,
+      "count": 1
+    },
+    {
+      "text": "condiciones aspirante",
+      "relevance": 0.551217,
+      "count": 1
+    },
+    {
+      "text": "solicitud c",
+      "relevance": 0.547777,
+      "count": 1
+    },
+    {
+      "text": "equivalentes superiores",
+      "relevance": 0.544736,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento titulos",
+      "relevance": 0.539872,
+      "count": 1
+    },
+    {
+      "text": "programa academico",
+      "relevance": 0.537888,
+      "count": 1
+    },
+    {
+      "text": "evaluador compuesto",
+      "relevance": 0.526505,
+      "count": 1
+    },
+    {
+      "text": "consejo facultad",
+      "relevance": 0.526015,
+      "count": 2
+    },
+    {
+      "text": "director programa respectivo",
+      "relevance": 0.52407,
+      "count": 2
+    },
+    {
+      "text": "bachiller certificado",
+      "relevance": 0.52276,
+      "count": 1
+    },
+    {
+      "text": "educacion superior",
+      "relevance": 0.517623,
+      "count": 1
+    },
+    {
+      "text": "actividades desarrolladas principales",
+      "relevance": 0.515384,
+      "count": 1
+    },
+    {
+      "text": "instituto academico previo",
+      "relevance": 0.51449,
+      "count": 1
+    },
+    {
+      "text": "estudio correspondientes",
+      "relevance": 0.51373,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.511922,
+      "count": 1
+    },
+    {
+      "text": "campos completado",
+      "relevance": 0.511824,
+      "count": 1
+    },
+    {
+      "text": "facultad instituto academico",
+      "relevance": 0.51064,
+      "count": 1
+    },
+    {
+      "text": "caso consejo academico",
+      "relevance": 0.509943,
+      "count": 1
+    },
+    {
+      "text": "solicitud siguiente",
+      "relevance": 0.508782,
+      "count": 1
+    },
+    {
+      "text": "certificado labores profesionales",
+      "relevance": 0.508208,
+      "count": 1
+    },
+    {
+      "text": "universidad valle institucion",
+      "relevance": 0.506523,
+      "count": 1
+    },
+    {
+      "text": "requisitos previstos",
+      "relevance": 0.506288,
+      "count": 1
+    }
+  ]
+}

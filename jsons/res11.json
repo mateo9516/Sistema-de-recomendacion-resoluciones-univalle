@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 888,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad valle",
+      "relevance": 0.794071,
+      "count": 4
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.763183,
+      "count": 3
+    },
+    {
+      "text": "anos profesor gerardo",
+      "relevance": 0.666942,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.644612,
+      "count": 1
+    },
+    {
+      "text": "campo cabal",
+      "relevance": 0.616168,
+      "count": 2
+    },
+    {
+      "text": "arturo lozano",
+      "relevance": 0.614255,
+      "count": 2
+    },
+    {
+      "text": "salud representante principal",
+      "relevance": 0.603473,
+      "count": 1
+    },
+    {
+      "text": "correo electronico",
+      "relevance": 0.562186,
+      "count": 1
+    },
+    {
+      "text": "decano facultad ingenieria",
+      "relevance": 0.53687,
+      "count": 1
+    },
+    {
+      "text": "santiago cali",
+      "relevance": 0.512269,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.508911,
+      "count": 1
+    },
+    {
+      "text": "uso atribuciones",
+      "relevance": 0.506805,
+      "count": 1
+    },
+    {
+      "text": "artiiculo segundo",
+      "relevance": 0.506468,
+      "count": 1
+    },
+    {
+      "text": "mes enero",
+      "relevance": 0.506306,
+      "count": 1
+    },
+    {
+      "text": "correo electrenico",
+      "relevance": 0.505092,
+      "count": 1
+    },
+    {
+      "text": "salon reuniones",
+      "relevance": 0.503264,
+      "count": 1
+    },
+    {
+      "text": "representante suplente",
+      "relevance": 0.502284,
+      "count": 1
+    },
+    {
+      "text": "profesores gerardo",
+      "relevance": 0.496095,
+      "count": 1
+    },
+    {
+      "text": "literal f",
+      "relevance": 0.495833,
+      "count": 1
+    },
+    {
+      "text": "varela barrios rector",
+      "relevance": 0.494008,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.439919,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.43825,
+      "count": 1
+    },
+    {
+      "text": "decano",
+      "relevance": 0.422074,
+      "count": 1
+    },
+    {
+      "text": "enero",
+      "relevance": 0.420526,
+      "count": 1
+    },
+    {
+      "text": "correounivalleeduco",
+      "relevance": 0.419019,
+      "count": 2
+    },
+    {
+      "text": "profesor",
+      "relevance": 0.410335,
+      "count": 1
+    },
+    {
+      "text": "directivas",
+      "relevance": 0.409432,
+      "count": 1
+    },
+    {
+      "text": "efectua",
+      "relevance": 0.408361,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.407168,
+      "count": 1
+    },
+    {
+      "text": "carloslozano",
+      "relevance": 0.406081,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+09 de 2001 CS, evaluaciones, derechos de los estudiantes
+04 de 2000 CS, evaluaciones, derechos de los estudiantes
+023 de 2003 CS, admisiones, reingreso, ingreso
+027 de 2001 CA, creditos, deberes academicos, actividades academicas
+093 de 2018 CA, excepciones, asignacion de cupos, postconflicto, ingreso, admisiones
+042 de 2018 CA, excepciones, asignacion de cupos, postconflicto, ingreso, admisiones
+045 de 2018 CA, excepciones, comunidades afro, ingreso, admisiones
+016 de 2018 CA, bono estudiantil, ayudas economicas, permanencia
+088 de 2004 CS, ayudas economicas, matricula financiera
+08 de 2004 CS, monitorias, derechos de los estudiantes
+04 de 2007 CS, monitorias, derechos de los estudiantes
+03 de 2207 CS, grados, titulacion, homologacion de titulo
+40 de 2020 CS, matricula financiera, ayudas economicas
+20 de 2020 CS, evaluaciones, calificaciones, derechos del estudiante
+162 de 1994 CA, derechos del estudiante
+134 de 2015 CA, asamblea estudiantil, peticiones, derechos del estudiante
+111 de 2009 CA, intercambio, derechos del estudiante
+106 de 2005 CA, Examen de proficiencia, validacion, ingles, derechos del estudiante
+053 de 2001 CS, Evaluacion docente, desempeño, docentes
+115 de 2001 CS, evaluacion docente, docentes, periodo de prueba
+097 de 2003 CA, Excepcion, comunidades afro, ingreso, admisiones
+136 de 2017 CA, programas academicos, creacion de programas
+124 de 2019 CA, admisiones, oferta academica
+085 de 2020 CA, calendario, fechas, admisiones
+047 de 2020 CA, programa academico, estructura curricular
+134 de 1986 CA, grados, titulacion
+074 de 2015 CA, programa academico, trabajo de grado
+029 de 2014 CA, programa academico, actualizacion de programas
+017 de 2014 CA, programa academico, actualizacion de programas
+134 de 2017 CA, calendario, admisiones, fechas
+022 de 2001 CS, asignacion academica, programas academicos
+023 de 2005 CS, amnistias reingreso
+024 de 2014 CS, amnistias reingreso
+093 de 2016 CA, amnistias reingreso
+055 de 2005 CA, amnistias, titulacion, reingreso, alternativa a grado
+029 de 2010 CA, amnisitias, titulacion, reingreso, alternativa a grado
+03 de 2017 CA, amnistias, titulacion, reingreso
+082 de 2000 CS, grado, homologacion de titulo, titulacion
+159 de 2015 CA, grado postumo, titulacion
+06 de 2016 CA, designacion, funcionarios
+024 de 1994 CS, elecciones, funcionarios, representantes
+04 de 2007 CA, admisiones, amnisitias, resultados ICFES
+104 de 1998 CA, admisiones, oferta academica
+103 de 2001 CS, grado, homologacion de titulo, otorgamiento de grado, titulacion
+   

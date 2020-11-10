@@ -1,0 +1,10 @@
+
+https://medium.com/@ombuzek/nlu-enrichments-part-1-how-to-utilize-sentiment-keywords-and-emotion-6da307e5f409
+
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+https://www.tensorflow.org/tutorials/text/word_embeddings
+
+https://sitiobigdata.com/2018/08/24/mapeo-de-incrustaciones-de-word-con-word2vec/#
+
+https://medium.com/@gruizdevilla/introducci%C3%B3n-a-word2vec-skip-gram-model-4800f72c871f

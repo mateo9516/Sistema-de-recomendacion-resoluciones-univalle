@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 19133,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad valle",
+      "relevance": 0.737514,
+      "count": 3
+    },
+    {
+      "text": "trabajo academico",
+      "relevance": 0.710524,
+      "count": 5
+    },
+    {
+      "text": "mecanismos asignacion academica",
+      "relevance": 0.677864,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.674241,
+      "count": 2
+    },
+    {
+      "text": "jefe director",
+      "relevance": 0.59625,
+      "count": 2
+    },
+    {
+      "text": "claustro unidad academica",
+      "relevance": 0.594138,
+      "count": 1
+    },
+    {
+      "text": "disposiciones generales",
+      "relevance": 0.577725,
+      "count": 1
+    },
+    {
+      "text": "desarrollo funciones basicas",
+      "relevance": 0.56447,
+      "count": 1
+    },
+    {
+      "text": "primacia funciones academicas",
+      "relevance": 0.552584,
+      "count": 1
+    },
+    {
+      "text": "departamentos escuelas bajo",
+      "relevance": 0.551152,
+      "count": 1
+    },
+    {
+      "text": "desarrollo trabajo colectivo",
+      "relevance": 0.547423,
+      "count": 1
+    },
+    {
+      "text": "respectiva facultad seguin",
+      "relevance": 0.546173,
+      "count": 1
+    },
+    {
+      "text": "informe escrito",
+      "relevance": 0.54175,
+      "count": 1
+    },
+    {
+      "text": "unidad academica conjunto",
+      "relevance": 0.539769,
+      "count": 1
+    },
+    {
+      "text": "criterios establecidos",
+      "relevance": 0.53778,
+      "count": 1
+    },
+    {
+      "text": "plan trabajo individual",
+      "relevance": 0.530294,
+      "count": 1
+    },
+    {
+      "text": "jefe departamento director",
+      "relevance": 0.529442,
+      "count": 1
+    },
+    {
+      "text": "profesores singularidades propias",
+      "relevance": 0.522372,
+      "count": 1
+    },
+    {
+      "text": "universidad concepcidn integral",
+      "relevance": 0.520304,
+      "count": 1
+    },
+    {
+      "text": "actividades unidad",
+      "relevance": 0.514951,
+      "count": 1
+    },
+    {
+      "text": "criterios equidad profesores",
+      "relevance": 0.513529,
+      "count": 1
+    },
+    {
+      "text": "academica facultad",
+      "relevance": 0.510925,
+      "count": 1
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.510384,
+      "count": 1
+    },
+    {
+      "text": "debe orientada",
+      "relevance": 0.509837,
+      "count": 1
+    },
+    {
+      "text": "valoracion informe realizada",
+      "relevance": 0.505836,
+      "count": 1
+    },
+    {
+      "text": "unidad academica",
+      "relevance": 0.5043,
+      "count": 2
+    },
+    {
+      "text": "decano facultad director",
+      "relevance": 0.503965,
+      "count": 1
+    },
+    {
+      "text": "prioridades desarrollo categoria",
+      "relevance": 0.503932,
+      "count": 1
+    },
+    {
+      "text": "distribucien relativa",
+      "relevance": 0.500919,
+      "count": 1
+    },
+    {
+      "text": "derechos deberes profesorado",
+      "relevance": 0.499559,
+      "count": 1
+    }
+  ]
+}

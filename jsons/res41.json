@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8702,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad valle",
+      "relevance": 0.774394,
+      "count": 4
+    },
+    {
+      "text": "fondo apoyo",
+      "relevance": 0.682762,
+      "count": 3
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.659175,
+      "count": 2
+    },
+    {
+      "text": "estudiantes regulares",
+      "relevance": 0.635755,
+      "count": 3
+    },
+    {
+      "text": "fortalecimiento caracter regional",
+      "relevance": 0.622246,
+      "count": 1
+    },
+    {
+      "text": "cuenta fiduciaria exclusiva",
+      "relevance": 0.612391,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.608462,
+      "count": 2
+    },
+    {
+      "text": "bajos ingresos",
+      "relevance": 0.594408,
+      "count": 1
+    },
+    {
+      "text": "aporte municipios beneficiados",
+      "relevance": 0.584673,
+      "count": 1
+    },
+    {
+      "text": "regionalizacion universidad",
+      "relevance": 0.570714,
+      "count": 1
+    },
+    {
+      "text": "aportes donaciones recibidas",
+      "relevance": 0.563954,
+      "count": 1
+    },
+    {
+      "text": "especiales estudiantes regulares",
+      "relevance": 0.545812,
+      "count": 2
+    },
+    {
+      "text": "fin cuentas activas",
+      "relevance": 0.538089,
+      "count": 1
+    },
+    {
+      "text": "estudiantes seccionales",
+      "relevance": 0.536013,
+      "count": 1
+    },
+    {
+      "text": "actividades extensidn desarrolladas",
+      "relevance": 0.529493,
+      "count": 1
+    },
+    {
+      "text": "seccionales sedes regionales",
+      "relevance": 0.521946,
+      "count": 1
+    },
+    {
+      "text": "pago derechos",
+      "relevance": 0.519473,
+      "count": 1
+    },
+    {
+      "text": "vicerrector bienestar universitario",
+      "relevance": 0.518157,
+      "count": 1
+    },
+    {
+      "text": "seccional sede regional",
+      "relevance": 0.513386,
+      "count": 1
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.512564,
+      "count": 2
+    },
+    {
+      "text": "escuelas departamentos centros",
+      "relevance": 0.509922,
+      "count": 1
+    },
+    {
+      "text": "cuenta general",
+      "relevance": 0.508612,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.50836,
+      "count": 1
+    },
+    {
+      "text": "rendimientos generados",
+      "relevance": 0.507617,
+      "count": 1
+    },
+    {
+      "text": "fondos comunes",
+      "relevance": 0.506931,
+      "count": 2
+    },
+    {
+      "text": "universidad fin",
+      "relevance": 0.505943,
+      "count": 1
+    },
+    {
+      "text": "cuentas ingresos",
+      "relevance": 0.505257,
+      "count": 1
+    },
+    {
+      "text": "contabilidad vicerrectoria administrativa",
+      "relevance": 0.505155,
+      "count": 1
+    },
+    {
+      "text": "aportes departamento municipios",
+      "relevance": 0.505017,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales seccionales",
+      "relevance": 0.503781,
+      "count": 1
+    }
+  ]
+}

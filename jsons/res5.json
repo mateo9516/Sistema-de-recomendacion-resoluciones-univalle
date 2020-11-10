@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5293,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "profesores periodo",
+      "relevance": 0.781093,
+      "count": 3
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.760782,
+      "count": 3
+    },
+    {
+      "text": "desempefio academico",
+      "relevance": 0.656657,
+      "count": 3
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.649512,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.622413,
+      "count": 3
+    },
+    {
+      "text": "evaluacion desempefio academico",
+      "relevance": 0.610951,
+      "count": 1
+    },
+    {
+      "text": "profesores nombrados",
+      "relevance": 0.610872,
+      "count": 1
+    },
+    {
+      "text": "unidad academica",
+      "relevance": 0.600886,
+      "count": 3
+    },
+    {
+      "text": "estatuto profesoral",
+      "relevance": 0.588172,
+      "count": 4
+    },
+    {
+      "text": "libre nombramiento",
+      "relevance": 0.550316,
+      "count": 1
+    },
+    {
+      "text": "desempefio efectos",
+      "relevance": 0.536069,
+      "count": 1
+    },
+    {
+      "text": "instituto academico",
+      "relevance": 0.530936,
+      "count": 3
+    },
+    {
+      "text": "formulario preguntas",
+      "relevance": 0.522194,
+      "count": 1
+    },
+    {
+      "text": "universidad valle ejercicio",
+      "relevance": 0.522138,
+      "count": 1
+    },
+    {
+      "text": "caso evaluacion",
+      "relevance": 0.521756,
+      "count": 1
+    },
+    {
+      "text": "estudiantes cursos",
+      "relevance": 0.516845,
+      "count": 1
+    },
+    {
+      "text": "procesos evaluacion",
+      "relevance": 0.514002,
+      "count": 1
+    },
+    {
+      "text": "reglamento docente",
+      "relevance": 0.512329,
+      "count": 1
+    },
+    {
+      "text": "conformidad ley",
+      "relevance": 0.505846,
+      "count": 1
+    },
+    {
+      "text": "profesores nombramiento",
+      "relevance": 0.504763,
+      "count": 1
+    },
+    {
+      "text": "modalidad nombramiento",
+      "relevance": 0.503177,
+      "count": 1
+    },
+    {
+      "text": "actividades docencia investigacion",
+      "relevance": 0.501616,
+      "count": 1
+    },
+    {
+      "text": "evaluacion desempefio",
+      "relevance": 0.500234,
+      "count": 2
+    },
+    {
+      "text": "amparados regimen especial",
+      "relevance": 0.499909,
+      "count": 1
+    },
+    {
+      "text": "particular mision vision",
+      "relevance": 0.497214,
+      "count": 1
+    },
+    {
+      "text": "cuenta siguientes",
+      "relevance": 0.496954,
+      "count": 1
+    },
+    {
+      "text": "asignaturas cargo",
+      "relevance": 0.496773,
+      "count": 1
+    },
+    {
+      "text": "elaboracion formulario",
+      "relevance": 0.496257,
+      "count": 1
+    },
+    {
+      "text": "competencia diferentes",
+      "relevance": 0.495036,
+      "count": 1
+    },
+    {
+      "text": "criterios aspectos",
+      "relevance": 0.49464,
+      "count": 1
+    }
+  ]
+}

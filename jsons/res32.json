@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 611,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad valle w",
+      "relevance": 0.874222,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.861678,
+      "count": 2
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.654164,
+      "count": 2
+    },
+    {
+      "text": "vigencia norma",
+      "relevance": 0.64471,
+      "count": 1
+    },
+    {
+      "text": "reuniones despacho gobernador",
+      "relevance": 0.588958,
+      "count": 1
+    },
+    {
+      "text": "evaluacion opcional",
+      "relevance": 0.553423,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.538854,
+      "count": 1
+    },
+    {
+      "text": "asignatura universidad",
+      "relevance": 0.53637,
+      "count": 1
+    },
+    {
+      "text": "uso atribuciones",
+      "relevance": 0.533932,
+      "count": 1
+    },
+    {
+      "text": "santiago cali",
+      "relevance": 0.52209,
+      "count": 1
+    },
+    {
+      "text": "mes enero",
+      "relevance": 0.508319,
+      "count": 1
+    },
+    {
+      "text": "nr gobernador",
+      "relevance": 0.478104,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.432087,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.428545,
+      "count": 1
+    },
+    {
+      "text": "enero",
+      "relevance": 0.396742,
+      "count": 1
+    },
+    {
+      "text": "agosto",
+      "relevance": 0.382092,
+      "count": 1
+    },
+    {
+      "text": "afio",
+      "relevance": 0.381076,
+      "count": 1
+    },
+    {
+      "text": "ja",
+      "relevance": 0.380874,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.380615,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.380165,
+      "count": 1
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.379088,
+      "count": 1
+    },
+    {
+      "text": "consejo",
+      "relevance": 0.378212,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.373611,
+      "count": 1
+    },
+    {
+      "text": "departamento",
+      "relevance": 0.369554,
+      "count": 1
+    }
+  ]
+}

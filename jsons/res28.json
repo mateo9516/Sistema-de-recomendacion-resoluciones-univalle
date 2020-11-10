@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 14934,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "ingenieria sistemas",
+      "relevance": 0.805547,
+      "count": 7
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.790428,
+      "count": 7
+    },
+    {
+      "text": "programa academico",
+      "relevance": 0.719507,
+      "count": 7
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.711099,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.580135,
+      "count": 1
+    },
+    {
+      "text": "estudiantes cursado",
+      "relevance": 0.576256,
+      "count": 1
+    },
+    {
+      "text": "reglamento registros calificados",
+      "relevance": 0.544962,
+      "count": 1
+    },
+    {
+      "text": "programas formacio6",
+      "relevance": 0.532181,
+      "count": 1
+    },
+    {
+      "text": "ingenieria sistemas adscrito",
+      "relevance": 0.532044,
+      "count": 1
+    },
+    {
+      "text": "estudiantes anuales",
+      "relevance": 0.527643,
+      "count": 2
+    },
+    {
+      "text": "ingeniero sistemas",
+      "relevance": 0.524866,
+      "count": 1
+    },
+    {
+      "text": "sedes universidad",
+      "relevance": 0.524342,
+      "count": 1
+    },
+    {
+      "text": "cupo maximo",
+      "relevance": 0.52002,
+      "count": 2
+    },
+    {
+      "text": "requisitos estipulados presente",
+      "relevance": 0.5172,
+      "count": 1
+    },
+    {
+      "text": "soluciones problemas reales",
+      "relevance": 0.511808,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.510012,
+      "count": 1
+    },
+    {
+      "text": "profesionales ingenieria",
+      "relevance": 0.508556,
+      "count": 1
+    },
+    {
+      "text": "facultad ingenieria duracion",
+      "relevance": 0.507848,
+      "count": 1
+    },
+    {
+      "text": "sistemas capaces",
+      "relevance": 0.505569,
+      "count": 1
+    },
+    {
+      "text": "actualizados medida disciplina",
+      "relevance": 0.503725,
+      "count": 1
+    },
+    {
+      "text": "escuela ingenieria",
+      "relevance": 0.503324,
+      "count": 1
+    },
+    {
+      "text": "tecnologica profesional personal",
+      "relevance": 0.502376,
+      "count": 1
+    },
+    {
+      "text": "semestres modalidad presencial",
+      "relevance": 0.499124,
+      "count": 1
+    },
+    {
+      "text": "programa ingenieria",
+      "relevance": 0.497198,
+      "count": 1
+    },
+    {
+      "text": "demas normas universidad",
+      "relevance": 0.496049,
+      "count": 1
+    },
+    {
+      "text": "ciencias pertinentes",
+      "relevance": 0.495668,
+      "count": 1
+    },
+    {
+      "text": "formacion cientifica",
+      "relevance": 0.494836,
+      "count": 1
+    },
+    {
+      "text": "estudiantes capacidad",
+      "relevance": 0.494105,
+      "count": 1
+    },
+    {
+      "text": "sede cali",
+      "relevance": 0.493706,
+      "count": 1
+    },
+    {
+      "text": "especialidad asi",
+      "relevance": 0.492984,
+      "count": 1
+    }
+  ]
+}

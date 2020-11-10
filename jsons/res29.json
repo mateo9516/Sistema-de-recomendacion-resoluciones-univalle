@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2551,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo academico",
+      "relevance": 0.76843,
+      "count": 5
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.709884,
+      "count": 4
+    },
+    {
+      "text": "agosto-diciembre",
+      "relevance": 0.682201,
+      "count": 1
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.653024,
+      "count": 3
+    },
+    {
+      "text": "periodo academico",
+      "relevance": 0.619622,
+      "count": 2
+    },
+    {
+      "text": "estudiantes admitidos primer",
+      "relevance": 0.603459,
+      "count": 1
+    },
+    {
+      "text": "convenios examen proficiencia",
+      "relevance": 0.598966,
+      "count": 1
+    },
+    {
+      "text": "proficiencia idioma extranjero",
+      "relevance": 0.569777,
+      "count": 2
+    },
+    {
+      "text": "clases examenes",
+      "relevance": 0.567046,
+      "count": 1
+    },
+    {
+      "text": "academica admitidos",
+      "relevance": 0.552032,
+      "count": 1
+    },
+    {
+      "text": "reporte calificaciones",
+      "relevance": 0.546715,
+      "count": 1
+    },
+    {
+      "text": "asignaturas electivas",
+      "relevance": 0.537953,
+      "count": 1
+    },
+    {
+      "text": "ciencias lenguaje",
+      "relevance": 0.532258,
+      "count": 2
+    },
+    {
+      "text": "parte escuela",
+      "relevance": 0.530845,
+      "count": 2
+    },
+    {
+      "text": "siguiente calendario academico",
+      "relevance": 0.530083,
+      "count": 1
+    },
+    {
+      "text": "programa academico admitidos",
+      "relevance": 0.522491,
+      "count": 1
+    },
+    {
+      "text": "web direccion",
+      "relevance": 0.521198,
+      "count": 1
+    },
+    {
+      "text": "calendarios segundo",
+      "relevance": 0.519404,
+      "count": 1
+    },
+    {
+      "text": "inscripcion examenes",
+      "relevance": 0.518712,
+      "count": 2
+    },
+    {
+      "text": "adicion cancelacion",
+      "relevance": 0.515104,
+      "count": 1
+    },
+    {
+      "text": "desarrollo correspondiente segundo",
+      "relevance": 0.513971,
+      "count": 1
+    },
+    {
+      "text": "inicio actividades",
+      "relevance": 0.511943,
+      "count": 1
+    },
+    {
+      "text": "admitidos primer semestre",
+      "relevance": 0.510544,
+      "count": 1
+    },
+    {
+      "text": "inicio clases",
+      "relevance": 0.507942,
+      "count": 1
+    },
+    {
+      "text": "registro academico",
+      "relevance": 0.507759,
+      "count": 1
+    },
+    {
+      "text": "presidente documento original",
+      "relevance": 0.503596,
+      "count": 1
+    },
+    {
+      "text": "examenes proficiencia",
+      "relevance": 0.501371,
+      "count": 2
+    },
+    {
+      "text": "registro calificaciones sra",
+      "relevance": 0.499295,
+      "count": 1
+    },
+    {
+      "text": "director programa academico",
+      "relevance": 0.499205,
+      "count": 1
+    },
+    {
+      "text": "asignaturas cancelacion",
+      "relevance": 0.494833,
+      "count": 1
+    }
+  ]
+}

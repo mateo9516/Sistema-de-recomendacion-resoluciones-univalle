@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 16008,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad valle",
+      "relevance": 0.769569,
+      "count": 3
+    },
+    {
+      "text": "consejo academico",
+      "relevance": 0.719011,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.62262,
+      "count": 2
+    },
+    {
+      "text": "principios propositos",
+      "relevance": 0.599611,
+      "count": 1
+    },
+    {
+      "text": "universidad valle definidas",
+      "relevance": 0.599418,
+      "count": 2
+    },
+    {
+      "text": "principios generales",
+      "relevance": 0.565435,
+      "count": 3
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.547351,
+      "count": 1
+    },
+    {
+      "text": "condiciones creacion",
+      "relevance": 0.535763,
+      "count": 2
+    },
+    {
+      "text": "proyecto formativo",
+      "relevance": 0.53333,
+      "count": 1
+    },
+    {
+      "text": "objeto proposito",
+      "relevance": 0.528627,
+      "count": 1
+    },
+    {
+      "text": "aprobacion presente",
+      "relevance": 0.528338,
+      "count": 1
+    },
+    {
+      "text": "base desarrollo pleno",
+      "relevance": 0.527284,
+      "count": 1
+    },
+    {
+      "text": "planes mejoramiento continuo",
+      "relevance": 0.526854,
+      "count": 1
+    },
+    {
+      "text": "formaci6n universitaria",
+      "relevance": 0.526403,
+      "count": 1
+    },
+    {
+      "text": "proyecto institucional",
+      "relevance": 0.518618,
+      "count": 1
+    },
+    {
+      "text": "reflexion pedagogica",
+      "relevance": 0.515641,
+      "count": 1
+    },
+    {
+      "text": "procesos aprendizaje",
+      "relevance": 0.514514,
+      "count": 1
+    },
+    {
+      "text": "proceso continuo sistematico",
+      "relevance": 0.51388,
+      "count": 1
+    },
+    {
+      "text": "plan estrategico",
+      "relevance": 0.513251,
+      "count": 1
+    },
+    {
+      "text": "central curriculo",
+      "relevance": 0.513146,
+      "count": 1
+    },
+    {
+      "text": "actualiz6 politica",
+      "relevance": 0.512958,
+      "count": 1
+    },
+    {
+      "text": "humano equilibrio cientifico",
+      "relevance": 0.51212,
+      "count": 1
+    },
+    {
+      "text": "logro autonomia personal",
+      "relevance": 0.511976,
+      "count": 1
+    },
+    {
+      "text": "estructura academico administrativa",
+      "relevance": 0.511671,
+      "count": 1
+    },
+    {
+      "text": "disposiciones implementacion",
+      "relevance": 0.510992,
+      "count": 1
+    },
+    {
+      "text": "universidad facultades",
+      "relevance": 0.510742,
+      "count": 1
+    },
+    {
+      "text": "tecnoldgico artistico humanistico",
+      "relevance": 0.508617,
+      "count": 1
+    },
+    {
+      "text": "6n acorde",
+      "relevance": 0.507033,
+      "count": 1
+    },
+    {
+      "text": "lineamientos definidos",
+      "relevance": 0.506386,
+      "count": 1
+    },
+    {
+      "text": "condiciones calidad definidas",
+      "relevance": 0.505658,
+      "count": 1
+    }
+  ]
+}

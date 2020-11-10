@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5439,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "universidad valle",
+      "relevance": 0.684348,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.654916,
+      "count": 4
+    },
+    {
+      "text": "virus coronavirus covid-19",
+      "relevance": 0.605759,
+      "count": 1
+    },
+    {
+      "text": "marzo afio",
+      "relevance": 0.601547,
+      "count": 1
+    },
+    {
+      "text": "territorio nacional",
+      "relevance": 0.600792,
+      "count": 2
+    },
+    {
+      "text": "uso atribuciones",
+      "relevance": 0.580526,
+      "count": 1
+    },
+    {
+      "text": "redes sociales",
+      "relevance": 0.577785,
+      "count": 2
+    },
+    {
+      "text": "proteccion social",
+      "relevance": 0.573274,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.56204,
+      "count": 2
+    },
+    {
+      "text": "expidio directiva presidencial",
+      "relevance": 0.559434,
+      "count": 1
+    },
+    {
+      "text": "desarrollo autonomia universitaria",
+      "relevance": 0.549086,
+      "count": 1
+    },
+    {
+      "text": "planes programas academicos",
+      "relevance": 0.544944,
+      "count": 1
+    },
+    {
+      "text": "medida excepcional transitoria",
+      "relevance": 0.53917,
+      "count": 1
+    },
+    {
+      "text": "enfermedad causada",
+      "relevance": 0.534871,
+      "count": 1
+    },
+    {
+      "text": "acuerdo directiva ministerial",
+      "relevance": 0.530986,
+      "count": 1
+    },
+    {
+      "text": "continuidad procesos formativos",
+      "relevance": 0.529452,
+      "count": 1
+    },
+    {
+      "text": "ministerio salud",
+      "relevance": 0.526262,
+      "count": 1
+    },
+    {
+      "text": "resoluci6n",
+      "relevance": 0.525349,
+      "count": 1
+    },
+    {
+      "text": "uso tic",
+      "relevance": 0.523186,
+      "count": 1
+    },
+    {
+      "text": "canales virtuales institucionales",
+      "relevance": 0.523127,
+      "count": 1
+    },
+    {
+      "text": "uso herramientas",
+      "relevance": 0.522115,
+      "count": 3
+    },
+    {
+      "text": "registro calificado",
+      "relevance": 0.516456,
+      "count": 2
+    },
+    {
+      "text": "ley establecera",
+      "relevance": 0.516066,
+      "count": 1
+    },
+    {
+      "text": "servicios publicos",
+      "relevance": 0.514941,
+      "count": 1
+    },
+    {
+      "text": "organizacion mundial",
+      "relevance": 0.512164,
+      "count": 1
+    },
+    {
+      "text": "emergencia sanitaria",
+      "relevance": 0.511421,
+      "count": 1
+    },
+    {
+      "text": "propios estatutos",
+      "relevance": 0.51129,
+      "count": 1
+    },
+    {
+      "text": "reuniones presenciales",
+      "relevance": 0.50757,
+      "count": 1
+    },
+    {
+      "text": "causa coronavirus covid-19",
+      "relevance": 0.503898,
+      "count": 1
+    },
+    {
+      "text": "instituciones educacion superior",
+      "relevance": 0.503548,
+      "count": 1
+    }
+  ]
+}

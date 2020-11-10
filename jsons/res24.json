@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7371,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "consejo academico",
+      "relevance": 0.804693,
+      "count": 6
+    },
+    {
+      "text": "programas academicos",
+      "relevance": 0.761261,
+      "count": 1
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.736363,
+      "count": 3
+    },
+    {
+      "text": "personas vinculadas",
+      "relevance": 0.694679,
+      "count": 3
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.681238,
+      "count": 3
+    },
+    {
+      "text": "medida transitoria",
+      "relevance": 0.614954,
+      "count": 4
+    },
+    {
+      "text": "reingreso programas",
+      "relevance": 0.609896,
+      "count": 1
+    },
+    {
+      "text": "retiradas programas",
+      "relevance": 0.553382,
+      "count": 1
+    },
+    {
+      "text": "meses posteriores",
+      "relevance": 0.544754,
+      "count": 1
+    },
+    {
+      "text": "nombre completo",
+      "relevance": 0.544144,
+      "count": 1
+    },
+    {
+      "text": "fecha grupo",
+      "relevance": 0.535394,
+      "count": 1
+    },
+    {
+      "text": "programa academico",
+      "relevance": 0.53529,
+      "count": 5
+    },
+    {
+      "text": "trabajo grado",
+      "relevance": 0.534274,
+      "count": 2
+    },
+    {
+      "text": "momento retiro",
+      "relevance": 0.521625,
+      "count": 2
+    },
+    {
+      "text": "medida transitoria aprobada",
+      "relevance": 0.517225,
+      "count": 1
+    },
+    {
+      "text": "referencia consejo superior",
+      "relevance": 0.516196,
+      "count": 1
+    },
+    {
+      "text": "manera transitoria",
+      "relevance": 0.512985,
+      "count": 1
+    },
+    {
+      "text": "alternativa aspirantes",
+      "relevance": 0.511319,
+      "count": 1
+    },
+    {
+      "text": "campos afines respectivo",
+      "relevance": 0.502786,
+      "count": 1
+    },
+    {
+      "text": "campo propio",
+      "relevance": 0.499796,
+      "count": 1
+    },
+    {
+      "text": "titulo correspondiente",
+      "relevance": 0.499405,
+      "count": 1
+    },
+    {
+      "text": "registro ministerio",
+      "relevance": 0.498064,
+      "count": 1
+    },
+    {
+      "text": "resolucion vigente",
+      "relevance": 0.497726,
+      "count": 1
+    },
+    {
+      "text": "personas tiempo",
+      "relevance": 0.496867,
+      "count": 1
+    },
+    {
+      "text": "consejo superior aprob6",
+      "relevance": 0.495802,
+      "count": 1
+    },
+    {
+      "text": "nacional programa academico",
+      "relevance": 0.49539,
+      "count": 1
+    },
+    {
+      "text": "sanciones disciplinarias vigentes",
+      "relevance": 0.492153,
+      "count": 1
+    },
+    {
+      "text": "universidad valle presentado",
+      "relevance": 0.489315,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos reingreso",
+      "relevance": 0.488732,
+      "count": 1
+    },
+    {
+      "text": "grado avance",
+      "relevance": 0.48845,
+      "count": 1
+    }
+  ]
+}

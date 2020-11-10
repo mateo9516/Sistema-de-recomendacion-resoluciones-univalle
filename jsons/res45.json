@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5221,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "bono estudiantil",
+      "relevance": 0.795617,
+      "count": 9
+    },
+    {
+      "text": "estudiantes regulares",
+      "relevance": 0.790865,
+      "count": 2
+    },
+    {
+      "text": "universidad valle",
+      "relevance": 0.766552,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.659613,
+      "count": 3
+    },
+    {
+      "text": "estudiante mayor",
+      "relevance": 0.634969,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.630399,
+      "count": 4
+    },
+    {
+      "text": "cupos bono estudiantil",
+      "relevance": 0.58515,
+      "count": 2
+    },
+    {
+      "text": "financiera estudiantes regulares",
+      "relevance": 0.561049,
+      "count": 1
+    },
+    {
+      "text": "estudiante podra",
+      "relevance": 0.560095,
+      "count": 3
+    },
+    {
+      "text": "permanencia estudiantes",
+      "relevance": 0.554107,
+      "count": 1
+    },
+    {
+      "text": "valor promedio total",
+      "relevance": 0.550553,
+      "count": 1
+    },
+    {
+      "text": "desarrollo humano",
+      "relevance": 0.547104,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.545413,
+      "count": 1
+    },
+    {
+      "text": "estrategias programas orientados",
+      "relevance": 0.538711,
+      "count": 1
+    },
+    {
+      "text": "condiciones permanencia estudiantes",
+      "relevance": 0.531393,
+      "count": 1
+    },
+    {
+      "text": "pago derechos",
+      "relevance": 0.530466,
+      "count": 2
+    },
+    {
+      "text": "actividades estudiante beneficiario",
+      "relevance": 0.527648,
+      "count": 1
+    },
+    {
+      "text": "grado acuerdo siguiente",
+      "relevance": 0.525511,
+      "count": 1
+    },
+    {
+      "text": "aprobados consejo superior",
+      "relevance": 0.520102,
+      "count": 1
+    },
+    {
+      "text": "exito academico",
+      "relevance": 0.519758,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento mision social",
+      "relevance": 0.515499,
+      "count": 1
+    },
+    {
+      "text": "convivencia bienestar social",
+      "relevance": 0.514696,
+      "count": 1
+    },
+    {
+      "text": "financiera subsidio alimentaci6",
+      "relevance": 0.508532,
+      "count": 1
+    },
+    {
+      "text": "valor servicio",
+      "relevance": 0.50183,
+      "count": 1
+    },
+    {
+      "text": "prioridad universidad",
+      "relevance": 0.499437,
+      "count": 1
+    },
+    {
+      "text": "viabilidad financiera",
+      "relevance": 0.498866,
+      "count": 1
+    },
+    {
+      "text": "formacion integral centrada",
+      "relevance": 0.498616,
+      "count": 1
+    },
+    {
+      "text": "manera universidad",
+      "relevance": 0.495759,
+      "count": 1
+    },
+    {
+      "text": "valle traves",
+      "relevance": 0.493825,
+      "count": 1
+    },
+    {
+      "text": "calidad vida",
+      "relevance": 0.491826,
+      "count": 1
+    }
+  ]
+}
