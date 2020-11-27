@@ -3,6 +3,8 @@ import os
 import csv
 import re
 
+# este se ejecuta segundo
+
 entries = os.scandir('/Users/Mateo/Documents/OCR/corpus')
 
 #datos = [["nombre","texto"]]
