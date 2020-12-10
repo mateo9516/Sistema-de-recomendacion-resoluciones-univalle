@@ -3,7 +3,9 @@ import sys
 import json
 import nltk
 from gensim.models import Word2Vec
+from gensim.models import FastText
 from nltk.tokenize.toktok import ToktokTokenizer
+from nltk.tokenize import sent_tokenize
 import nltk.data
 import csv
 import tempfile
@@ -20,7 +22,7 @@ from IPython import get_ipython
 
 #Este se ejecuta de quuinto
 
-
+toktok = ToktokTokenizer()
 
 #entries = os.scandir('./jsons') #escaneo la carpeta con los jsons
 entries =  os.scandir('./corpus')
@@ -64,9 +66,16 @@ with open('./normal.csv', 'rt',encoding="utf8") as f:
             #nube += palabras['keywords'][i]['text']+" "
     #nube += palabras+" "
 
-all_sentences = tokenizer.tokenize(nube) # tokenize todo el texto nube, se debe hacer este paso primero sino separa por letras... Aqui saco "oraciones"
-all_words = [nltk.word_tokenize(sent) for sent in all_sentences] # con esto separo todas las palabras de las supuestas oraciones
-model = Word2Vec(all_words, size=300, window = 6, min_count=3, workers=3) # este es el modelo del word2vec
+#all_sentences = tokenizer.tokenize(nube) # tokenize todo el texto nube, se debe hacer este paso primero sino separa por letras... Aqui saco "oraciones"
+#all_words = [nltk.word_tokenize(sent) for sent in all_sentences]
+sent = toktok.tokenize(nube)
+#print(sent)
+all_sentences=nube
+all_words = [toktok.tokenize(sent) for sent in sent_tokenize(all_sentences, language='spanish')]
+#rint(all_words[0])
+ # con esto separo todas las palabras de las supuestas oraciones
+#model = Word2Vec(all_words, size=300, window = 6, min_count=3, workers=3) # este es el modelo del word2vec
+model = FastText(all_sentences ,size=200, window = 6, min_count=3, workers=3)
 
 #vocabulario = word2vec.wv.vocab
 
