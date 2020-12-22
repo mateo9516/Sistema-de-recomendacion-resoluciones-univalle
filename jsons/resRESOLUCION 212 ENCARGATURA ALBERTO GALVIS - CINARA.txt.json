@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 963,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.722354,
+      "count": 1
+    },
+    {
+      "text": "Director del INSTITUTO CINARA",
+      "relevance": 0.685589,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.644713,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.603223,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.529429,
+      "count": 1
+    },
+    {
+      "text": "mes de Mayo",
+      "relevance": 0.513354,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.479417,
+      "count": 2
+    },
+    {
+      "text": "Profesor ALBERTO GALVIS CASTANO",
+      "relevance": 0.471795,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.459955,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.454413,
+      "count": 1
+    },
+    {
+      "text": "Ns",
+      "relevance": 0.449563,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.4452,
+      "count": 1
+    },
+    {
+      "text": "Veinticoho",
+      "relevance": 0.445032,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.444557,
+      "count": 1
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.443963,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.438377,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.438377,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.438377,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.438377,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1084,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.760418,
+      "count": 2
+    },
+    {
+      "text": "Ensayos de laboratorios",
+      "relevance": 0.567142,
+      "count": 1
+    },
+    {
+      "text": "COMISION DE SERVICIOS",
+      "relevance": 0.556036,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.544352,
+      "count": 1
+    },
+    {
+      "text": "marco del Convenio",
+      "relevance": 0.520929,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.520637,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.520502,
+      "count": 1
+    },
+    {
+      "text": "Aeronautica Civil",
+      "relevance": 0.515479,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.513373,
+      "count": 2
+    },
+    {
+      "text": "Aeropuerto de la Ciudad",
+      "relevance": 0.513146,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.488472,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.486928,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.476867,
+      "count": 1
+    },
+    {
+      "text": "CARLOS A. MANRIQUE LONDONO",
+      "relevance": 0.474209,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.473184,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.471614,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.46864,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.466067,
+      "count": 1
+    },
+    {
+      "text": "Providencia",
+      "relevance": 0.462875,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n",
+      "relevance": 0.459758,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.459447,
+      "count": 1
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.455909,
+      "count": 1
+    },
+    {
+      "text": "COMISION DE SERVICIOS A",
+      "relevance": 0.455603,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.455392,
+      "count": 1
+    },
+    {
+      "text": "Julio",
+      "relevance": 0.447326,
+      "count": 2
+    }
+  ]
+}

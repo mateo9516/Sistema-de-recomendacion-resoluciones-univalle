@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3545,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "gobiernos locales",
+      "relevance": 0.62377,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.611616,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.597802,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.597663,
+      "count": 5
+    },
+    {
+      "text": "Programa Acad\u00e9mico TECNOLOG",
+      "relevance": 0.593552,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.592451,
+      "count": 2
+    },
+    {
+      "text": "cambio de la periodicidad de la admision",
+      "relevance": 0.585575,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.578031,
+      "count": 1
+    },
+    {
+      "text": "Tecnoldgica del Norte del Valle",
+      "relevance": 0.5725,
+      "count": 1
+    },
+    {
+      "text": "ciudad de Cali-Valle",
+      "relevance": 0.57167,
+      "count": 1
+    },
+    {
+      "text": "sectores productivos",
+      "relevance": 0.562247,
+      "count": 1
+    },
+    {
+      "text": "uso de atribuciones legales",
+      "relevance": 0.559292,
+      "count": 1
+    },
+    {
+      "text": "desarrollo regional",
+      "relevance": 0.542147,
+      "count": 1
+    },
+    {
+      "text": "pleno desarrollo",
+      "relevance": 0.541594,
+      "count": 1
+    },
+    {
+      "text": "sectores estrat\u00e9gicos",
+      "relevance": 0.539896,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.539828,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico TECNOLOGIA AGROAMBIENTAL",
+      "relevance": 0.535247,
+      "count": 4
+    },
+    {
+      "text": "ofrecimiento continuado",
+      "relevance": 0.53489,
+      "count": 1
+    },
+    {
+      "text": "organizaciones sociales",
+      "relevance": 0.531679,
+      "count": 1
+    },
+    {
+      "text": "jornada diurna",
+      "relevance": 0.531631,
+      "count": 1
+    },
+    {
+      "text": "admision semestral",
+      "relevance": 0.530495,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacidn Nacional",
+      "relevance": 0.528922,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de septiembre",
+      "relevance": 0.528759,
+      "count": 1
+    },
+    {
+      "text": "Consejo de la Facultad de Ingenieria",
+      "relevance": 0.517585,
+      "count": 1
+    },
+    {
+      "text": "metodologia presencial",
+      "relevance": 0.515747,
+      "count": 2
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.515443,
+      "count": 1
+    },
+    {
+      "text": "solicitud de renovacion del registro",
+      "relevance": 0.514472,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.506073,
+      "count": 2
+    },
+    {
+      "text": "siguiente forma",
+      "relevance": 0.502796,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la cooperacion",
+      "relevance": 0.500166,
+      "count": 1
+    }
+  ]
+}

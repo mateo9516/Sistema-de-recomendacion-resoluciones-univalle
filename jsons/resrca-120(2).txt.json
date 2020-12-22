@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 14912,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.623985,
+      "count": 1
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.581456,
+      "count": 1
+    },
+    {
+      "text": "especificidades de las diferentes Facultades",
+      "relevance": 0.577173,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.569855,
+      "count": 2
+    },
+    {
+      "text": "Comision de Seleccion de la Universidad",
+      "relevance": 0.567174,
+      "count": 2
+    },
+    {
+      "text": "requisitos exigidos",
+      "relevance": 0.557564,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.556384,
+      "count": 3
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.556078,
+      "count": 11
+    },
+    {
+      "text": "evaluacion de los aspirantes",
+      "relevance": 0.552912,
+      "count": 2
+    },
+    {
+      "text": "numero de autores de la publicacion",
+      "relevance": 0.548696,
+      "count": 1
+    },
+    {
+      "text": "pruebas acad\u00e9micas",
+      "relevance": 0.54487,
+      "count": 4
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.543616,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.543246,
+      "count": 1
+    },
+    {
+      "text": "estudio de su Hoja",
+      "relevance": 0.542795,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de los candidatos",
+      "relevance": 0.542228,
+      "count": 1
+    },
+    {
+      "text": "Fotocopia de los titulos de pregrado",
+      "relevance": 0.541647,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.53908,
+      "count": 3
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.538587,
+      "count": 1
+    },
+    {
+      "text": "siguiente relacion",
+      "relevance": 0.534083,
+      "count": 2
+    },
+    {
+      "text": "Carta de presentacion",
+      "relevance": 0.533917,
+      "count": 1
+    },
+    {
+      "text": "caso de empate",
+      "relevance": 0.532879,
+      "count": 1
+    },
+    {
+      "text": "numero de horas semana",
+      "relevance": 0.5296,
+      "count": 1
+    },
+    {
+      "text": "Comision de Evaluacion de M\u00e9ritos",
+      "relevance": 0.528436,
+      "count": 4
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.527063,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.526804,
+      "count": 2
+    },
+    {
+      "text": "Hoja de vida",
+      "relevance": 0.52596,
+      "count": 3
+    },
+    {
+      "text": "CALIFICACION DE LA HOJA DE VIDA",
+      "relevance": 0.525705,
+      "count": 2
+    },
+    {
+      "text": "Ciencias del Lenguaje de la Universidad",
+      "relevance": 0.525522,
+      "count": 1
+    },
+    {
+      "text": "Investigacion posdoctoral de minimo",
+      "relevance": 0.524296,
+      "count": 1
+    },
+    {
+      "text": "respectivo Decano de Facultad",
+      "relevance": 0.523964,
+      "count": 1
+    }
+  ]
+}

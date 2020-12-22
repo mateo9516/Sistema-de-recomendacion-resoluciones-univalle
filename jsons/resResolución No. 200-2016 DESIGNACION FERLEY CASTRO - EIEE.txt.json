@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 843,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.684742,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.655146,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.614122,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.614122,
+      "count": 1
+    },
+    {
+      "text": "Director del Laboratorio de Metrologia",
+      "relevance": 0.602705,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de Mayo",
+      "relevance": 0.592621,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria El\u00e9ctrica",
+      "relevance": 0.589617,
+      "count": 1
+    },
+    {
+      "text": "siguiente designacion",
+      "relevance": 0.57856,
+      "count": 1
+    },
+    {
+      "text": "despacho de la Decanatura",
+      "relevance": 0.510975,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.489716,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.485502,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria El\u00e9ctrica",
+      "relevance": 0.469501,
+      "count": 1
+    },
+    {
+      "text": "Profesor Ferley Castro Aranda",
+      "relevance": 0.445456,
+      "count": 1
+    },
+    {
+      "text": "Valle",
+      "relevance": 0.438556,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.403063,
+      "count": 3
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.401972,
+      "count": 1
+    },
+    {
+      "text": "Escuela",
+      "relevance": 0.391106,
+      "count": 1
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.389207,
+      "count": 2
+    },
+    {
+      "text": "Electronica",
+      "relevance": 0.383059,
+      "count": 2
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.383059,
+      "count": 1
+    }
+  ]
+}

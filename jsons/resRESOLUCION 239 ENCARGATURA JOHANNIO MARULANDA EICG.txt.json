@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 969,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.682969,
+      "count": 1
+    },
+    {
+      "text": "literal fA del Articulo",
+      "relevance": 0.624571,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n dela Escuela",
+      "relevance": 0.607479,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.599841,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.591274,
+      "count": 1
+    },
+    {
+      "text": "Ja Rectoria",
+      "relevance": 0.522626,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.519074,
+      "count": 1
+    },
+    {
+      "text": "mes de Junio",
+      "relevance": 0.498852,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica del profesor Alejandro Cruz Escobar",
+      "relevance": 0.477161,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.470745,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.461529,
+      "count": 1
+    },
+    {
+      "text": "Profesor JOHANNIO MARULANDA C.",
+      "relevance": 0.4604,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.446642,
+      "count": 1
+    },
+    {
+      "text": "Geomatica",
+      "relevance": 0.4417,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.435905,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.434783,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.4312,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.4312,
+      "count": 1
+    },
+    {
+      "text": "Urals",
+      "relevance": 0.4312,
+      "count": 1
+    }
+  ]
+}

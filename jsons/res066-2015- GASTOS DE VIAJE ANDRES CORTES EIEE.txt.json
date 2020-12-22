@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1414,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "GASTOS DE TRANAPORTE",
+      "relevance": 0.630005,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE VIAJE",
+      "relevance": 0.623393,
+      "count": 2
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.620617,
+      "count": 1
+    },
+    {
+      "text": "CARLOS AR",
+      "relevance": 0.602651,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.580047,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.560654,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.550812,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE",
+      "relevance": 0.549189,
+      "count": 1
+    },
+    {
+      "text": "Gastos de Transporte",
+      "relevance": 0.546777,
+      "count": 2
+    },
+    {
+      "text": "Ingenierfa El\u00e9ctrica",
+      "relevance": 0.544451,
+      "count": 1
+    },
+    {
+      "text": "ruta Cali",
+      "relevance": 0.537762,
+      "count": 1
+    },
+    {
+      "text": "fondos del Doctorado",
+      "relevance": 0.534566,
+      "count": 1
+    },
+    {
+      "text": "literal fi",
+      "relevance": 0.515928,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria El\u00e9ctrica",
+      "relevance": 0.505345,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.50422,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.500352,
+      "count": 1
+    },
+    {
+      "text": "CAMILO ANDRES CORTES GUERRERO",
+      "relevance": 0.498884,
+      "count": 2
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.497682,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.492985,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.491006,
+      "count": 1
+    },
+    {
+      "text": "jurado evaluador de Ja tesis doctoral",
+      "relevance": 0.484892,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.483675,
+      "count": 1
+    },
+    {
+      "text": "CAMILO ANDRES CORTES GUERRERO Gastos",
+      "relevance": 0.477204,
+      "count": 1
+    },
+    {
+      "text": "Viaje",
+      "relevance": 0.472013,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.472001,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria",
+      "relevance": 0.471853,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.471774,
+      "count": 1
+    },
+    {
+      "text": "Doctorado",
+      "relevance": 0.470147,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.469203,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.468846,
+      "count": 1
+    }
+  ]
+}

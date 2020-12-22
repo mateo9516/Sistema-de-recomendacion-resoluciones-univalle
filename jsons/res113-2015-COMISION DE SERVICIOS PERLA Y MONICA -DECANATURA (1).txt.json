@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1208,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.871368,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.77081,
+      "count": 1
+    },
+    {
+      "text": "Sede Regional",
+      "relevance": 0.657589,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.626183,
+      "count": 1
+    },
+    {
+      "text": "COMISION DE SERVICIOS",
+      "relevance": 0.540571,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.499818,
+      "count": 2
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.476115,
+      "count": 2
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.470976,
+      "count": 2
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.466843,
+      "count": 1
+    },
+    {
+      "text": "Coordinadora Area Administrativa Facultad",
+      "relevance": 0.466338,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.463763,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.45567,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.451366,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.451181,
+      "count": 1
+    },
+    {
+      "text": "Coordinadora Area Acad\u00e9mica Facultad",
+      "relevance": 0.445525,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.445453,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n",
+      "relevance": 0.442115,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.439043,
+      "count": 1
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.437501,
+      "count": 1
+    },
+    {
+      "text": "COMISION DE SERVICIOS A",
+      "relevance": 0.434482,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.433301,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.427927,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria",
+      "relevance": 0.426555,
+      "count": 1
+    },
+    {
+      "text": "Abril",
+      "relevance": 0.42582,
+      "count": 2
+    }
+  ]
+}

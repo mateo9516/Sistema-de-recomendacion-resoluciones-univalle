@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4160,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Tecnologia Quimica",
+      "relevance": 0.640715,
+      "count": 2
+    },
+    {
+      "text": "Estudios Politicos",
+      "relevance": 0.640368,
+      "count": 1
+    },
+    {
+      "text": "siguiente Oferta Acad\u00e9mica",
+      "relevance": 0.639832,
+      "count": 1
+    },
+    {
+      "text": "Cupos Facultad",
+      "relevance": 0.627595,
+      "count": 2
+    },
+    {
+      "text": "FACULTAD DE HUMANIDADES",
+      "relevance": 0.612819,
+      "count": 1
+    },
+    {
+      "text": "Resolucion de Conflictos",
+      "relevance": 0.598523,
+      "count": 1
+    },
+    {
+      "text": "Cupos Instituto de Educaci\u00e9n",
+      "relevance": 0.598225,
+      "count": 1
+    },
+    {
+      "text": "CIENCIAS NATURALES",
+      "relevance": 0.59493,
+      "count": 2
+    },
+    {
+      "text": "TOTAL CUPOS",
+      "relevance": 0.592495,
+      "count": 1
+    },
+    {
+      "text": "OFERTA de PROGRAMAS ACADEMICOS",
+      "relevance": 0.583452,
+      "count": 1
+    },
+    {
+      "text": "CUPOS",
+      "relevance": 0.57014,
+      "count": 2
+    },
+    {
+      "text": "Ingenieria Topografica",
+      "relevance": 0.567623,
+      "count": 1
+    },
+    {
+      "text": "Educaci\u00e9n Basica",
+      "relevance": 0.56727,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.556293,
+      "count": 2
+    },
+    {
+      "text": "Cupos Facultad de Ciencias Naturales",
+      "relevance": 0.551424,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.550236,
+      "count": 3
+    },
+    {
+      "text": "requisitos generales",
+      "relevance": 0.543493,
+      "count": 1
+    },
+    {
+      "text": "Terapia Ocupacional",
+      "relevance": 0.543467,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Materiales",
+      "relevance": 0.534892,
+      "count": 1
+    },
+    {
+      "text": "CIENCIAS SOCIALES",
+      "relevance": 0.533247,
+      "count": 2
+    },
+    {
+      "text": "periodo Acad\u00e9mico Febrero",
+      "relevance": 0.532987,
+      "count": 1
+    },
+    {
+      "text": "proceso de Admision",
+      "relevance": 0.527451,
+      "count": 1
+    },
+    {
+      "text": "Educaci\u00e9n Basica \u00e9nfasis",
+      "relevance": 0.519649,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.518438,
+      "count": 1
+    },
+    {
+      "text": "Licenciatura",
+      "relevance": 0.517423,
+      "count": 9
+    },
+    {
+      "text": "Ingenieria de Sistemas",
+      "relevance": 0.517092,
+      "count": 1
+    },
+    {
+      "text": "Diseno Industrial",
+      "relevance": 0.515175,
+      "count": 1
+    },
+    {
+      "text": "Lenguas Extranjeras Ingl\u00e9s",
+      "relevance": 0.514401,
+      "count": 2
+    },
+    {
+      "text": "Tecnologia Electronica",
+      "relevance": 0.513535,
+      "count": 1
+    },
+    {
+      "text": "Contaduria Publica",
+      "relevance": 0.510964,
+      "count": 1
+    }
+  ]
+}

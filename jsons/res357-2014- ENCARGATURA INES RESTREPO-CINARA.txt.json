@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 989,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.851159,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.646648,
+      "count": 1
+    },
+    {
+      "text": "Profesora INES RESTREPO",
+      "relevance": 0.639608,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.627425,
+      "count": 1
+    },
+    {
+      "text": "cl literal",
+      "relevance": 0.619326,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.550374,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.528017,
+      "count": 1
+    },
+    {
+      "text": "Directora del Instituto",
+      "relevance": 0.504831,
+      "count": 1
+    },
+    {
+      "text": "direcci6n",
+      "relevance": 0.4984,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.493442,
+      "count": 1
+    },
+    {
+      "text": "mes de Octubre",
+      "relevance": 0.47372,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.458918,
+      "count": 1
+    },
+    {
+      "text": "Profesor Miguel Ricardo Pena",
+      "relevance": 0.450838,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.444976,
+      "count": 1
+    },
+    {
+      "text": "Comisi\u00e96",
+      "relevance": 0.427946,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.427712,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.427201,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.420133,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.418576,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.418576,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.418576,
+      "count": 1
+    },
+    {
+      "text": "Acad\u00e9mica",
+      "relevance": 0.418576,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.418576,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.418576,
+      "count": 1
+    }
+  ]
+}

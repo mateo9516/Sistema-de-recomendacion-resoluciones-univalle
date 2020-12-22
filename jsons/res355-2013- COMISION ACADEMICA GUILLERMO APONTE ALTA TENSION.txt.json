@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1823,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.776089,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.70037,
+      "count": 2
+    },
+    {
+      "text": "anterior Comisi\u00e9n Acad\u00e9mica",
+      "relevance": 0.629546,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.611494,
+      "count": 2
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.600407,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 T\u00e9cnico",
+      "relevance": 0.589615,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.570369,
+      "count": 1
+    },
+    {
+      "text": "Grupo de Investigaci\u00e9n",
+      "relevance": 0.561865,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE VIATICOS",
+      "relevance": 0.559754,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.559122,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.554428,
+      "count": 3
+    },
+    {
+      "text": "Presentaci\u00e9n de la Iniciativa Cluster",
+      "relevance": 0.526961,
+      "count": 1
+    },
+    {
+      "text": "Secfctaria del Confejo de Facutt",
+      "relevance": 0.519905,
+      "count": 1
+    },
+    {
+      "text": "dia Martes",
+      "relevance": 0.50973,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.509493,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE A",
+      "relevance": 0.508122,
+      "count": 1
+    },
+    {
+      "text": "Alta Tensi\u00e9n",
+      "relevance": 0.495103,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA",
+      "relevance": 0.492966,
+      "count": 1
+    },
+    {
+      "text": "profesor GUILLERMO APONTE MAYOR",
+      "relevance": 0.477577,
+      "count": 2
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.47255,
+      "count": 2
+    },
+    {
+      "text": "Decano",
+      "relevance": 0.470242,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.468601,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.468574,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.466427,
+      "count": 1
+    },
+    {
+      "text": "Facultad",
+      "relevance": 0.462557,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.460545,
+      "count": 1
+    },
+    {
+      "text": "TERCERO",
+      "relevance": 0.460392,
+      "count": 1
+    },
+    {
+      "text": "Consejo",
+      "relevance": 0.458368,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.457084,
+      "count": 1
+    },
+    {
+      "text": "viaticos",
+      "relevance": 0.456742,
+      "count": 1
+    }
+  ]
+}

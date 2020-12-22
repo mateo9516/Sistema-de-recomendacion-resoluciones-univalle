@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 12694,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "titulo de Profesional",
+      "relevance": 0.600724,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.597689,
+      "count": 5
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.560513,
+      "count": 2
+    },
+    {
+      "text": "Asignaturas Cr\u00e9ditos",
+      "relevance": 0.557325,
+      "count": 1
+    },
+    {
+      "text": "ejercicio profesional",
+      "relevance": 0.544521,
+      "count": 1
+    },
+    {
+      "text": "ciclo basico",
+      "relevance": 0.54359,
+      "count": 2
+    },
+    {
+      "text": "desarrollo de capacidades de liderazgo",
+      "relevance": 0.539772,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.536857,
+      "count": 1
+    },
+    {
+      "text": "jornada nocturna",
+      "relevance": 0.536069,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.535329,
+      "count": 9
+    },
+    {
+      "text": "Politica Curricular",
+      "relevance": 0.534798,
+      "count": 1
+    },
+    {
+      "text": "implementacion de sistemas de informacion",
+      "relevance": 0.534634,
+      "count": 1
+    },
+    {
+      "text": "sordos comunitarios",
+      "relevance": 0.534098,
+      "count": 1
+    },
+    {
+      "text": "diversos procesos",
+      "relevance": 0.5313,
+      "count": 1
+    },
+    {
+      "text": "periodicidad de admision anual",
+      "relevance": 0.531129,
+      "count": 1
+    },
+    {
+      "text": "6n integral del estudiante",
+      "relevance": 0.530905,
+      "count": 1
+    },
+    {
+      "text": "asignaturas previo",
+      "relevance": 0.52968,
+      "count": 1
+    },
+    {
+      "text": "Departamento de Contabilidad",
+      "relevance": 0.527406,
+      "count": 1
+    },
+    {
+      "text": "ciclo profesional",
+      "relevance": 0.527269,
+      "count": 3
+    },
+    {
+      "text": "areas funcionales de Mercadeo",
+      "relevance": 0.526487,
+      "count": 1
+    },
+    {
+      "text": "fecha de su aprobacion",
+      "relevance": 0.525555,
+      "count": 1
+    },
+    {
+      "text": "lengua materna",
+      "relevance": 0.524751,
+      "count": 2
+    },
+    {
+      "text": "Objetivos del programa",
+      "relevance": 0.524427,
+      "count": 1
+    },
+    {
+      "text": "Administraci6n",
+      "relevance": 0.523993,
+      "count": 1
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.523775,
+      "count": 1
+    },
+    {
+      "text": "Finanzas de la Facultad de Ciencias",
+      "relevance": 0.523679,
+      "count": 1
+    },
+    {
+      "text": "procesos de las finanzas",
+      "relevance": 0.522645,
+      "count": 1
+    },
+    {
+      "text": "jornada diurna",
+      "relevance": 0.522014,
+      "count": 1
+    },
+    {
+      "text": "Banca",
+      "relevance": 0.52182,
+      "count": 13
+    },
+    {
+      "text": "regulacion de la informacion financiera",
+      "relevance": 0.521356,
+      "count": 1
+    }
+  ]
+}

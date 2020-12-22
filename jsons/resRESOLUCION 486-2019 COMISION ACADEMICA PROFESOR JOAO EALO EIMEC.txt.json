@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1801,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.642718,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.628685,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.615204,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE VIATICOS",
+      "relevance": 0.58098,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.580809,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.568362,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.555232,
+      "count": 2
+    },
+    {
+      "text": "VEINTISITE PESOS MCTE",
+      "relevance": 0.542586,
+      "count": 1
+    },
+    {
+      "text": "ruta Cali",
+      "relevance": 0.54252,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.540806,
+      "count": 3
+    },
+    {
+      "text": "Embajada de Reino Unido",
+      "relevance": 0.536969,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.532079,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA",
+      "relevance": 0.52472,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.511442,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.511224,
+      "count": 2
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.50743,
+      "count": 1
+    },
+    {
+      "text": "seradn cubiertos",
+      "relevance": 0.501663,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.496608,
+      "count": 1
+    },
+    {
+      "text": "creacion del Programa de Desarrollo Espacial",
+      "relevance": 0.491238,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.490588,
+      "count": 2
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.489246,
+      "count": 3
+    },
+    {
+      "text": "pr\u00e9ximo Consejo",
+      "relevance": 0.488997,
+      "count": 1
+    },
+    {
+      "text": "profesor JOAO LUIS EALO CUELLO",
+      "relevance": 0.487684,
+      "count": 2
+    },
+    {
+      "text": "fondos de la Escuela de Ingenieria Mecanica",
+      "relevance": 0.485006,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.484014,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.477688,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.470549,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.467932,
+      "count": 1
+    },
+    {
+      "text": "vidticos",
+      "relevance": 0.46653,
+      "count": 1
+    },
+    {
+      "text": "Solicitud",
+      "relevance": 0.465095,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5959,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.775787,
+      "count": 2
+    },
+    {
+      "text": "fechas de entrega de documentos",
+      "relevance": 0.716691,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.660587,
+      "count": 4
+    },
+    {
+      "text": "Inscripciones Ordinarias",
+      "relevance": 0.611183,
+      "count": 1
+    },
+    {
+      "text": "Examen M\u00e9dico",
+      "relevance": 0.60131,
+      "count": 1
+    },
+    {
+      "text": "Entrega de solicitudes",
+      "relevance": 0.5821,
+      "count": 3
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.566593,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.565889,
+      "count": 1
+    },
+    {
+      "text": "Proceso de Admision",
+      "relevance": 0.553611,
+      "count": 1
+    },
+    {
+      "text": "Primer Semestre",
+      "relevance": 0.55244,
+      "count": 2
+    },
+    {
+      "text": "periodo Enero",
+      "relevance": 0.551825,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.537933,
+      "count": 2
+    },
+    {
+      "text": "fechas de entrega",
+      "relevance": 0.530418,
+      "count": 1
+    },
+    {
+      "text": "Acad\u00e9mica estudiantes antiguos",
+      "relevance": 0.528823,
+      "count": 1
+    },
+    {
+      "text": "Examen de Proficiencia",
+      "relevance": 0.528182,
+      "count": 2
+    },
+    {
+      "text": "Ampliaci\u00e9n de matricula ordinaria",
+      "relevance": 0.526479,
+      "count": 1
+    },
+    {
+      "text": "Pruebas Adicionales",
+      "relevance": 0.523145,
+      "count": 1
+    },
+    {
+      "text": "Direccion de Registro",
+      "relevance": 0.522537,
+      "count": 2
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.522235,
+      "count": 1
+    },
+    {
+      "text": "Segundo Llamado",
+      "relevance": 0.521827,
+      "count": 1
+    },
+    {
+      "text": "Enero de 2003Entrega de calificaciones",
+      "relevance": 0.519997,
+      "count": 1
+    },
+    {
+      "text": "JunioEntrega de documentacion",
+      "relevance": 0.517782,
+      "count": 1
+    },
+    {
+      "text": "AgostoMatricula Financiera",
+      "relevance": 0.515206,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria de Bienestar",
+      "relevance": 0.511098,
+      "count": 1
+    },
+    {
+      "text": "Estudiantes de Primer Semestre",
+      "relevance": 0.51089,
+      "count": 1
+    },
+    {
+      "text": "Venta de formularios",
+      "relevance": 0.507567,
+      "count": 1
+    },
+    {
+      "text": "Segundo Ilamado adicional",
+      "relevance": 0.506732,
+      "count": 1
+    },
+    {
+      "text": "Iniciacion de clases",
+      "relevance": 0.506447,
+      "count": 1
+    },
+    {
+      "text": "Envio",
+      "relevance": 0.506096,
+      "count": 1
+    },
+    {
+      "text": "resultados de ICFES",
+      "relevance": 0.504728,
+      "count": 2
+    }
+  ]
+}

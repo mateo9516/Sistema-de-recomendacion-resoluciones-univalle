@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1076,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.746733,
+      "count": 2
+    },
+    {
+      "text": "Universidad s",
+      "relevance": 0.670977,
+      "count": 1
+    },
+    {
+      "text": "Fundaci\u00e9n Universidad del Valle",
+      "relevance": 0.594765,
+      "count": 1
+    },
+    {
+      "text": "COMISION DE SERVICIOS",
+      "relevance": 0.551124,
+      "count": 1
+    },
+    {
+      "text": "ensayos de campo",
+      "relevance": 0.528152,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.511925,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.511872,
+      "count": 1
+    },
+    {
+      "text": "Aeronautica Civil",
+      "relevance": 0.511844,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.505005,
+      "count": 2
+    },
+    {
+      "text": "CARLOS A. MANRIQUE LONDONO",
+      "relevance": 0.495562,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.485717,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.474496,
+      "count": 1
+    },
+    {
+      "text": "Aeropuerto de la Isla de San Andr\u00e9s",
+      "relevance": 0.47082,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.46985,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.468638,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.464053,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.462316,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n",
+      "relevance": 0.457629,
+      "count": 1
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.453965,
+      "count": 1
+    },
+    {
+      "text": "COMISION DE SERVICIOS A",
+      "relevance": 0.453937,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.453733,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.452047,
+      "count": 1
+    },
+    {
+      "text": "Abril",
+      "relevance": 0.445935,
+      "count": 2
+    },
+    {
+      "text": "laboratorio",
+      "relevance": 0.445935,
+      "count": 1
+    },
+    {
+      "text": "Convenio",
+      "relevance": 0.445935,
+      "count": 1
+    }
+  ]
+}

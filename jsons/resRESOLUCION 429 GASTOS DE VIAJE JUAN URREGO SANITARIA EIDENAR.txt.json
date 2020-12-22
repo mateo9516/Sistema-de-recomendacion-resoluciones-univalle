@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1342,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "conferencia Introducci\u00e9dn",
+      "relevance": 0.578308,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.573744,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.56905,
+      "count": 1
+    },
+    {
+      "text": "Aplicaci\u00e9n de Modelo Hec HMS",
+      "relevance": 0.561023,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.555913,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.525142,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.520959,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.511402,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.50754,
+      "count": 1
+    },
+    {
+      "text": "Maestria",
+      "relevance": 0.505582,
+      "count": 2
+    },
+    {
+      "text": "JUAN PABLO URREGO gastos",
+      "relevance": 0.50373,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.503552,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.500776,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.497583,
+      "count": 1
+    },
+    {
+      "text": "PAGO GASTOS DE VIAJE A",
+      "relevance": 0.494322,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.494274,
+      "count": 1
+    },
+    {
+      "text": "profesor",
+      "relevance": 0.494225,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.49355,
+      "count": 1
+    },
+    {
+      "text": "Gesti\u00e9n Integrada de los Recursos",
+      "relevance": 0.491378,
+      "count": 1
+    },
+    {
+      "text": "Profesor JUAN PABLO URREGO",
+      "relevance": 0.491262,
+      "count": 1
+    },
+    {
+      "text": "Modelaci\u00e9n",
+      "relevance": 0.48693,
+      "count": 2
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.484814,
+      "count": 1
+    },
+    {
+      "text": "Gestidn Integrada de los Recursos Hidricos",
+      "relevance": 0.484095,
+      "count": 1
+    },
+    {
+      "text": "Fecha",
+      "relevance": 0.482206,
+      "count": 1
+    },
+    {
+      "text": "Decano",
+      "relevance": 0.481765,
+      "count": 1
+    },
+    {
+      "text": "pago de los gastos de viaje",
+      "relevance": 0.481679,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.480252,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.478584,
+      "count": 1
+    },
+    {
+      "text": "Viaje",
+      "relevance": 0.476569,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.474965,
+      "count": 2
+    }
+  ]
+}

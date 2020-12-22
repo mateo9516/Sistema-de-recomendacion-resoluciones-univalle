@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2988,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Proceso de Matricula",
+      "relevance": 0.73076,
+      "count": 3
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.712217,
+      "count": 1
+    },
+    {
+      "text": "Desarrollo del periodo Febrero",
+      "relevance": 0.704757,
+      "count": 1
+    },
+    {
+      "text": "programas Acad\u00e9micos",
+      "relevance": 0.633473,
+      "count": 1
+    },
+    {
+      "text": "Admisiones de los admitidos",
+      "relevance": 0.590108,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.587498,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.575013,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.571673,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.559047,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.558407,
+      "count": 1
+    },
+    {
+      "text": "Reporte de Calificaciones de Validaciones",
+      "relevance": 0.557116,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.538396,
+      "count": 1
+    },
+    {
+      "text": "periodo Febrero",
+      "relevance": 0.536394,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.527003,
+      "count": 1
+    },
+    {
+      "text": "Matricula Acad\u00e9mica",
+      "relevance": 0.516304,
+      "count": 1
+    },
+    {
+      "text": "Secretarias Acad\u00e9micas",
+      "relevance": 0.515968,
+      "count": 1
+    },
+    {
+      "text": "Area de Admisiones",
+      "relevance": 0.515541,
+      "count": 1
+    },
+    {
+      "text": "Reserva de Cupo",
+      "relevance": 0.512312,
+      "count": 1
+    },
+    {
+      "text": "Iniciacion de Clases",
+      "relevance": 0.511684,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n de Regionalizaci\u00e9n",
+      "relevance": 0.511684,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Noviembre",
+      "relevance": 0.509649,
+      "count": 1
+    },
+    {
+      "text": "ADMITIDOS A PRIMER SEMESTRE",
+      "relevance": 0.503182,
+      "count": 1
+    },
+    {
+      "text": "Segundo Llamado",
+      "relevance": 0.503129,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci6n de Semestre",
+      "relevance": 0.502952,
+      "count": 1
+    },
+    {
+      "text": "Estudiantes Antiguos",
+      "relevance": 0.49742,
+      "count": 2
+    },
+    {
+      "text": "Cancelacion de Asignaturas",
+      "relevance": 0.49742,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de reserva",
+      "relevance": 0.494567,
+      "count": 1
+    },
+    {
+      "text": "Cambios de Sede",
+      "relevance": 0.488298,
+      "count": 2
+    },
+    {
+      "text": "reservas de cupo",
+      "relevance": 0.480498,
+      "count": 1
+    },
+    {
+      "text": "calificaciones de asignaturas",
+      "relevance": 0.478338,
+      "count": 1
+    }
+  ]
+}

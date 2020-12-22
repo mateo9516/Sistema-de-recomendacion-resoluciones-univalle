@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7067,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Envio de la Informacion",
+      "relevance": 0.680801,
+      "count": 1
+    },
+    {
+      "text": "Recepcion de los documentos",
+      "relevance": 0.672384,
+      "count": 2
+    },
+    {
+      "text": "Documentos soporte",
+      "relevance": 0.658719,
+      "count": 1
+    },
+    {
+      "text": "Entrega de contrasefas",
+      "relevance": 0.59623,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.587057,
+      "count": 5
+    },
+    {
+      "text": "Recibos de Pago",
+      "relevance": 0.577501,
+      "count": 4
+    },
+    {
+      "text": "Envio de solicitudes",
+      "relevance": 0.576515,
+      "count": 1
+    },
+    {
+      "text": "web de Ia informacion",
+      "relevance": 0.575076,
+      "count": 1
+    },
+    {
+      "text": "Ia red de la informacion",
+      "relevance": 0.572768,
+      "count": 1
+    },
+    {
+      "text": "solicitud via",
+      "relevance": 0.571252,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.566071,
+      "count": 1
+    },
+    {
+      "text": "aspirantes de otras Instituciones",
+      "relevance": 0.561772,
+      "count": 1
+    },
+    {
+      "text": "Primer Semestre",
+      "relevance": 0.559275,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.556406,
+      "count": 1
+    },
+    {
+      "text": "Cambios de Sede",
+      "relevance": 0.554665,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.55053,
+      "count": 2
+    },
+    {
+      "text": "parte de las Secretarias Acad\u00e9micas",
+      "relevance": 0.547654,
+      "count": 1
+    },
+    {
+      "text": "Pruebas Adicionales",
+      "relevance": 0.547209,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.5406,
+      "count": 5
+    },
+    {
+      "text": "Sede Regional",
+      "relevance": 0.537089,
+      "count": 3
+    },
+    {
+      "text": "cumplimiento de los requisitos",
+      "relevance": 0.535682,
+      "count": 1
+    },
+    {
+      "text": "calificaciones de las Pruebas",
+      "relevance": 0.533975,
+      "count": 1
+    },
+    {
+      "text": "entrega de claves",
+      "relevance": 0.532109,
+      "count": 1
+    },
+    {
+      "text": "requisitos exigidos",
+      "relevance": 0.529563,
+      "count": 1
+    },
+    {
+      "text": "Periodo Agosto",
+      "relevance": 0.524693,
+      "count": 2
+    },
+    {
+      "text": "Solicitudes via Web",
+      "relevance": 0.522143,
+      "count": 1
+    },
+    {
+      "text": "revision de documentos",
+      "relevance": 0.522059,
+      "count": 2
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.521906,
+      "count": 1
+    },
+    {
+      "text": "Recibos de Pago del segundo",
+      "relevance": 0.521617,
+      "count": 1
+    },
+    {
+      "text": "Solicitudes de Reserva de Cupo via",
+      "relevance": 0.518944,
+      "count": 1
+    }
+  ]
+}

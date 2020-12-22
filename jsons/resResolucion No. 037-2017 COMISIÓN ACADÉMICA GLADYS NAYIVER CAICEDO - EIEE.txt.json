@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1223,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.739724,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.706509,
+      "count": 2
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.615925,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.58702,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.577752,
+      "count": 1
+    },
+    {
+      "text": "Seminario de Protecciones El\u00e9ctricas",
+      "relevance": 0.573324,
+      "count": 1
+    },
+    {
+      "text": "Universidad Nacional",
+      "relevance": 0.561826,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.550854,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.54041,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.532155,
+      "count": 1
+    },
+    {
+      "text": "dia martes",
+      "relevance": 0.512213,
+      "count": 1
+    },
+    {
+      "text": "calidad de conferencista",
+      "relevance": 0.498638,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.495925,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA A",
+      "relevance": 0.487725,
+      "count": 1
+    },
+    {
+      "text": "Profesora GLADYS NAYIVER CAICEDO",
+      "relevance": 0.46446,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.449535,
+      "count": 1
+    },
+    {
+      "text": "TERCERO",
+      "relevance": 0.448871,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.44627,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.44224,
+      "count": 1
+    },
+    {
+      "text": "viaticos",
+      "relevance": 0.441501,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.43777,
+      "count": 1
+    },
+    {
+      "text": "Facultad",
+      "relevance": 0.436458,
+      "count": 1
+    },
+    {
+      "text": "cubiertos",
+      "relevance": 0.432524,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.431479,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.429359,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.429072,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.429072,
+      "count": 1
+    },
+    {
+      "text": "Marzo",
+      "relevance": 0.429072,
+      "count": 2
+    }
+  ]
+}

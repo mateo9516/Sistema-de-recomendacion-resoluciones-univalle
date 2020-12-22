@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 960,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.697566,
+      "count": 1
+    },
+    {
+      "text": "literal f del Articulo",
+      "relevance": 0.636153,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.607179,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.600694,
+      "count": 1
+    },
+    {
+      "text": "RO LOZANO MONCADA",
+      "relevance": 0.583217,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.523299,
+      "count": 1
+    },
+    {
+      "text": "mes de Enero",
+      "relevance": 0.505297,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela de Ingenieria Civil",
+      "relevance": 0.47947,
+      "count": 1
+    },
+    {
+      "text": "Profesor JOHANNIO MARULANDA CASAS",
+      "relevance": 0.479027,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.471312,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.462816,
+      "count": 2
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.461397,
+      "count": 1
+    },
+    {
+      "text": "Profesor Alejandro Cruz Escobar",
+      "relevance": 0.461023,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.445387,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.434718,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.434568,
+      "count": 1
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.42879,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.42879,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.42879,
+      "count": 1
+    }
+  ]
+}

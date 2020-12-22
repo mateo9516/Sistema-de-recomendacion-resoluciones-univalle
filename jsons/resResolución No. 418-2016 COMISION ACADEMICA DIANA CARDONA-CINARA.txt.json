@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1932,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.671437,
+      "count": 2
+    },
+    {
+      "text": "literal f del Articulo",
+      "relevance": 0.646064,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.627835,
+      "count": 3
+    },
+    {
+      "text": "PAGO DE VIATICOS",
+      "relevance": 0.611383,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.608236,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.567283,
+      "count": 1
+    },
+    {
+      "text": "fondos del Convenio",
+      "relevance": 0.565729,
+      "count": 1
+    },
+    {
+      "text": "aspectos administrativos",
+      "relevance": 0.565356,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.526404,
+      "count": 2
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.526404,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA",
+      "relevance": 0.518519,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.509391,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9cnicos del convenio",
+      "relevance": 0.508341,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.50246,
+      "count": 2
+    },
+    {
+      "text": "Decanatura No",
+      "relevance": 0.501995,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.498455,
+      "count": 1
+    },
+    {
+      "text": "Autonoma Regional de Risaralda",
+      "relevance": 0.48952,
+      "count": 1
+    },
+    {
+      "text": "reunion del Comit\u00e9 T\u00e9cnico del Convenio",
+      "relevance": 0.487195,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.481969,
+      "count": 1
+    },
+    {
+      "text": "profesora DIANA AMPARO CARDONA ZEA",
+      "relevance": 0.481505,
+      "count": 2
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.480644,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.475202,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.475055,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE A",
+      "relevance": 0.474997,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.473168,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.469595,
+      "count": 1
+    },
+    {
+      "text": "VIATICOS",
+      "relevance": 0.465498,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.464813,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.464226,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.463765,
+      "count": 1
+    }
+  ]
+}

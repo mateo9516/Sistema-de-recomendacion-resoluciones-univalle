@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2256,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.809937,
+      "count": 5
+    },
+    {
+      "text": "Ss Que",
+      "relevance": 0.63535,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.626533,
+      "count": 3
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.601073,
+      "count": 1
+    },
+    {
+      "text": "Medicina de la Facultad de Salud",
+      "relevance": 0.593107,
+      "count": 1
+    },
+    {
+      "text": "reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.584049,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.58145,
+      "count": 5
+    },
+    {
+      "text": "titulo acad\u00e9mico",
+      "relevance": 0.566326,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios conducente",
+      "relevance": 0.564782,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.553132,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.543632,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.542046,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.539781,
+      "count": 1
+    },
+    {
+      "text": "periodicidad de admisiones anual",
+      "relevance": 0.533895,
+      "count": 1
+    },
+    {
+      "text": "solicitud de Registro Calificado",
+      "relevance": 0.510555,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.509259,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.500895,
+      "count": 5
+    },
+    {
+      "text": "programas de acuerdo",
+      "relevance": 0.497099,
+      "count": 1
+    },
+    {
+      "text": "dias de febrero",
+      "relevance": 0.491335,
+      "count": 1
+    },
+    {
+      "text": "fecha de expedicion",
+      "relevance": 0.490761,
+      "count": 1
+    },
+    {
+      "text": "sede Mel\u00e9ndez",
+      "relevance": 0.490761,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.479143,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.476736,
+      "count": 2
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.47163,
+      "count": 2
+    },
+    {
+      "text": "modalidad presencial de tiempo completo",
+      "relevance": 0.471539,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.467566,
+      "count": 1
+    },
+    {
+      "text": "CARDIOLOGIA",
+      "relevance": 0.466847,
+      "count": 5
+    },
+    {
+      "text": "ESPECIALISTA",
+      "relevance": 0.462732,
+      "count": 2
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.459227,
+      "count": 1
+    },
+    {
+      "text": "ESPECIALIZACION",
+      "relevance": 0.454443,
+      "count": 3
+    }
+  ]
+}

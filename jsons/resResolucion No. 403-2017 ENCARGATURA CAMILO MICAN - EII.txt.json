@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 969,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.730754,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.645297,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.607475,
+      "count": 1
+    },
+    {
+      "text": "comision acad\u00e9mica",
+      "relevance": 0.580981,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.580189,
+      "count": 1
+    },
+    {
+      "text": "TURO LOZANO MONCADA",
+      "relevance": 0.566968,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.536353,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.508477,
+      "count": 1
+    },
+    {
+      "text": "mes de Octubre",
+      "relevance": 0.485808,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela de Ingenieria Industrial",
+      "relevance": 0.47308,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.46877,
+      "count": 1
+    },
+    {
+      "text": "Profesor CAMILO ANDRES MICAN RINCON",
+      "relevance": 0.455064,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.443135,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.436438,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.433565,
+      "count": 1
+    },
+    {
+      "text": "Dieicisiete",
+      "relevance": 0.427178,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.422309,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.422309,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.422309,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.422309,
+      "count": 1
+    }
+  ]
+}

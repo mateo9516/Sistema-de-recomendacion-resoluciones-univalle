@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1640,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.741713,
+      "count": 1
+    },
+    {
+      "text": "Tiquete A\u00e9reo",
+      "relevance": 0.70308,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.60981,
+      "count": 1
+    },
+    {
+      "text": "Tesis Doctoral del estudiante",
+      "relevance": 0.608412,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE VIAJE",
+      "relevance": 0.587576,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.561171,
+      "count": 1
+    },
+    {
+      "text": "Universidad Nacional",
+      "relevance": 0.552324,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE",
+      "relevance": 0.550969,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.535635,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.534345,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.525885,
+      "count": 2
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.517476,
+      "count": 1
+    },
+    {
+      "text": "Area de Enfasis",
+      "relevance": 0.507757,
+      "count": 1
+    },
+    {
+      "text": "Profesor Departamento de Quimica",
+      "relevance": 0.502843,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.493803,
+      "count": 2
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.493275,
+      "count": 1
+    },
+    {
+      "text": "profesor FABIAN PARADA ALFONSO",
+      "relevance": 0.484918,
+      "count": 2
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.483494,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.482981,
+      "count": 3
+    },
+    {
+      "text": "direcci\u00e9dn de la profesora Aida",
+      "relevance": 0.481564,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Alimentos del estudiante",
+      "relevance": 0.476435,
+      "count": 1
+    },
+    {
+      "text": "Vallejo",
+      "relevance": 0.475792,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.475557,
+      "count": 1
+    },
+    {
+      "text": "Gastos de Transporte porunvalor",
+      "relevance": 0.475308,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.474396,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.473641,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.473623,
+      "count": 1
+    },
+    {
+      "text": "ruta Bogota-Cali-Bogota",
+      "relevance": 0.472507,
+      "count": 1
+    },
+    {
+      "text": "TERCERO",
+      "relevance": 0.470918,
+      "count": 1
+    },
+    {
+      "text": "recursos de la Escuela de Ingenieria",
+      "relevance": 0.470917,
+      "count": 1
+    }
+  ]
+}

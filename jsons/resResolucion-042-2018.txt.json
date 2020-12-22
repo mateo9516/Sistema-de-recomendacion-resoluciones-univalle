@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7053,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "derechos humanos",
+      "relevance": 0.729509,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.622816,
+      "count": 5
+    },
+    {
+      "text": "literal g",
+      "relevance": 0.59415,
+      "count": 1
+    },
+    {
+      "text": "Programa de Educacion",
+      "relevance": 0.59317,
+      "count": 1
+    },
+    {
+      "text": "cultura de paz",
+      "relevance": 0.583578,
+      "count": 3
+    },
+    {
+      "text": "Reparacion Integral de las Victimas",
+      "relevance": 0.573451,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.563294,
+      "count": 1
+    },
+    {
+      "text": "condici\u00e9n de excepcion",
+      "relevance": 0.552206,
+      "count": 3
+    },
+    {
+      "text": "Poblacion Desplazada",
+      "relevance": 0.552171,
+      "count": 1
+    },
+    {
+      "text": "Gobierno Nacional",
+      "relevance": 0.547896,
+      "count": 2
+    },
+    {
+      "text": "Comit\u00e9 Operativo",
+      "relevance": 0.544663,
+      "count": 1
+    },
+    {
+      "text": "Programa Institucional de Paz",
+      "relevance": 0.541734,
+      "count": 1
+    },
+    {
+      "text": "Fotografia reciente",
+      "relevance": 0.540893,
+      "count": 2
+    },
+    {
+      "text": "literal i",
+      "relevance": 0.537892,
+      "count": 2
+    },
+    {
+      "text": "promocidn de espacios acad\u00e9micos",
+      "relevance": 0.534884,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.534101,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.531819,
+      "count": 1
+    },
+    {
+      "text": "construcci\u00e9n de la paz",
+      "relevance": 0.531446,
+      "count": 1
+    },
+    {
+      "text": "Defensa Nacional",
+      "relevance": 0.530506,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de competencias acad\u00e9micas",
+      "relevance": 0.527966,
+      "count": 1
+    },
+    {
+      "text": "propositos del programa",
+      "relevance": 0.52759,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la Rectoria",
+      "relevance": 0.527357,
+      "count": 1
+    },
+    {
+      "text": "respecto de la dejacion de armas",
+      "relevance": 0.527347,
+      "count": 1
+    },
+    {
+      "text": "oportunidades de discriminaci6",
+      "relevance": 0.524027,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.522037,
+      "count": 1
+    },
+    {
+      "text": "transformacion social",
+      "relevance": 0.522008,
+      "count": 1
+    },
+    {
+      "text": "Oficina del Alto",
+      "relevance": 0.520869,
+      "count": 1
+    },
+    {
+      "text": "excombatientes de los grupos",
+      "relevance": 0.519364,
+      "count": 1
+    },
+    {
+      "text": "dias de abril",
+      "relevance": 0.518177,
+      "count": 1
+    },
+    {
+      "text": "informacion presentada",
+      "relevance": 0.518083,
+      "count": 1
+    }
+  ]
+}

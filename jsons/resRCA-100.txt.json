@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5432,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Trabajos de Investigacion",
+      "relevance": 0.765466,
+      "count": 1
+    },
+    {
+      "text": "trabajos de investigacion de maestria",
+      "relevance": 0.663797,
+      "count": 1
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.608186,
+      "count": 4
+    },
+    {
+      "text": "buen manejo del tema",
+      "relevance": 0.604117,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Postgrados",
+      "relevance": 0.575668,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.571392,
+      "count": 3
+    },
+    {
+      "text": "parte del jurado evaluador",
+      "relevance": 0.564199,
+      "count": 1
+    },
+    {
+      "text": "parte del candidato",
+      "relevance": 0.563339,
+      "count": 1
+    },
+    {
+      "text": "sustentacion de los Trabajos de Investigacion",
+      "relevance": 0.553683,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ciencias Naturales",
+      "relevance": 0.551326,
+      "count": 1
+    },
+    {
+      "text": "tesis de maestria",
+      "relevance": 0.550408,
+      "count": 1
+    },
+    {
+      "text": "articulo segundo",
+      "relevance": 0.540093,
+      "count": 4
+    },
+    {
+      "text": "Director del Trabajo de Investigacion",
+      "relevance": 0.538411,
+      "count": 1
+    },
+    {
+      "text": "mencion de meritoria",
+      "relevance": 0.537391,
+      "count": 3
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.537327,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de Posgrado",
+      "relevance": 0.536723,
+      "count": 1
+    },
+    {
+      "text": "nivel Nacional",
+      "relevance": 0.536207,
+      "count": 4
+    },
+    {
+      "text": "periodos acad\u00e9micos",
+      "relevance": 0.53516,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.534161,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.533125,
+      "count": 1
+    },
+    {
+      "text": "TRABAJO DE INVESTIGACION",
+      "relevance": 0.533044,
+      "count": 3
+    },
+    {
+      "text": "reunion de Septiembre",
+      "relevance": 0.525678,
+      "count": 1
+    },
+    {
+      "text": "trabajo de investigacion realizado",
+      "relevance": 0.523852,
+      "count": 1
+    },
+    {
+      "text": "diferentes Programas de Posgrado",
+      "relevance": 0.523668,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.517912,
+      "count": 2
+    },
+    {
+      "text": "nivel Internacional",
+      "relevance": 0.516898,
+      "count": 1
+    },
+    {
+      "text": "Salon de reuniones del Consejo",
+      "relevance": 0.51434,
+      "count": 1
+    },
+    {
+      "text": "Criterios generales",
+      "relevance": 0.512095,
+      "count": 1
+    },
+    {
+      "text": "revista internacional",
+      "relevance": 0.510608,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.507861,
+      "count": 1
+    }
+  ]
+}

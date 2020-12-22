@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 15859,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.635646,
+      "count": 1
+    },
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.62682,
+      "count": 2
+    },
+    {
+      "text": "evaluacion de los candidatos",
+      "relevance": 0.607949,
+      "count": 1
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.606946,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.580383,
+      "count": 3
+    },
+    {
+      "text": "Concurso Publico de M\u00e9ritos",
+      "relevance": 0.573321,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.568975,
+      "count": 10
+    },
+    {
+      "text": "Experiencia docente universitaria",
+      "relevance": 0.565492,
+      "count": 1
+    },
+    {
+      "text": "especificidades de las diferentes Facultades",
+      "relevance": 0.564693,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.561534,
+      "count": 3
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.555127,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.553901,
+      "count": 3
+    },
+    {
+      "text": "tipo de presentaciones",
+      "relevance": 0.551529,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.549908,
+      "count": 2
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.549722,
+      "count": 1
+    },
+    {
+      "text": "Exposicion oral",
+      "relevance": 0.54653,
+      "count": 3
+    },
+    {
+      "text": "evaluacion de las pruebas acad\u00e9micas",
+      "relevance": 0.545082,
+      "count": 1
+    },
+    {
+      "text": "caso de las Licenciaturas",
+      "relevance": 0.542459,
+      "count": 1
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.539378,
+      "count": 2
+    },
+    {
+      "text": "presentacion oral",
+      "relevance": 0.535987,
+      "count": 1
+    },
+    {
+      "text": "Evaluacion de M\u00e9ritos de cada Facultad",
+      "relevance": 0.534887,
+      "count": 2
+    },
+    {
+      "text": "tipo de publicacion",
+      "relevance": 0.533161,
+      "count": 1
+    },
+    {
+      "text": "siguiente base",
+      "relevance": 0.532822,
+      "count": 1
+    },
+    {
+      "text": "Propuesta de Curso",
+      "relevance": 0.532555,
+      "count": 1
+    },
+    {
+      "text": "caso de empate",
+      "relevance": 0.530836,
+      "count": 1
+    },
+    {
+      "text": "misma dedicacion",
+      "relevance": 0.530507,
+      "count": 1
+    },
+    {
+      "text": "sistematizacion del conocimiento",
+      "relevance": 0.530127,
+      "count": 1
+    },
+    {
+      "text": "primer puesto",
+      "relevance": 0.525718,
+      "count": 2
+    },
+    {
+      "text": "Hoja de Vida",
+      "relevance": 0.523953,
+      "count": 2
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.523632,
+      "count": 1
+    }
+  ]
+}

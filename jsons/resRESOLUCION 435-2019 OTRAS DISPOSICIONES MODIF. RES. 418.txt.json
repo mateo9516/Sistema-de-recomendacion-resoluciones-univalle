@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 886,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.80567,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.768307,
+      "count": 1
+    },
+    {
+      "text": "proximo Consejo de facultad",
+      "relevance": 0.639549,
+      "count": 1
+    },
+    {
+      "text": "sesion del Consejo de Facultad",
+      "relevance": 0.594089,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n de Decanatura No",
+      "relevance": 0.591056,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades",
+      "relevance": 0.586076,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.581985,
+      "count": 1
+    },
+    {
+      "text": "tramites pertinentes",
+      "relevance": 0.569928,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.554744,
+      "count": 2
+    },
+    {
+      "text": "mes de octubre",
+      "relevance": 0.448529,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.401672,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.384662,
+      "count": 5
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.374927,
+      "count": 1
+    },
+    {
+      "text": "dia",
+      "relevance": 0.370856,
+      "count": 3
+    },
+    {
+      "text": "Resolucion",
+      "relevance": 0.362097,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.357444,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.357444,
+      "count": 1
+    },
+    {
+      "text": "Decanatura",
+      "relevance": 0.351597,
+      "count": 1
+    }
+  ]
+}

@@ -27,6 +27,7 @@ for entry in entries:
     Part #1 : Convertir pdfs a imagenes
     '''
     PDF_file = entry.name
+    print(PDF_file)
     # Arreglo de paginas ... convertidas a bytes
     pages = convert_from_bytes(open('/Users/Mateo/Documents/OCR/resoluciones/'+PDF_file,'rb').read())
     #pages = convert_from_path(PDF_file,500)
@@ -44,7 +45,7 @@ for entry in entries:
         # .... 
         # PDF page n -> page_n.jpg 
         filename = "page_"+str(image_counter)+".jpg"
-        print("pagina")  
+        #print("pagina")  
         # Guardo la imagen en el sistema
         page.save('/Users/Mateo/Documents/OCR/corpus/'+filename, 'JPEG') 
     

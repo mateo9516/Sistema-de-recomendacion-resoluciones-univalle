@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6379,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.668531,
+      "count": 6
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.555536,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.551444,
+      "count": 4
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.547186,
+      "count": 1
+    },
+    {
+      "text": "titulo ESPECIALISTA",
+      "relevance": 0.547119,
+      "count": 1
+    },
+    {
+      "text": "demas requisitos",
+      "relevance": 0.543038,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.541432,
+      "count": 1
+    },
+    {
+      "text": "soluciones estructurales",
+      "relevance": 0.540518,
+      "count": 1
+    },
+    {
+      "text": "requisito de la Universidad",
+      "relevance": 0.538351,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.534442,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9todos num\u00e9ricos modernos",
+      "relevance": 0.53364,
+      "count": 1
+    },
+    {
+      "text": "curriculo del plan de estudios",
+      "relevance": 0.532861,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.529406,
+      "count": 1
+    },
+    {
+      "text": "normatividad vigente de la Universidad",
+      "relevance": 0.529295,
+      "count": 1
+    },
+    {
+      "text": "estructura",
+      "relevance": 0.528171,
+      "count": 3
+    },
+    {
+      "text": "forma eficiente",
+      "relevance": 0.527563,
+      "count": 1
+    },
+    {
+      "text": "cursos obligatorios de Fundamentaciodn",
+      "relevance": 0.526644,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Posgrados de la Escuela",
+      "relevance": 0.526279,
+      "count": 1
+    },
+    {
+      "text": "proficiencia basica",
+      "relevance": 0.525518,
+      "count": 1
+    },
+    {
+      "text": "empresas de ingenieria de la construcci\u00e9n",
+      "relevance": 0.523781,
+      "count": 1
+    },
+    {
+      "text": "resultado de los procesos",
+      "relevance": 0.523104,
+      "count": 1
+    },
+    {
+      "text": "programas de postgrado",
+      "relevance": 0.522503,
+      "count": 2
+    },
+    {
+      "text": "actualizaci6n permanente",
+      "relevance": 0.52218,
+      "count": 1
+    },
+    {
+      "text": "modificacion del programa acad\u00e9mico",
+      "relevance": 0.521675,
+      "count": 1
+    },
+    {
+      "text": "procesos acad\u00e9micos",
+      "relevance": 0.521559,
+      "count": 1
+    },
+    {
+      "text": "Ingenieros Civiles",
+      "relevance": 0.520524,
+      "count": 1
+    },
+    {
+      "text": "conocimientos actualizados",
+      "relevance": 0.517791,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos de la estructura",
+      "relevance": 0.517194,
+      "count": 1
+    },
+    {
+      "text": "Sistemas Estructurales",
+      "relevance": 0.516609,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacid\u00e9n Nacional",
+      "relevance": 0.515797,
+      "count": 1
+    }
+  ]
+}

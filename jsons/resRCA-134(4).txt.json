@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7010,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "ceremonias de grado",
+      "relevance": 0.685824,
+      "count": 2
+    },
+    {
+      "text": "receso acad\u00e9mico",
+      "relevance": 0.636935,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.590282,
+      "count": 1
+    },
+    {
+      "text": "totalidad de las asignaturas",
+      "relevance": 0.563638,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.557881,
+      "count": 1
+    },
+    {
+      "text": "transcurso de los siguientes",
+      "relevance": 0.551998,
+      "count": 1
+    },
+    {
+      "text": "casos excepcionales",
+      "relevance": 0.551904,
+      "count": 2
+    },
+    {
+      "text": "totalidad de las calificaciones",
+      "relevance": 0.5502,
+      "count": 2
+    },
+    {
+      "text": "ficha acad\u00e9mica",
+      "relevance": 0.550087,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.542944,
+      "count": 1
+    },
+    {
+      "text": "respectivas Secretartas Acad\u00e9micas",
+      "relevance": 0.541691,
+      "count": 1
+    },
+    {
+      "text": "C\u00e9dula de Ciudadania",
+      "relevance": 0.536599,
+      "count": 1
+    },
+    {
+      "text": "fecha de grado",
+      "relevance": 0.531346,
+      "count": 1
+    },
+    {
+      "text": "Salvo de Grado",
+      "relevance": 0.530823,
+      "count": 2
+    },
+    {
+      "text": "sal\u00e9n de sesiones",
+      "relevance": 0.526825,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.526122,
+      "count": 2
+    },
+    {
+      "text": "trabajos de grado",
+      "relevance": 0.523226,
+      "count": 1
+    },
+    {
+      "text": "persona autorizada",
+      "relevance": 0.522935,
+      "count": 1
+    },
+    {
+      "text": "Rectorta de la Universidad",
+      "relevance": 0.522413,
+      "count": 1
+    },
+    {
+      "text": "juicio de la Rectorita",
+      "relevance": 0.522137,
+      "count": 1
+    },
+    {
+      "text": "respectivo titulo",
+      "relevance": 0.520649,
+      "count": 1
+    },
+    {
+      "text": "correspondiente ficha acad\u00e9mica",
+      "relevance": 0.520526,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico previa",
+      "relevance": 0.515464,
+      "count": 1
+    },
+    {
+      "text": "aspectos acad\u00e9micos",
+      "relevance": 0.514934,
+      "count": 1
+    },
+    {
+      "text": "C\u00e9dula de Extranjerfa",
+      "relevance": 0.514615,
+      "count": 1
+    },
+    {
+      "text": "fecha reciente",
+      "relevance": 0.514536,
+      "count": 1
+    },
+    {
+      "text": "documentaci\u00e9n personal",
+      "relevance": 0.514453,
+      "count": 1
+    },
+    {
+      "text": "Fotocopia del documento de identidad",
+      "relevance": 0.513212,
+      "count": 1
+    },
+    {
+      "text": "Decanato de Estudiantes",
+      "relevance": 0.513177,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de grado",
+      "relevance": 0.512697,
+      "count": 3
+    }
+  ]
+}

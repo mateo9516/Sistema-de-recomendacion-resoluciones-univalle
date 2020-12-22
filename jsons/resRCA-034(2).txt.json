@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4567,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "FACULTAD DE INGENIERIA",
+      "relevance": 0.674929,
+      "count": 1
+    },
+    {
+      "text": "OFERTA DE PROGRAMAS ACADEMICOS",
+      "relevance": 0.62092,
+      "count": 1
+    },
+    {
+      "text": "Resultados del Examen de Estado",
+      "relevance": 0.614226,
+      "count": 2
+    },
+    {
+      "text": "FACULTAD DE HUMANIDADES",
+      "relevance": 0.600788,
+      "count": 1
+    },
+    {
+      "text": "Total Facultad de Ciencias Naturales",
+      "relevance": 0.598514,
+      "count": 1
+    },
+    {
+      "text": "CIENCIAS NATURALES",
+      "relevance": 0.585171,
+      "count": 3
+    },
+    {
+      "text": "Total Instituto de Psicologia",
+      "relevance": 0.584451,
+      "count": 1
+    },
+    {
+      "text": "excepcidn de los Programas",
+      "relevance": 0.576105,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Topografica",
+      "relevance": 0.572846,
+      "count": 1
+    },
+    {
+      "text": "siguiente oferta acad\u00e9mica",
+      "relevance": 0.565471,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.558117,
+      "count": 5
+    },
+    {
+      "text": "INSTITUTO DE EDUCACION",
+      "relevance": 0.55701,
+      "count": 1
+    },
+    {
+      "text": "Lenguas Extranjeras",
+      "relevance": 0.550727,
+      "count": 2
+    },
+    {
+      "text": "Programas Acad\u00e9micos de pregrado",
+      "relevance": 0.548122,
+      "count": 1
+    },
+    {
+      "text": "Educacion Basica",
+      "relevance": 0.544979,
+      "count": 3
+    },
+    {
+      "text": "Total Facultad de Salud",
+      "relevance": 0.541644,
+      "count": 1
+    },
+    {
+      "text": "Estudios Politicos",
+      "relevance": 0.541308,
+      "count": 2
+    },
+    {
+      "text": "Licenciatura",
+      "relevance": 0.540999,
+      "count": 17
+    },
+    {
+      "text": "Terapia Ocupacional",
+      "relevance": 0.539434,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Materiales",
+      "relevance": 0.538016,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD DE ARTES INTEGRADAS",
+      "relevance": 0.535939,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Sociales",
+      "relevance": 0.535787,
+      "count": 2
+    },
+    {
+      "text": "Total Facultad de Ingenieria",
+      "relevance": 0.532007,
+      "count": 1
+    },
+    {
+      "text": "INSTITUTO DE PSICOLOGIA",
+      "relevance": 0.529858,
+      "count": 1
+    },
+    {
+      "text": "Artes Visuales",
+      "relevance": 0.528722,
+      "count": 1
+    },
+    {
+      "text": "Total Facultad de Humanidades 420UNIVERSDIAD",
+      "relevance": 0.526761,
+      "count": 1
+    },
+    {
+      "text": "procedimiento de Admision",
+      "relevance": 0.526714,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.524858,
+      "count": 3
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.523306,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Agricola",
+      "relevance": 0.522416,
+      "count": 1
+    }
+  ]
+}

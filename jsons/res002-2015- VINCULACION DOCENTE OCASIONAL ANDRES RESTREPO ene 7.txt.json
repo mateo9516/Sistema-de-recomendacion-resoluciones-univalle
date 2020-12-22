@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2615,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.670308,
+      "count": 1
+    },
+    {
+      "text": "prestaciones sociales",
+      "relevance": 0.63397,
+      "count": 1
+    },
+    {
+      "text": "oficina de Planeacion",
+      "relevance": 0.627397,
+      "count": 1
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.575147,
+      "count": 2
+    },
+    {
+      "text": "Desarrollo Institucional",
+      "relevance": 0.571606,
+      "count": 1
+    },
+    {
+      "text": "Corte Constitucional",
+      "relevance": 0.569608,
+      "count": 1
+    },
+    {
+      "text": "base de datos de docentes",
+      "relevance": 0.564655,
+      "count": 1
+    },
+    {
+      "text": "misma Ley",
+      "relevance": 0.555702,
+      "count": 1
+    },
+    {
+      "text": "razones de servicio",
+      "relevance": 0.54767,
+      "count": 1
+    },
+    {
+      "text": "vinculaciones de docentes ocasionales",
+      "relevance": 0.545167,
+      "count": 1
+    },
+    {
+      "text": "servicio publico",
+      "relevance": 0.540556,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.533373,
+      "count": 2
+    },
+    {
+      "text": "UNIDAD ACADEMICO-ADMINISTRATIVA",
+      "relevance": 0.525061,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.523841,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD DE INGENIERIA",
+      "relevance": 0.523762,
+      "count": 2
+    },
+    {
+      "text": "tal fin",
+      "relevance": 0.520803,
+      "count": 1
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.516739,
+      "count": 4
+    },
+    {
+      "text": "ordenacid\u00e9n de gasto",
+      "relevance": 0.511772,
+      "count": 1
+    },
+    {
+      "text": "periodo inferior",
+      "relevance": 0.511094,
+      "count": 1
+    },
+    {
+      "text": "ESCUBLA DE INGENIERIA ELECTRICA",
+      "relevance": 0.509879,
+      "count": 1
+    },
+    {
+      "text": "Sentencia C-006",
+      "relevance": 0.504953,
+      "count": 1
+    },
+    {
+      "text": "DECANATURA No",
+      "relevance": 0.500619,
+      "count": 1
+    },
+    {
+      "text": "entes universitarios",
+      "relevance": 0.499323,
+      "count": 1
+    },
+    {
+      "text": "ANDRES DAVID RESTRETO GION C.c",
+      "relevance": 0.498752,
+      "count": 1
+    },
+    {
+      "text": "normal desarrollo de sus Programas Acad\u00e9micos",
+      "relevance": 0.496799,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Enero",
+      "relevance": 0.493799,
+      "count": 1
+    },
+    {
+      "text": "PERIODO HORASs",
+      "relevance": 0.493117,
+      "count": 1
+    },
+    {
+      "text": "aut\u00e9nomos",
+      "relevance": 0.491782,
+      "count": 1
+    },
+    {
+      "text": "ACULTAD DE INGENIERIA",
+      "relevance": 0.490985,
+      "count": 1
+    },
+    {
+      "text": "diferentes Unidades Acad\u00e9micas de la Universidad del Valle",
+      "relevance": 0.490248,
+      "count": 1
+    }
+  ]
+}

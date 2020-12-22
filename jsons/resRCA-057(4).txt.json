@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4546,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "deliberacion amplia",
+      "relevance": 0.630891,
+      "count": 1
+    },
+    {
+      "text": "diversos estamentos",
+      "relevance": 0.604711,
+      "count": 1
+    },
+    {
+      "text": "espacio acad\u00e9mico de formacion",
+      "relevance": 0.594957,
+      "count": 1
+    },
+    {
+      "text": "Comunidad Universitaria",
+      "relevance": 0.594322,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.564809,
+      "count": 2
+    },
+    {
+      "text": "presentacion del tema del semestre",
+      "relevance": 0.554536,
+      "count": 1
+    },
+    {
+      "text": "procesos actuales de transformacion",
+      "relevance": 0.553811,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.552269,
+      "count": 1
+    },
+    {
+      "text": "creacion de opciones viables",
+      "relevance": 0.552202,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Artes Integradas",
+      "relevance": 0.550324,
+      "count": 1
+    },
+    {
+      "text": "vocacion de servicio social",
+      "relevance": 0.545949,
+      "count": 1
+    },
+    {
+      "text": "difusion del conocimiento",
+      "relevance": 0.539032,
+      "count": 1
+    },
+    {
+      "text": "Calidad Acad\u00e9mica",
+      "relevance": 0.53663,
+      "count": 2
+    },
+    {
+      "text": "Mision de la Universidad",
+      "relevance": 0.535368,
+      "count": 1
+    },
+    {
+      "text": "problemas sociales",
+      "relevance": 0.531324,
+      "count": 1
+    },
+    {
+      "text": "propia comunidad universitaria",
+      "relevance": 0.530214,
+      "count": 1
+    },
+    {
+      "text": "intelectuales de mayor impacto",
+      "relevance": 0.52895,
+      "count": 1
+    },
+    {
+      "text": "inter\u00e9s general",
+      "relevance": 0.525306,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria Acad\u00e9mica",
+      "relevance": 0.523726,
+      "count": 1
+    },
+    {
+      "text": "nivel superior",
+      "relevance": 0.522984,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Comunicacion Social",
+      "relevance": 0.522778,
+      "count": 2
+    },
+    {
+      "text": "Organizacion del funcionamiento acad\u00e9mico",
+      "relevance": 0.522105,
+      "count": 1
+    },
+    {
+      "text": "Universidad Publica",
+      "relevance": 0.520592,
+      "count": 1
+    },
+    {
+      "text": "demandas sociales",
+      "relevance": 0.519603,
+      "count": 1
+    },
+    {
+      "text": "metodologia de trabajo",
+      "relevance": 0.51841,
+      "count": 1
+    },
+    {
+      "text": "espacios de reflexion",
+      "relevance": 0.516867,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad",
+      "relevance": 0.515073,
+      "count": 1
+    },
+    {
+      "text": "Medio Tiempo",
+      "relevance": 0.514044,
+      "count": 1
+    },
+    {
+      "text": "manera experimental",
+      "relevance": 0.513567,
+      "count": 1
+    },
+    {
+      "text": "Curso de actualizacion profesional",
+      "relevance": 0.510823,
+      "count": 1
+    }
+  ]
+}

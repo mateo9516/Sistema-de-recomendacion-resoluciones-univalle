@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 932,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "CONSEJO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.717752,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.647936,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.639995,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.638884,
+      "count": 1
+    },
+    {
+      "text": "CARLOS AR",
+      "relevance": 0.618083,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.537388,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.504603,
+      "count": 1
+    },
+    {
+      "text": "mes de Junio",
+      "relevance": 0.493528,
+      "count": 1
+    },
+    {
+      "text": "comisidn acad\u00e9mica",
+      "relevance": 0.490455,
+      "count": 1
+    },
+    {
+      "text": "Resolucidn No",
+      "relevance": 0.478018,
+      "count": 1
+    },
+    {
+      "text": "Profesor LEONARDO RIVERA CADAVID",
+      "relevance": 0.466058,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.461839,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela de Ingenieria Industrial",
+      "relevance": 0.443312,
+      "count": 1
+    },
+    {
+      "text": "Profesor Pablo C\u00e9sar Manyoma Velasquez",
+      "relevance": 0.432625,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.416356,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.416356,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.396869,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.396869,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.396869,
+      "count": 1
+    }
+  ]
+}

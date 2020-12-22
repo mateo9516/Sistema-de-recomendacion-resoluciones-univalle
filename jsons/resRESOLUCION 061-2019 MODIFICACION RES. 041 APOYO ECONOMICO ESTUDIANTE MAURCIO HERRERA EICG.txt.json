@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1075,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.867436,
+      "count": 1
+    },
+    {
+      "text": "apoyo econdmico",
+      "relevance": 0.621858,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.610965,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.594694,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n de Decanatura No",
+      "relevance": 0.588038,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.568163,
+      "count": 1
+    },
+    {
+      "text": "inicio de la pasantia",
+      "relevance": 0.538642,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.538642,
+      "count": 1
+    },
+    {
+      "text": "fecha de salida del estudiante",
+      "relevance": 0.530014,
+      "count": 1
+    },
+    {
+      "text": "Universidad de Purdue",
+      "relevance": 0.503728,
+      "count": 1
+    },
+    {
+      "text": "estudiante del Programa Acad\u00e9mico de Maestria",
+      "relevance": 0.466703,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Civil MAURICIO HERRERA RODRIGUEZ",
+      "relevance": 0.457114,
+      "count": 1
+    },
+    {
+      "text": "estudiante MAURICIO HERRERA RODRIGUEZ",
+      "relevance": 0.439885,
+      "count": 2
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.437251,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.433048,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.43096,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.429104,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.427795,
+      "count": 2
+    },
+    {
+      "text": "regreso",
+      "relevance": 0.426916,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION",
+      "relevance": 0.419742,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.416168,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.416168,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.416168,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.416168,
+      "count": 1
+    }
+  ]
+}

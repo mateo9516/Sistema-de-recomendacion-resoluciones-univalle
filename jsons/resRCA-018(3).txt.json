@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 26764,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Titulo profesional",
+      "relevance": 0.696702,
+      "count": 26
+    },
+    {
+      "text": "perfiles profesionales",
+      "relevance": 0.688518,
+      "count": 1
+    },
+    {
+      "text": "area de Arquitectura",
+      "relevance": 0.620995,
+      "count": 2
+    },
+    {
+      "text": "Tiempo Completo Equivalente",
+      "relevance": 0.614491,
+      "count": 1
+    },
+    {
+      "text": "Tiempo Completo",
+      "relevance": 0.610949,
+      "count": 9
+    },
+    {
+      "text": "Medio Tiempo",
+      "relevance": 0.610238,
+      "count": 8
+    },
+    {
+      "text": "Titulo de Maestria",
+      "relevance": 0.609985,
+      "count": 12
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.577837,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.572948,
+      "count": 3
+    },
+    {
+      "text": "perfil especifico de un concurso",
+      "relevance": 0.563344,
+      "count": 2
+    },
+    {
+      "text": "docentes de carrera de Tiempo Completo",
+      "relevance": 0.562624,
+      "count": 1
+    },
+    {
+      "text": "cupos del Area",
+      "relevance": 0.555192,
+      "count": 1
+    },
+    {
+      "text": "obtencidn del titulo",
+      "relevance": 0.554266,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.554101,
+      "count": 14
+    },
+    {
+      "text": "Facultades de Artes Integradas",
+      "relevance": 0.548406,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.547812,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.545969,
+      "count": 15
+    },
+    {
+      "text": "aspirantes deberadn",
+      "relevance": 0.544147,
+      "count": 1
+    },
+    {
+      "text": "Ciencias de la Administraci\u00e9n",
+      "relevance": 0.543917,
+      "count": 1
+    },
+    {
+      "text": "Unidades Acad\u00e9micas",
+      "relevance": 0.543799,
+      "count": 1
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.543225,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria de minimo",
+      "relevance": 0.54265,
+      "count": 8
+    },
+    {
+      "text": "Disefio Industrial",
+      "relevance": 0.541632,
+      "count": 2
+    },
+    {
+      "text": "Estatuto Profesoral",
+      "relevance": 0.539421,
+      "count": 2
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.537115,
+      "count": 25
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.536957,
+      "count": 17
+    },
+    {
+      "text": "actividades de docencia",
+      "relevance": 0.534657,
+      "count": 1
+    },
+    {
+      "text": "Comisi\u00e9n de Seleccidn Docente",
+      "relevance": 0.531669,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Naturales",
+      "relevance": 0.530879,
+      "count": 1
+    },
+    {
+      "text": "titulo de doctorado",
+      "relevance": 0.529942,
+      "count": 4
+    }
+  ]
+}

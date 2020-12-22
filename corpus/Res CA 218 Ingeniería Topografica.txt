@@ -1,0 +1,660 @@
+Universidad
+del Valle
+
+ 
+
+UNIVERSIDAD DEL VALLE
+CONSEJO ACADEMICO
+
+RESOLUCION No. 218
+19 de noviembre de 2020
+
+“Por la cual se cambia la denominacion del programa académico de Ingenieria
+Topografica por Ingenieria Geomatica y se modifica la estructura curricular
+que fue definida mediante la Resolucién No. 068 de junio 6 de 2002 del
+Consejo Académico”
+
+EL CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE, en uso de
+sus facultades legales, en especial las que le confiere el literal b) del Articulo
+20° del Estatuto General, y
+
+CONSIDERANDO:
+
+Que el Ministerio de Educacion Nacional, mediante el Decreto 1330 de julio
+25 de 2019, reglamento los registros calificados de los programas académicos
+de Educacion Superior. Que el mismo Decreto en el articulo 2.5.3.2.10.2 hace
+mencioén que cualquier modificaci6n que afecte las condiciones de calidad del
+programa con las cuales se le otorgo el registro calificado al mismo, debe
+informarse al Ministerio de Educaci6n Nacional;
+
+Que el Consejo Superior de la Universidad del Valle, mediante el Acuerdo 025
+de septiembre 25 de 2015, actualizo la Politica Curricular y el Proyecto
+Formativo de la Universidad del Valle y, mediante la Resolucion del Consejo
+Académico No. 136 del 22 de diciembre de 2017 y la Resolucién del Consejo
+de Facultad de Ingenieria No. 157 de mayo 22 de 2018, se reglamentoé las
+condiciones para la creacién y reforma de los programas de formacion de
+pregrado de la Universidad del Valle;
+
+Que el Consejo de Facultad de Ingenieria en su sesi6n del 27 de octubre de
+2020, mediante Acta No. 23 aval6 el cambio de denominacion del programa
+académico de Ingenieria Topografica por Ingenieria Geomatica y la
+modificacio6n de su estructura curricular;UNIVERSIDAD DEL VALLE
+RESOLUCION No. 218 — 2020 Consejo Académico 2
+
+Que el Comité Central de Curriculo, en su sesion del 13 de noviembre de
+2020, mediante Acta No. 22, avalé y recomendo al Consejo Académico el
+cambio de denominacion del programa académico de Ingenieria Topografica a
+Ingenieria Geomatica y la modificacién de su estructura curricular.
+
+RESUELVE:
+
+ARTICULO 1°. Cambiar la denominacion del programa académico
+
+de Ingenieria Topografica por Ingenieria
+Geomatica, adscrito a la Escuela de Ingenieria Civil y Geomatica de la
+Facultad de Ingenieria.
+
+ARTICULO 2°. Modificar la estructura curricular del programa
+
+académico de Ingenieria Geomatica, el cual tiene
+una duracion de diez (10) semestres, modalidad presencial, periodicidad de
+admisi6n semestral y un cupo maximo de cuarenta (40) estudiantes por
+cohorte. El programa académico de Ingenieria Geomatica otorga el titulo de
+Ingeniero Geomatico, a los estudiantes que hayan cursado y aprobado los 156
+créditos establecidos en la estructura curricular y cumplan con los requisitos
+estipulados en la presente Resolucién y demas normas de la Universidad del
+Valle vigentes para sus programas de pregrado.
+
+ARTICULO 3°. Objetivos del programa. E] programa académico
+de Ingenieria Geomatica se propone los siguientes
+objetivos:
+
+Objetivo General.
+
+Formar Ingenieros Geomaticos con sentido ético e interdisciplinario, capaces
+de afrontar los retos de mejoramiento de la sociedad en un marco de
+competitividad global, orientados en los procesos de captura y modelizado de
+la informacion geoespacial, utilizando ciencia y técnica para el bienestar
+regional, nacional y mundial.
+
+Objetivos Especificos.
+
+e Proporcionar al estudiante de Ingenieria Geomatica una formacion
+humanistica y ética, con respeto por la dignidad y los derechos de las
+personas.
+
+e Facilitar al estudiante de Ingenieria Geomatica la formacion de una vision
+geopolitica de su pais e internacional que le permita actuar en un contexto
+cada vez mas global e interrelacionado.
+
+e Proporcionar al estudiante de Ingenieria Geomatica un conocimiento
+multidisciplinario actualizado, con una solida fundamentacion tedrica y
+practica en ciencias y tecnologias basicas, que le permitan desarrollarUNIVERSIDAD DEL VALLE
+RESOLUCION No. 218 — 2020 Consejo Académico 3
+
+procesos de captura y modelizado de la informacion geoespacial en las
+etapas de conceptualizacion, disefio, desarrollo, analisis, y visualizacion.
+
+e Preparar Ingenieros GeomAaticos con sentido légico, analitico, critico e
+innovador, practico y visionario, con capacidad de facilitar los procesos de
+toma decisiones considerando la componente espacial de los fenoémenos
+que conforman un problema.
+
+e Formar Ingenieros Geomaticos con liderazgo, comprometidos con el
+desarrollo de la sociedad y con aprecio a los valores culturales, histdricos,
+sociales y ambientales de su entorno.
+
+e Formar Ingenieros Geomaticos con las capacidades y las habilidades
+necesarias para trabajar en equipos interdisciplinarios.
+
+ARTICULO 4°. Perfil de egreso. El Ingeniero Geomatico de la
+
+Universidad del Valle sera un profesional con
+sensibilidades, capacidades y competencias para comprender y aplicar las
+ciencias naturales y exactas, los fundamentos, los métodos y las herramientas
+de la ingenieria propias de su especialidad; con pensamiento critico, creativo
+y sistémico; que aprende de forma aut6noma a lo largo de la vida; se comunica
+asertivamente y es competente para trabajar en equipos interdisciplinarios
+para resolver problemas en el contexto local, nacional e internacional.
+Contribuye a la solucién de problemas de ingenieria mediante la captura y
+modelizado de la informacion geoespacial en las etapas de conceptualizacion,
+diseno, desarrollo, analisis, y visualizacion en el Ambito social, econdmico y
+ambiental, y sus interacciones dentro de las dinamicas territoriales. Lo
+anterior, le permitira desarrollar proyectos o gestar iniciativas asociadas a la
+captura y modelizado de la informacion geoespacial, usando herramientas
+geomaticas para facilitar la toma de decisiones que garanticen un mejor nivel
+de vida para la sociedad.
+
+ARTICULO 5°. Perfil ocupacional. El Ingeniero Geomatico de la
+
+Universidad del Valle esta en capacidad de laborar
+en las siguientes lineas de la ingenieria Geomatica: Cartografia, Estadistica
+Espacial, Geoinformatica, Geoposicionamiento, Sistemas de Informacion
+Geografica, y Percepcién Remota, enfocadas a la captura y modelizado de la
+informacion geoespacial para el entendimiento de las Dinamicas Territoriales,
+desempenandose en cargos como, Ingeniero, Supervisor, Director, Asesor,
+Analista, Coordinador, Lider, en el Area de Geomatica, para:
+
+e La industria: como ingenieros de diseho, operaciOn, coordinaci6én y
+supervision en el manejo de la informacion geoespacial de empresas o
+industrias de los diversos sectores de la economia, siendo parte integrante
+de los departamentos de ingenieria y disefo.
+
+e El sector oficial: como ingenieros que prestan servicios profesionales en
+proyectos ptblicos que requieren gestidn de informacio6n geoespacial,
+desarrollando actividades de planeacién, diseno, administracion,UNIVERSIDAD DEL VALLE
+RESOLUCION No. 218 — 2020 Consejo Académico 4
+
+interventoria y analisis en lo relacionado con la captura y modelizado de la
+informacion geoespacial.
+
+e La contratacién: como contratistas en empresas que requieran gestion de
+informacion geoespacial, con funciones de evaluacion de factibilidad,
+disefio, mantenimiento y administracion de proyectos.
+
+e La consultoria y asesoria: como profesionales en la aplicacién de los
+principios cientificos y tecnologicos asociados a la captura y modelizado de
+la informacion geoespacial y que contribuyen a la solucion de los problemas
+interdisciplinares.
+
+e La investigacién: como profesionales en proyectos de investigacion,
+innovacién y desarrollo que involucren los procesos de gestidn de
+informacion geoespacial.
+
+e La comercializacién: como asesores técnicos en la comercializacién de
+productos relacionados con la captura y modelizado de informaci6n
+geoespacial.
+
+ARTICULO 6°. Estructura curricular. La estructura curricular
+
+del programa académico de Ingenieria GeomAatica
+esta organizada por dos ciclos de formacion, el ciclo basico y el ciclo
+profesional; los cuales incluyen de forma transversal los componentes de la
+Formacion General, definidos en la Resolucion del Consejo Académico No. 136
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+del 22 de diciembre de 2017 de la Universidad. El programa académico
+también adopta los lineamientos del ciclo comun integral de la Facultad de
+Ingenieria.
+Ciclo de Numero de Porcentaje de Formacion General
+Formacién Créditos Créditos - — Numero de Créditos | Porcentaje de Créditos
+Ciclo Basico 68 44 % 29 19%
+Ciclo Profesional 88 56 % 5 3%
+Total 156 100 % 34 22 %
+Ciclo de Asignaturas/Componentes Créditos
+Formacion
+Basico Insercién a la Vida Universitaria
+
+ 
+
+Introduccion a la Ingenieria
+
+Deporte y Salud
+
+Comprension y Produccién de Textos Académicos Generales
+Ingenieria Economica y Gestion
+
+Seminario Constitucién Legislacion y Etica de la Ingenieria
+Matematicas Basicas
+
+Calculo Monovariable
+
+Calculo Multivariable
+
+Algebra Lineal
+
+Ecuaciones Diferenciales
+
+Fisica I + laboratorio
+
+Fundamentos Fisicos para Geomatica
+
+Estadistica Descriptiva
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W/W] AB] Ww] W)W]] W/NM}@/M)M|N}yUNIVERSIDAD DEL VALLE
+RESOLUCION No. 218 — 2020 Consejo Académico 5
+
+ 
+
+Informatica I
+
+ 
+
+Representacion Grafica en Ingenieria
+
+ 
+
+Sistemas de Referencia
+
+ 
+
+Taller de Ingenieria I
+
+ 
+
+Taller de Geomatica I
+
+ 
+
+Taller de Geomatica II
+
+ 
+
+Taller de Geomatica III
+
+ 
+
+Taller de Geomatica IV
+
+ 
+
+Electiva Complementaria I
+
+ 
+
+Electiva Complementaria II
+
+ 
+
+Total ciclo basico
+
+ 
+
+Profesional Modelacion Estadistica
+
+ 
+
+Analisis de Datos Espaciales
+
+ 
+
+Modelacién Espacial
+
+ 
+
+Automatizacién de Procesos Geograficos
+
+ 
+
+Desarrollo de Herramientas para Datos Geograficos
+
+ 
+
+Cartografia Digital
+
+ 
+
+Fundamentos de SIG
+
+ 
+
+Base de Datos Espaciales
+
+ 
+
+Diseno de SIG
+
+ 
+
+Geodesia
+
+ 
+
+Sistemas de Posicionamiento Satelital
+
+ 
+
+Geoposicionamiento Terrestre
+
+ 
+
+Practica Geoposicionamiento Terrestre
+
+ 
+
+Tecnologias Geomaticas
+
+ 
+
+Gestion de Proyectos de Informacién Geoespacial
+
+ 
+
+Fotogrametria Digital
+
+ 
+
+Teledeteccion Pasiva
+
+ 
+
+[eledeteccion Activa
+
+ 
+
+Evaluacion de Impacto Ambiental
+
+ 
+
+Taller de Geomatica V
+
+ 
+
+Taller de Geomatica VI
+
+ 
+
+Seminario de Trabajo de Grado
+
+ 
+
+Trabajo de Grado I
+
+ 
+
+Trabajo de Grado II
+
+ 
+
+Electiva Profesional I
+
+ 
+
+Electiva Profesional II
+
+ 
+
+Electiva Profesional III
+
+ 
+
+Electiva Profesional IV
+
+ 
+
+ 
+
+Electiva Profesional V
+
+ 
+
+88 co] <0] co]c0] co] 8] |r] c0]c0] co] 02] c0] co] co]c0] co] 0] 02 Jeo ]c0].co]c0] eo feo] co Joo] c0] co] | co |o0 co Jeo) co | «0 |c0] oo Joo | eo
+
+ 
+
+Total ciclo profesional
+
+ 
+
+ 
+
+ 
+
+Total Créditos 156
+
+ 
+
+PARAGRAFO. Los créditos de las asignaturas  Electivas
+
+Complementarias y _ Electivas Profesionales
+corresponden a la suma total de créditos de varias asignaturas electivas, las
+cuales hacen parte de la flexibilidad curricular, y podran ser seleccionadas
+por el estudiante a partir de la oferta que para cada periodo académico hagan
+las unidades académicas.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 218 — 2020 Consejo Académico 6
+
+ARTICULO 7°. Formacion General. Acorde con la Resoluci6n
+
+136 de 2017 del Consejo Académico, la Formacion
+General (FG) es concebida como el conjunto de actividades curriculares y
+extracurriculares que favorece el desarrollo integral del estudiante como
+persona, ciudadano y profesional, en sus dimensiones cognitivas, afectivas,
+éticas, estéticas y politicas. El programa académico de Ingenieria Geomatica
+adopto las actividades formativas estableciéndolas dentro de las asignaturas,
+de manera integral y transversal; permitiendo asi la formacion disciplinaria e
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+interdisciplinaria. La distribucioén de la FG en el programa académico se
+viabiliza por resultados de aprendizaje.
+Ciclo Asignatura Componentes Créditos % Créditos
+FG FG
+FSC | LC | EVS AH CT
+Basico Matematicas Basicas Xx 3 100 3
+(BG: 19% Introduccion a la Ingenieria xX x 2 100 2
+29 créditos)
+Informatica I Xx 3 100 3
+Taller de Ingenieria I x Xx 3 100 3
+Taller de Geomatica I Xx Xx Xx 3 33 1
+Taller de Geomatica II Xx Xx Xx 3 33 1
+Taller de Geomatica III Xx Xx Xx 3 33 1
+Taller de Geomatica IV Xx Xx Xx 3 33 1
+Comprension y Produccién de Xx 2 100 2
+Textos Académicos Generales *
+
+Insercion a la Vida Universitaria * x x Xx 2 100 2
+Deporte y Salud * x 2 100 2
+Seminario de Constituci6n, x 2 100 2
+
+Legislacion y Etica de la Ingenieria *
+Electiva Complementaria I * x 3 100 3
+Electiva Complementaria II * Xx 3 100 3
+Profesional | Taller de Geomatica V Xx Xx Xx 3 33 1
+(RG: 3% Taller de Geomatica VI xX xX x 3 33: 1
+
+5 créditos)
+Seminario de Trabajo de Grado Xx Xx 2 50 1
+Trabajo de Grado I Xx Xx 4 25 1
+Trabajo de Grado II Xx Xx 4 25 1
+Total Formaci6n General | 22% 34
+
+ 
+
+ 
+
+ 
+
+FSC: Formacion social y ciudadana; LC: Lenguaje y comunicacion; EVS: Estilos de vida
+saludable; AH: Artistico y humanistico; CT: Cientifico tecnoldgico.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 218 — 2020 Consejo Académico 7
+
+PARAGRAFO 1°. Las asignaturas senaladas con (*) en la tabla
+
+anterior pueden ser tomadas de la oferta general
+de la Universidad, siempre y cuando sean reemplazadas con asignaturas o
+actividades formativas que contengan resultados de aprendizaje equivalentes
+y que correspondan a las componentes de la Formacion General.
+
+PARAGRAFO 2°. Las asignaturas del ciclo basico que aportan 100%
+
+a la FG pueden ser tomadas por cualquier
+estudiante de la Universidad. Las asignaturas del ciclo profesional que
+aportan 100% a la FG pueden tomarse por cualquier estudiante de la
+Facultad de Ingenieria.
+
+PARAGRAFO 3°. Con el animo de fortalecer la flexibilidad en la
+
+formacion integral del estudiante y propiciar su
+participacién activa en la vida universitaria, el Comité del programa
+académico definira los requisitos necesarios para homologar las actividades
+extracurriculares, que hacen parte de las actividades formativas del
+programa.
+
+ARTICULO 8°. Trabajo de grado. Para optar por el titulo de
+
+Ingenieria Geomatica, los estudiantes se acogeran
+a la normativa establecida por la Universidad y las normas especificas de la
+Facultad de Ingenieria y el programa académico en coherencia con la
+reglamentacion institucional.
+
+ARTICULO 9°. Lengua extranjera. El programa académico de
+
+Ingenieria Geomatica establece como requisito de
+grado para sus estudiantes el manejo del inglés como lengua extranjera,
+acorde a lo establecido en el Articulo 10° de la Resolucién No. 136 de 2017
+del Consejo Académico. Los estudiantes deben acreditar el nivel Bl de
+suficiencia en el idioma inglés de acuerdo con el Marco Comtn Europeo de
+Referencia (MCER).
+
+ARTICULO 10°. Espafiol como segunda lengua. El programa
+
+académico de Ingenieria Geomdatica acreditara
+como segunda lengua el espanol en nivel B2, a los estudiantes cuya lengua
+materna no sea el espanol (extranjeros de otra lengua materna, indigenas,
+afrocolombianos de lengua criolla). Los sordos comunitarios, usuarios de la
+lengua de senas colombiana (LSC), deberan demostrar un nivel de suficiencia
+B1 de espanol como segunda lengua, en su modalidad escrita.
+
+ARTICULO 11°. Plan de transicién. Los estudiantes activos del
+
+programa académico de Ingenieria Topografica
+pertenecientes a las cohortes anteriores al rediseno curricular con cambio de
+denominacion a Ingenieria Geomatica, podran acogerse voluntariamente a loUNIVERSIDAD DEL VALLE
+RESOLUCION No. 218 — 2020 Consejo Académico 8
+
+contemplado en esta Resolucion. El plazo para acogerse a esta Resolucion es
+hasta un (1) afo después de que el programa académico haya obtenido la
+autorizacion del redisefo curricular con cambio de denominacidn por parte
+del MEN. En tal caso, el Comité de programa académico establecera las
+equivalencias correspondientes. Para los casos de reingreso, el Comité de
+Programa definira la conveniencia de aplicar la presente Resoluci6n o aceptar
+al estudiante bajo la Resoluci6n anterior para quienes hagan la solicitud
+hasta tres (3) afos después de que el programa académico haya obtenido la
+autorizacion del rediseho curricular con cambio de denominacién por parte
+del MEN. Para el caso de traslados y transferencias se aplicara la presente
+Resolucion.
+
+ARTICULO 12°. Vigencia. La presente resolucion rige para las
+cohortes que ingresen a partir dela fecha de su
+aprobacion por parte del Ministerio de Educaci6n Nacional y deroga las
+disposiciones que le sean contrarias.
+COMUNIQUESE, PUBLIQUESE Y CUMPLASE
+
+Dada en Santiago de Cali, a los 19 dias del mes de noviembre de 2020.
+
+El presidente,
+
+DOCUMENTO ORIGINAL FIRMADO
+
+EDGAR VARELA BARRIOS
+Rector
+
+ANTONIO JOSE ECHEVERRY PEREZ
+Secretario General

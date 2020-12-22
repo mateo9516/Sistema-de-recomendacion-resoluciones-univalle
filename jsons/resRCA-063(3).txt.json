@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 13030,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.675284,
+      "count": 4
+    },
+    {
+      "text": "caso del pregrado",
+      "relevance": 0.623751,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.584674,
+      "count": 1
+    },
+    {
+      "text": "tipo de presentaciones",
+      "relevance": 0.58338,
+      "count": 1
+    },
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.573739,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los candidatos",
+      "relevance": 0.571975,
+      "count": 1
+    },
+    {
+      "text": "Concurso Publico de M\u00e9ritos",
+      "relevance": 0.570306,
+      "count": 1
+    },
+    {
+      "text": "tipo C",
+      "relevance": 0.56292,
+      "count": 1
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.562437,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria",
+      "relevance": 0.561881,
+      "count": 1
+    },
+    {
+      "text": "caso de las Licenciaturas",
+      "relevance": 0.555803,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.555204,
+      "count": 3
+    },
+    {
+      "text": "literales f",
+      "relevance": 0.554395,
+      "count": 1
+    },
+    {
+      "text": "tipo A1",
+      "relevance": 0.551206,
+      "count": 1
+    },
+    {
+      "text": "criterios de seleccidn",
+      "relevance": 0.547046,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.547019,
+      "count": 8
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.538107,
+      "count": 3
+    },
+    {
+      "text": "premios internacionales",
+      "relevance": 0.533849,
+      "count": 1
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.533193,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores de tiempo",
+      "relevance": 0.532646,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de las pruebas acad\u00e9micas",
+      "relevance": 0.532042,
+      "count": 1
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.530803,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.530245,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.529083,
+      "count": 1
+    },
+    {
+      "text": "formacion pedagogica certificadas",
+      "relevance": 0.52793,
+      "count": 1
+    },
+    {
+      "text": "puntos",
+      "relevance": 0.52745,
+      "count": 45
+    },
+    {
+      "text": "cargo de la Comision",
+      "relevance": 0.52714,
+      "count": 1
+    },
+    {
+      "text": "siguiente base",
+      "relevance": 0.526794,
+      "count": 1
+    },
+    {
+      "text": "Hoja de Vida",
+      "relevance": 0.525458,
+      "count": 3
+    },
+    {
+      "text": "Ademas de las disposiciones",
+      "relevance": 0.525282,
+      "count": 1
+    }
+  ]
+}

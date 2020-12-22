@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2048,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.877149,
+      "count": 2
+    },
+    {
+      "text": "realizacio\u00e9n de la Matricula Acad\u00e9mica",
+      "relevance": 0.631416,
+      "count": 1
+    },
+    {
+      "text": "Reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.629833,
+      "count": 1
+    },
+    {
+      "text": "situaci\u00e9n de anormalidad acad\u00e9mica",
+      "relevance": 0.62524,
+      "count": 1
+    },
+    {
+      "text": "periodo Febrero",
+      "relevance": 0.589659,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.58428,
+      "count": 1
+    },
+    {
+      "text": "demas continua vigente",
+      "relevance": 0.577892,
+      "count": 1
+    },
+    {
+      "text": "proceso de Matricula Acad\u00e9mica",
+      "relevance": 0.565509,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.5316,
+      "count": 1
+    },
+    {
+      "text": "siguiente periodo",
+      "relevance": 0.525569,
+      "count": 1
+    },
+    {
+      "text": "reprogramacion de la finalizacion del periodo Agosto",
+      "relevance": 0.521691,
+      "count": 1
+    },
+    {
+      "text": "prerrequisito asignaturas",
+      "relevance": 0.519094,
+      "count": 1
+    },
+    {
+      "text": "Matricula Acad\u00e9mica",
+      "relevance": 0.512928,
+      "count": 1
+    },
+    {
+      "text": "dias de diciembre",
+      "relevance": 0.512347,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado de la Facultad",
+      "relevance": 0.510536,
+      "count": 1
+    },
+    {
+      "text": "realizaci6n",
+      "relevance": 0.494933,
+      "count": 1
+    },
+    {
+      "text": "sede Mel\u00e9ndez",
+      "relevance": 0.494933,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.49008,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.478351,
+      "count": 3
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.477153,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.476478,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de la Facultad de Salud",
+      "relevance": 0.47618,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.467455,
+      "count": 2
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.463842,
+      "count": 1
+    },
+    {
+      "text": "dias",
+      "relevance": 0.461959,
+      "count": 1
+    },
+    {
+      "text": "Salud",
+      "relevance": 0.455438,
+      "count": 1
+    },
+    {
+      "text": "asignaturas",
+      "relevance": 0.455051,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.45431,
+      "count": 1
+    },
+    {
+      "text": "estudiantes",
+      "relevance": 0.45318,
+      "count": 1
+    },
+    {
+      "text": "Medicina",
+      "relevance": 0.453095,
+      "count": 1
+    }
+  ]
+}

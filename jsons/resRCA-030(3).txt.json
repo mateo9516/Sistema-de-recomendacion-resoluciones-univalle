@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8622,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "produccion de software",
+      "relevance": 0.735431,
+      "count": 1
+    },
+    {
+      "text": "nuevos modelos de organizaciones",
+      "relevance": 0.66084,
+      "count": 1
+    },
+    {
+      "text": "producci\u00e9n de software",
+      "relevance": 0.614893,
+      "count": 2
+    },
+    {
+      "text": "resultado del desarrollo directo",
+      "relevance": 0.612592,
+      "count": 1
+    },
+    {
+      "text": "producto de software",
+      "relevance": 0.592689,
+      "count": 1
+    },
+    {
+      "text": "evaluaci6n",
+      "relevance": 0.57964,
+      "count": 2
+    },
+    {
+      "text": "productividad acad\u00e9mica",
+      "relevance": 0.576838,
+      "count": 2
+    },
+    {
+      "text": "Certificado de la licencia comercial",
+      "relevance": 0.572902,
+      "count": 1
+    },
+    {
+      "text": "nuevos modelos",
+      "relevance": 0.56875,
+      "count": 1
+    },
+    {
+      "text": "diverso grado de dificultad",
+      "relevance": 0.564406,
+      "count": 1
+    },
+    {
+      "text": "procesos de solucion de problemas",
+      "relevance": 0.56302,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del software",
+      "relevance": 0.554186,
+      "count": 1
+    },
+    {
+      "text": "metodologia de desarrollo de software",
+      "relevance": 0.553858,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.55,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.537263,
+      "count": 1
+    },
+    {
+      "text": "operaciones de un sistema de c\u00e9mputo",
+      "relevance": 0.536654,
+      "count": 1
+    },
+    {
+      "text": "morales de autor",
+      "relevance": 0.535008,
+      "count": 1
+    },
+    {
+      "text": "nuevo conocimiento",
+      "relevance": 0.530536,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.53008,
+      "count": 1
+    },
+    {
+      "text": "Software de producci6n",
+      "relevance": 0.527872,
+      "count": 1
+    },
+    {
+      "text": "productos de software",
+      "relevance": 0.527865,
+      "count": 1
+    },
+    {
+      "text": "Documentaci6n t\u00e9cnica",
+      "relevance": 0.527238,
+      "count": 1
+    },
+    {
+      "text": "Requerimientos de diferentes especialistas",
+      "relevance": 0.524898,
+      "count": 1
+    },
+    {
+      "text": "disefio conceptual",
+      "relevance": 0.524851,
+      "count": 1
+    },
+    {
+      "text": "grado de aporte",
+      "relevance": 0.523148,
+      "count": 1
+    },
+    {
+      "text": "Descripci\u00e9n de mddulos",
+      "relevance": 0.522093,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de puntos",
+      "relevance": 0.520924,
+      "count": 1
+    },
+    {
+      "text": "Manual del usuario",
+      "relevance": 0.520588,
+      "count": 1
+    },
+    {
+      "text": "pares evaluadores",
+      "relevance": 0.519708,
+      "count": 1
+    },
+    {
+      "text": "producto de software desarrollado",
+      "relevance": 0.519021,
+      "count": 1
+    }
+  ]
+}

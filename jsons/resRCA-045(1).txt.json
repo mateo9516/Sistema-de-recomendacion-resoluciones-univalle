@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.654641,
+      "count": 4
+    },
+    {
+      "text": "Reglamento de Inscripci6n",
+      "relevance": 0.56228,
+      "count": 1
+    },
+    {
+      "text": "Examen de Estado",
+      "relevance": 0.547963,
+      "count": 11
+    },
+    {
+      "text": "pagina web de Admisiones",
+      "relevance": 0.545977,
+      "count": 2
+    },
+    {
+      "text": "aspirante",
+      "relevance": 0.535661,
+      "count": 57
+    },
+    {
+      "text": "requisitos establecidos",
+      "relevance": 0.534323,
+      "count": 3
+    },
+    {
+      "text": "correo electr\u00e9nico del aspirante",
+      "relevance": 0.532805,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.532072,
+      "count": 33
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.531383,
+      "count": 10
+    },
+    {
+      "text": "Admisi6n",
+      "relevance": 0.530965,
+      "count": 1
+    },
+    {
+      "text": "Area de Admisiones",
+      "relevance": 0.529899,
+      "count": 8
+    },
+    {
+      "text": "Condiciones de Excepcidn",
+      "relevance": 0.527635,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Pregrado",
+      "relevance": 0.527414,
+      "count": 2
+    },
+    {
+      "text": "sitio Web de la Universidad",
+      "relevance": 0.526287,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono fijo",
+      "relevance": 0.525393,
+      "count": 2
+    },
+    {
+      "text": "documentos de las condiciones de excepcion",
+      "relevance": 0.525275,
+      "count": 1
+    },
+    {
+      "text": "POBLACION DESPLAZADA",
+      "relevance": 0.522669,
+      "count": 2
+    },
+    {
+      "text": "documentacion adicional",
+      "relevance": 0.522322,
+      "count": 3
+    },
+    {
+      "text": "Educacion Superior",
+      "relevance": 0.52203,
+      "count": 3
+    },
+    {
+      "text": "valor de la inscripci6n",
+      "relevance": 0.522026,
+      "count": 1
+    },
+    {
+      "text": "correo electronico de la Comunidad",
+      "relevance": 0.521674,
+      "count": 1
+    },
+    {
+      "text": "Representante legal",
+      "relevance": 0.521547,
+      "count": 2
+    },
+    {
+      "text": "Siun aspirante",
+      "relevance": 0.521278,
+      "count": 1
+    },
+    {
+      "text": "Certificado de vecindad",
+      "relevance": 0.520851,
+      "count": 1
+    },
+    {
+      "text": "Reglamento de Inscripci\u00e9n",
+      "relevance": 0.520793,
+      "count": 1
+    },
+    {
+      "text": "clave de acceso",
+      "relevance": 0.519966,
+      "count": 7
+    },
+    {
+      "text": "diferentes Programas Acad\u00e9micos",
+      "relevance": 0.519541,
+      "count": 1
+    },
+    {
+      "text": "Derechos de Inscripci6",
+      "relevance": 0.518622,
+      "count": 2
+    },
+    {
+      "text": "primera actualizacion del Reglamento",
+      "relevance": 0.51861,
+      "count": 1
+    },
+    {
+      "text": "condicion de bachiller",
+      "relevance": 0.51791,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

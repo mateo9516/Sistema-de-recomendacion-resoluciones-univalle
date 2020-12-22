@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6104,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Recepcion de solicitudes",
+      "relevance": 0.678716,
+      "count": 1
+    },
+    {
+      "text": "casillero digital",
+      "relevance": 0.602776,
+      "count": 1
+    },
+    {
+      "text": "informacion respectiva",
+      "relevance": 0.59918,
+      "count": 1
+    },
+    {
+      "text": "Area de Admisiones",
+      "relevance": 0.593074,
+      "count": 3
+    },
+    {
+      "text": "documentos soporte",
+      "relevance": 0.590369,
+      "count": 2
+    },
+    {
+      "text": "web de la informacion",
+      "relevance": 0.582241,
+      "count": 1
+    },
+    {
+      "text": "Descarga de Recibos de Pago",
+      "relevance": 0.574811,
+      "count": 1
+    },
+    {
+      "text": "parte de las Coordinaciones Acad\u00e9micas",
+      "relevance": 0.56959,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.568369,
+      "count": 1
+    },
+    {
+      "text": "Recepcion de los documentos",
+      "relevance": 0.567934,
+      "count": 1
+    },
+    {
+      "text": "Recibos de Pago primer",
+      "relevance": 0.56594,
+      "count": 1
+    },
+    {
+      "text": "Procesos de ADMISION",
+      "relevance": 0.564803,
+      "count": 2
+    },
+    {
+      "text": "Servicio M\u00e9dico",
+      "relevance": 0.56123,
+      "count": 1
+    },
+    {
+      "text": "PRIMER SEMESTRE",
+      "relevance": 0.560075,
+      "count": 2
+    },
+    {
+      "text": "reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.555543,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.550231,
+      "count": 1
+    },
+    {
+      "text": "Pruebas Adicionales",
+      "relevance": 0.546943,
+      "count": 1
+    },
+    {
+      "text": "Inscripciones via",
+      "relevance": 0.543434,
+      "count": 1
+    },
+    {
+      "text": "web de la informaci6n",
+      "relevance": 0.542895,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de PREGRADO",
+      "relevance": 0.540423,
+      "count": 1
+    },
+    {
+      "text": "Bienestar Universitario",
+      "relevance": 0.540177,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de Reserva de Cupo",
+      "relevance": 0.539507,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.538901,
+      "count": 4
+    },
+    {
+      "text": "Derechos Econ\u00e9micos",
+      "relevance": 0.529483,
+      "count": 2
+    },
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.528118,
+      "count": 1
+    },
+    {
+      "text": "Resultados de la Reinscripci6",
+      "relevance": 0.523895,
+      "count": 1
+    },
+    {
+      "text": "parte de Division Biblioteca",
+      "relevance": 0.52367,
+      "count": 1
+    },
+    {
+      "text": "citas via",
+      "relevance": 0.521845,
+      "count": 1
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.519813,
+      "count": 1
+    },
+    {
+      "text": "solicitudes via",
+      "relevance": 0.519697,
+      "count": 2
+    }
+  ]
+}

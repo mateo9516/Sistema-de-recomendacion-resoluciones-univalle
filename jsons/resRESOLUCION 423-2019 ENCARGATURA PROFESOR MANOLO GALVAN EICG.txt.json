@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 928,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.715196,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.649483,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.617238,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.604183,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.566497,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.526483,
+      "count": 1
+    },
+    {
+      "text": "mes de octubre",
+      "relevance": 0.499516,
+      "count": 1
+    },
+    {
+      "text": "Direccidn de la Escuela de Ingenieria Civil",
+      "relevance": 0.478396,
+      "count": 1
+    },
+    {
+      "text": "Profesor MANOLO GALVAN CEBALLOS",
+      "relevance": 0.472035,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.469447,
+      "count": 2
+    },
+    {
+      "text": "vacaciones del Profesor Alejandro Cruz",
+      "relevance": 0.464969,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.44732,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.441032,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.429353,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.42287,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.42287,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.42287,
+      "count": 1
+    },
+    {
+      "text": "MONCADA",
+      "relevance": 0.42287,
+      "count": 1
+    }
+  ]
+}

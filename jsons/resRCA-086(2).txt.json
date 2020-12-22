@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5214,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudiante presente",
+      "relevance": 0.766534,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.67249,
+      "count": 4
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.636042,
+      "count": 3
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.632496,
+      "count": 1
+    },
+    {
+      "text": "Resolucion del respectivo programa",
+      "relevance": 0.615022,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.600418,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.556106,
+      "count": 6
+    },
+    {
+      "text": "Investigacion de Maestria",
+      "relevance": 0.555226,
+      "count": 1
+    },
+    {
+      "text": "tesis de Doctorado sobresaliente",
+      "relevance": 0.552996,
+      "count": 1
+    },
+    {
+      "text": "Tesis de Doctorado",
+      "relevance": 0.549492,
+      "count": 3
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.539236,
+      "count": 1
+    },
+    {
+      "text": "sustentacion oral",
+      "relevance": 0.535498,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.534262,
+      "count": 1
+    },
+    {
+      "text": "solucion del problema",
+      "relevance": 0.533368,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Curriculo de Postgrado",
+      "relevance": 0.532469,
+      "count": 2
+    },
+    {
+      "text": "Trabajos de Investigacion de las Maestrias",
+      "relevance": 0.53224,
+      "count": 1
+    },
+    {
+      "text": "presente reglamento",
+      "relevance": 0.531552,
+      "count": 1
+    },
+    {
+      "text": "impacto social",
+      "relevance": 0.526367,
+      "count": 1
+    },
+    {
+      "text": "Estudios de Postgrado",
+      "relevance": 0.525739,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de nuevas investigaciones",
+      "relevance": 0.518282,
+      "count": 1
+    },
+    {
+      "text": "Consejo de la Facultad",
+      "relevance": 0.514355,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.51371,
+      "count": 1
+    },
+    {
+      "text": "dominio de la tematica de la investigacion",
+      "relevance": 0.51207,
+      "count": 1
+    },
+    {
+      "text": "trabajo escrito",
+      "relevance": 0.510544,
+      "count": 1
+    },
+    {
+      "text": "manera autOnoma procesos",
+      "relevance": 0.509937,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion",
+      "relevance": 0.508675,
+      "count": 4
+    },
+    {
+      "text": "area particular",
+      "relevance": 0.507168,
+      "count": 1
+    },
+    {
+      "text": "Salon de reuniones",
+      "relevance": 0.506824,
+      "count": 1
+    },
+    {
+      "text": "tiempo de duracidn",
+      "relevance": 0.506812,
+      "count": 1
+    },
+    {
+      "text": "fecha de su aprobacion.UNIVERSIDAD",
+      "relevance": 0.506726,
+      "count": 1
+    }
+  ]
+}

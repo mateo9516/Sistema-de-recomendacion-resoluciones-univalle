@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9908,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.623749,
+      "count": 1
+    },
+    {
+      "text": "Profesor Asistente",
+      "relevance": 0.60651,
+      "count": 7
+    },
+    {
+      "text": "Director Escuela",
+      "relevance": 0.592565,
+      "count": 3
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.55917,
+      "count": 44
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.554715,
+      "count": 1
+    },
+    {
+      "text": "VASQUEZ PALACIOS",
+      "relevance": 0.554071,
+      "count": 2
+    },
+    {
+      "text": "CIRO JARAMILLO MOLINAale",
+      "relevance": 0.539125,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.539077,
+      "count": 51
+    },
+    {
+      "text": "Profesor Escuela de Ingenieria Civil",
+      "relevance": 0.532535,
+      "count": 1
+    },
+    {
+      "text": "Sede Regional",
+      "relevance": 0.529137,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.52538,
+      "count": 1
+    },
+    {
+      "text": "YESID AGUILAR CASTRO",
+      "relevance": 0.524906,
+      "count": 2
+    },
+    {
+      "text": "RAUL ERNESTO GUTIERREZ",
+      "relevance": 0.524747,
+      "count": 1
+    },
+    {
+      "text": "JUAN MAUEL BARRAZA BURGOS",
+      "relevance": 0.520575,
+      "count": 1
+    },
+    {
+      "text": "JESUS CAMARGO AMADO",
+      "relevance": 0.518783,
+      "count": 1
+    },
+    {
+      "text": "anterior Comisi\u00e9n Acad\u00e9mica",
+      "relevance": 0.518176,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.51711,
+      "count": 1
+    },
+    {
+      "text": "Vicedecana Acad\u00e9mica Facultad",
+      "relevance": 0.516796,
+      "count": 1
+    },
+    {
+      "text": "PATRICIA TORRES LOZADAal",
+      "relevance": 0.515873,
+      "count": 1
+    },
+    {
+      "text": "ALEJANDRO CRUZ",
+      "relevance": 0.51587,
+      "count": 1
+    },
+    {
+      "text": "RUBY MEJIA RENTERIA",
+      "relevance": 0.513965,
+      "count": 2
+    },
+    {
+      "text": "ALVARO BERNAL NORENA",
+      "relevance": 0.513965,
+      "count": 1
+    },
+    {
+      "text": "Profesor Titular EEFACULTAD",
+      "relevance": 0.513782,
+      "count": 1
+    },
+    {
+      "text": "JAIME MOSQUERA RESTREPO",
+      "relevance": 0.512808,
+      "count": 2
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.510694,
+      "count": 2
+    },
+    {
+      "text": "JOHANNIO MARULANDA CASAS",
+      "relevance": 0.509237,
+      "count": 1
+    },
+    {
+      "text": "MERCEDES ANDRADE BEJARANO",
+      "relevance": 0.508618,
+      "count": 1
+    },
+    {
+      "text": "Representante EstudiantilFACULTAD",
+      "relevance": 0.508331,
+      "count": 1
+    },
+    {
+      "text": "Profesor EstadisticaFACULTAD",
+      "relevance": 0.508007,
+      "count": 1
+    },
+    {
+      "text": "FIDERMAN MACHUCA MARTINEZ",
+      "relevance": 0.506358,
+      "count": 1
+    }
+  ]
+}

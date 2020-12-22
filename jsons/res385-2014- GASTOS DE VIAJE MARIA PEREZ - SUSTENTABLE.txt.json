@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1456,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "TRANSPORTE LOCAL",
+      "relevance": 0.806681,
+      "count": 3
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.804298,
+      "count": 2
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE INTERMUNICIPAL",
+      "relevance": 0.765076,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.61258,
+      "count": 1
+    },
+    {
+      "text": "Docente Invitada",
+      "relevance": 0.57997,
+      "count": 1
+    },
+    {
+      "text": "PILAR PEREZ RESTREPO",
+      "relevance": 0.563538,
+      "count": 1
+    },
+    {
+      "text": "ruta Manizales",
+      "relevance": 0.561882,
+      "count": 1
+    },
+    {
+      "text": "Docente MARIA",
+      "relevance": 0.553956,
+      "count": 1
+    },
+    {
+      "text": "fondos de Ja Maestria",
+      "relevance": 0.534029,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.514716,
+      "count": 1
+    },
+    {
+      "text": "cl Consejo Superior",
+      "relevance": 0.511079,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.508475,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.495193,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte local",
+      "relevance": 0.495077,
+      "count": 1
+    },
+    {
+      "text": "tema de Gestion",
+      "relevance": 0.490074,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.479833,
+      "count": 3
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.475428,
+      "count": 2
+    },
+    {
+      "text": "Cali Manizales",
+      "relevance": 0.473967,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.445048,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.44437,
+      "count": 5
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.438761,
+      "count": 1
+    },
+    {
+      "text": "Docente MARIA DEL PILAR PEREZ",
+      "relevance": 0.430892,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.42367,
+      "count": 1
+    },
+    {
+      "text": "catedra",
+      "relevance": 0.423063,
+      "count": 1
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.419636,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.414411,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.412588,
+      "count": 2
+    },
+    {
+      "text": "Valle",
+      "relevance": 0.412588,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.412588,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.412588,
+      "count": 1
+    }
+  ]
+}

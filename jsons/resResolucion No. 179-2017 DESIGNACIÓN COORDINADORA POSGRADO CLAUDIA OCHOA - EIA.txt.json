@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 802,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIER",
+      "relevance": 0.767701,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.651872,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.622356,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.622356,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Mayo",
+      "relevance": 0.604939,
+      "count": 1
+    },
+    {
+      "text": "despacho de la Decanatura",
+      "relevance": 0.522052,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Alimentos",
+      "relevance": 0.504643,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.501283,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.497161,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria de Alimentos",
+      "relevance": 0.462665,
+      "count": 1
+    },
+    {
+      "text": "Coordinadora del Posgrado",
+      "relevance": 0.458343,
+      "count": 1
+    },
+    {
+      "text": "Profesora Claudia Isabel Ochoa Martinez",
+      "relevance": 0.457039,
+      "count": 1
+    },
+    {
+      "text": "VALLE",
+      "relevance": 0.451127,
+      "count": 1
+    },
+    {
+      "text": "ala Coordinadora del Posgrado de la Escuela",
+      "relevance": 0.44297,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.416169,
+      "count": 3
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.408285,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.400448,
+      "count": 1
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.396397,
+      "count": 1
+    },
+    {
+      "text": "afio",
+      "relevance": 0.396397,
+      "count": 1
+    }
+  ]
+}

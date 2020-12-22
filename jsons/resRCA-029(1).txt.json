@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 45560,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "carrera profesional",
+      "relevance": 0.658257,
+      "count": 1
+    },
+    {
+      "text": "nombre completo",
+      "relevance": 0.637172,
+      "count": 1
+    },
+    {
+      "text": "dedicacion de tiempo completo",
+      "relevance": 0.629724,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria de minimo",
+      "relevance": 0.604024,
+      "count": 30
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.591468,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria",
+      "relevance": 0.59135,
+      "count": 26
+    },
+    {
+      "text": "Titulo profesional",
+      "relevance": 0.576667,
+      "count": 5
+    },
+    {
+      "text": "Experiencia artistica de minimo",
+      "relevance": 0.576237,
+      "count": 1
+    },
+    {
+      "text": "Experiencia investigativa",
+      "relevance": 0.576105,
+      "count": 15
+    },
+    {
+      "text": "Medio Tiempo",
+      "relevance": 0.568978,
+      "count": 5
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.563097,
+      "count": 23
+    },
+    {
+      "text": "LingUistica Aplicada",
+      "relevance": 0.561151,
+      "count": 1
+    },
+    {
+      "text": "Medio Area",
+      "relevance": 0.553037,
+      "count": 2
+    },
+    {
+      "text": "Tiempo Completo",
+      "relevance": 0.551695,
+      "count": 8
+    },
+    {
+      "text": "Programa de Alternativa de Grado",
+      "relevance": 0.548605,
+      "count": 2
+    },
+    {
+      "text": "casos de experiencia Hora Catedra",
+      "relevance": 0.546067,
+      "count": 1
+    },
+    {
+      "text": "tiempo",
+      "relevance": 0.540426,
+      "count": 16
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.538634,
+      "count": 7
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.538557,
+      "count": 1
+    },
+    {
+      "text": "area de Canto",
+      "relevance": 0.537544,
+      "count": 1
+    },
+    {
+      "text": "cargos docentes",
+      "relevance": 0.536865,
+      "count": 7
+    },
+    {
+      "text": "Titulo de profesional",
+      "relevance": 0.533423,
+      "count": 1
+    },
+    {
+      "text": "afios de la Universidad del Valle",
+      "relevance": 0.532944,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.532932,
+      "count": 2
+    },
+    {
+      "text": "Experiencia profesional de minimo",
+      "relevance": 0.532909,
+      "count": 4
+    },
+    {
+      "text": "obtencion del titulo",
+      "relevance": 0.532411,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.530712,
+      "count": 1
+    },
+    {
+      "text": "Titulo de Maestria",
+      "relevance": 0.529774,
+      "count": 6
+    },
+    {
+      "text": "Area",
+      "relevance": 0.528297,
+      "count": 37
+    },
+    {
+      "text": "minimo",
+      "relevance": 0.527242,
+      "count": 12
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7009,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "investigacion de maestria",
+      "relevance": 0.693533,
+      "count": 4
+    },
+    {
+      "text": "tesis de doctorado",
+      "relevance": 0.649375,
+      "count": 6
+    },
+    {
+      "text": "trabajos de investigacion",
+      "relevance": 0.62717,
+      "count": 2
+    },
+    {
+      "text": "diferentes unidades acad\u00e9micas",
+      "relevance": 0.598444,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.587763,
+      "count": 1
+    },
+    {
+      "text": "publicacion de resultados",
+      "relevance": 0.579026,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.575092,
+      "count": 3
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.570758,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.565251,
+      "count": 1
+    },
+    {
+      "text": "numero total",
+      "relevance": 0.562579,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.555734,
+      "count": 4
+    },
+    {
+      "text": "sustentacion oral",
+      "relevance": 0.55053,
+      "count": 1
+    },
+    {
+      "text": "concepto argumentado",
+      "relevance": 0.548958,
+      "count": 1
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.547953,
+      "count": 1
+    },
+    {
+      "text": "ningun caso",
+      "relevance": 0.54512,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.544458,
+      "count": 2
+    },
+    {
+      "text": "calidad de las tesis",
+      "relevance": 0.542036,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mico correspondiente",
+      "relevance": 0.540618,
+      "count": 1
+    },
+    {
+      "text": "periodos acad\u00e9micos",
+      "relevance": 0.539287,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicaciones",
+      "relevance": 0.537022,
+      "count": 1
+    },
+    {
+      "text": "revista internacional",
+      "relevance": 0.53623,
+      "count": 5
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.533779,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Investigaciones",
+      "relevance": 0.531541,
+      "count": 1
+    },
+    {
+      "text": "sectores productivos",
+      "relevance": 0.530435,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.526998,
+      "count": 1
+    },
+    {
+      "text": "requisitos exigidos",
+      "relevance": 0.526985,
+      "count": 1
+    },
+    {
+      "text": "Copia de los resumenes",
+      "relevance": 0.522273,
+      "count": 1
+    },
+    {
+      "text": "impacto social",
+      "relevance": 0.522176,
+      "count": 1
+    },
+    {
+      "text": "sesion del dia",
+      "relevance": 0.522175,
+      "count": 1
+    },
+    {
+      "text": "revista nacional",
+      "relevance": 0.519891,
+      "count": 2
+    }
+  ]
+}

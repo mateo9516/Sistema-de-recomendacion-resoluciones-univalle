@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "perfeccionamiento acad\u00e9micos",
+      "relevance": 0.712203,
+      "count": 1
+    },
+    {
+      "text": "profesores oportunidades",
+      "relevance": 0.696038,
+      "count": 1
+    },
+    {
+      "text": "profesores de un tiempo de trabajo",
+      "relevance": 0.610327,
+      "count": 1
+    },
+    {
+      "text": "materia de desarrollo acad\u00e9mico",
+      "relevance": 0.60825,
+      "count": 1
+    },
+    {
+      "text": "comision de estudios podra",
+      "relevance": 0.583366,
+      "count": 1
+    },
+    {
+      "text": "mundo acad\u00e9mico",
+      "relevance": 0.577524,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.572517,
+      "count": 2
+    },
+    {
+      "text": "trav\u00e9s de estudios de posgrado",
+      "relevance": 0.558198,
+      "count": 1
+    },
+    {
+      "text": "beneficiarios de los estimulos acad\u00e9micos",
+      "relevance": 0.556731,
+      "count": 1
+    },
+    {
+      "text": "actividades de actualizacion",
+      "relevance": 0.554249,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.551281,
+      "count": 11
+    },
+    {
+      "text": "compromisos adquiridos",
+      "relevance": 0.550601,
+      "count": 2
+    },
+    {
+      "text": "profesores de carrera",
+      "relevance": 0.546534,
+      "count": 4
+    },
+    {
+      "text": "Director del Instituto Acad\u00e9mico",
+      "relevance": 0.542956,
+      "count": 2
+    },
+    {
+      "text": "reglamentacion de los estimulos acad\u00e9micos",
+      "relevance": 0.540329,
+      "count": 2
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.539875,
+      "count": 2
+    },
+    {
+      "text": "salario de puntos.UNIVERSIDAD",
+      "relevance": 0.537945,
+      "count": 1
+    },
+    {
+      "text": "profesores vinculados",
+      "relevance": 0.535716,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.531592,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas de politicas",
+      "relevance": 0.531388,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudios",
+      "relevance": 0.529531,
+      "count": 2
+    },
+    {
+      "text": "respectiva unidad acad\u00e9mica",
+      "relevance": 0.524968,
+      "count": 5
+    },
+    {
+      "text": "periodo acad\u00e9mico respectivo",
+      "relevance": 0.524255,
+      "count": 1
+    },
+    {
+      "text": "comisi6n de estudios",
+      "relevance": 0.523942,
+      "count": 3
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.523651,
+      "count": 2
+    },
+    {
+      "text": "estimulos acad\u00e9micos",
+      "relevance": 0.522256,
+      "count": 1
+    },
+    {
+      "text": "comisiOn otorgada",
+      "relevance": 0.521599,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.521402,
+      "count": 7
+    },
+    {
+      "text": "ultimos afios",
+      "relevance": 0.520302,
+      "count": 1
+    },
+    {
+      "text": "tiempo remunerado",
+      "relevance": 0.520081,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

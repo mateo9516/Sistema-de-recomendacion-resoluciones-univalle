@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 962,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.66595,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.636735,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.600893,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela",
+      "relevance": 0.568013,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Agosto",
+      "relevance": 0.55454,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.53975,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.53975,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica del Profesor Joao Luis Ealo Cuello",
+      "relevance": 0.490054,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.479934,
+      "count": 2
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.476702,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.460921,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.455507,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.450493,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.444828,
+      "count": 1
+    },
+    {
+      "text": "Agosto",
+      "relevance": 0.439834,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.439834,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.439834,
+      "count": 1
+    },
+    {
+      "text": "Oly",
+      "relevance": 0.439834,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.439834,
+      "count": 1
+    }
+  ]
+}

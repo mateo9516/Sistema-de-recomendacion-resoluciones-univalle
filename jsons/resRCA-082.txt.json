@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5073,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Ingenieria Civil",
+      "relevance": 0.633445,
+      "count": 2
+    },
+    {
+      "text": "sistemas estructurales",
+      "relevance": 0.606981,
+      "count": 1
+    },
+    {
+      "text": "gestion de modificacion de asignaturas",
+      "relevance": 0.599199,
+      "count": 1
+    },
+    {
+      "text": "numero de cr\u00e9ditos de la estructura",
+      "relevance": 0.597333,
+      "count": 1
+    },
+    {
+      "text": "Coordinaci\u00e9n de Postgrados de la Escuela",
+      "relevance": 0.571013,
+      "count": 1
+    },
+    {
+      "text": "objetivo fundamental de la Universidad",
+      "relevance": 0.560053,
+      "count": 1
+    },
+    {
+      "text": "actividades de diseno",
+      "relevance": 0.559087,
+      "count": 1
+    },
+    {
+      "text": "curriculo del Plan de Estudios",
+      "relevance": 0.555565,
+      "count": 2
+    },
+    {
+      "text": "normas de diseno",
+      "relevance": 0.54252,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci6",
+      "relevance": 0.540171,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.539648,
+      "count": 1
+    },
+    {
+      "text": "oferta de asignaturas",
+      "relevance": 0.538897,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.538016,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.536458,
+      "count": 5
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.536316,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.536142,
+      "count": 1
+    },
+    {
+      "text": "alto nivel t\u00e9cnico",
+      "relevance": 0.53449,
+      "count": 1
+    },
+    {
+      "text": "ASIGNATURAS CREDITOS",
+      "relevance": 0.534398,
+      "count": 1
+    },
+    {
+      "text": "plan de ESPECIALIZACION",
+      "relevance": 0.526164,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.525573,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.525036,
+      "count": 1
+    },
+    {
+      "text": "empresas de ingenieria de la construcci\u00e9n",
+      "relevance": 0.524062,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.523526,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9todos num\u00e9ricos modernos",
+      "relevance": 0.522714,
+      "count": 1
+    },
+    {
+      "text": "objetivo de la ESPECIALIZACION",
+      "relevance": 0.51802,
+      "count": 1
+    },
+    {
+      "text": "asignaturas electivas",
+      "relevance": 0.517721,
+      "count": 1
+    },
+    {
+      "text": "asignaturas obligatorias",
+      "relevance": 0.515653,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.51449,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.513535,
+      "count": 1
+    },
+    {
+      "text": "realidad ambiental",
+      "relevance": 0.512963,
+      "count": 1
+    }
+  ]
+}

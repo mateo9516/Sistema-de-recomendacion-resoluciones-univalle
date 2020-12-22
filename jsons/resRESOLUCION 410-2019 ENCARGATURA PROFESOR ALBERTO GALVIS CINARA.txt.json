@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 945,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.751738,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.659173,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.646514,
+      "count": 1
+    },
+    {
+      "text": "Direccidn del Instituto CINARA",
+      "relevance": 0.619142,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.581377,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.553429,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.518621,
+      "count": 1
+    },
+    {
+      "text": "Resolucidn No",
+      "relevance": 0.490442,
+      "count": 1
+    },
+    {
+      "text": "mes de septiembre",
+      "relevance": 0.466348,
+      "count": 1
+    },
+    {
+      "text": "Profesor ALBERTO GALVIS CASTANO",
+      "relevance": 0.457286,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.450502,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mica del profesor Luis Dario Sanchez Torres",
+      "relevance": 0.438991,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.424842,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.404071,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.404071,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.404071,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.404071,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.404071,
+      "count": 1
+    }
+  ]
+}

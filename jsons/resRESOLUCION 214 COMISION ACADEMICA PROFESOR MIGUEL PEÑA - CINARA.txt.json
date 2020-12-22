@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1922,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE VIATICOS",
+      "relevance": 0.761578,
+      "count": 2
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE TERRESTRE",
+      "relevance": 0.670749,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.659493,
+      "count": 1
+    },
+    {
+      "text": "fondos del Doctorado",
+      "relevance": 0.604155,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.604103,
+      "count": 1
+    },
+    {
+      "text": "literal fA del Articulo",
+      "relevance": 0.593024,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Ambientales",
+      "relevance": 0.579983,
+      "count": 1
+    },
+    {
+      "text": "transporte terrestre nacional",
+      "relevance": 0.551754,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.541738,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.539217,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.519833,
+      "count": 1
+    },
+    {
+      "text": "Secretaria Conspjo",
+      "relevance": 0.518486,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.513719,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.511871,
+      "count": 3
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.501386,
+      "count": 1
+    },
+    {
+      "text": "dfa martes",
+      "relevance": 0.501386,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Ambientales.FACULTAD",
+      "relevance": 0.500118,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.500108,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.49553,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA",
+      "relevance": 0.480264,
+      "count": 1
+    },
+    {
+      "text": "profesor MIGUEL RICARDO PENA VARON",
+      "relevance": 0.47445,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.473713,
+      "count": 1
+    },
+    {
+      "text": "HELENA PINZON CARDENAS MONICA PIEDAD CONSUE WV c",
+      "relevance": 0.471416,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.467694,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.466954,
+      "count": 1
+    },
+    {
+      "text": "Decana",
+      "relevance": 0.46317,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.46294,
+      "count": 1
+    },
+    {
+      "text": "QUINTO",
+      "relevance": 0.461877,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.456141,
+      "count": 3
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.455665,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+Universidad
+del Valle
+
+ 
+
+UNIVERSIDAD DEL VALLE
+CONSEJO ACADEMICO
+
+RESOLUCION No. 120
+Octubre 28 de 2014
+
+“Por la cual se reforma el Curriculo del Programa Académico ESTADISTICA”
+
+EL CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE,
+en uso de atribuciones legales y en especial las que le confiere
+el literal c) del Articulo 20 del Estatuto General y
+
+CONSIDERANDO:
+
+1. Que el Consejo Directivo de la Universidad del Valle, mediante la
+Resolucion 066 de Febrero de 1979, cred el Programa Académico
+ESTADISTICA;
+
+2. Que mediante resolucion 079 del 2002, el Consejo Académico aprobé la
+cuarta reforma al Programa Académico ESTADISTICA;
+
+3. Que el Ministerio de Educacion Nacional, mediante la Resolucion No.
+961 de Febrero de 2010 renovo la Acreditacion de alta calidad por 4
+afios al Programa Académico ESTADISTICA;
+
+4. Que es politica de la Universidad del Valle la revision permanente de
+los curriculos de sus programas académicos para actualizarlos no solo
+en términos de nuevos conocimientos tecnoldgicos sino también de
+nuevas tendencias pedagogicas y necesidades de formaci6on;
+
+5. Que el Consejo Superior de la Universidad del Valle mediante el
+Acuerdo 009 de mayo 26 de 2000 establece el marco de principios para
+la politica curricular y para el diseno, aprobacion, ejecucion,
+seguimiento y evaluacion de los programas de pregrado;
+
+6. Que el Consejo Académico, mediante la Resolucion No. 027 de marzo
+de 2001, reglamento el sistema de créditos para los Programas de
+Pregrado de la Universidad y establecid el numero de créditos que
+componen un Programa Académico de pregrado con duracion de 10
+semestres;UNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+7. Que el Comité de Programa Académico ESTADISTICA realizé la
+reforma curricular del Programa Académico de_ Estadistica,
+considerando los nuevos desafios, al igual que los avances tecnolégicos
+y metodologicos de la disciplina;
+
+8. Que el Consejo de Facultad de Ingenieria en su sesion No. 9 del 13 de
+mayo del 2014 acord6é recomendar ante el Consejo Académico la
+aprobacion del nuevo curriculo;
+
+RESUELVE:
+
+ARTICULO 1°. Aprobar la reforma del Programa Académico
+
+ESTADISTICA Cédigo 3752, adscrito a la Facultad de
+Ingenieria, el cual otorga el titulo de ESTADISTICO O ESTADISTICA a los
+estudiantes que hayan aprobado los requisitos definidos en la presente
+resolucion.
+
+De la Justificaci6n
+
+ARTICULO 2°. El abandono del paradigma determinista de las ciencias y
+
+la creciente conciencia de que en todos los fendémenos
+naturales y sociales esta presente la variabilidad aleatoria irreducible, hacen
+que la disciplina de la Estadistica sea una componente fundamental para el
+desarrollo del conocimiento, y que el pais y la regién requieran de la
+formacion de Estadisticos/Estadisticas que contribuyan al desarrollo social,
+economico, cientifico y tecnologico, a través de la solucion de problemas que
+requieren de la planeaci6n, obtencion, procesamiento, modelacion y analisis
+de la informaci6n resultante, que integrado a una reflexion contextual
+soporten los procesos de toma de decisiones.
+
+De los objetivos
+ARTICULO 3°. Los objetivos generales y especificos son los siguientes:
+Objetivo General:
+
+Formar profesionales integros, con dominio de las herramientas tedricas
+actuales que soportan la estadistica y las herramientas
+informaticas/tecnologicas que viabilizan su aplicacion, capaces de interactuar
+con profesionales de otros campos del conocimiento, al enfrentar problemas
+de su ejercicio con una vision integral de los fenomenos y una amplia
+fundamentacion y vision estadistica, social, economica, ambiental y cultural,
+que contribuya desde su ejercicio profesional con el desarrollo de la region, de
+la nacion y de su disciplina.UNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+Objetivos Especificos:
+
+a) De desarrollo personal.
+
+co
+
+Brindar al estudiante los elementos que le permitan desempenarse como
+persona y ciudadano, con conciencia de la necesidad de defender el medio
+ambiente y los recursos publicos, con respeto hacia los derechos
+humanos y los derechos colectivos, privilegiando el dialogo, la
+argumentacion y la razon como instrumentos en la evaluacion de los
+diferentes problemas disciplinarios e interdisciplinarios y la superacion de
+conflictos.
+
+Generar en el estudiante la capacidad de analisis critico de las
+situaciones de su entorno y reconocerse como parte indispensable de la
+sociedad.
+
+Ofrecer las herramientas necesarias para que el egresado de estadistica
+forje un futuro como profesional con vinculacion efectiva al medio laboral.
+
+Generar en el estudiante la capacidad de autocritica y la motivacién para
+establecer estrategias propias de autoevaluacion conducentes a un
+mejoramiento continuo.
+
+b) De Formaci6n Técnica:
+
+El Programa Académico ESTADISTICA se propone brindar a sus estudiantes
+las herramientas técnicas y metodologicas que le permitan desarrollar las
+capacidades para:
+
+oO
+
+Procesar y analizar cualquier tipo de datos estadisticos, utilizando
+paquetes y programas de computacién.
+
+Dirigir, organizar, estructurar y administrar oficinas o departamentos de
+Estadistica en empresas privadas o del Estado, cualquiera que sea su
+objetivo.
+
+Trabajar interdisciplinariamente con otros profesionales (médicos,
+bidlogos, economistas, administradores, ingenieros, etc.) disefando,
+organizando y ejecutando proyectos de investigacion y en general en la
+obtencion y analisis de informacion que le permitan generar informes
+estadisticos sobre fendmenos para la toma acertada de decisiones.
+
+Trabajar como asesor o consultor estadistico (individual o en forma
+colectiva) en: Diseno y analisis de experimentos y su modelacion
+estadistica, implementacion de sistemas de control de calidad y
+pronosticos de fenomenos aleatorios.
+
+Participar en la planeacion, control y evaluacion de proyectos econdmicos
+y sociales a escala regional y nacional.
+
+Simular y/o optimizar sistemas industriales, bioldgicos, etc.UNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+o Estimar, evaluar y validar indicadores relacionados con actividades o
+programas de intervencion de diferente indole y nivel.
+
+co Encontrar patrones de comportamiento de fenodmenos que involucren la
+variabilidad como componente fundamental.
+
+o Disefar, organizar, ejecutar y analizar estudios con encuestas utilizando
+métodos de muestreo, para multiples finalidades.
+
+co Disefar, implementar y evaluar programas experimentales sobre cambios
+tecnologicos en el ambito industrial, comercial, administrativo, de
+servicios, entre otros.
+
+c) De desarrollo profesional.
+
+co Fomentar la actitud adecuada, para que el estudiante asuma el trabajo
+intelectual con creatividad, responsabilidad y la sensibilidad para que
+comprenda desde su profesién de las realidades de la region y del pais,
+procurando soluciones a los problemas nacionales, con base en un
+adecuado manejo de la metodologia estadistica y sus habilidades
+profesionales.
+
+co Desarrollar la capacidad de llevar a la practica el conocimiento adquirido,
+aplicando su saber intelectual a la explicacion y solucion de problemas
+concretos.
+
+co Desarrollar la capacidad de trabajo interdisciplinario con las diferentes
+areas del conocimiento, a través de una mirada holistica de los
+fenomenos.
+
+co Fomentar la adecuada comunicacion de sus resultados a través del
+lenguaje oral y escrito.
+
+Del Perfil Profesional
+
+ARTICULO 4°. El Estadistico de la Universidad del Valle sera un
+
+profesional con una solida formacion basica en la
+teoria y la practica de la Estadistica, capaz de interactuar con otros campos
+del conocimiento al enfrentar los problemas de su ejercicio profesional con
+una vision integral de los fenomenos y una amplia fundamentacion y vision
+estadistica, social, econdmica, ambiental, cultural y técnica.
+
+Del Perfil Ocupacional
+
+ARTICULO 5°. El Estadistico de la Universidad del Valle puede
+desempefnarse en areas como:UNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+oc
+
+Investigacién: Diseno de procedimientos de recoleccién de informacion.
+Establecimiento de Metodologias de Analisis de datos. Coordinacion de
+trabajo de datos. Modelacion de fendmenos.
+
+Meteorologia y Control Ambiental: Prediccion y evaluacion del
+comportamiento de variables climaticas. Construccién y seguimiento a
+indicadores de control ambiental. Evaluacion de alternativas para la
+sostenibilidad y remediacion del medio ambiente.
+
+Epidemiologia y Salud Publica: Analisis de la Frecuencia y costo de
+accidentes, de enfermedades e invalidez, problemas de atenci6n y
+programas de salud publica. Epidemiologia, investigacion basica,
+diagnostico, tratamiento y prevencion de enfermedades. Supervivencia y
+ensayos clinicos.
+
+Educaci6on: Docencia secundaria y universitaria. Apoyo a los procesos de
+diagnostico de la educacion.
+
+Psicometria: Creacion de escalas e instrumentos de medicion. Valoracion
+de Aptitudes y caracteristicas de la personalidad. Validacion de
+instrumentos. Diseho y analisis de experimentos sobre la conducta
+humana.
+
+Consultoria: Diseno de encuestas por muestreo, Evaluacion de clima
+organizacional, procesamiento de datos.
+
+Industria: Diseno y pruebas de rendimiento, analisis de confiabilidad,
+métodos para el control de procesos y productos. Evaluacion de la
+producci6on, pronostico de ventas, control de inventarios y procedimientos
+de auditoria.
+
+Investigacién de Mercados: Caracterizacion de habitos de compra,
+estudios de preferencia, segmentacion de mercados.
+
+Biologia: Diseno de experimentos con seres vivos: plantas y animales,
+disefios de muestreo complejos sobre poblaciones dinamicas.
+
+Agricultura: Planificacion y prediccion, Optimizacion de procesos.
+
+Economia y Finanzas: Medicion de produccion, precios, volamenes de
+transacciones y nivel de vida, conducta de los consumidores y
+productores. Caracterizacién de clientes, modelos de clasificacion de
+riesgo. Administracion y Gestion del Riesgo Operativo. Evaluacion de la
+incertidumbre en las decisiones.
+
+De la Estructura Curricular
+
+ARTICULO 6° El Programa Académico de ESTADISTICA, Cédigo 3752,
+
+tiene una duracion de diez (10) semestres, se ofrece
+
+anualmente con modalidad presencial, en la jornada diurna a un cupo de 1006
+
+UNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+estudiantes. Exige un minimo de 153 créditos, distribuidos asi:
+
+ 
+
+ 
+
+Tipo de asignatura Créditos _ Porcentaje
+Asignaturas Basicas Obligatorias (ABO) 76 49,7%
+Asignaturas Profesionales (APO) 52
+
+Obligatorias 34,0%
+Asignaturas Electivas (AEC) 10
+Complementarias 6,5%
+Asignaturas Electivas Profesionales (AEP) 15 9,8%
+
+ 
+
+El plan curricular del Programa Académico ESTADISTICA presenta la
+siguiente distribucion por tipos de asignaturas, componentes y créditos.
+
+Asignaturas Basicas Obligatorias (76 Créditos)
+
+i. Componente de Matematica.
+Asignatura Créditos
+
+Matematica Fundamental
+Calculo I
+Calculo II
+Calculo III
+Algebra Lineal
+Algebra Lineal Avanzada
+Matematicas para
+Estadisticos
+Total
+
+ 
+
+ 
+
+WWwWwwwtaw
+
+ 
+
+N
+N
+
+ 
+
+ii. Componente de Probabilidad y Estadistica
+Asignatura Créditos
+Introduccion a la estadistica
+Estadistica descriptiva
+Calculo de probabilidades I
+Calculo de probabilidades II
+Introduccion a los Métodos
+Estadisticos
+Estadistica Matematica 4
+Total 22
+
+ 
+
+ 
+
+wOhAAW
+
+ 
+
+ 
+
+iii. Componente de Programacion Estadistica y Gestion de la Informacion.
+Asignatura Créditos
+Algoritmia y Programacion
+Procesamiento de datos
+Gestion de bases de datos
+Simulacion estadistica
+Total 12
+
+ 
+
+ 
+
+WwnwwUNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+iv. Componente de Formacién complementaria
+
+Subcomponente de Formacién Social.
+
+ 
+
+ 
+
+ 
+
+Asignatura Créditos
+Introduccion a las Ciencias 2
+Sociales
+Medio Ambiente y 3
+Constituci6n Politica
+Teoria General de Sistemas 3
+Total 8
+
+ 
+
+Subcomponente de Formacién Econdmico-Administrativa.
+
+ 
+
+ 
+
+ 
+
+Asignatura Créditos
+Fundamentos de Economia 3
+Gestion de Proyectos 3
+Total 6
+
+ 
+
+Subcomponente Formacion Segundo Idioma.
+
+ 
+
+ 
+
+ 
+
+Asignatura Créditos
+Comprension en Ingles I 3
+Comprension en Ingles II 3
+Total 6
+
+ 
+
+Asignaturas Electivas Complementarias (10 créditos)
+
+ 
+
+ 
+
+ 
+
+Asignatura Créditos
+Electiva complementaria I 3
+Electiva complementaria II 3
+Electiva complementaria III 2
+Electiva complementaria IV 2
+Total 10
+
+ 
+
+Asignaturas Profesionales Obligatorias (52 Créditos)
+
+i. Componente de Probabilidad y Estadistica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Asignatura Créditos
+Estadistica No Paramétrica 3
+Procesos estocasticos 3
+Estadistica bayesiana 8
+Total 9
+iii Componente de Profesionalizacion en Estadistica.
+Asignatura Créditos
+Modelo Lineal General I 4
+
+Modelo Lineal General II 3UNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+ 
+
+Series de Tiempo y 3
+
+Pronostico
+
+Analisis Multivariante 3
+
+Disenio y Analisis de 4
+
+experimentos
+
+Muestreo Estadistico 4
+
+Total 21
+
+ 
+
+iii. Componente de Investigacion y Contexto Profesional en Estadistica.
+Asignatura Créditos
+
+Estadistica aplicada I
+Estadistica aplicada II
+Estadistica aplicada III
+Consultoria Estadistica
+Seminario
+Anteproyecto de grado
+Trabajo de grado I
+Trabajo de grado II
+Total
+
+ 
+
+ 
+
+ 
+
+Nlornwwwww
+
+ 
+
+Asignaturas Electivas Profesionales (15 créditos)
+
+Asignatura Créditos
+Electiva profesional I
+Electiva profesional II
+Electiva profesional III
+Electiva profesional IV
+Electiva profesional V
+Total
+
+ 
+
+ 
+
+Wwwww
+
+ 
+
+ay
+a
+
+ 
+
+PARAGRAFO 1°. Las Asignaturas Electivas Complementarias. El
+
+estudiante debe cursar un minimo de cuatro (4)
+Electivas Complementarias, con una equivalencia minima de diez (10)
+créditos. Una de las asignaturas en la tematica de la salud y la cultura fisica.
+Las tres restantes pueden ser seleccionadas entre las siguientes areas:
+
+Arte y Cultura.
+
+Desarrollo y Bienestar Personal.
+Liderazgo, Innovacion y Emprendimiento.
+Comprension y Redaccion de Textos.
+Elementos de Comunicacién.
+
+Sociedad y Problemas Colombianos.
+Tecnologia, Industria y Medio Ambiente.
+Etnicidad y Cultura.
+
+VVVVVV VVUNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+PARAGRAFO 2°. Espafiol y Etica. Es obligatorio para todos los
+
+estudiantes que ingresen a la Universidad del Valle
+presentar un examen de clasificacion en Espanol. Aquellos Estudiantes que
+no lo aprueben deberan, dentro de los 10 créditos de asignaturas electivas
+complementarias, cursar y aprobar una asignatura correspondiente al area de
+Comprensio6n y Redaccién de Textos. La formacién en Etica se incluye en el
+desarrollo del Programa Académico como tematica transversal en las
+asignaturas propias de la carrera.
+
+PARAGRAFO 3°. Comprensién del Idioma Ingles. Los estudiantes
+
+del Programa Académico ESTADISTICA como
+requisito para grado, deberan acreditar las competencias equivalentes a un
+nivel de dominio B1 del idioma ingles, segun el Marco Comun Europeo de
+Referencia. Para acreditar las competencias el estudiante podra optar por
+cursar las asignaturas ofrecidas por la Escuela de Ciencias del Lenguaje (6
+créditos) o presentar un examen de certificacion que valide sus competencias.
+
+PARAGRAFO 4°. Las Asignaturas Electivas Profesionales: Los
+
+estudiantes deben aprobar un minimo de quince
+15) créditos de electivas profesionales, elegidas desde las siguientes lineas de
+profundizacion: Estadistica e Industria, Métodos Estadisticos para la Salud,
+Estadistica y Economia, Métodos Estadisticos Avanzados, Métodos
+Computacionales, Practica Profesional y aquellas que el Comité de Programa
+considere validas como electivas profesionales.
+
+PARAGRAFO 5°. La Practica Profesional. Los estudiantes podran
+
+optar por la realizacion de una Practica Profesional
+con duracién minima de 320 horas, durante un semestre académico, la cual
+podra ser homologada por seis (6) créditos de electivas profesionales. El
+Comité del Programa Académico ESTADISTICA reglamentara los aspectos
+particulares para la realizacion de la Practica profesional.
+
+PARAGRAFO 6°. Los Prerrequisitos. Las Unidades Académicas que
+ofrecen las asignaturas que conforman el Plan de
+Estudios estableceran los prerrequisitos y demas caracteristicas de las
+asignaturas, respondiendo a criterios de flexibilidad curricular. El Comité del
+Programa Académico sera consultado en la definicion de los prerrequisitos.
+
+PARAGRAFO 7°. El Trabajo de Grado. El] Trabajo de Grado, de
+
+acuerdo con la reglamentacion del Consejo de
+Facultad de Ingenieria, esta conformado por tres asignaturas: Anteproyecto de
+Grado con dos (2) créditos, Trabajo de Grado I con dos (2) créditos y Trabajo
+de Grado II con tres (3) créditos. Las alternativas para este trabajo de grado
+seran las establecidas por el Consejo de la Facultad de Ingenieria y
+reglamentadas por el Comité de programa.UNIVERSIDAD DEL VALLE
+Resolucién No. 120-2014 Consejo Académico
+
+PARAGRAFO 8o. El reconocimiento académico de otras actividades. El
+Comité de Programa Académico ESTADISTICA definira, con el visto bueno del
+Consejo de la Facultad de Ingenieria, aquellas actividades que sin estar
+enmarcadas en el Plan Curricular podran ser reconocidas académicamente.
+
+De la aplicacién de esta Resolucién
+
+ARTICULO 7°. La presente Resolucion rige para los estudiantes que
+
+ingresen a la _ Universidad del Valle, al Programa
+Académico ESTADISTICA por admision regular a partir del primer semestre
+del 2016.
+
+PARAGRAFO 1°. Para los casos de reingreso, traslado o transferencia, el
+Comité de Programa decidira la resoluci6n que lo rige para
+completar los créditos que le permitan ser candidato a grado,.
+
+PARAGRAFO 2°. Los estudiantes que ingresen o hayan ingresado al
+programa antes del primer semestre del 2016 podran
+
+acogerse a este nuevo curriculo. En tal caso, el Comité de Program Académico
+
+ESTADISTICA establecera las equivalencias correspondientes.
+
+PARAGRAFO 3°. Se anexa a la presente resolucion el esquema secuencial
+para el desarrollo del Plan Curricular.
+
+COMUNIQUESE, PUBLIQUESE Y CUMPLASE
+
+Dado en Santiago de Cali, en el salon de reuniones del Consejo Académico,
+Torre Institucional, a los 28 dias de octubre de 2014.
+
+El Presidente,
+
+IVAN ENRIQUE RAMOS CALDERON
+Rector
+
+LUIS ALBERTO HERRERA RAMIREZ
+Secretario Generalll
+
+ 
+
+i
+
+| dwo9 ennra/3
+
+ 
+
+Hopelg ap gel
+
+jopeip ap ges
+
+opes8
+ap oyahaidaquy
+
+SeWiaIsiS
+ap |e19 eu03 |
+
+soy2@holg
+ap uogsag
+
+‘A duo} eni999)3
+
+0s selaual)
+@ uoloonpoxquy
+
+  
+
+ 
+
+BS)
+
+‘7
+
+: ea
+
+:
+
+‘a
+
+ 
+
+ua ugisuaidwo?
+
+[<a
+
+i
+
+ 
+
+ua ugisuasdwio?,
+
+ 
+
+ 
+
+A
+[euolsajoug eannaly
+
+Jeuo|sayalg engoa]a
+
+ODNSOUOLg
+Aodwaty ap sauas
+
+so919se00}s3
+s0sa204q
+
+oonsipeysy
+oaljsany\,
+
+ 
+
+soeg
+lap saseg ap uonsag
+
+s0jeq
+ap aqualiesaoig
+
+Ij dwiop enna)
+
+| do} enoay
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Propuesta de Nueva Estructura Curricular Programa Academico de Estadistica — 2015
+
+Resolucién No. 120-2014 Consejo Académico
+
+UNIVERSIDAD DEL VALLE
+
+N i aqeUeAgINA, eouguieded {I Pepyigeqard | pepijigeqosd gisewelsog ugranyg suo)
+
+Jeuoisajoug ennoa|z] — | jeuo!sajoig eAg2a/3 1SsI]eUyy ON e01)SIpe}S3 ap ojnaje) ap ojnaje) Aewuquosiy Aaquaiquiy o1payy,
+ab
+\ ee tase (Pe eA Jeaury eigadiy engduasag 3s3 eom3sipeys3 e| eu)
+Jeuo|sajoug eng2aiq Jeaur ojapow Jeaur o}apoyy SOpovaiN
+Ml i | Jequawepuny
+oueuIuas MI O;n9|29 Hoynaje9 1o;n9|e9
+epeaiidy eogsipeysg] Jepeaydy eansipeisa] jepeaijdy eansipeysg eonewiayey
+a |: ae: a |:
+asysawias X auysawias xX) ‘B44SIWAS [IIA BASIWAS IIA ‘BAysowias |, ‘aNsawias A) 814S9WAS ||| auysaweas || asysawias |

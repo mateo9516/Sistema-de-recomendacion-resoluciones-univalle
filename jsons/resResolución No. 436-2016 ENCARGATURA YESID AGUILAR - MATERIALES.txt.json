@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 985,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.688977,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.668089,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.651344,
+      "count": 1
+    },
+    {
+      "text": "CARLOS AR",
+      "relevance": 0.639861,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela de Ingenieria",
+      "relevance": 0.639679,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.635882,
+      "count": 1
+    },
+    {
+      "text": "Coordinador del Programa de Posgrados",
+      "relevance": 0.601229,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.55636,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.55336,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.505812,
+      "count": 1
+    },
+    {
+      "text": "mes de Octubre",
+      "relevance": 0.50488,
+      "count": 1
+    },
+    {
+      "text": "Profesor YESID AGUILAR CASTRO",
+      "relevance": 0.479289,
+      "count": 2
+    },
+    {
+      "text": "comision acad\u00e9mica de la Profesora Ruby Mejia",
+      "relevance": 0.468816,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.454381,
+      "count": 1
+    },
+    {
+      "text": "Dor",
+      "relevance": 0.445549,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.436281,
+      "count": 2
+    },
+    {
+      "text": "Veintiseis",
+      "relevance": 0.434391,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.428799,
+      "count": 1
+    },
+    {
+      "text": "ai",
+      "relevance": 0.428799,
+      "count": 1
+    },
+    {
+      "text": "Val",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "Materiales",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.426312,
+      "count": 1
+    },
+    {
+      "text": "mail",
+      "relevance": 0.426312,
+      "count": 1
+    }
+  ]
+}

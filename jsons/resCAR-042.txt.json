@@ -1,0 +1,95 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 713,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.691657,
+      "count": 1
+    },
+    {
+      "text": "Consejos de Facultad",
+      "relevance": 0.688582,
+      "count": 2
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.668236,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del Consejo",
+      "relevance": 0.586739,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.577669,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Regionalizaci\u00e9n",
+      "relevance": 0.573173,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.562458,
+      "count": 1
+    },
+    {
+      "text": "modificaciones de notas de los Programas Acad\u00e9micos",
+      "relevance": 0.493098,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.446958,
+      "count": 1
+    },
+    {
+      "text": "Salud",
+      "relevance": 0.444288,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.421987,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.41237,
+      "count": 1
+    },
+    {
+      "text": "autorizaci6",
+      "relevance": 0.412238,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.405529,
+      "count": 1
+    },
+    {
+      "text": "manejo",
+      "relevance": 0.405529,
+      "count": 1
+    },
+    {
+      "text": "Presidente",
+      "relevance": 0.405529,
+      "count": 1
+    },
+    {
+      "text": "Facultad",
+      "relevance": 0.394873,
+      "count": 1
+    }
+  ]
+}

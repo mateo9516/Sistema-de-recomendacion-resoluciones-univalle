@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 903,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.707899,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n del Instituto Cinara",
+      "relevance": 0.671714,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.626987,
+      "count": 1
+    },
+    {
+      "text": "literal f del Articulo",
+      "relevance": 0.625012,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.599039,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.520436,
+      "count": 1
+    },
+    {
+      "text": "Profesor ALBERTO GALVIS",
+      "relevance": 0.516528,
+      "count": 1
+    },
+    {
+      "text": "mes de Enero",
+      "relevance": 0.503836,
+      "count": 1
+    },
+    {
+      "text": "CARLOS RO LOZANO MONCADA",
+      "relevance": 0.486751,
+      "count": 1
+    },
+    {
+      "text": "Profesor ALBERTO GALVIS CASTANO",
+      "relevance": 0.485895,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.472501,
+      "count": 2
+    },
+    {
+      "text": "Profesor Luis Dario Sanchez Torres",
+      "relevance": 0.463047,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.461549,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.458165,
+      "count": 1
+    },
+    {
+      "text": "fa",
+      "relevance": 0.453883,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.453883,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.448584,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.439776,
+      "count": 1
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.433254,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.433254,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.433254,
+      "count": 1
+    },
+    {
+      "text": "Alberto.galvis@correounivalle.edu.co",
+      "relevance": 0.433254,
+      "count": 1
+    },
+    {
+      "text": "CASTANO",
+      "relevance": 0.426993,
+      "count": 1
+    }
+  ]
+}

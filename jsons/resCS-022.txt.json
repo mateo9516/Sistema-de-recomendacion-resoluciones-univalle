@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 25534,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "asignaci\u00e9n de las actividades acad\u00e9micas",
+      "relevance": 0.720601,
+      "count": 1
+    },
+    {
+      "text": "trabajo acad\u00e9mico",
+      "relevance": 0.652867,
+      "count": 3
+    },
+    {
+      "text": "asignaci\u00e9n acad\u00e9mica",
+      "relevance": 0.603765,
+      "count": 3
+    },
+    {
+      "text": "trabajo acad\u00e9mico de los profesores",
+      "relevance": 0.593388,
+      "count": 1
+    },
+    {
+      "text": "asignacion del trabajo acad\u00e9mico de los profesores",
+      "relevance": 0.578796,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.573314,
+      "count": 7
+    },
+    {
+      "text": "hora catedra",
+      "relevance": 0.572305,
+      "count": 1
+    },
+    {
+      "text": "efectos cuantitativos",
+      "relevance": 0.571791,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n de sus profesores",
+      "relevance": 0.562422,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.560884,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.559535,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n de trabajo anual",
+      "relevance": 0.543995,
+      "count": 1
+    },
+    {
+      "text": "concepcidn integral del desarrollo",
+      "relevance": 0.543921,
+      "count": 1
+    },
+    {
+      "text": "tipos de programas de trabajo",
+      "relevance": 0.539618,
+      "count": 1
+    },
+    {
+      "text": "tiempo total",
+      "relevance": 0.537837,
+      "count": 2
+    },
+    {
+      "text": "distribucidn de las actividades de los profesores",
+      "relevance": 0.536176,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n acad\u00e9mica de un profesor",
+      "relevance": 0.535929,
+      "count": 1
+    },
+    {
+      "text": "proyectos de investigacidn",
+      "relevance": 0.535853,
+      "count": 2
+    },
+    {
+      "text": "desarrollo del trabajo colectivo",
+      "relevance": 0.53324,
+      "count": 1
+    },
+    {
+      "text": "categoria de los profesores",
+      "relevance": 0.53269,
+      "count": 1
+    },
+    {
+      "text": "programas de cursos",
+      "relevance": 0.532405,
+      "count": 1
+    },
+    {
+      "text": "actividades",
+      "relevance": 0.531571,
+      "count": 15
+    },
+    {
+      "text": "calculo de horas",
+      "relevance": 0.53152,
+      "count": 1
+    },
+    {
+      "text": "multiplicador de docencia",
+      "relevance": 0.531298,
+      "count": 4
+    },
+    {
+      "text": "sede regional",
+      "relevance": 0.529992,
+      "count": 1
+    },
+    {
+      "text": "director del instituto acad\u00e9mico",
+      "relevance": 0.527855,
+      "count": 1
+    },
+    {
+      "text": "talleres de caracter especial.UNIVERSIDAD",
+      "relevance": 0.526706,
+      "count": 1
+    },
+    {
+      "text": "evaluacidn de la asignacidn acad\u00e9mica",
+      "relevance": 0.525331,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.524724,
+      "count": 3
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.524643,
+      "count": 3
+    }
+  ]
+}

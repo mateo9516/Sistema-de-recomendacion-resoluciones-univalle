@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 991,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.791857,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.668304,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.589285,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.583883,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.522467,
+      "count": 1
+    },
+    {
+      "text": "mes de Junio",
+      "relevance": 0.499047,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela de Ingenieria Civil",
+      "relevance": 0.489868,
+      "count": 1
+    },
+    {
+      "text": "LOZANO MONCADA MONICA CONSUEGRA CA",
+      "relevance": 0.488521,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales conferidas",
+      "relevance": 0.475667,
+      "count": 1
+    },
+    {
+      "text": "Profesor DIEGO DUQUE ARANGO",
+      "relevance": 0.466699,
+      "count": 2
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.455507,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.454811,
+      "count": 1
+    },
+    {
+      "text": "Decano",
+      "relevance": 0.443172,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.435963,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.43503,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.433164,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.433164,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.433164,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.433164,
+      "count": 1
+    }
+  ]
+}

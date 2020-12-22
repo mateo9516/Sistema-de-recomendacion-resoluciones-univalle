@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5669,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Tecnologia Quimica",
+      "relevance": 0.735084,
+      "count": 2
+    },
+    {
+      "text": "Total Facultad",
+      "relevance": 0.689459,
+      "count": 1
+    },
+    {
+      "text": "Total Instituto de Educaci\u00e9n",
+      "relevance": 0.620536,
+      "count": 1
+    },
+    {
+      "text": "CIENCIAS NATURALES",
+      "relevance": 0.607661,
+      "count": 5
+    },
+    {
+      "text": "FACULTAD DE HUMANIDADES",
+      "relevance": 0.593784,
+      "count": 1
+    },
+    {
+      "text": "Total Facultad de Ciencias Naturales",
+      "relevance": 0.593265,
+      "count": 1
+    },
+    {
+      "text": "Total Facultad de Ingenieria",
+      "relevance": 0.593177,
+      "count": 1
+    },
+    {
+      "text": "Oferta de Programas Acad\u00e9micos",
+      "relevance": 0.58308,
+      "count": 1
+    },
+    {
+      "text": "admision del periodo Agosto",
+      "relevance": 0.578373,
+      "count": 1
+    },
+    {
+      "text": "Pruebas Adicionales de Aptitud",
+      "relevance": 0.578031,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Topografica",
+      "relevance": 0.561394,
+      "count": 1
+    },
+    {
+      "text": "Total cupos Ofrecidos",
+      "relevance": 0.551693,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de pregrado",
+      "relevance": 0.551327,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Sociales",
+      "relevance": 0.540178,
+      "count": 3
+    },
+    {
+      "text": "Terapia Ocupacional",
+      "relevance": 0.538845,
+      "count": 1
+    },
+    {
+      "text": "Comercio Exterior",
+      "relevance": 0.538845,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Materiales",
+      "relevance": 0.532648,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.532544,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD DE CIENCIAS DE LA ADMINISTRACION",
+      "relevance": 0.531902,
+      "count": 1
+    },
+    {
+      "text": "Gestion Ejecutiva",
+      "relevance": 0.531901,
+      "count": 2
+    },
+    {
+      "text": "siguiente Oferta Acad\u00e9mica",
+      "relevance": 0.531743,
+      "count": 1
+    },
+    {
+      "text": "resultados del Examen de Estado",
+      "relevance": 0.531499,
+      "count": 3
+    },
+    {
+      "text": "Licenciatura",
+      "relevance": 0.528152,
+      "count": 19
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.52532,
+      "count": 1
+    },
+    {
+      "text": "excepcion de los Programas",
+      "relevance": 0.523755,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.523351,
+      "count": 1
+    },
+    {
+      "text": "Educacion Basica",
+      "relevance": 0.521479,
+      "count": 6
+    },
+    {
+      "text": "Trabajo Social 50UNIVERSIDAD",
+      "relevance": 0.520441,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Sistemas",
+      "relevance": 0.517941,
+      "count": 1
+    },
+    {
+      "text": "Disefio Industrial",
+      "relevance": 0.516047,
+      "count": 1
+    }
+  ]
+}

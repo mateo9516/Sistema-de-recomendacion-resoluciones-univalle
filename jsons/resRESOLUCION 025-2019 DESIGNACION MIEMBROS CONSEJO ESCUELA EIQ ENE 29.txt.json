@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1091,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Representante de los profesores",
+      "relevance": 0.815238,
+      "count": 1
+    },
+    {
+      "text": "Profesor Gustavo Eduardo Bolajios Barrera",
+      "relevance": 0.704562,
+      "count": 1
+    },
+    {
+      "text": "Profesor Rub\u00e9n Jesus Camargo Amado",
+      "relevance": 0.647849,
+      "count": 1
+    },
+    {
+      "text": "Profesor Howard Diego Ramirez Malule",
+      "relevance": 0.571104,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.553456,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.541073,
+      "count": 1
+    },
+    {
+      "text": "miembros del Consejo de la Escuela",
+      "relevance": 0.527706,
+      "count": 1
+    },
+    {
+      "text": "Profesor Juan Sebastian Guerrero P\u00e9rez",
+      "relevance": 0.526102,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.51022,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.51022,
+      "count": 1
+    },
+    {
+      "text": "siguientes designaciones",
+      "relevance": 0.493408,
+      "count": 1
+    },
+    {
+      "text": "URO LOZANO MONCADA",
+      "relevance": 0.487959,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Quimica",
+      "relevance": 0.482636,
+      "count": 1
+    },
+    {
+      "text": "Literal g",
+      "relevance": 0.478798,
+      "count": 1
+    },
+    {
+      "text": "Profesor Juan Manuel Barraza Burgos",
+      "relevance": 0.476528,
+      "count": 1
+    },
+    {
+      "text": "mes de Enero",
+      "relevance": 0.473845,
+      "count": 1
+    },
+    {
+      "text": "despacho de la Decanatura",
+      "relevance": 0.47356,
+      "count": 1
+    },
+    {
+      "text": "Director Programa IQ",
+      "relevance": 0.469669,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.466172,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela",
+      "relevance": 0.46595,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.464708,
+      "count": 1
+    },
+    {
+      "text": "Coordinador del Posgrado",
+      "relevance": 0.464708,
+      "count": 1
+    },
+    {
+      "text": "invitado permanente",
+      "relevance": 0.464708,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria Quimica",
+      "relevance": 0.45213,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Escuela",
+      "relevance": 0.451247,
+      "count": 1
+    },
+    {
+      "text": "VALLE",
+      "relevance": 0.448358,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.435825,
+      "count": 3
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.432973,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.430125,
+      "count": 1
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.428648,
+      "count": 1
+    }
+  ]
+}

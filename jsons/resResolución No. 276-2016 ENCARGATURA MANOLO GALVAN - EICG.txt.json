@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 936,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.728227,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.672363,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.632479,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.586402,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.575465,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.528263,
+      "count": 1
+    },
+    {
+      "text": "mes de Julio",
+      "relevance": 0.50428,
+      "count": 1
+    },
+    {
+      "text": "Direccion de Ja Escuela de Ingenieria Civil",
+      "relevance": 0.485898,
+      "count": 1
+    },
+    {
+      "text": "Profesor MANOLO ADOLFO GALVAN CEBALLOS",
+      "relevance": 0.471994,
+      "count": 2
+    },
+    {
+      "text": "vacaciones del Profesor Alejandro Cruz",
+      "relevance": 0.469798,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.44758,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.436242,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.433459,
+      "count": 1
+    },
+    {
+      "text": "Julio",
+      "relevance": 0.43068,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.43068,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.43068,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.43068,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.43068,
+      "count": 1
+    },
+    {
+      "text": "Agosto",
+      "relevance": 0.43068,
+      "count": 1
+    }
+  ]
+}

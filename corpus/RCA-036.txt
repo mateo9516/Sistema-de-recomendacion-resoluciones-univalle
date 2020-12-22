@@ -1,0 +1,332 @@
+bad
+
+Universidad
+del Vaile
+
+ 
+
+UNIVERSIDAD DEL VALLE
+CONSEJO ACADEMICO
+
+RESOLUCION No. 036
+marzo 5 de 2015
+
+“Por la cual se modifica la Resolucion No. 139 de diciembre 5 de 2002
+que define el curriculo del Programa Académico
+ESPECIALIZACION EN REDES DE COMUNICACION*
+
+El CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE, en uso
+de sus atribuciones y en especial las conferidas por el literal b) del
+Articulo 20° del estatuto general, y
+
+CONSIDERANDO:
+
+1. Que el Consejo Superior, mediante Resolucion No. 054 de noviembre 4 del
+2011, cred el Programa Académico ESPECIALIZACION EN REDES DE
+COMUNICACION, adscrito a la Facultad de Ingenieria;
+
+2. Que el Consejo Académico, mediante Resolucién No. 139 de diciembre 5 del
+2002, modificé la ResolucionNo. 092 de noviembre 9 de 1995, que definio el
+curriculo del Programa Académico ESPECIALIZACION EN REDES DE
+COMUNICACION;
+
+3. Que el Ministerio de Educacién Nacional medainte Resolucién No. 6314 de
+junio 8 de 2012, otorgo el registro calificado al Programa Académico
+ESPECIALIZACIONES EN REDES DE COMUNICACION por el termino de 7
+anos;
+
+4. Que el Acuerdo 007 de noviembre de 1996, establece que las asignaturas y
+actividades que se exigiran para optar un titulo de posgrado, asi como los
+créditos requeridos para el mismo efecto, seran aprobados por el Consejo
+Académico, previa recomendacion del Comité Central de Curriculo de la
+Universidad;UNIVERSIDAD DEL VALLE
+RESOLUCION No. 036-2015 Consejo Académico 2
+
+5. Que la Universidad considera necesario actualizar sus programas
+académicos con base en principios de flexibilidad, pertinencia y calidad.
+
+RESUELVE:
+
+ARTICULO 1°. Modificar el curriculo del Programa Académico
+
+ESPECIALIZACION EN REDES DE COMUNICACION,
+adscrito a la Escuela de Ingenieria Electrica y Electronica de la Facultad de
+Ingenieria, con periodicidad de admision semestral para un cupo de 5
+estudiantes y con una duracion de dos semestres, como se estipula en los
+siguientes articulos.
+
+DE LOS OBJETIVOS
+
+ARTICULO 2°. El objetivo general del Programa Académico
+
+ESPECIALIZACION EN REDES DE COMUNICACION, es
+formar especialistas capaces de disefar, planear y gestionar redes de
+comunicacién de datos con una habilidad practica basada en una solida
+fundamentacion de principios. Especialistas capaces de asimilar rapidamente
+las nuevas tecnologias de telecomunicaciones para tomar decisiones basadas
+en criterios de ingenieria.
+
+Los objetivos especificos son:
+
+a. Formar recurso humano en Ingenieria actualizado y competente que
+conozca las arquitecturas y tecnologias usadas en la implementaci6n de
+redes de area local (LAN) y redes de area amplia (WAN), incluyendo las
+redes inalambricas y por medios guiados.
+
+b. Formar recurso humano en redes de comunicacién que domine los
+protocolos de la arquitectura TCP/IP y entienda el modelo de referencia de
+redes de nueva generacion.
+
+c. Formar profesionales, a nivel de especializacion, que entiendan y dominen
+los principios y protocolos que hacen posible la transferencia confiable de
+informacion en un _ sistema de comunicaciones segun normas
+internacionales.
+
+d. Formar profesionales, a nivel de especializacion, que apliquen principios de
+ingenieria en el disefio de redes de comunicacion.
+
+e. Formar especialistas con una solida fundamentacion en los servicios de red
+que se proporcionan en la infraestructura de una red de datos.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 036-2015 Consejo Académico 3
+
+f. Estudiar las plataformas y arquitecturas para el desarrollo de software de
+
+telecomunicaciones.
+DEL PERFIL
+ARTICULO 3°. De acuerdo con los objetivos del Programa Académico
+
+ESPECIALIZACION EN REDES DE COMUNICACION, sus
+egresados seran  profesionales altamente calificados en Redes de
+Comunicacion, con destrezas practicas en las tecnologias modernas que ésta
+utiliza, conocedores de los protocolos de comunicacion mas relevantes y de la
+teoria de comunicaciones, formados y capacitados en el area de
+telecomunicaciones y capaces de proponer e implementar soluciones a
+problemas de infraestructura en el area de redes de telecomunicaciones. Por
+ello el egresado estara preparado para:
+
+a. Analizar, formular, planear, dirigir, contratar, evaluar, asesorar, coordinar,
+supervisar, y ejecutar proyectos de disefo y construccién de Redes de
+Comunicaci6n que respondan a problemas o necesidades del sector de las
+telecomunicaciones, apoyado en principios y métodos de ingenieria.
+
+b. Participar y apoyar proyectos de transferencia de tecnologia en el area de
+Telecomunicaciones hacia el sector productivo, publico y privado del pais.
+
+c. Comprender la literatura relacionada con el area de las Telecomunicaciones
+y aplicar los principios expuestos en la misma para la soluci6n de
+problemas actuales. Un elemento distintivo del profesional de esta
+especializacion es tener una excelente habilidad practica basada en una
+solida fundamentacion de principios.
+
+d. Gestionar y operar la infraestructura en TIC de empresas tanto del sector
+publico como privado.
+
+e. Comunicar de manera coherente sus experiencias y generar actitudes
+profesionales y éticas a_ través de su trabajo profesional en el sector
+productivo.
+
+DE LOS CAMPOS DE ACCION
+
+ARTICULO 4°. El especialista) en Redes de Comunicacion podra
+desempenarse como:UNIVERSIDAD DEL VALLE
+RESOLUCION No. 036-2015 Consejo Académico 4
+
+a. Director de los departamentos de redes, transmision de datos,
+telecomunicaciones y similares en empresas e industrias del sector
+publico y privado.
+
+b. Ingeniero de disefio, soporte, consultor o asesor en empresas que
+desarrollen proyectos o presten servicios en TIC en el area de las
+telecomunicaciones.
+
+c. Asesor comercial en el érea de ventas de soluciones de redes de
+comunicaci6n en empresas del sector.
+
+d. En la docencia de pregrado para ingenierias y en general en empresas e
+industrias que presten o requieran servicios de redes de comunicacion.
+
+DE LA ESTRUCTURA CURRICULAR
+
+ARTICULO 5°. El Programa Académico ESPECIALIZACION EN REDES DE
+
+COMUNICACION tiene una estructura curricular flexible,
+basada en un sistema de créditos que exige la aprobacién de un numero
+minimo de 24 créditos, distribuidos asi:
+
+a) Doce (12) créditos en los cursos obligatorios:
+
+. Interconexi6n de Redes de Computadores I, 4 créditos
+. Comunicaciones Moviles, 4 créditos
+. Sistemas de Comunicaciones Opticas 4 créditos
+
+b) Doce (12) créditos en los cursos electivos
+
+. Electiva I, 4 créditos
+° Electiva II, 4 créditos
+. Electiva II, 4 créditos
+
+PARAGRAFO 1°. La tabla No. 1 resume la estructura curricular del Programa
+___ Académico ESPECIALIZACION EN REDES DE
+COMUNICACION.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 036-2015 Consejo Académico 5
+
+Tabla 1. Estructura curricular de la ESPECIALIZACION EN REDES DE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMUNICACION.
+
+SEMESTRE ASIGNATURAS Créditos
+
+Interconexion de Redes de Computadores I 4
+
+I Comunicaciones Moviles 4
+
+Electiva I 4
+
+Sistemas de Comunicaciones Opticas 4
+
+0 Electiva II 4
+
+Electiva II 4
+
+TOTAL 24
+PARAGRAFO 2°: Los cursos electivos se _seleccionan de acuerdo con la
+
+oferta que haga la Escuela de Ingenieria Eléctrica y
+
+Electronica en el area de telecomunicaciones y otras
+unidades afines de la Universidad del Valle. El estudiante podra matricular
+como cursos electivos, hasta dos asignaturas en otros programas académicos
+de posgrado aprobados en la Universidad del Valle, o una asignatura en otro
+Programa Académico de posgrado de una institucién distinta a la Universidad
+del Valle (reconocido y aprobado legalmente por el Ministerio de Educacion
+Nacional), previo concepto favorable del director del programa.
+
+ARTICULO 6°: El Programa Académico ESPECIALIZACION EN REDES DE
+
+COMUNICACION se desarrollara en Jornada Mixta, con
+una duracién de dos semestres, con dedicacién de tiempo parcial y con
+metodologia presencial.
+
+Del Titulo que se otorga
+
+ARTICULO 7°. El Programa Académico  otorgara el titulo de
+
+ESPECIALISTA EN REDES DE COMUNICACION, a
+aquellos estudiantes que hayan cumplido con los requisitos estipulados en la
+presente resolucion y demas normas de la Universidad del Valle, vigentes para
+sus programas de posgrado.ee
+
+ii.
+
+UNIVERSIDAD DEL VALLE
+RESOLUCION No. 036-2015 Consejo Académico 6
+
+ARTICULO 8°: Para optar al titulo de ESPECIALISTA EN REDES
+DE COMUNICACION, se requiere:
+
+. Cursar y aprobar, valer o hacer equivaler, los créditos de los cursos
+obligatorios y electivos. En ningun caso el promedio ponderado total
+podra ser inferior a tres punto cinco (3.5).
+
+. Demostrar proficiencia en la lectura comprensiva del idioma inglés, a
+juicio de la Escuela de Ciencias del Lenguaje de la Universidad del Valle.
+
+DE LA SELECCION Y ADMISION
+
+ARTICULO 9°: Criterios de Selecci6n y admision.
+
+. Requisitos: Poseer titulo profesional reconocido oficialmente y demostrar que
+
+posee conocimientos basicos en la teoria y métodos fundamentales de la
+Ingenieria Electroénica, Ingenieria de Sistemas o carreras afines; haber
+tenido un buen rendimiento académico y un promedio acumulado superior
+a 3.5 o equivalente, en los estudios universitarios; obtener un juicio de
+aceptacion a través de una entrevista personal efectuada por coordinador
+académico del programa.
+
+La seleccion se realiza a través de un proceso que incluye una entrevista y es
+realizada por el comité de programas de posgrado, cuyos criterios y
+ponderacion se muestran en la Tabla No 1.
+
+Tabla 1. Criterios de valoracion para la admision.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Criterio Valoracion (Hasta)
+Promedios académicos 20%
+(Actividad de fin de 10%
+carrera
+Distinciones 10%
+Experiencia profesional 10%
+Entrevista 50%
+
+ 
+
+ 
+
+ 
+
+ 
+
+DEL REGLAMENTO DEL PROGRAMA
+
+ARTICULO 10°. Para los efectos académicos, el Programa Académico
+
+ESPECIALIZACION EN REDES DE COMUNICACION se
+regira por los acuerdos vigentes del Consejo Superior para programas de
+posgrado y por el reglamento Interno del programa, aprobado por las
+instancias respectivas.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 036-2015 Consejo Académico 7
+
+ARTICULO 11°. La presente resolucion sera aplicada a los estudiantes que
+ingresen al programa a partir de la fecha de aprobacion por
+el Ministerio de Educacion Nacional.
+
+COMUNIQUESE, PUBLIQUESE Y CUMPLASE
+
+Dada en Santiago de Cali, en el Salon de reuniones del Consejo Académico,
+San Fernando, a los 5 dias del mes de marzo de 2015.
+
+El Presidente,
+
+IVAN ENRIQUE RAMOS CALDERON
+Rector
+
+LUIS ALBERTO HERRERA RAMIREZ
+Secretario General

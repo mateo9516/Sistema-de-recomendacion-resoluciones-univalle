@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 783,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.779711,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.667078,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.640151,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.640151,
+      "count": 1
+    },
+    {
+      "text": "Coordinador de Posgrado de la Escuela",
+      "relevance": 0.586775,
+      "count": 1
+    },
+    {
+      "text": "mes de Septiembre",
+      "relevance": 0.530934,
+      "count": 1
+    },
+    {
+      "text": "despacho de la Decanatura",
+      "relevance": 0.530051,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.50706,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.502494,
+      "count": 1
+    },
+    {
+      "text": "Coordinador de Posgrado",
+      "relevance": 0.466223,
+      "count": 1
+    },
+    {
+      "text": "Profesor Jos\u00e9 Rafael Tovar Cuevas",
+      "relevance": 0.458019,
+      "count": 1
+    },
+    {
+      "text": "VALLE",
+      "relevance": 0.451469,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Estadistica",
+      "relevance": 0.440139,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.412772,
+      "count": 3
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.404063,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.395413,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.390945,
+      "count": 1
+    },
+    {
+      "text": "Estadistica",
+      "relevance": 0.390945,
+      "count": 1
+    },
+    {
+      "text": "afo",
+      "relevance": 0.390945,
+      "count": 1
+    }
+  ]
+}

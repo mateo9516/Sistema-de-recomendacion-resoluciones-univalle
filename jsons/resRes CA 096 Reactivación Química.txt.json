@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2628,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.889539,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.781667,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.640181,
+      "count": 4
+    },
+    {
+      "text": "Educacion Nacional aprobo",
+      "relevance": 0.638182,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.618005,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.611612,
+      "count": 1
+    },
+    {
+      "text": "Quimica de la Universidad",
+      "relevance": 0.609593,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.595418,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos acad\u00e9micos",
+      "relevance": 0.566769,
+      "count": 1
+    },
+    {
+      "text": "acreditacion de alta calidad",
+      "relevance": 0.557038,
+      "count": 1
+    },
+    {
+      "text": "Plan de Estudios de Quimica",
+      "relevance": 0.547682,
+      "count": 1
+    },
+    {
+      "text": "registro calificado",
+      "relevance": 0.543299,
+      "count": 1
+    },
+    {
+      "text": "alta calidad",
+      "relevance": 0.540794,
+      "count": 1
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.524615,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de Quimica",
+      "relevance": 0.519786,
+      "count": 1
+    },
+    {
+      "text": "registro calificado del programa Quimica",
+      "relevance": 0.516979,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.516719,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.515713,
+      "count": 2
+    },
+    {
+      "text": "Sede de Cali de la Universidad",
+      "relevance": 0.512616,
+      "count": 1
+    },
+    {
+      "text": "fecha de su aprobacion",
+      "relevance": 0.509953,
+      "count": 1
+    },
+    {
+      "text": "fecha de ejecutoria de la Resoluci\u00e9n",
+      "relevance": 0.508345,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.499665,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.496832,
+      "count": 4
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.496449,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.494667,
+      "count": 1
+    },
+    {
+      "text": "programa de Quimica",
+      "relevance": 0.4905,
+      "count": 1
+    },
+    {
+      "text": "dias de julio",
+      "relevance": 0.486285,
+      "count": 1
+    },
+    {
+      "text": "cali de la Universidad",
+      "relevance": 0.483199,
+      "count": 1
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.481686,
+      "count": 1
+    },
+    {
+      "text": "fecha de ejecutoria de la Resoluci\u00e9n No",
+      "relevance": 0.476138,
+      "count": 1
+    }
+  ]
+}

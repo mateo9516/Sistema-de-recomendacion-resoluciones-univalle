@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "responsabilidad del Consejo Acad\u00e9mico",
+      "relevance": 0.774088,
+      "count": 1
+    },
+    {
+      "text": "Perfil profesional",
+      "relevance": 0.70744,
+      "count": 58
+    },
+    {
+      "text": "Perfil acad\u00e9mico",
+      "relevance": 0.69593,
+      "count": 51
+    },
+    {
+      "text": "Area de Arquitectura",
+      "relevance": 0.682144,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.673619,
+      "count": 20
+    },
+    {
+      "text": "Perfil ocupacional",
+      "relevance": 0.650997,
+      "count": 48
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.642597,
+      "count": 1
+    },
+    {
+      "text": "nivel de Maestria",
+      "relevance": 0.611549,
+      "count": 4
+    },
+    {
+      "text": "perfiles",
+      "relevance": 0.611316,
+      "count": 2
+    },
+    {
+      "text": "Area de Proyectos",
+      "relevance": 0.590954,
+      "count": 4
+    },
+    {
+      "text": "calidad de los procesos acad\u00e9micos",
+      "relevance": 0.588706,
+      "count": 1
+    },
+    {
+      "text": "Actitud de liderazgo",
+      "relevance": 0.561286,
+      "count": 1
+    },
+    {
+      "text": "Investigativa certificada",
+      "relevance": 0.553743,
+      "count": 2
+    },
+    {
+      "text": "Escuela de Arquitectura",
+      "relevance": 0.552372,
+      "count": 5
+    },
+    {
+      "text": "titulo de Maestria",
+      "relevance": 0.550988,
+      "count": 8
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.549863,
+      "count": 8
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.549031,
+      "count": 2
+    },
+    {
+      "text": "Capacidad de liderazgo",
+      "relevance": 0.54814,
+      "count": 2
+    },
+    {
+      "text": "lenguajes de alto nivel",
+      "relevance": 0.543998,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente",
+      "relevance": 0.543886,
+      "count": 30
+    },
+    {
+      "text": "Alta capacidad de gestion",
+      "relevance": 0.541837,
+      "count": 1
+    },
+    {
+      "text": "M\u00e9dico Especialista",
+      "relevance": 0.540746,
+      "count": 4
+    },
+    {
+      "text": "areas del Disefo",
+      "relevance": 0.539845,
+      "count": 1
+    },
+    {
+      "text": "Titulo de Pregrado",
+      "relevance": 0.539118,
+      "count": 5
+    },
+    {
+      "text": "Experiencia profesional certificada",
+      "relevance": 0.53021,
+      "count": 2
+    },
+    {
+      "text": "portafolio de los proyectos",
+      "relevance": 0.52891,
+      "count": 2
+    },
+    {
+      "text": "Ingeniero Metalurgico",
+      "relevance": 0.527064,
+      "count": 1
+    },
+    {
+      "text": "Area de Historia",
+      "relevance": 0.526642,
+      "count": 1
+    },
+    {
+      "text": "Area de Construccion",
+      "relevance": 0.525005,
+      "count": 1
+    },
+    {
+      "text": "programa de musica",
+      "relevance": 0.521445,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

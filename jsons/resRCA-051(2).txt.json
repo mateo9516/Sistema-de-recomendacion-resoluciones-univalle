@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3217,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.707084,
+      "count": 3
+    },
+    {
+      "text": "Comercio Exterior",
+      "relevance": 0.674321,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.662226,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.592486,
+      "count": 1
+    },
+    {
+      "text": "ofrecimiento inicial de Programas",
+      "relevance": 0.578444,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.578392,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.568371,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.566126,
+      "count": 1
+    },
+    {
+      "text": "demas criterios",
+      "relevance": 0.557487,
+      "count": 1
+    },
+    {
+      "text": "Sede del Pacifico",
+      "relevance": 0.546042,
+      "count": 1
+    },
+    {
+      "text": "requisitos establecidos",
+      "relevance": 0.542309,
+      "count": 1
+    },
+    {
+      "text": "marco del equilibrio",
+      "relevance": 0.541764,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.539825,
+      "count": 1
+    },
+    {
+      "text": "Contaduria Publica",
+      "relevance": 0.539403,
+      "count": 6
+    },
+    {
+      "text": "Tecnologia Agroambiental",
+      "relevance": 0.538762,
+      "count": 1
+    },
+    {
+      "text": "periodo Agosto",
+      "relevance": 0.535551,
+      "count": 1
+    },
+    {
+      "text": "cupo minimo",
+      "relevance": 0.530353,
+      "count": 2
+    },
+    {
+      "text": "numero suficiente de aspirantes",
+      "relevance": 0.52737,
+      "count": 1
+    },
+    {
+      "text": "etapa de transicion",
+      "relevance": 0.523944,
+      "count": 1
+    },
+    {
+      "text": "Educacion Ambiental",
+      "relevance": 0.521754,
+      "count": 1
+    },
+    {
+      "text": "apertura de un segundo grupo",
+      "relevance": 0.521287,
+      "count": 1
+    },
+    {
+      "text": "nuevos Programas",
+      "relevance": 0.520426,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Industrial",
+      "relevance": 0.520357,
+      "count": 2
+    },
+    {
+      "text": "Administracion de Empresas",
+      "relevance": 0.51978,
+      "count": 5
+    },
+    {
+      "text": "Educaci\u00e9n Basica",
+      "relevance": 0.515727,
+      "count": 1
+    },
+    {
+      "text": "Trabajo Social",
+      "relevance": 0.515718,
+      "count": 3
+    },
+    {
+      "text": "Sistema de Regionalizacion",
+      "relevance": 0.512965,
+      "count": 1
+    },
+    {
+      "text": "parte de los Directores",
+      "relevance": 0.508916,
+      "count": 1
+    },
+    {
+      "text": "del19 de Abril",
+      "relevance": 0.507159,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.506836,
+      "count": 2
+    }
+  ]
+}

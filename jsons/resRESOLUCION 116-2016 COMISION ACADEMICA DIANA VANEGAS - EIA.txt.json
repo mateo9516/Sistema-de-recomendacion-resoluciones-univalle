@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 904,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "conferencia anual",
+      "relevance": 0.656992,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.63183,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.61608,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.590153,
+      "count": 1
+    },
+    {
+      "text": "siguiente docente",
+      "relevance": 0.566904,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.538818,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades",
+      "relevance": 0.531649,
+      "count": 1
+    },
+    {
+      "text": "mes de abril",
+      "relevance": 0.521229,
+      "count": 1
+    },
+    {
+      "text": "comision academica",
+      "relevance": 0.5186,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria",
+      "relevance": 0.515044,
+      "count": 1
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.509129,
+      "count": 1
+    },
+    {
+      "text": "Profesora DIANA CAROLINA VANEGAS GAMBOA",
+      "relevance": 0.50166,
+      "count": 1
+    },
+    {
+      "text": "Objetivo",
+      "relevance": 0.481369,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.477709,
+      "count": 1
+    },
+    {
+      "text": "Abril",
+      "relevance": 0.459077,
+      "count": 3
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.454202,
+      "count": 1
+    },
+    {
+      "text": "Greenville",
+      "relevance": 0.453107,
+      "count": 1
+    },
+    {
+      "text": "Financiacion",
+      "relevance": 0.450311,
+      "count": 1
+    },
+    {
+      "text": "Alimentos",
+      "relevance": 0.442067,
+      "count": 1
+    },
+    {
+      "text": "docente",
+      "relevance": 0.433889,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9dula",
+      "relevance": 0.432693,
+      "count": 1
+    },
+    {
+      "text": "IBE",
+      "relevance": 0.432693,
+      "count": 1
+    },
+    {
+      "text": "Nal",
+      "relevance": 0.432693,
+      "count": 1
+    }
+  ]
+}

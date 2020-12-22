@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1934,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERI",
+      "relevance": 0.68343,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.65403,
+      "count": 2
+    },
+    {
+      "text": "PAGO DE VIATICOS",
+      "relevance": 0.651,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.617586,
+      "count": 4
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.601755,
+      "count": 1
+    },
+    {
+      "text": "literal f del Articulo",
+      "relevance": 0.595987,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.563919,
+      "count": 1
+    },
+    {
+      "text": "empresas Erasmus",
+      "relevance": 0.560593,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.556088,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.551283,
+      "count": 1
+    },
+    {
+      "text": "fondos del grupo de Investigaci\u00e9n",
+      "relevance": 0.54222,
+      "count": 1
+    },
+    {
+      "text": "Tiquete A\u00e9reo",
+      "relevance": 0.531261,
+      "count": 2
+    },
+    {
+      "text": "ruta Cali",
+      "relevance": 0.5127,
+      "count": 1
+    },
+    {
+      "text": "empresa Erasmus.FACULTAD",
+      "relevance": 0.510362,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.506562,
+      "count": 2
+    },
+    {
+      "text": "COMISION ACADEMICA",
+      "relevance": 0.50575,
+      "count": 1
+    },
+    {
+      "text": "Medellin Cali",
+      "relevance": 0.490181,
+      "count": 1
+    },
+    {
+      "text": "profesor GUILLERMO APONTE MAYOR",
+      "relevance": 0.489135,
+      "count": 2
+    },
+    {
+      "text": "Profesor Titular Escuela de Ingenieria El\u00e9ctrica",
+      "relevance": 0.483833,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.479706,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de Ja Universidad",
+      "relevance": 0.472638,
+      "count": 1
+    },
+    {
+      "text": "PAGO",
+      "relevance": 0.469888,
+      "count": 1
+    },
+    {
+      "text": "sesion extraordinaria del dia martes",
+      "relevance": 0.469751,
+      "count": 1
+    },
+    {
+      "text": "QUINTO",
+      "relevance": 0.468458,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.468158,
+      "count": 1
+    },
+    {
+      "text": "viaticos",
+      "relevance": 0.466799,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.466733,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.46371,
+      "count": 1
+    },
+    {
+      "text": "VENTIUN",
+      "relevance": 0.463573,
+      "count": 1
+    },
+    {
+      "text": "Facultad",
+      "relevance": 0.45906,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1075,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.875266,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.769781,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.688768,
+      "count": 1
+    },
+    {
+      "text": "Profesor Asistente",
+      "relevance": 0.665679,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.635833,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.573905,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Civil",
+      "relevance": 0.569615,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.538383,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n del Programa Acad\u00e9mico",
+      "relevance": 0.525519,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.516458,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.487428,
+      "count": 1
+    },
+    {
+      "text": "mes de Enero",
+      "relevance": 0.465523,
+      "count": 1
+    },
+    {
+      "text": "Profesor MANOLO GALVAN CEBALLOS",
+      "relevance": 0.440753,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.438817,
+      "count": 1
+    },
+    {
+      "text": "CEBALLOS",
+      "relevance": 0.435602,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.429172,
+      "count": 1
+    },
+    {
+      "text": "MANOLO",
+      "relevance": 0.42406,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.422382,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.416986,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.415596,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.414629,
+      "count": 1
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.413341,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.413341,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.413341,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.413341,
+      "count": 1
+    },
+    {
+      "text": "piso",
+      "relevance": 0.413341,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.413341,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.413341,
+      "count": 1
+    }
+  ]
+}

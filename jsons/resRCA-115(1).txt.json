@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8022,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "solicitudes de Reserva de Cupo",
+      "relevance": 0.651455,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.63289,
+      "count": 4
+    },
+    {
+      "text": "documentos soporte",
+      "relevance": 0.598692,
+      "count": 2
+    },
+    {
+      "text": "CAMBIO DE SEDE",
+      "relevance": 0.587001,
+      "count": 4
+    },
+    {
+      "text": "Recibos de Pago",
+      "relevance": 0.585624,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.580833,
+      "count": 1
+    },
+    {
+      "text": "Reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.572754,
+      "count": 1
+    },
+    {
+      "text": "parte de las Coordinaciones Acad\u00e9micas",
+      "relevance": 0.570731,
+      "count": 1
+    },
+    {
+      "text": "solicitudes via",
+      "relevance": 0.564342,
+      "count": 2
+    },
+    {
+      "text": "Publicaci6n de resultados",
+      "relevance": 0.562553,
+      "count": 1
+    },
+    {
+      "text": "Pruebas Adicionales",
+      "relevance": 0.561849,
+      "count": 1
+    },
+    {
+      "text": "procesos de Admisi\u00e9n",
+      "relevance": 0.561497,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico previa",
+      "relevance": 0.555109,
+      "count": 1
+    },
+    {
+      "text": "Sedes de los Documentos Soporte",
+      "relevance": 0.549285,
+      "count": 1
+    },
+    {
+      "text": "Derechos de Inscripcion",
+      "relevance": 0.54809,
+      "count": 1
+    },
+    {
+      "text": "Entrega de contrasefas",
+      "relevance": 0.547236,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.545736,
+      "count": 5
+    },
+    {
+      "text": "Reservas de Cupo",
+      "relevance": 0.543716,
+      "count": 2
+    },
+    {
+      "text": "PRIMER SEMESTRE",
+      "relevance": 0.535868,
+      "count": 2
+    },
+    {
+      "text": "web de la informacion",
+      "relevance": 0.529427,
+      "count": 2
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.527095,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.525788,
+      "count": 1
+    },
+    {
+      "text": "Inscripciones via",
+      "relevance": 0.523437,
+      "count": 1
+    },
+    {
+      "text": "Condiciones de Excepcion",
+      "relevance": 0.522993,
+      "count": 1
+    },
+    {
+      "text": "Recibo de Pago A",
+      "relevance": 0.522732,
+      "count": 1
+    },
+    {
+      "text": "parte del aspirante",
+      "relevance": 0.521841,
+      "count": 1
+    },
+    {
+      "text": "parte de los estudiantes",
+      "relevance": 0.519325,
+      "count": 2
+    },
+    {
+      "text": "Programas Acad\u00e9micos de PREGRADO",
+      "relevance": 0.517881,
+      "count": 1
+    },
+    {
+      "text": "listado de admitidos",
+      "relevance": 0.516023,
+      "count": 1
+    },
+    {
+      "text": "citas via",
+      "relevance": 0.515589,
+      "count": 1
+    }
+  ]
+}

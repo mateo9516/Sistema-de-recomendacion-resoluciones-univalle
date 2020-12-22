@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3383,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.628083,
+      "count": 2
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.60903,
+      "count": 1
+    },
+    {
+      "text": "modalidad presencial",
+      "relevance": 0.605191,
+      "count": 1
+    },
+    {
+      "text": "institucion podra",
+      "relevance": 0.596321,
+      "count": 1
+    },
+    {
+      "text": "formacion de alto nivel",
+      "relevance": 0.592882,
+      "count": 1
+    },
+    {
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.582241,
+      "count": 1
+    },
+    {
+      "text": "fecha de aprobacion",
+      "relevance": 0.58003,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.572107,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.570119,
+      "count": 1
+    },
+    {
+      "text": "perspectiva territorial",
+      "relevance": 0.568248,
+      "count": 1
+    },
+    {
+      "text": "denominaci6n",
+      "relevance": 0.566498,
+      "count": 1
+    },
+    {
+      "text": "ampliacion del lugar del desarrollo",
+      "relevance": 0.559256,
+      "count": 1
+    },
+    {
+      "text": "registros calificados",
+      "relevance": 0.549511,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Musica de la Facultad",
+      "relevance": 0.5484,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.548367,
+      "count": 2
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.548028,
+      "count": 1
+    },
+    {
+      "text": "proceso formativo del programa",
+      "relevance": 0.535605,
+      "count": 1
+    },
+    {
+      "text": "ambito regional",
+      "relevance": 0.532625,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.532415,
+      "count": 3
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.531939,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios",
+      "relevance": 0.527075,
+      "count": 1
+    },
+    {
+      "text": "6n del lugar de desarrollo",
+      "relevance": 0.525137,
+      "count": 1
+    },
+    {
+      "text": "lugar de desarrollo del programa acad\u00e9mico",
+      "relevance": 0.523688,
+      "count": 1
+    },
+    {
+      "text": "recursos acad\u00e9micos",
+      "relevance": 0.521139,
+      "count": 1
+    },
+    {
+      "text": "modificaci\u00e9n de registro",
+      "relevance": 0.518774,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.517284,
+      "count": 1
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.513747,
+      "count": 1
+    },
+    {
+      "text": "Educaci\u00e9n Superior",
+      "relevance": 0.512137,
+      "count": 1
+    },
+    {
+      "text": "Ambito de la Licenciatura",
+      "relevance": 0.507908,
+      "count": 1
+    },
+    {
+      "text": "aspectos curriculares",
+      "relevance": 0.50727,
+      "count": 1
+    }
+  ]
+}

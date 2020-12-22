@@ -1,0 +1,120 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 960,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.774218,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.758473,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.69556,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.602096,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.565745,
+      "count": 1
+    },
+    {
+      "text": "Escuela Eidenar",
+      "relevance": 0.561819,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.556196,
+      "count": 1
+    },
+    {
+      "text": "mes de Marzo",
+      "relevance": 0.503703,
+      "count": 1
+    },
+    {
+      "text": "Coogdinadora Acad\u00e9mica",
+      "relevance": 0.490743,
+      "count": 1
+    },
+    {
+      "text": "Profesor CARLOS ARTURO MADERA",
+      "relevance": 0.488181,
+      "count": 2
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.481132,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.447467,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.430692,
+      "count": 1
+    },
+    {
+      "text": "Marzo",
+      "relevance": 0.427991,
+      "count": 2
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.413662,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.412005,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.409501,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.40667,
+      "count": 1
+    },
+    {
+      "text": "Valle",
+      "relevance": 0.40434,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.40434,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.40434,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.40434,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 912,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.694641,
+      "count": 1
+    },
+    {
+      "text": "literal f del Articulo",
+      "relevance": 0.6625,
+      "count": 1
+    },
+    {
+      "text": "Direccidn del Programa Acad\u00e9mico",
+      "relevance": 0.659302,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.653778,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.55866,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.552414,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.5146,
+      "count": 1
+    },
+    {
+      "text": "Resolucidn No",
+      "relevance": 0.48493,
+      "count": 1
+    },
+    {
+      "text": "vacaciones del Profesor Carlos Herrera",
+      "relevance": 0.473618,
+      "count": 1
+    },
+    {
+      "text": "mes de Julio",
+      "relevance": 0.462783,
+      "count": 1
+    },
+    {
+      "text": "Profesor MIGUEL ENRQIUE ROSILLO PENA",
+      "relevance": 0.44699,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.442951,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.416054,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.394335,
+      "count": 1
+    },
+    {
+      "text": "Julio",
+      "relevance": 0.394335,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.394335,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.394335,
+      "count": 1
+    }
+  ]
+}

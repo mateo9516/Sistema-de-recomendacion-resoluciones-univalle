@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2434,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.760532,
+      "count": 3
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.656433,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.63964,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.632512,
+      "count": 2
+    },
+    {
+      "text": "AUTOMATIZACION INDUSTRIAL",
+      "relevance": 0.622773,
+      "count": 5
+    },
+    {
+      "text": "funcion del Consejo Acad\u00e9mico",
+      "relevance": 0.580628,
+      "count": 1
+    },
+    {
+      "text": "reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.563857,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios",
+      "relevance": 0.562817,
+      "count": 1
+    },
+    {
+      "text": "Curriculo del programa acad\u00e9mico",
+      "relevance": 0.556131,
+      "count": 1
+    },
+    {
+      "text": "Programas de Posgrado previa",
+      "relevance": 0.546051,
+      "count": 1
+    },
+    {
+      "text": "cupo maximo de admision",
+      "relevance": 0.535301,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.532507,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.513702,
+      "count": 1
+    },
+    {
+      "text": "siguiente forma",
+      "relevance": 0.504137,
+      "count": 1
+    },
+    {
+      "text": "San Fernando",
+      "relevance": 0.502171,
+      "count": 1
+    },
+    {
+      "text": "metodologia presencial",
+      "relevance": 0.50204,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.501894,
+      "count": 5
+    },
+    {
+      "text": "OFRECIMIENTO DEL PROGRAMA",
+      "relevance": 0.501377,
+      "count": 1
+    },
+    {
+      "text": "Programa de Posgrado",
+      "relevance": 0.498136,
+      "count": 1
+    },
+    {
+      "text": "Educacion Superior",
+      "relevance": 0.493386,
+      "count": 1
+    },
+    {
+      "text": "cupo maximo de admisi6n",
+      "relevance": 0.492099,
+      "count": 1
+    },
+    {
+      "text": "Decreto",
+      "relevance": 0.489686,
+      "count": 1
+    },
+    {
+      "text": "periodicidad",
+      "relevance": 0.488903,
+      "count": 3
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.487137,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.480061,
+      "count": 1
+    },
+    {
+      "text": "ESPECIALIZACION",
+      "relevance": 0.479239,
+      "count": 7
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.474432,
+      "count": 2
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.472042,
+      "count": 2
+    },
+    {
+      "text": "abril",
+      "relevance": 0.469773,
+      "count": 1
+    },
+    {
+      "text": "PROGRAMA",
+      "relevance": 0.466381,
+      "count": 1
+    }
+  ]
+}

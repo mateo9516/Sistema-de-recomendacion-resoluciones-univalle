@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1814,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.749454,
+      "count": 2
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.722252,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.686717,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.588234,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Sistemas",
+      "relevance": 0.575146,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.565833,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.55872,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.537862,
+      "count": 1
+    },
+    {
+      "text": "Procesamiento de Lenguaje Natural",
+      "relevance": 0.534805,
+      "count": 1
+    },
+    {
+      "text": "a\u00e9reo serdn cubiertos",
+      "relevance": 0.533258,
+      "count": 1
+    },
+    {
+      "text": "Gastos de Transporte",
+      "relevance": 0.532878,
+      "count": 2
+    },
+    {
+      "text": "estudiantes de maestria",
+      "relevance": 0.529323,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.518893,
+      "count": 1
+    },
+    {
+      "text": "taller de Deep Learning",
+      "relevance": 0.51867,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.512598,
+      "count": 1
+    },
+    {
+      "text": "pago de los gastos de viaje",
+      "relevance": 0.5079,
+      "count": 1
+    },
+    {
+      "text": "Jefferson Amado",
+      "relevance": 0.503513,
+      "count": 1
+    },
+    {
+      "text": "ruta Bogota",
+      "relevance": 0.500999,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.499069,
+      "count": 1
+    },
+    {
+      "text": "LOZANO MONCADA",
+      "relevance": 0.499069,
+      "count": 1
+    },
+    {
+      "text": "Gastos de Viaje",
+      "relevance": 0.493929,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.486805,
+      "count": 1
+    },
+    {
+      "text": "Decanatura No",
+      "relevance": 0.486801,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.485233,
+      "count": 2
+    },
+    {
+      "text": "recursos de la Escuela",
+      "relevance": 0.481074,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.473086,
+      "count": 1
+    },
+    {
+      "text": "Profesor dela Universidad Nacional",
+      "relevance": 0.469385,
+      "count": 1
+    },
+    {
+      "text": "Cali Bogota",
+      "relevance": 0.46763,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.454026,
+      "count": 2
+    },
+    {
+      "text": "profesor FABIO AUGUSTO GONZALEZ OSORIO",
+      "relevance": 0.452478,
+      "count": 2
+    }
+  ]
+}

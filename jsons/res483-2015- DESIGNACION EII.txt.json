@@ -1,0 +1,115 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 832,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.775118,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.664589,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.637876,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.636247,
+      "count": 1
+    },
+    {
+      "text": "Pasgrados de la Escuela",
+      "relevance": 0.599065,
+      "count": 1
+    },
+    {
+      "text": "despacho Ge",
+      "relevance": 0.574101,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.560843,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenierfa Industrial",
+      "relevance": 0.53701,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.490737,
+      "count": 1
+    },
+    {
+      "text": "UNIVERSIDAD DEL VALLE",
+      "relevance": 0.474228,
+      "count": 1
+    },
+    {
+      "text": "Representante de Posgrados de Ja Escuela",
+      "relevance": 0.460606,
+      "count": 1
+    },
+    {
+      "text": "Profesor Pablo C\u00e9sar Manyoma Velasquez",
+      "relevance": 0.457149,
+      "count": 1
+    },
+    {
+      "text": "encargado",
+      "relevance": 0.425751,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.424752,
+      "count": 1
+    },
+    {
+      "text": "perfodo",
+      "relevance": 0.414369,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.411075,
+      "count": 1
+    },
+    {
+      "text": "afio",
+      "relevance": 0.409004,
+      "count": 1
+    },
+    {
+      "text": "Decanatura",
+      "relevance": 0.409004,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.402975,
+      "count": 2
+    },
+    {
+      "text": "siguiente",
+      "relevance": 0.402975,
+      "count": 1
+    },
+    {
+      "text": "mes",
+      "relevance": 0.402975,
+      "count": 1
+    }
+  ]
+}

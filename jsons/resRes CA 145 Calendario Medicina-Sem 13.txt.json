@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1484,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudiantes del semestre",
+      "relevance": 0.713879,
+      "count": 2
+    },
+    {
+      "text": "CANCELACION DE ASIGNATURAS",
+      "relevance": 0.697979,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.673888,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.662378,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de Medicina",
+      "relevance": 0.63213,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.617173,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.599339,
+      "count": 1
+    },
+    {
+      "text": "REGISTRO DE CALIFICACIONES",
+      "relevance": 0.582745,
+      "count": 1
+    },
+    {
+      "text": "CANCELACION DE SEMESTRE",
+      "relevance": 0.56525,
+      "count": 1
+    },
+    {
+      "text": "siguiente calendario acad\u00e9mico",
+      "relevance": 0.551628,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.541408,
+      "count": 1
+    },
+    {
+      "text": "MATRICULA ACADEMICA",
+      "relevance": 0.541294,
+      "count": 1
+    },
+    {
+      "text": "INICIO DE CLASES",
+      "relevance": 0.541294,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.536885,
+      "count": 1
+    },
+    {
+      "text": "FINALIZACION DEL PERIODO",
+      "relevance": 0.510998,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de septiembre",
+      "relevance": 0.509849,
+      "count": 1
+    },
+    {
+      "text": "PERIODO SEPTIEMBRE",
+      "relevance": 0.469393,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.46859,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.461239,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.460819,
+      "count": 1
+    },
+    {
+      "text": "ADICIONES",
+      "relevance": 0.444903,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.433697,
+      "count": 1
+    },
+    {
+      "text": "CANCELACIONES",
+      "relevance": 0.431492,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.43048,
+      "count": 1
+    },
+    {
+      "text": "Medicina",
+      "relevance": 0.430139,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.429149,
+      "count": 6
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.429149,
+      "count": 1
+    },
+    {
+      "text": "recargo",
+      "relevance": 0.428322,
+      "count": 2
+    },
+    {
+      "text": "clinica",
+      "relevance": 0.426809,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.426809,
+      "count": 3
+    }
+  ]
+}

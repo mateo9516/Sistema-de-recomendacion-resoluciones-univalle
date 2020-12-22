@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 12347,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Politica Publica",
+      "relevance": 0.637924,
+      "count": 6
+    },
+    {
+      "text": "Administracion Publica",
+      "relevance": 0.628677,
+      "count": 12
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.60378,
+      "count": 4
+    },
+    {
+      "text": "Administraci6n Publica",
+      "relevance": 0.559495,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de Doctorado",
+      "relevance": 0.559077,
+      "count": 3
+    },
+    {
+      "text": "medio de la investigacion",
+      "relevance": 0.557582,
+      "count": 1
+    },
+    {
+      "text": "abordaje de situaciones problematicas",
+      "relevance": 0.557499,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.5492,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.547006,
+      "count": 8
+    },
+    {
+      "text": "seleccion aspirantes",
+      "relevance": 0.544416,
+      "count": 1
+    },
+    {
+      "text": "contexto Politico-Institucional",
+      "relevance": 0.543211,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.540889,
+      "count": 1
+    },
+    {
+      "text": "Politicas Publicas",
+      "relevance": 0.538785,
+      "count": 2
+    },
+    {
+      "text": "cr\u00e9ditos requeridos",
+      "relevance": 0.537933,
+      "count": 1
+    },
+    {
+      "text": "propositiva de la esfera",
+      "relevance": 0.529291,
+      "count": 1
+    },
+    {
+      "text": "nivel doctoral",
+      "relevance": 0.525226,
+      "count": 1
+    },
+    {
+      "text": "socio-culturales",
+      "relevance": 0.524277,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.522632,
+      "count": 1
+    },
+    {
+      "text": "Consejo de la Facultad de Ciencias",
+      "relevance": 0.522163,
+      "count": 1
+    },
+    {
+      "text": "formacion acad\u00e9mica",
+      "relevance": 0.521199,
+      "count": 1
+    },
+    {
+      "text": "pasantia local",
+      "relevance": 0.521145,
+      "count": 1
+    },
+    {
+      "text": "Organizaciones de la Facultad de Ciencias",
+      "relevance": 0.520382,
+      "count": 1
+    },
+    {
+      "text": "Administraci\u00e9n Publica",
+      "relevance": 0.519111,
+      "count": 3
+    },
+    {
+      "text": "fase de formacion basica",
+      "relevance": 0.518141,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.51763,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de politicas",
+      "relevance": 0.517008,
+      "count": 2
+    },
+    {
+      "text": "Seminario de Investigacion I",
+      "relevance": 0.516902,
+      "count": 1
+    },
+    {
+      "text": "Total de Cr\u00e9ditos",
+      "relevance": 0.516416,
+      "count": 1
+    },
+    {
+      "text": "periodo de pasantia",
+      "relevance": 0.516311,
+      "count": 1
+    },
+    {
+      "text": "idioma ingl\u00e9s",
+      "relevance": 0.516014,
+      "count": 1
+    }
+  ]
+}

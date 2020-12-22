@@ -1,0 +1,155 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1103,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.854828,
+      "count": 2
+    },
+    {
+      "text": "Programa Acad\u00e9mico de los Posgrados",
+      "relevance": 0.665201,
+      "count": 1
+    },
+    {
+      "text": "periodo Enero",
+      "relevance": 0.634926,
+      "count": 2
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.604828,
+      "count": 1
+    },
+    {
+      "text": "saldn de reuniones del Consejo",
+      "relevance": 0.590862,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.590588,
+      "count": 1
+    },
+    {
+      "text": "Sede Cali",
+      "relevance": 0.581937,
+      "count": 1
+    },
+    {
+      "text": "OFERTA ACADEMICA",
+      "relevance": 0.567024,
+      "count": 1
+    },
+    {
+      "text": "siguiente Oferta Acad\u00e9mica",
+      "relevance": 0.563344,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.523872,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Clinicas",
+      "relevance": 0.497595,
+      "count": 1
+    },
+    {
+      "text": "Posgrados de Ciencias Clinicas",
+      "relevance": 0.471193,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.465613,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.455088,
+      "count": 1
+    },
+    {
+      "text": "Especializaci\u00e9n",
+      "relevance": 0.44865,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.44698,
+      "count": 1
+    },
+    {
+      "text": "Neonatologia",
+      "relevance": 0.442443,
+      "count": 2
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.442237,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.429469,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.428513,
+      "count": 2
+    },
+    {
+      "text": "Valle",
+      "relevance": 0.422794,
+      "count": 1
+    },
+    {
+      "text": "CUPOS",
+      "relevance": 0.422794,
+      "count": 2
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.422794,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.420441,
+      "count": 1
+    },
+    {
+      "text": "admision",
+      "relevance": 0.420441,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.420441,
+      "count": 1
+    },
+    {
+      "text": "Especializacion",
+      "relevance": 0.420441,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.420441,
+      "count": 1
+    },
+    {
+      "text": "Rector",
+      "relevance": 0.420441,
+      "count": 1
+    }
+  ]
+}

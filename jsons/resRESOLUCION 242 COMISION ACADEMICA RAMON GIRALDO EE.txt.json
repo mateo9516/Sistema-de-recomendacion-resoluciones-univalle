@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1517,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.684698,
+      "count": 1
+    },
+    {
+      "text": "Profesor visitante",
+      "relevance": 0.648342,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.644806,
+      "count": 2
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.578085,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.570425,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE",
+      "relevance": 0.565478,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.557094,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE VIAJE",
+      "relevance": 0.550464,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.543012,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.523058,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.521785,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.520144,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Estadistica",
+      "relevance": 0.50612,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.5042,
+      "count": 3
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.503569,
+      "count": 1
+    },
+    {
+      "text": "HOSPEDAJE",
+      "relevance": 0.500948,
+      "count": 4
+    },
+    {
+      "text": "profesor RAMON GIRALDO HENAO",
+      "relevance": 0.487724,
+      "count": 2
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.480613,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.480456,
+      "count": 1
+    },
+    {
+      "text": "Datos",
+      "relevance": 0.479976,
+      "count": 1
+    },
+    {
+      "text": "A\u00e9reo",
+      "relevance": 0.479005,
+      "count": 1
+    },
+    {
+      "text": "ruta Bogot\u00e9-Cali-Bogota",
+      "relevance": 0.477516,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.474648,
+      "count": 1
+    },
+    {
+      "text": "Ciclo de Conferencias de la Escuela",
+      "relevance": 0.474071,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.473972,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.471806,
+      "count": 4
+    },
+    {
+      "text": "pago de los gastos de viaje",
+      "relevance": 0.468386,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.467941,
+      "count": 1
+    },
+    {
+      "text": "conferencia",
+      "relevance": 0.467327,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.464093,
+      "count": 1
+    }
+  ]
+}

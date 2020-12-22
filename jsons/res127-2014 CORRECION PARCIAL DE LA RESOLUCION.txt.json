@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 734,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.87322,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.781596,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.669707,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.610105,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.608709,
+      "count": 1
+    },
+    {
+      "text": "Decanatura de la Facultad de Ingenieria",
+      "relevance": 0.59131,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria El\u00e9ctrica",
+      "relevance": 0.536075,
+      "count": 1
+    },
+    {
+      "text": "salario",
+      "relevance": 0.413154,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.403074,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.403006,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.393446,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.38932,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION",
+      "relevance": 0.388641,
+      "count": 1
+    },
+    {
+      "text": "Resoluci6",
+      "relevance": 0.388641,
+      "count": 1
+    },
+    {
+      "text": "Abril",
+      "relevance": 0.385929,
+      "count": 1
+    },
+    {
+      "text": "No",
+      "relevance": 0.385929,
+      "count": 1
+    },
+    {
+      "text": "Marzo",
+      "relevance": 0.385929,
+      "count": 1
+    },
+    {
+      "text": "Electr\u00e9nica",
+      "relevance": 0.385929,
+      "count": 1
+    }
+  ]
+}

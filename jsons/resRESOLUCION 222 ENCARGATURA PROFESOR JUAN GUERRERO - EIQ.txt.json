@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 980,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.701242,
+      "count": 1
+    },
+    {
+      "text": "Director del Programa Acad\u00e9mico",
+      "relevance": 0.662963,
+      "count": 1
+    },
+    {
+      "text": "Ingenierfa Quimica",
+      "relevance": 0.651732,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.600795,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.581989,
+      "count": 1
+    },
+    {
+      "text": "Ahbey Pung",
+      "relevance": 0.54323,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.50879,
+      "count": 1
+    },
+    {
+      "text": "mes de Junio",
+      "relevance": 0.488364,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.460029,
+      "count": 2
+    },
+    {
+      "text": "acad\u00e9mica del profesor Fiderman Machuca Martinez",
+      "relevance": 0.458571,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.441154,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.435789,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.426878,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.426257,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.423882,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.420286,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.420286,
+      "count": 1
+    },
+    {
+      "text": "Rectorfa",
+      "relevance": 0.420286,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4907,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Examen M\u00e9dico",
+      "relevance": 0.688837,
+      "count": 2
+    },
+    {
+      "text": "PROCESO DE MATRICULA",
+      "relevance": 0.650234,
+      "count": 2
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.628921,
+      "count": 1
+    },
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.619524,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de pregrado",
+      "relevance": 0.584245,
+      "count": 2
+    },
+    {
+      "text": "Idioma Extranjero",
+      "relevance": 0.580876,
+      "count": 2
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.574092,
+      "count": 2
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.573103,
+      "count": 1
+    },
+    {
+      "text": "Servicio M\u00e9dico",
+      "relevance": 0.568244,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de Reserva de Cupo",
+      "relevance": 0.568227,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.560154,
+      "count": 5
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.553962,
+      "count": 1
+    },
+    {
+      "text": "fuerza mayor",
+      "relevance": 0.549851,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.540608,
+      "count": 1
+    },
+    {
+      "text": "Finalizacion de Clases",
+      "relevance": 0.538783,
+      "count": 1
+    },
+    {
+      "text": "Dela Vicerrectoria de Bienestar",
+      "relevance": 0.537075,
+      "count": 1
+    },
+    {
+      "text": "Proceso de Reingreso",
+      "relevance": 0.536088,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.533913,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci6n de Asignaturas",
+      "relevance": 0.532162,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.531666,
+      "count": 2
+    },
+    {
+      "text": "Asignaturas Electivas",
+      "relevance": 0.531055,
+      "count": 1
+    },
+    {
+      "text": "calificaciones de validacion",
+      "relevance": 0.528993,
+      "count": 1
+    },
+    {
+      "text": "Documentos soporte Reserva",
+      "relevance": 0.528147,
+      "count": 1
+    },
+    {
+      "text": "registro de Paz",
+      "relevance": 0.527353,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.526259,
+      "count": 1
+    },
+    {
+      "text": "semana del periodo acad\u00e9mico",
+      "relevance": 0.525194,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Mayo",
+      "relevance": 0.523576,
+      "count": 1
+    },
+    {
+      "text": "AGOSTO-DICIEMBRE",
+      "relevance": 0.522411,
+      "count": 1
+    },
+    {
+      "text": "caso fortuito",
+      "relevance": 0.521729,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.520013,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+Universidad
+del Valle
+
+UNIVERSIDAD DEL VALLE
+CONSEJO ACADEMICO
+
+RESOLUCION No. 217
+19 de noviembre de 2020
+
+“Por la cual se modifica el programa académico de Tecnologia en Desarrollo
+de Software (anteriormente denominado Tecnologia en Sistemas de
+Informacion, modificado bajo la Resolucién 080 de 13 de diciembre de 2019
+del Consejo Superior), cuya estructura curricular fue definida mediante la
+Resolucion 051 de 24 de mayo de 2012 del Consejo Académico”
+
+EL CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE, en uso de
+sus facultades legales, en especial las que le confiere el literal b) del Articulo
+20° del Estatuto General, y
+
+CONSIDERANDO:
+
+Que el Ministerio de Educacién Nacional, mediante Decreto 1330 de julio 25
+de 2019, reglamento los registros calificados de los programas académicos de
+Educacion Superior. Que el mismo Decreto en su articulo 2.5.3.2.10.2 hace
+mencioén que cualquier modificacién que afecte las condiciones de calidad del
+programa con las cuales se le otorg6 el registro calificado al mismo, debe
+informarse al Ministerio de Educaci6n Nacional;
+
+Que el Consejo Superior de la Universidad del Valle, mediante el Acuerdo 025
+de septiembre 25 de 2015, actualizo la Politica Curricular y el Proyecto
+Formativo de la Universidad del Valle y el Consejo Académico de la
+Universidad del Valle mediante Resolucion 136 del 22 de diciembre de 2017,
+reglamento las condiciones para la creacién y reforma de los programas de
+formacion de pregrado de la Universidad del Valle; asi como la Facultad de
+Ingenieria definio los lineamientos de actualizacion curricular para el nivel de
+Ingenieria en la Resolucion del Consejo de Facultad No. 157 de mayo 22 de
+2018 y también los lineamientos de actualizacién curricular para el nivel
+tecnoldégico en la Resolucién del Consejo de Facultad No. 040 de febrero 25
+de 2020;UNIVERSIDAD DEL VALLE
+RESOLUCION No. 217 — 2020 Consejo Académico 2
+
+Que el Consejo Superior de la Universidad del Valle, mediante Resolucién No.
+080 del 13 de diciembre de 2019 cambio la denominacién del programa
+académico Tecnologia en Sistemas de Informacién a Tecnologia en Desarrollo
+de Software para todas sus sedes;
+
+Que es necesario actualizar y renovar el curriculo del programa, incorporando
+los avances en el conocimiento disciplinar e interdisciplinar, las nuevas
+tendencias pedagégicas y los desarrollos tecnoldégicos;
+
+Que el Consejo de la Facultad de Ingenieria en su sesion del 25 de agosto de
+2020 mediante Acta No. 15, aval6 la estructura curricular para el programa
+académico de Tecnologia en Desarrollo de Software como modificacion de la
+del programa de Tecnologia en Sistemas de Informacion y también avalo la
+solicitud de unificacioén de nueva denominacion del programa para todas las
+sedes;
+
+Que el Comité Central de Curriculo, en su sesion del 6 de noviembre de 2020,
+mediante Acta No. 21, aval6 y recomendo al Consejo Académico la
+modificacién y nuevo disefio de la estructura curricular para el programa
+académico de Tecnologia en Desarrollo de Software y la unificacion de la
+denominacion en todas las sedes.
+
+RESUELVE:
+
+ARTICULO 1°. Modificar la estructura curricular del programa
+
+académico de Tecnologia en Desarrollo de
+Software, adscrito a la Escuela de Ingenieria de Sistemas y Computacion de
+la Facultad de Ingenieria, con una duracion de siete (7) semestres para la
+jornada nocturna y seis (6) semestres para la jornada diurna, en modalidad
+presencial y periodicidad de admision anual para la sede Palmira y semestral
+para las sedes Cali, Buga, Yumbo, Caicedonia, Santander de Quilichao,
+Buenaventura, Zarzal y Tulua. El programa académico de Tecnologia en
+Desarrollo de Software otorgara el titulo de Tecndlogo(a) en Desarrollo de
+Software a los estudiantes que hayan cursado y aprobado los 96 créditos
+establecidos en la estructura curricular y que cumplan los requisitos
+estipulados en la presente Resoluci6n y demas normas de la Universidad del
+Valle vigentes para sus programas de pregrado.
+
+PARAGRAFO. La presente modificacion aplica para el programa
+
+de Tecnologia en Desarrollo de Software de la
+sede Cali y sus extensiones en las sedes de: Buga, Caicedonia, Tulua, Yumbo,
+Zarzal, Buenaventura, Palmira, y Santander de Quilichao con las siguientes
+especificaciones:UNIVERSIDAD DEL VALLE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RESOLUCION No. 217 — 2020 Consejo Académico 3
+LUGAR DE OFERTA PERIODICIDAD CUPO MAXIMO
+Cali Semestral 40
+Palmira Anual 60
+Buga Semestral 110
+Yumbo Semestral 110
+Caicedonia Semestral 110
+Santander de Quilichao Semestral 55
+Buenaventura Semestral 50
+Zarzal Semestral 35
+Tulua Semestral 115
+ARTIiCULO 2°. Objetivos del Programa. E] programa académico
+
+de Tecnologia en Desarrollo de Software se traza
+los siguientes objetivos:
+
+Objetivo General.
+
+Formar profesionales en Tecnologia en Desarrollo de Software capaces de dar
+soluciones a problemas reales mediante el desarrollo de software, el disefo de
+interacciones humano-computador o la gestidn de infraestructura TIC.
+Capaces de aplicar diversas areas de la computacion y destacandose por su
+formacion cientifica, tecnologica, profesional y personal, con habilidad para
+mantenerse actualizados a medida que la disciplina evoluciona y
+desempenarse en cualquier lugar del mundo.
+
+Objetivos Especificos.
+
+e Formar tecndlogos con capacidad para interpretar y aplicar las ciencias
+pertinentes a su especialidad, asi como los fundamentos, los métodos y las
+herramientas propias de la Tecnologia en Desarrollo de Software.
+
+e Desarrollar en nuestro Tecnologo en Desarrollo de Software la habilidad para
+analizar problemas y desarrollar soluciones basadas en las Tecnologias de la
+Informacion y las Comunicaciones (TIC) de manera creativa y sostenible sobre
+la base de un dominio de las tendencias tecnologicas, robustas y emergentes.
+
+e Formar a nuestro egresado para adaptarse al cambio tecnologico con una
+actitud de formaci6n continua a lo largo de su vida profesional.
+
+e Formar Tecnodlogos en Desarrollo de Software que puedan comunicarse en
+forma oral y escrita de manera eficiente y efectiva y con aptitudes para
+trabajar individualmente y en equipo.
+
+e Formar Tecndlogos en Desarrollo de Software con la capacidad para
+desempenarse, en cualquier lugar del mundo, en diversos ambitos de la
+computacion y TIC acorde a las tecnologias de mayor uso y demandas del
+momento.
+
+e Formar Tecnologos que busquen comprometerse con el desarrollo de la
+sociedad y que tengan aprecio por los valores culturales, historicos, sociales
+y ambientales de su entorno.UNIVERSIDAD DEL VALLE
+RESOLUCION No. 217 — 2020 Consejo Académico 4
+
+ARTICULO 3°. Perfil de Egreso. El egresado(a) del programa
+
+académico de Tecnologia en Desarrollo de Software
+de la Facultad de Ingenieria de la Universidad del Valle desarrolla proyectos
+o da solucién a problemas contemporaneos considerando aspectos éticos,
+ambientales, sociales, culturales y econdmicos, en diversos contextos
+laborales, a nivel local, nacional e internacional el/la egresado/a demuestra,
+como parte del sello institucional, un aprendizaje autonomo que le permitira
+una formacion continua a lo largo de su vida profesional.
+
+De forma mas concreta, el Tecndlogo(a) en Desarrollo de Software de la
+Universidad del Valle es un profesional que puede desempenarse, en los
+siguientes Ambitos: Desarrollo de software, Disemo y desarrollo de
+interacciones entre el humano y el computador, y Gestion de infraestructura
+de TIC. Las Sensibilidades, Capacidades y Competencias especificas a
+desarrollar en estos Ambitos permiten que los egresados sean capaces de:
+
+e Utilizar los conocimientos fundamentales en teoria de la computacién en la
+construccién de sistemas basados en TIC
+
+e Evaluar factores de calidad estandarizados durante la valoracién de uno o
+varios productos de software
+
+e Seleccionar y utilizar diferentes paradigmas y lenguajes de programacion al
+construir sistemas basados en TIC
+
+e Aplicar conceptos y principios implicados en el proceso de diseno de interfaces
+graficas de usuario durante el desarrollo de aplicaciones software
+
+e Aplicar técnicas de evaluacion de usabilidad que permitan medir la calidad de
+la experiencia que tienen los usuarios al interactuar con el software
+desarrollado
+
+e Implementar proyectos de infraestructura de TIC comprendiendo las
+caracteristicas propias de las tecnologias de transporte de datos
+
+e Disenar y desplegar soluciones de servicios de infraestructura tecnoldgica
+orientadas a resolver requerimientos de clientes
+
+e Resolver problemas desde el nivel tecnologico identificando diferentes
+alternativas de solucion y desarrollando sistemas basados en TIC
+
+e Desarrollar proyectos analizando, modelando, disenando, evaluando,
+gestionando, documentando, desplegando e implementando sistemas
+basados en TIC
+
+A su vez, se promovera el desarrollo de Sensibilidades, Capacidades y
+Competencias genéricas que en conjunto con las Sensibilidades, Capacidades
+y Competencias especificas permitiran tener a un profesional integral y
+capacitado para desempenarse en el mundo laboral. Estas Sensibilidades,
+Capacidades y Competencias genéricas le permitiran al egresado:
+
+e Comprender y aplicar las ciencias naturales, matematicas, fundamentos,
+métodos y herramientas propias de la ingenieria
+
+e Utilizar un pensamiento critico y creativo que le permite aprender de forma
+autonoma y permanenteUNIVERSIDAD DEL VALLE
+RESOLUCION No. 217 — 2020 Consejo Académico 5
+
+e Actuar de manera responsable y honesta en el marco del respeto hacia la
+dignidad de las personas y el cuidado del medio social, cultural y natural
+
+e Trabajar en equipo y aplicar diferentes formas y herramientas de
+comunicacién durante la realizacion de proyectos de computacion
+
+e Mostrar una actitud receptiva, propositiva, critica y reflexiva en su relacion
+con los demas en el ejercicio de su profesion
+
+ARTICULO 4°. Perfil Ocupacional. El Tecnologo(a) en Desarrollo
+
+de Software dela Facultad de Ingenieria de la
+Universidad del Valle puede desarrollar labores de nivel tecnologico en el
+campo empresarial asi como el sector productivo, en entidades publicas y
+organizaciones no gubernamentales. Dentro de estas organizaciones puede
+desempenarse en los siguientes cargos:
+
+e Desarrollador de software: Creando y manteniendo aplicaciones y
+sistemas de informacidn que apoyen la gesti6n de procesos de las
+organizaciones.
+
+e Tecnodlogo en pruebas de software: Disenando, codificando, ejecutando y
+reportando resultados de pruebas para contribuir al aseguramiento de
+niveles de calidad deseados en el software desarrollado.
+
+e Disenador de Interaccion y Usabilidad: Creando propuestas para la
+solucién de problemas de interacci6n y mejorar aspectos de usabilidad de
+aplicaciones de software.
+
+e Disenador y Consultor UI/UX: Creando propuestas para la solucioén de
+problemas con interfaces de usuario o creando nuevas experiencias de
+interacci6n.
+
+e Maquetador Front-End: Estructurando los elementos que componen el
+diseno de interfaces que pueden ser interpretados por un sistema de
+despliegue de interfaces, incluyendo ciertas caracteristicas en lenguajes
+del lado del cliente.
+
+e Asistente/Auxiliar de infraestructura informatica: Brindando soporte a los
+colaboradores que lo requieran en temas de infraestructura tecnoldgica.
+
+e Administrador de bases de datos: Realizando copias de seguridad y
+llevando a cabo la recuperacion ante pérdidas del servicio, planificando e
+implementando el aprovisionamiento de los datos y aplicaciones.
+
+e Tecndlogo de TIC: Como asistente o auxiliar en la integracion,
+implantaci6n, mantenimiento, operaci6n y administracién de soluciones
+sustentadas en las tecnologias de la informacién y comunicacion (TIC) al
+servicio de personas y organizaciones.
+
+e Tecnodlogo de Centro de Operaciones de Red: Como asistente o auxiliar en
+la vigilancia y el mantenimiento de redes de telecomunicaciones.
+
+ARTICULO 5°. Estructura Curricular. La estructura curricular
+
+del programa académico de Tecnologia en
+Desarrollo de Software esta organizada por dos ciclos, el ciclo basico y el ciclo
+profesional, los cuales incluyen de forma transversal los componentes de laUNIVERSIDAD DEL VALLE
+
+RESOLUCION No. 217 — 2020 Consejo Académico
+
+6
+
+Formacion General, definidos en la Resolucion No. 136 de diciembre 22 de
+2017 del Consejo Académico. El programa académico también adopta los
+lineamientos del ciclo comun integral de la Facultad de Ingenieria para los
+programas de nivel tecnologico. La siguiente tabla muestra el numero de
+créditos y porcentajes de créditos de los ciclos basico y profesional tanto del
+total de la formaci6n como de la formacion general.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ciclo de Numero de Porcentaje Numero de créditos de | Porcentaje de créditos
+
+formacion Créditos de créditos formaci6én general de formacion general
+Ciclo Basico 48 50% 22, 23%
+Ciclo Profesional 48 50% 7 T%
+Total 96 100% 29 30%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+La siguiente tabla agrupa las asignaturas que pertenecen al ciclo basico y
+profesional en la estructura curricular propuesta. Se identifican los créditos
+
+ 
+
+de cada curso.
+
+ 
+
+Ciclo de
+Formacion
+
+Asignaturas
+
+Créditos
+
+ 
+
+Basico
+
+Matematicas Basicas
+
+w
+
+ 
+
+nformatica I
+
+ 
+
+[aller Tecnoldgico I
+
+ 
+
+Insercion a la Vida Universitaria
+
+ 
+
+ntroduccion a las Tecnologias
+
+ 
+
+Calculo Monovariable
+
+ 
+
+Algebra Lineal
+
+ 
+
+Matematicas Discretas I
+
+ 
+
+Deporte y Salud
+
+ 
+
+Lectura Critica
+
+ 
+
+Matematicas Discretas II
+
+ 
+
+Probabilidad y Estadistica
+
+ 
+
+Simulacion y Computacion Numérica
+
+ 
+
+Electiva Complementaria
+
+ 
+
+Analisis Economico de Inversiones
+
+ 
+
+Seminario en Constitucion, Legislacion y Etica de la Profesion
+
+ 
+
+ntroduccion a la Gestion de Proyectos de Software
+
+W] NO] Co} GW] GY] CO} BY] dO} dO] BY CO} CO] SO] DO] GW]
+
+ 
+
+Total Ciclo Basico
+
+48 créditos
+
+ 
+
+ 
+
+Profesional
+
+Fundamentos de Programacion Orientada a Objetos
+
+ 
+
+Fundamentos de Programacion Orientada a Eventos
+
+ 
+
+Sistemas Operativos
+
+ 
+
+Analisis y Disefio de Algoritmos I
+
+ 
+
+Fundamentos de Redes
+
+ 
+
+Bases de Datos
+
+ 
+
+Desarrollo de Software I
+
+ 
+
+Electiva Profesional I (en el area de infraestructura tecnolégica)
+
+ 
+
+Desarrollo de Software II
+
+ 
+
+ 
+
+ 
+
+Proyecto Integrador I
+
+ 
+
+3
+3
+4
+3
+3
+4
+3
+3
+3
+4UNIVERSIDAD DEL VALLE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RESOLUCION No. 217 — 2020 Consejo Académico 7
+Seminario de Comunicacion Oral y Escrita 3
+Impactos Ambientales 3
+Electiva Profesional II 3
+Desarrollo de Aplicaciones para Dispositivos Moviles 3
+Electiva Profesional III 3
+Total Ciclo Profesional 48 créditos
+Total de Créditos 96 créditos
+PARAGRAFO 1°. Conforme con la Resolucién No. 136 de 2017 del
+
+Consejo Académico, el programa académico de
+Tecnologia en Desarrollo de Software ha destinado cinco (5) créditos
+académicos para la formacién en Espafiol y Comunicacién. Dos (2) de estos
+créditos se encuentran en el ciclo basico en la asignatura Lectura critica y los
+tres (3) créditos restantes corresponden al ciclo profesional y se encuentran
+en la asignatura Seminario de comunicacion oral y escrita. Estas asignaturas
+podran validar la formaci6n en Espanol y Comunicacion previa autorizacion
+de la Escuela de Ciencias del Lenguaje.
+
+PARAGRAFO 2°. Los estudiantes del programa académico de
+
+Tecnologia en Desarrollo de Software podran optar
+por la realizacion de una Practica Profesional de acuerdo con la
+reglamentacion del Consejo de Facultad de seis (6) créditos, equivalente a dos
+(2) Electivas Profesionales de tres (3) créditos cada una.
+
+ARTICULO 6°. Formacion General. Acorde con la Resolucién No.
+
+136 de 2017 del Consejo Académico, la Formacién
+General (FG) es concebida como el conjunto de actividades curriculares y
+extracurriculares que favorece el desarrollo integral del estudiante como
+persona, ciudadano y profesional, en sus dimensiones cognitivas, afectivas,
+éticas, estéticas y politicas. El programa académico adopto actividades
+formativas de FG establecidas dentro de las asignaturas de manera integral y
+transversal. En la siguiente tabla se muestran las asignaturas que aportan a
+la formacion general en el programa académico de Tecnologia en Desarrollo
+de Software.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Componente de |Crédi | Porcentaje |Créditos
+formaci6én general tos que aporta FG
+Ciclo Asignaturas F L E A c aFG
+s Cc Vv H T
+c s
+B Matematicas Basicas x 3 100 3.00
+a Introducci6n a las Tecnologias x x 2 100 2.00
+s * Insercion a la Vida Universitaria x x x 2 100 2.00
+i Taller Tecnologico I x x 3 100 3.00
+c * Deporte y Salud x 2 100 2.00
+° Informatica I xX 3 100 3.00
+* Seminario de Constituci6n, Legislacién y Etica de la x 2 100 2.00
+Profesion
+Lectura Critica x 2 100 2.00
+* Electiva Complementaria (con alguna de estas x xX x 3 100 3.00
+componentes)UNIVERSIDAD DEL VALLE
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RESOLUCION No. 217 — 2020 Consejo Académico 8
+Total créditos FG en el ciclo basico 22.00
+% créditos FG en el ciclo basico 23%
+Fundamentos de Programaci6on Orientada a Objetos x x x 3 38 1.14
+PB Proyecto Integrador I x x 4 55 2.20
+if
+ore Seminario de Comunicacién Oral y Escrita x 3 100 3.00
+nal
+Desarrollo de Software I x 3 5 0.15
+Desarrollo de Software II x 3 5 0.15
+Total créditos FG en el ciclo profesional 7
+% créditos FG en el ciclo profesional T%
+Total créditos FG 29
+
+ 
+
+ 
+
+PORCENTAJE TOTAL DE FORMACION GENERAL
+
+ 
+
+30%
+
+ 
+
+PARAGRAFO 1°. Las asignaturas senaladas con (*) en la tabla
+anterior pueden ser tomadas de la oferta general
+de la Universidad siempre y cuando sean reemplazadas con asignaturas o
+espacios formativos que formen resultados de aprendizaje equivalentes y que
+correspondan a las mismas componentes de Formacion General.
+
+PARAGRAFO 2°. Las asignaturas que aportan 100% a la FG en el
+
+ciclo basico pueden ser matriculadas por cualquier
+estudiante de la Universidad. Las asignaturas que aportan 100% a la FG en
+el ciclo profesional pueden tomarse por cualquier estudiante de la Facultad
+de Ingenieria.
+
+PARAGRAFO 3°. Con el animo de fortalecer la flexibilidad en la
+
+formacion integral del estudiante y propiciar su
+participacion activa en la vida universitaria, el programa académico considera
+actividades extracurriculares, las cuales pueden convalidarse dentro de las
+asignaturas previo andalisis del comité del programa académico. La
+participacién en maratones de programacion, la aprobaci6n de cursos en
+plataformas de educacion virtual, y las certificaciones, se convalidaran con
+asignaturas de la malla curricular de acuerdo a lo definido por el comité de
+programa.
+
+ARTICULO 7°. Lengua Extranjera. El programa académico de
+
+Tecnologia en Desarrollo de Software establece
+como requisito de grado para sus estudiantes el manejo del idioma Inglés
+como lengua extranjera. Acorde a lo establecido en el articulo 10° de la
+Resolucién No. 136 de 2017 del Consejo Académico, los estudiantes del
+Programa Académico Tecnologia en Desarrollo de Software deben acreditar alUNIVERSIDAD DEL VALLE
+RESOLUCION No. 217 — 2020 Consejo Académico 9
+
+menos el nivel A2 de suficiencia en el idioma Inglés de acuerdo con el Marco
+Comtn Europeo de Referencia (MCER).
+
+ARTICULO 8°. Espafiol como Segunda Lengua. Los estudiantes
+
+de grupos étnicos o minoritarios cuya lengua
+materna no sea el Castellano, deberan acreditar el Castellano en nivel B2.
+Para el caso de los estudiantes con discapacidad auditiva se exigira este
+mismo nivel, en habilidades de lectura y escritura.
+
+ARTICULO 9°. Plan de Transici6én. Los estudiantes del programa
+
+académico de Tecnologia en Desarrollo de
+Software pertenecientes a las cohortes anteriores a la reforma curricular,
+podran acogerse voluntariamente a lo contemplado en esta resolucién dentro
+de un (1) afo siguiente a la aprobacion por parte del Ministerio de Educacion
+Nacional. En tal caso, el Comité del programa académico establecera las
+equivalencias correspondientes de acuerdo con el plan de transici6n
+establecido en el documento de actualizaci6n curricular. Para el caso de las
+solicitudes de reingreso, el Comité del programa académico definira la
+conveniencia de aplicar la presente Resoluci6n o aceptar al estudiante bajo la
+Resolucion anterior, solo dentro de los tres (3) afos siguientes a la aprobaci6n
+por parte del Ministerio de Educacién Nacional; posterior a este periodo se
+aplicara la presente resolucion. Para el caso de traslados y transferencias se
+aplicara la presente Resolucién.
+
+ARTICULO 10°. Vigencia. La presente Resoluci6n rige para las
+cohortes que ingresen a partir de la fecha de
+aprobacion por parte del Ministerio de Educaci6n Nacional y deroga las
+disposiciones que le sean contrarias.
+COMUNIQUESE, PUBLIQUESE Y CUMPLASE
+
+Dada en Santiago de Cali, a los 19 dias del mes de noviembre de 2020.
+
+El presidente,
+
+DOCUMENTO ORIGINAL FIRMADO
+
+EDGAR VARELA BARRIOS
+Rector
+
+ANTONIO JOSE ECHEVERRY PEREZ
+Secretario General

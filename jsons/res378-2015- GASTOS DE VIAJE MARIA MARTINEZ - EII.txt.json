@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2071,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "TRANSPORTE LOCAL",
+      "relevance": 0.650852,
+      "count": 1
+    },
+    {
+      "text": "APOYO ECONOMICO",
+      "relevance": 0.598353,
+      "count": 2
+    },
+    {
+      "text": "Santa Marta",
+      "relevance": 0.580927,
+      "count": 1
+    },
+    {
+      "text": "Escuela Naval",
+      "relevance": 0.566385,
+      "count": 1
+    },
+    {
+      "text": "MARIA ANDREA MARTINEZ",
+      "relevance": 0.557857,
+      "count": 1
+    },
+    {
+      "text": "Mision acad\u00e9mica",
+      "relevance": 0.555265,
+      "count": 1
+    },
+    {
+      "text": "COMPRA DE TIQUETE",
+      "relevance": 0.549824,
+      "count": 2
+    },
+    {
+      "text": "Comunicaciones de la EII",
+      "relevance": 0.5394,
+      "count": 1
+    },
+    {
+      "text": "empresas Drummond Ltda",
+      "relevance": 0.531101,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Magdalena",
+      "relevance": 0.526437,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.52099,
+      "count": 3
+    },
+    {
+      "text": "recursos de la Escuela",
+      "relevance": 0.518435,
+      "count": 1
+    },
+    {
+      "text": "Bayer Andina",
+      "relevance": 0.517163,
+      "count": 1
+    },
+    {
+      "text": "apoyo econd\u00e9dmico",
+      "relevance": 0.516331,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.513903,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Atlantico",
+      "relevance": 0.513807,
+      "count": 1
+    },
+    {
+      "text": "Costa Norte de Colombia",
+      "relevance": 0.512814,
+      "count": 1
+    },
+    {
+      "text": "Gastos de viaje",
+      "relevance": 0.511364,
+      "count": 2
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.508007,
+      "count": 2
+    },
+    {
+      "text": "visitas empresariales",
+      "relevance": 0.506068,
+      "count": 2
+    },
+    {
+      "text": "TIQUETE A",
+      "relevance": 0.502408,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.500669,
+      "count": 1
+    },
+    {
+      "text": "Colombia",
+      "relevance": 0.492676,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.492141,
+      "count": 1
+    },
+    {
+      "text": "CARLOS URO LOZANO MONCADA",
+      "relevance": 0.489858,
+      "count": 1
+    },
+    {
+      "text": "Resolucion de Decanatura No",
+      "relevance": 0.488561,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.487606,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.486798,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte local",
+      "relevance": 0.485123,
+      "count": 2
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.482202,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6347,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Tecnologia Electronica",
+      "relevance": 0.73825,
+      "count": 5
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.682395,
+      "count": 3
+    },
+    {
+      "text": "PROGRAMAS ACADEMICOS DE PREGRADO",
+      "relevance": 0.671789,
+      "count": 1
+    },
+    {
+      "text": "Directores de Programa",
+      "relevance": 0.579797,
+      "count": 1
+    },
+    {
+      "text": "Programas de Pregrado",
+      "relevance": 0.567271,
+      "count": 1
+    },
+    {
+      "text": "Solicitud de citas via",
+      "relevance": 0.566126,
+      "count": 1
+    },
+    {
+      "text": "procedimiento del proceso de Admision",
+      "relevance": 0.560932,
+      "count": 1
+    },
+    {
+      "text": "proceso de TRANSFERENCIA",
+      "relevance": 0.559937,
+      "count": 1
+    },
+    {
+      "text": "Pago de los Derechos de Inscripcion",
+      "relevance": 0.556083,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de requisitos",
+      "relevance": 0.555241,
+      "count": 1
+    },
+    {
+      "text": "CALENDARIO ACADEMICO",
+      "relevance": 0.546629,
+      "count": 1
+    },
+    {
+      "text": "Comercio Exterior",
+      "relevance": 0.542806,
+      "count": 1
+    },
+    {
+      "text": "Sede Regional",
+      "relevance": 0.54,
+      "count": 2
+    },
+    {
+      "text": "Envio de la documentacion",
+      "relevance": 0.533622,
+      "count": 1
+    },
+    {
+      "text": "Pruebas de Aptitud",
+      "relevance": 0.532645,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.531098,
+      "count": 1
+    },
+    {
+      "text": "SEDE BUGA",
+      "relevance": 0.530631,
+      "count": 1
+    },
+    {
+      "text": "requisitos generales de inscripcion",
+      "relevance": 0.530511,
+      "count": 2
+    },
+    {
+      "text": "Tecnologia Agroambiental",
+      "relevance": 0.526392,
+      "count": 2
+    },
+    {
+      "text": "ACADEMICO CUPOS",
+      "relevance": 0.52574,
+      "count": 8
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.524452,
+      "count": 5
+    },
+    {
+      "text": "Musica sede Buga",
+      "relevance": 0.522584,
+      "count": 1
+    },
+    {
+      "text": "Sistemas de Informacion",
+      "relevance": 0.521633,
+      "count": 10
+    },
+    {
+      "text": "Diligenciamiento via",
+      "relevance": 0.519435,
+      "count": 1
+    },
+    {
+      "text": "siguiente Oferta Acad\u00e9mica",
+      "relevance": 0.516656,
+      "count": 1
+    },
+    {
+      "text": "parte de los Directores",
+      "relevance": 0.516031,
+      "count": 1
+    },
+    {
+      "text": "Contaduria Publica",
+      "relevance": 0.514395,
+      "count": 12
+    },
+    {
+      "text": "Recibos de Pago",
+      "relevance": 0.51434,
+      "count": 1
+    },
+    {
+      "text": "Area de Admisiones",
+      "relevance": 0.514092,
+      "count": 2
+    },
+    {
+      "text": "Mantenimiento de Equipo Portuario",
+      "relevance": 0.51406,
+      "count": 1
+    }
+  ]
+}

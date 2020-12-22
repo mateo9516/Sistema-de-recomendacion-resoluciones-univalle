@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1058,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.74373,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.687414,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.652363,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.599405,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.586116,
+      "count": 1
+    },
+    {
+      "text": "Directora del Instituto CINARA",
+      "relevance": 0.557051,
+      "count": 1
+    },
+    {
+      "text": "Comisi\u00e9n Acad\u00e9mica",
+      "relevance": 0.556086,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.553549,
+      "count": 1
+    },
+    {
+      "text": "Profesora INES RESTREPO",
+      "relevance": 0.539422,
+      "count": 2
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.502603,
+      "count": 1
+    },
+    {
+      "text": "mes de Octubre",
+      "relevance": 0.483191,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.432633,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.427616,
+      "count": 1
+    },
+    {
+      "text": "Acad",
+      "relevance": 0.427616,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.425113,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.424613,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.422614,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.422614,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.422614,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.422614,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.422614,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.422614,
+      "count": 1
+    },
+    {
+      "text": "mica",
+      "relevance": 0.422614,
+      "count": 1
+    }
+  ]
+}

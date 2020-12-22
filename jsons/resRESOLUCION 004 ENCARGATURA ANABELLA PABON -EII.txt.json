@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 933,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.688789,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.658673,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n del Programa Acad\u00e9mico",
+      "relevance": 0.655683,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.64359,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.588568,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.556258,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.521154,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.493575,
+      "count": 1
+    },
+    {
+      "text": "Profesora ANABELLA PABON ROMERO",
+      "relevance": 0.470757,
+      "count": 2
+    },
+    {
+      "text": "mes de Enero",
+      "relevance": 0.469977,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.454448,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.429279,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.410386,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.408882,
+      "count": 1
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.408882,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.408882,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.408882,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.408882,
+      "count": 1
+    }
+  ]
+}

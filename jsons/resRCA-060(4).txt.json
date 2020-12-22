@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 25327,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "carrera de Tiempo Completo",
+      "relevance": 0.744581,
+      "count": 1
+    },
+    {
+      "text": "area de Construcci\u00e9n de la Facultad",
+      "relevance": 0.641846,
+      "count": 1
+    },
+    {
+      "text": "Medio Tiempo",
+      "relevance": 0.637433,
+      "count": 3
+    },
+    {
+      "text": "Tiempo Completo Equivalente",
+      "relevance": 0.621392,
+      "count": 1
+    },
+    {
+      "text": "perfiles profesionales",
+      "relevance": 0.600447,
+      "count": 1
+    },
+    {
+      "text": "Infectologia Pediatrica",
+      "relevance": 0.594116,
+      "count": 2
+    },
+    {
+      "text": "Titulo profesional",
+      "relevance": 0.593881,
+      "count": 3
+    },
+    {
+      "text": "Tiempo Completo",
+      "relevance": 0.591783,
+      "count": 13
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.575666,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.571839,
+      "count": 3
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.570896,
+      "count": 21
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.55864,
+      "count": 3
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.558567,
+      "count": 14
+    },
+    {
+      "text": "Titulo de Maestria",
+      "relevance": 0.554582,
+      "count": 10
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.549796,
+      "count": 7
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.543651,
+      "count": 15
+    },
+    {
+      "text": "Experiencia docente universitaria de minimo",
+      "relevance": 0.542888,
+      "count": 20
+    },
+    {
+      "text": "Unidades Acad\u00e9micas",
+      "relevance": 0.539648,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores",
+      "relevance": 0.538403,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.537563,
+      "count": 5
+    },
+    {
+      "text": "macroeconomia abierta",
+      "relevance": 0.535934,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.532732,
+      "count": 2
+    },
+    {
+      "text": "perfil especifico de un concurso",
+      "relevance": 0.531477,
+      "count": 2
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.530998,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Profesoral",
+      "relevance": 0.530626,
+      "count": 2
+    },
+    {
+      "text": "pregrado de Licenciatura",
+      "relevance": 0.530512,
+      "count": 2
+    },
+    {
+      "text": "Neumologia Pediatrica",
+      "relevance": 0.530385,
+      "count": 2
+    },
+    {
+      "text": "Fisica Ambiental",
+      "relevance": 0.528971,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudio",
+      "relevance": 0.527782,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Sociales",
+      "relevance": 0.526906,
+      "count": 8
+    }
+  ]
+}

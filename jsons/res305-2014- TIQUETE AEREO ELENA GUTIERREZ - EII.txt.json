@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1142,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.710364,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.652053,
+      "count": 1
+    },
+    {
+      "text": "Profesora Visitante Universidad",
+      "relevance": 0.617415,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE TIQUETE AEREO",
+      "relevance": 0.607252,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.585416,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.569201,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.544105,
+      "count": 1
+    },
+    {
+      "text": "clases de posgrado",
+      "relevance": 0.54058,
+      "count": 1
+    },
+    {
+      "text": "gastos de tiquete a\u00e9reo",
+      "relevance": 0.539944,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.534489,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria industrial",
+      "relevance": 0.515933,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria Industrial",
+      "relevance": 0.499832,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.459593,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.457111,
+      "count": 1
+    },
+    {
+      "text": "Medellin",
+      "relevance": 0.455334,
+      "count": 2
+    },
+    {
+      "text": "PAGO DE TIQUETE AEREO A",
+      "relevance": 0.453268,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.45034,
+      "count": 1
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.449222,
+      "count": 1
+    },
+    {
+      "text": "Escuela",
+      "relevance": 0.446438,
+      "count": 1
+    },
+    {
+      "text": "Carrera",
+      "relevance": 0.44581,
+      "count": 1
+    },
+    {
+      "text": "Decano",
+      "relevance": 0.444727,
+      "count": 1
+    },
+    {
+      "text": "Santiago",
+      "relevance": 0.443583,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.442344,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.437501,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.437501,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.437501,
+      "count": 1
+    },
+    {
+      "text": "Oeste",
+      "relevance": 0.437501,
+      "count": 1
+    },
+    {
+      "text": "COMPLASE",
+      "relevance": 0.437501,
+      "count": 1
+    }
+  ]
+}

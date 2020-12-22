@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7054,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "INGENIERIA DE ALIMENTOS",
+      "relevance": 0.686622,
+      "count": 10
+    },
+    {
+      "text": "Programa Acad\u00e9mico MAESTRIA",
+      "relevance": 0.631916,
+      "count": 4
+    },
+    {
+      "text": "desarrollo tecnologico",
+      "relevance": 0.616039,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.570473,
+      "count": 6
+    },
+    {
+      "text": "Comit\u00e9 de Curriculo",
+      "relevance": 0.569033,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.558662,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci6",
+      "relevance": 0.545804,
+      "count": 1
+    },
+    {
+      "text": "demas requisitos",
+      "relevance": 0.545313,
+      "count": 1
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.544777,
+      "count": 2
+    },
+    {
+      "text": "trav\u00e9s de la participaci6",
+      "relevance": 0.541696,
+      "count": 1
+    },
+    {
+      "text": "sector productivo",
+      "relevance": 0.538657,
+      "count": 5
+    },
+    {
+      "text": "area de \u00e9nfasis",
+      "relevance": 0.536403,
+      "count": 1
+    },
+    {
+      "text": "desarrollo tecnol\u00e9gico del pais",
+      "relevance": 0.536171,
+      "count": 1
+    },
+    {
+      "text": "reuni6n",
+      "relevance": 0.534886,
+      "count": 1
+    },
+    {
+      "text": "Industria Nacional",
+      "relevance": 0.530576,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.529363,
+      "count": 2
+    },
+    {
+      "text": "Reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.528548,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.525441,
+      "count": 1
+    },
+    {
+      "text": "ejercicio profesional",
+      "relevance": 0.525423,
+      "count": 1
+    },
+    {
+      "text": "proyectos de investigacion",
+      "relevance": 0.523219,
+      "count": 1
+    },
+    {
+      "text": "siguientes componentes",
+      "relevance": 0.521835,
+      "count": 1
+    },
+    {
+      "text": "solida preparacion",
+      "relevance": 0.521639,
+      "count": 1
+    },
+    {
+      "text": "estado del arte del area",
+      "relevance": 0.52083,
+      "count": 1
+    },
+    {
+      "text": "principios de flexibilidad",
+      "relevance": 0.517958,
+      "count": 1
+    },
+    {
+      "text": "problemas fundamentales",
+      "relevance": 0.517267,
+      "count": 1
+    },
+    {
+      "text": "organismos nacionales",
+      "relevance": 0.517174,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del pais",
+      "relevance": 0.516965,
+      "count": 2
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.516858,
+      "count": 2
+    },
+    {
+      "text": "pares nacionales",
+      "relevance": 0.516286,
+      "count": 1
+    },
+    {
+      "text": "reglamentaciones vigentes",
+      "relevance": 0.515673,
+      "count": 1
+    }
+  ]
+}

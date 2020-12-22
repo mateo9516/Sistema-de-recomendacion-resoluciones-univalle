@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1381,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "transporte local",
+      "relevance": 0.70326,
+      "count": 1
+    },
+    {
+      "text": "transporte intermunicipal",
+      "relevance": 0.615563,
+      "count": 2
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.555016,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.554184,
+      "count": 3
+    },
+    {
+      "text": "ser\u00e9n cubiertos",
+      "relevance": 0.548166,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.53523,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.532103,
+      "count": 1
+    },
+    {
+      "text": "Escuela Eidenar",
+      "relevance": 0.529565,
+      "count": 1
+    },
+    {
+      "text": "PAOLA ANDREA ANGULO ROJAS",
+      "relevance": 0.517726,
+      "count": 3
+    },
+    {
+      "text": "Convenio ASORUT Grupo Regar",
+      "relevance": 0.511688,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.505835,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.498309,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.496794,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE A",
+      "relevance": 0.489632,
+      "count": 1
+    },
+    {
+      "text": "Artfculo",
+      "relevance": 0.487911,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.487828,
+      "count": 1
+    },
+    {
+      "text": "ASORUT",
+      "relevance": 0.485313,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte local",
+      "relevance": 0.484125,
+      "count": 1
+    },
+    {
+      "text": "gastos",
+      "relevance": 0.47758,
+      "count": 2
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.473538,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.47291,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.470003,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.465633,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.465633,
+      "count": 1
+    },
+    {
+      "text": "C\u00e9dula",
+      "relevance": 0.465633,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.465633,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.465633,
+      "count": 1
+    },
+    {
+      "text": "Fecha",
+      "relevance": 0.465633,
+      "count": 1
+    },
+    {
+      "text": "TERCERO",
+      "relevance": 0.465633,
+      "count": 1
+    },
+    {
+      "text": "apoyo",
+      "relevance": 0.465633,
+      "count": 1
+    }
+  ]
+}

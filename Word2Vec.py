@@ -2,6 +2,7 @@ import os
 import sys 
 import json
 import nltk
+import re
 from gensim.models import Word2Vec
 from nltk.tokenize.toktok import ToktokTokenizer
 import nltk.data
@@ -64,15 +65,30 @@ with open('./normal.csv', 'rt',encoding="utf8") as f:
             #nube += palabras['keywords'][i]['text']+" "
     #nube += palabras+" "
 
+nube = re.sub("\W+"," ", nube)
+nube = re.sub(r"\W*\b\w{1,3}\b","",nube)
+
+nube = nube.replace("articulo","")
+nube = nube.replace("resolucion","")
+nube = nube.replace("resolucien","")
+nube = nube.replace("consejo","")
+nube = nube.replace("paragrafo","")
+nube = nube.replace("cada","")
+nube = nube.replace("universidad","")
+nube = nube.replace("valle","")
+
 all_sentences = tokenizer.tokenize(nube) # tokenize todo el texto nube, se debe hacer este paso primero sino separa por letras... Aqui saco "oraciones"
+
+
 all_words = [nltk.word_tokenize(sent) for sent in all_sentences] # con esto separo todas las palabras de las supuestas oraciones
-model = Word2Vec(all_words, size=300, window = 6, min_count=3, workers=3) # este es el modelo del word2vec
+print(len(all_words))
+model = Word2Vec(all_words, size=200, window = 10, min_count=5, workers=3) # este es el modelo del word2vec
 
 #vocabulario = word2vec.wv.vocab
 
 # busco palabras similares, solo se puede con palabras que esten en el vocabulario
 # es decir aun no hay contexto :(                                                        
-sim_words = model.wv.most_similar('afrocolombianas',topn=30) 
+sim_words = model.wv.most_similar('software',topn=30) 
 
 print(sim_words)  # imprimo las palabras similares, en nuestra prueba solo le atino a una, 
 # la palabra "negra" 

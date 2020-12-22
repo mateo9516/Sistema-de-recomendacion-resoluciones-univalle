@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1337,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.782818,
+      "count": 2
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.698892,
+      "count": 1
+    },
+    {
+      "text": "pr\u00e9ximo Consejo de Facultad",
+      "relevance": 0.684755,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.649188,
+      "count": 1
+    },
+    {
+      "text": "Profesor Asistente",
+      "relevance": 0.648102,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.565868,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.562382,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.544883,
+      "count": 1
+    },
+    {
+      "text": "Instrumentos del ICFES",
+      "relevance": 0.528971,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.52797,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.513619,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.505052,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA A",
+      "relevance": 0.499338,
+      "count": 1
+    },
+    {
+      "text": "Subdirecci\u00e9n de Disefio",
+      "relevance": 0.495716,
+      "count": 1
+    },
+    {
+      "text": "anterior Comisi\u00e9n Acad\u00e9mica serd",
+      "relevance": 0.493444,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 T\u00e9cnico del M\u00e9dulo Disefio",
+      "relevance": 0.487871,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.486881,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.485385,
+      "count": 1
+    },
+    {
+      "text": "JOAO LUIS EALO CUELLO",
+      "relevance": 0.473707,
+      "count": 1
+    },
+    {
+      "text": "Ja sesidn del dia martes",
+      "relevance": 0.46939,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.468461,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.463355,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.462145,
+      "count": 1
+    },
+    {
+      "text": "Profesor JOAO LUIS EALO CUELLO",
+      "relevance": 0.459766,
+      "count": 1
+    },
+    {
+      "text": "pardgrafo",
+      "relevance": 0.456145,
+      "count": 1
+    },
+    {
+      "text": "edificio",
+      "relevance": 0.455332,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.452478,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.452312,
+      "count": 1
+    },
+    {
+      "text": "piso",
+      "relevance": 0.450739,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.450143,
+      "count": 1
+    }
+  ]
+}

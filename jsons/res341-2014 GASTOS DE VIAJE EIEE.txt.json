@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2005,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.717078,
+      "count": 2
+    },
+    {
+      "text": "Profesor visitante",
+      "relevance": 0.703525,
+      "count": 2
+    },
+    {
+      "text": "tiquetes a\u00e9reos",
+      "relevance": 0.623125,
+      "count": 2
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.594509,
+      "count": 2
+    },
+    {
+      "text": "Tesis Doctoral",
+      "relevance": 0.588728,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.57303,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.569173,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.552633,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades Icgales",
+      "relevance": 0.549196,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.547342,
+      "count": 1
+    },
+    {
+      "text": "estudiante del Programa Acad\u00e9mico",
+      "relevance": 0.536947,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.528569,
+      "count": 1
+    },
+    {
+      "text": "calidad jurados",
+      "relevance": 0.525226,
+      "count": 1
+    },
+    {
+      "text": "pago de los gastos de viaje",
+      "relevance": 0.520447,
+      "count": 1
+    },
+    {
+      "text": "Universidad Nacional de Medellin",
+      "relevance": 0.511206,
+      "count": 2
+    },
+    {
+      "text": "gastos de transporte local",
+      "relevance": 0.509697,
+      "count": 1
+    },
+    {
+      "text": "Decanatura No",
+      "relevance": 0.508918,
+      "count": 1
+    },
+    {
+      "text": "Diagnostic of Photovoltaic Arrays",
+      "relevance": 0.500681,
+      "count": 1
+    },
+    {
+      "text": "ANDRES JULIAN SAAVEDRA MONTES",
+      "relevance": 0.499376,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria El\u00e9ctrica",
+      "relevance": 0.497252,
+      "count": 2
+    },
+    {
+      "text": "rula Medellin",
+      "relevance": 0.496304,
+      "count": 1
+    },
+    {
+      "text": "hospedaje",
+      "relevance": 0.491729,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.480547,
+      "count": 1
+    },
+    {
+      "text": "recursos del Programa Acad\u00e9mico de Doctorado",
+      "relevance": 0.470525,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.470255,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.467874,
+      "count": 2
+    },
+    {
+      "text": "valor",
+      "relevance": 0.467464,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.464416,
+      "count": 1
+    },
+    {
+      "text": "Electr\u00e9nica",
+      "relevance": 0.464135,
+      "count": 2
+    },
+    {
+      "text": "viaje",
+      "relevance": 0.463839,
+      "count": 1
+    }
+  ]
+}

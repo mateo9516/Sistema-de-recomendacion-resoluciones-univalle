@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4574,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.670966,
+      "count": 2
+    },
+    {
+      "text": "Comit\u00e9 de Evaluacion",
+      "relevance": 0.66723,
+      "count": 4
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.628882,
+      "count": 2
+    },
+    {
+      "text": "Programa respectivo",
+      "relevance": 0.605869,
+      "count": 2
+    },
+    {
+      "text": "equivalencias correspondientes",
+      "relevance": 0.581295,
+      "count": 2
+    },
+    {
+      "text": "titulos de Estadistico",
+      "relevance": 0.571484,
+      "count": 2
+    },
+    {
+      "text": "primer caso",
+      "relevance": 0.569482,
+      "count": 2
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.563228,
+      "count": 2
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.55579,
+      "count": 2
+    },
+    {
+      "text": "Comit\u00e9 de Programa",
+      "relevance": 0.554687,
+      "count": 2
+    },
+    {
+      "text": "ultimo caso",
+      "relevance": 0.549306,
+      "count": 2
+    },
+    {
+      "text": "requisitos acad\u00e9micos",
+      "relevance": 0.542609,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.5423,
+      "count": 2
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.538165,
+      "count": 2
+    },
+    {
+      "text": "planes de estudios",
+      "relevance": 0.537946,
+      "count": 2
+    },
+    {
+      "text": "otorgamiento de titulos",
+      "relevance": 0.528767,
+      "count": 2
+    },
+    {
+      "text": "palabra Estadistico",
+      "relevance": 0.524866,
+      "count": 2
+    },
+    {
+      "text": "titulo de Ingeniero",
+      "relevance": 0.521569,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico de la Universidad",
+      "relevance": 0.51966,
+      "count": 2
+    },
+    {
+      "text": "Consejo Directivo de la Universidad",
+      "relevance": 0.518131,
+      "count": 2
+    },
+    {
+      "text": "estudio de los documentos",
+      "relevance": 0.512846,
+      "count": 2
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.503826,
+      "count": 2
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.502247,
+      "count": 2
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.498484,
+      "count": 2
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.492546,
+      "count": 10
+    },
+    {
+      "text": "vez",
+      "relevance": 0.492138,
+      "count": 2
+    },
+    {
+      "text": "salon de reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.483866,
+      "count": 2
+    },
+    {
+      "text": "Facultad",
+      "relevance": 0.482053,
+      "count": 2
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.479445,
+      "count": 2
+    },
+    {
+      "text": "Ingeniero",
+      "relevance": 0.478934,
+      "count": 2
+    }
+  ]
+}

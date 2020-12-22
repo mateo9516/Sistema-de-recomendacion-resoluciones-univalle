@@ -1,0 +1,125 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1001,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.751618,
+      "count": 1
+    },
+    {
+      "text": "direccion del Instituto CINARA",
+      "relevance": 0.654477,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.648241,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.647715,
+      "count": 1
+    },
+    {
+      "text": "CULO TERCERO",
+      "relevance": 0.645105,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.576708,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.572037,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.509676,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.508438,
+      "count": 1
+    },
+    {
+      "text": "mes de Septiembre",
+      "relevance": 0.493848,
+      "count": 1
+    },
+    {
+      "text": "ARTI",
+      "relevance": 0.473171,
+      "count": 1
+    },
+    {
+      "text": "Profesor LUIS DARIO SANCHEZ TORRES",
+      "relevance": 0.455076,
+      "count": 2
+    },
+    {
+      "text": "meses",
+      "relevance": 0.438234,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.430771,
+      "count": 1
+    },
+    {
+      "text": "Paragrafo",
+      "relevance": 0.422588,
+      "count": 1
+    },
+    {
+      "text": "Profesor",
+      "relevance": 0.422378,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.41579,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.41579,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.41579,
+      "count": 1
+    },
+    {
+      "text": "Agosto",
+      "relevance": 0.41579,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.41579,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.41579,
+      "count": 1
+    },
+    {
+      "text": "cargo",
+      "relevance": 0.41579,
+      "count": 1
+    }
+  ]
+}

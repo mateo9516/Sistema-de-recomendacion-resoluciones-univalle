@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1425,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.810975,
+      "count": 2
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.670002,
+      "count": 3
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.669381,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AFREO",
+      "relevance": 0.623346,
+      "count": 1
+    },
+    {
+      "text": "CARLOS ART",
+      "relevance": 0.579591,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.570713,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.567655,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.549924,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria de Materiales",
+      "relevance": 0.547948,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.544302,
+      "count": 1
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.526158,
+      "count": 2
+    },
+    {
+      "text": "jurados de votacion",
+      "relevance": 0.525834,
+      "count": 1
+    },
+    {
+      "text": "ruta Pereira",
+      "relevance": 0.508548,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.496928,
+      "count": 1
+    },
+    {
+      "text": "JORGE AUGUSTO MONTOYA ARANGO",
+      "relevance": 0.488577,
+      "count": 3
+    },
+    {
+      "text": "tesis de Doctorado",
+      "relevance": 0.487047,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.470124,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.467211,
+      "count": 1
+    },
+    {
+      "text": "Docente Universidad Tecnologica de Pereira",
+      "relevance": 0.458661,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.455473,
+      "count": 1
+    },
+    {
+      "text": "fondos del Programa Acad\u00e9mico de Doctorado",
+      "relevance": 0.455375,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.447422,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.446142,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.4455,
+      "count": 1
+    },
+    {
+      "text": "Bogota",
+      "relevance": 0.442389,
+      "count": 2
+    },
+    {
+      "text": "valor",
+      "relevance": 0.440215,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.439934,
+      "count": 1
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.438951,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.436268,
+      "count": 1
+    },
+    {
+      "text": "Vaile",
+      "relevance": 0.436268,
+      "count": 1
+    }
+  ]
+}

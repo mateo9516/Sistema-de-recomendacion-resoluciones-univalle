@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 18393,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.604891,
+      "count": 1
+    },
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.595452,
+      "count": 2
+    },
+    {
+      "text": "evaluacion de los aspirantes",
+      "relevance": 0.572522,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria",
+      "relevance": 0.570612,
+      "count": 2
+    },
+    {
+      "text": "solicitudes de los candidatos",
+      "relevance": 0.557371,
+      "count": 1
+    },
+    {
+      "text": "efectos de asignacion",
+      "relevance": 0.552771,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.552475,
+      "count": 1
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.55178,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.550105,
+      "count": 4
+    },
+    {
+      "text": "tipo de presentaciones",
+      "relevance": 0.548773,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.546914,
+      "count": 3
+    },
+    {
+      "text": "Exposicion oral",
+      "relevance": 0.544989,
+      "count": 5
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.537795,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.535635,
+      "count": 2
+    },
+    {
+      "text": "especificidades de las diferentes Facultades",
+      "relevance": 0.53562,
+      "count": 1
+    },
+    {
+      "text": "Literal c",
+      "relevance": 0.534761,
+      "count": 1
+    },
+    {
+      "text": "base del maximo numero",
+      "relevance": 0.532174,
+      "count": 1
+    },
+    {
+      "text": "caso de las Licenciaturas",
+      "relevance": 0.531306,
+      "count": 1
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.529249,
+      "count": 1
+    },
+    {
+      "text": "criterios de seleccion",
+      "relevance": 0.528833,
+      "count": 1
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.528673,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicacion",
+      "relevance": 0.526966,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.526958,
+      "count": 1
+    },
+    {
+      "text": "puntos alcanzable",
+      "relevance": 0.525713,
+      "count": 1
+    },
+    {
+      "text": "evaluacio\u00e9n de las pruebas acad\u00e9micas",
+      "relevance": 0.525637,
+      "count": 1
+    },
+    {
+      "text": "Experiencia investigativa",
+      "relevance": 0.524755,
+      "count": 3
+    },
+    {
+      "text": "Evaluacion de Me\u00e9ritos de cada Facultad",
+      "relevance": 0.524693,
+      "count": 1
+    },
+    {
+      "text": "proyecto de investigacion",
+      "relevance": 0.524479,
+      "count": 5
+    },
+    {
+      "text": "efectos de evaluacion",
+      "relevance": 0.522988,
+      "count": 3
+    },
+    {
+      "text": "puntos",
+      "relevance": 0.522606,
+      "count": 47
+    }
+  ]
+}

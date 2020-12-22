@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 18575,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.606043,
+      "count": 2
+    },
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.604835,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria",
+      "relevance": 0.572764,
+      "count": 2
+    },
+    {
+      "text": "Acad\u00e9mica Docente Investigativa",
+      "relevance": 0.559234,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.557063,
+      "count": 11
+    },
+    {
+      "text": "Concurso Publico",
+      "relevance": 0.555515,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.553193,
+      "count": 2
+    },
+    {
+      "text": "Hoja de Vida",
+      "relevance": 0.550015,
+      "count": 3
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.547407,
+      "count": 5
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.545333,
+      "count": 1
+    },
+    {
+      "text": "M\u00e9ritos de cada Facultad",
+      "relevance": 0.542663,
+      "count": 1
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.541337,
+      "count": 1
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.53778,
+      "count": 1
+    },
+    {
+      "text": "siguiente relacion",
+      "relevance": 0.53726,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.535751,
+      "count": 2
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.535504,
+      "count": 2
+    },
+    {
+      "text": "literales g",
+      "relevance": 0.533329,
+      "count": 1
+    },
+    {
+      "text": "idioma extranjero de idiomas",
+      "relevance": 0.531196,
+      "count": 1
+    },
+    {
+      "text": "asignacion de puntaje",
+      "relevance": 0.528453,
+      "count": 1
+    },
+    {
+      "text": "mitad del puntaje",
+      "relevance": 0.527139,
+      "count": 1
+    },
+    {
+      "text": "recepcion de las solicitudes de los candidatos",
+      "relevance": 0.527048,
+      "count": 1
+    },
+    {
+      "text": "ejercicio profesional",
+      "relevance": 0.527027,
+      "count": 1
+    },
+    {
+      "text": "caso de las Licenciaturas",
+      "relevance": 0.526999,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los aspirantes",
+      "relevance": 0.525664,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ciencias Naturales",
+      "relevance": 0.525265,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.52424,
+      "count": 3
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.524179,
+      "count": 1
+    },
+    {
+      "text": "Exposicion oral",
+      "relevance": 0.523481,
+      "count": 4
+    },
+    {
+      "text": "titulo de pregrado",
+      "relevance": 0.523467,
+      "count": 1
+    },
+    {
+      "text": "maximo tope",
+      "relevance": 0.523376,
+      "count": 5
+    }
+  ]
+}

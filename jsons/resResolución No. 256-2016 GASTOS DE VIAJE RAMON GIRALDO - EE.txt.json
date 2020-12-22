@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1474,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.722757,
+      "count": 3
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.721902,
+      "count": 1
+    },
+    {
+      "text": "Profesor visitante",
+      "relevance": 0.65763,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.59405,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE VIAJE",
+      "relevance": 0.576271,
+      "count": 2
+    },
+    {
+      "text": "estudiantes de la Maestria",
+      "relevance": 0.571474,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE",
+      "relevance": 0.558816,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.530439,
+      "count": 1
+    },
+    {
+      "text": "CARLOS ART",
+      "relevance": 0.521515,
+      "count": 1
+    },
+    {
+      "text": "OZANO MONCADA",
+      "relevance": 0.521515,
+      "count": 1
+    },
+    {
+      "text": "ruta Bogota",
+      "relevance": 0.519493,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.513961,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.512342,
+      "count": 2
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.491064,
+      "count": 1
+    },
+    {
+      "text": "profesor RAMON GIRALDO HENAO",
+      "relevance": 0.487898,
+      "count": 2
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.48562,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.48294,
+      "count": 1
+    },
+    {
+      "text": "HOSPEDAJE",
+      "relevance": 0.478418,
+      "count": 4
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.477143,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.475258,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.468034,
+      "count": 1
+    },
+    {
+      "text": "Dictar Curso anialisis estadistico de datos espaciales",
+      "relevance": 0.467941,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.467332,
+      "count": 1
+    },
+    {
+      "text": "pago de los gastos de viaje",
+      "relevance": 0.462353,
+      "count": 1
+    },
+    {
+      "text": "Decano",
+      "relevance": 0.460147,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.458665,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.457056,
+      "count": 1
+    },
+    {
+      "text": "recursos de la Escuela de Estadistica",
+      "relevance": 0.456167,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.456005,
+      "count": 1
+    },
+    {
+      "text": "cubiertos",
+      "relevance": 0.455007,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 850,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Profesor visitante",
+      "relevance": 0.744013,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.730275,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.617443,
+      "count": 1
+    },
+    {
+      "text": "fecha de estadia del Profesor",
+      "relevance": 0.614979,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico de contacto",
+      "relevance": 0.575616,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.570964,
+      "count": 1
+    },
+    {
+      "text": "NARCISO BARRERA BASSOLS",
+      "relevance": 0.555389,
+      "count": 1
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.522361,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.509491,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.477224,
+      "count": 2
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.450785,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.424174,
+      "count": 1
+    },
+    {
+      "text": "profesor NARCISO BARRERA BASSOLS",
+      "relevance": 0.419453,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION",
+      "relevance": 0.418717,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.417287,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.413818,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.406169,
+      "count": 3
+    },
+    {
+      "text": "Resoluci\u00e9n",
+      "relevance": 0.406169,
+      "count": 1
+    },
+    {
+      "text": "Decanatura",
+      "relevance": 0.406169,
+      "count": 1
+    }
+  ]
+}

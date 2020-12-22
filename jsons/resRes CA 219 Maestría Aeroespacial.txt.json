@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11139,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.64124,
+      "count": 3
+    },
+    {
+      "text": "programas de maestria",
+      "relevance": 0.600606,
+      "count": 2
+    },
+    {
+      "text": "trabajo profesional",
+      "relevance": 0.561313,
+      "count": 1
+    },
+    {
+      "text": "Gestor de tecnologia",
+      "relevance": 0.555883,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.553951,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Aeroespacial",
+      "relevance": 0.552188,
+      "count": 12
+    },
+    {
+      "text": "analisis de la informacion",
+      "relevance": 0.547569,
+      "count": 1
+    },
+    {
+      "text": "MARCO FIDEL SUAREZ",
+      "relevance": 0.546056,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.544208,
+      "count": 7
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.539745,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.536431,
+      "count": 4
+    },
+    {
+      "text": "sector aeroespacial",
+      "relevance": 0.534083,
+      "count": 3
+    },
+    {
+      "text": "Ingenieria Aeroespacial de profundizacion",
+      "relevance": 0.53322,
+      "count": 3
+    },
+    {
+      "text": "demas instituciones",
+      "relevance": 0.532196,
+      "count": 1
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.531794,
+      "count": 3
+    },
+    {
+      "text": "magisteres competentes",
+      "relevance": 0.529931,
+      "count": 1
+    },
+    {
+      "text": "recursos docentes",
+      "relevance": 0.529682,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Aeroespacial de profundizaci6n",
+      "relevance": 0.528796,
+      "count": 1
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.525675,
+      "count": 1
+    },
+    {
+      "text": "desarrollo tecnologico",
+      "relevance": 0.525128,
+      "count": 1
+    },
+    {
+      "text": "necesidades del medio",
+      "relevance": 0.525017,
+      "count": 1
+    },
+    {
+      "text": "industria aeroespacial",
+      "relevance": 0.524042,
+      "count": 5
+    },
+    {
+      "text": "cr\u00e9ditos requeridos",
+      "relevance": 0.522432,
+      "count": 1
+    },
+    {
+      "text": "manera conjunta",
+      "relevance": 0.52141,
+      "count": 1
+    },
+    {
+      "text": "cuarto semestre",
+      "relevance": 0.52087,
+      "count": 1
+    },
+    {
+      "text": "tercer semestre",
+      "relevance": 0.520593,
+      "count": 1
+    },
+    {
+      "text": "dominio del idioma ingl\u00e9s",
+      "relevance": 0.519519,
+      "count": 1
+    },
+    {
+      "text": "sector productivo",
+      "relevance": 0.518319,
+      "count": 3
+    },
+    {
+      "text": "aplicacion de conocimientos",
+      "relevance": 0.517275,
+      "count": 1
+    },
+    {
+      "text": "magisteres capaces",
+      "relevance": 0.516907,
+      "count": 1
+    }
+  ]
+}

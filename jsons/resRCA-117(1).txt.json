@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3528,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DESARROLLO del periodo acad\u00e9mico",
+      "relevance": 0.783047,
+      "count": 1
+    },
+    {
+      "text": "PROCESO DE MATRICULA",
+      "relevance": 0.712541,
+      "count": 2
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.658577,
+      "count": 2
+    },
+    {
+      "text": "razones de calamidad dom\u00e9stica",
+      "relevance": 0.625788,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.602943,
+      "count": 1
+    },
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.601934,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.586089,
+      "count": 3
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.570701,
+      "count": 1
+    },
+    {
+      "text": "Idioma Extranjero",
+      "relevance": 0.570221,
+      "count": 3
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.561677,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.555581,
+      "count": 1
+    },
+    {
+      "text": "semana del periodo acad\u00e9mico",
+      "relevance": 0.547324,
+      "count": 1
+    },
+    {
+      "text": "Direccion del Programa Acad\u00e9mico",
+      "relevance": 0.546472,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de Reingreso",
+      "relevance": 0.544413,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.540473,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.528765,
+      "count": 1
+    },
+    {
+      "text": "Asignaturas Electivas via",
+      "relevance": 0.526147,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.523424,
+      "count": 2
+    },
+    {
+      "text": "Matricula Acad\u00e9mica",
+      "relevance": 0.521763,
+      "count": 1
+    },
+    {
+      "text": "fuerza mayor",
+      "relevance": 0.521159,
+      "count": 1
+    },
+    {
+      "text": "Examenes de Proficiencia",
+      "relevance": 0.516563,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.515885,
+      "count": 1
+    },
+    {
+      "text": "Matricula Estudiantes Antiguos",
+      "relevance": 0.51543,
+      "count": 1
+    },
+    {
+      "text": "Registro de calificaciones",
+      "relevance": 0.508936,
+      "count": 1
+    },
+    {
+      "text": "Ciencias del Lenguaje",
+      "relevance": 0.504578,
+      "count": 1
+    },
+    {
+      "text": "dias de Octubre",
+      "relevance": 0.500426,
+      "count": 1
+    },
+    {
+      "text": "Servicio M\u00e9dico Universitario",
+      "relevance": 0.500317,
+      "count": 1
+    },
+    {
+      "text": "caso fortuito",
+      "relevance": 0.499891,
+      "count": 1
+    },
+    {
+      "text": "asesoria del Director",
+      "relevance": 0.496556,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.494721,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7215,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Science and Engineering",
+      "relevance": 0.620581,
+      "count": 1
+    },
+    {
+      "text": "profesor investigador",
+      "relevance": 0.606952,
+      "count": 3
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.594997,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE LOCAL",
+      "relevance": 0.59092,
+      "count": 3
+    },
+    {
+      "text": "profesor Visitante",
+      "relevance": 0.574507,
+      "count": 4
+    },
+    {
+      "text": "Escuela de Ingenieria Industrial",
+      "relevance": 0.570284,
+      "count": 3
+    },
+    {
+      "text": "Dictar Conferencia Enrutamiento",
+      "relevance": 0.566325,
+      "count": 1
+    },
+    {
+      "text": "nivel de los programas de posgrado",
+      "relevance": 0.566313,
+      "count": 1
+    },
+    {
+      "text": "University Drive",
+      "relevance": 0.559775,
+      "count": 3
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.554172,
+      "count": 1
+    },
+    {
+      "text": "vehiculds conectados",
+      "relevance": 0.549659,
+      "count": 1
+    },
+    {
+      "text": "Objeto de la visita",
+      "relevance": 0.548818,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.545404,
+      "count": 2
+    },
+    {
+      "text": "Marymount University de Los Angeles",
+      "relevance": 0.540304,
+      "count": 1
+    },
+    {
+      "text": "vehiculos el\u00e9ctricos",
+      "relevance": 0.538616,
+      "count": 4
+    },
+    {
+      "text": "semestre profesores",
+      "relevance": 0.534952,
+      "count": 1
+    },
+    {
+      "text": "alojamiento Hotel NH",
+      "relevance": 0.531272,
+      "count": 2
+    },
+    {
+      "text": "funciones delegadas de Rector",
+      "relevance": 0.530195,
+      "count": 1
+    },
+    {
+      "text": "Gestion de la Infraestructura",
+      "relevance": 0.529802,
+      "count": 2
+    },
+    {
+      "text": "Fuente de Financiaci\u00e9n",
+      "relevance": 0.528823,
+      "count": 2
+    },
+    {
+      "text": "aut\u00e9noma de robots",
+      "relevance": 0.525996,
+      "count": 1
+    },
+    {
+      "text": "visitantes nacional",
+      "relevance": 0.525139,
+      "count": 1
+    },
+    {
+      "text": "ALIMENTACION HOSPEDAJE",
+      "relevance": 0.524839,
+      "count": 2
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.52318,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.522049,
+      "count": 1
+    },
+    {
+      "text": "Mill Avenue Tempe",
+      "relevance": 0.521696,
+      "count": 3
+    },
+    {
+      "text": "Julieth Gonzalez Ospina",
+      "relevance": 0.521455,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.519737,
+      "count": 2
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.519581,
+      "count": 1
+    },
+    {
+      "text": "seguro m\u00e9dico",
+      "relevance": 0.517787,
+      "count": 3
+    }
+  ]
+}

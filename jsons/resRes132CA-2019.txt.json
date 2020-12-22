@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 16418,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "asignaturas Electivas",
+      "relevance": 0.61724,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.57518,
+      "count": 12
+    },
+    {
+      "text": "Ingeniera Industrial",
+      "relevance": 0.558353,
+      "count": 3
+    },
+    {
+      "text": "mejor nivel de vida",
+      "relevance": 0.555509,
+      "count": 2
+    },
+    {
+      "text": "reforma de los programas de formacion",
+      "relevance": 0.55294,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.551497,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Ingenieria Industrial",
+      "relevance": 0.548326,
+      "count": 3
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.541532,
+      "count": 2
+    },
+    {
+      "text": "asignatura Lectura Critica",
+      "relevance": 0.537214,
+      "count": 1
+    },
+    {
+      "text": "condiciones de calidad del programa",
+      "relevance": 0.537058,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.535997,
+      "count": 2
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.535097,
+      "count": 1
+    },
+    {
+      "text": "conjunto de actividades",
+      "relevance": 0.532394,
+      "count": 1
+    },
+    {
+      "text": "solida fundamentacion tedrica",
+      "relevance": 0.52898,
+      "count": 1
+    },
+    {
+      "text": "requisitos necesarios",
+      "relevance": 0.528597,
+      "count": 1
+    },
+    {
+      "text": "Educaci6n Superior",
+      "relevance": 0.52825,
+      "count": 1
+    },
+    {
+      "text": "forma autonoma",
+      "relevance": 0.527893,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 Central de Curriculo",
+      "relevance": 0.527511,
+      "count": 1
+    },
+    {
+      "text": "Ingenieros Industriales",
+      "relevance": 0.526894,
+      "count": 3
+    },
+    {
+      "text": "Consejo de la Facultad de Ingenieria",
+      "relevance": 0.526365,
+      "count": 2
+    },
+    {
+      "text": "abastecimiento abastecimiento",
+      "relevance": 0.525746,
+      "count": 1
+    },
+    {
+      "text": "actividades extracurriculares",
+      "relevance": 0.525685,
+      "count": 1
+    },
+    {
+      "text": "vida saludable",
+      "relevance": 0.525382,
+      "count": 2
+    },
+    {
+      "text": "ciclo basico",
+      "relevance": 0.524368,
+      "count": 3
+    },
+    {
+      "text": "cohortes activas",
+      "relevance": 0.523891,
+      "count": 1
+    },
+    {
+      "text": "asignatura Seminario de Trabajo",
+      "relevance": 0.522573,
+      "count": 1
+    },
+    {
+      "text": "admision semestral",
+      "relevance": 0.521881,
+      "count": 1
+    },
+    {
+      "text": "Objetivo General",
+      "relevance": 0.52073,
+      "count": 1
+    },
+    {
+      "text": "programa de Ingenieria Industrial",
+      "relevance": 0.520455,
+      "count": 1
+    },
+    {
+      "text": "ciclo profesional",
+      "relevance": 0.520056,
+      "count": 6
+    }
+  ]
+}

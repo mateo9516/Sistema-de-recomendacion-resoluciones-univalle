@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2207,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.78441,
+      "count": 3
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.681557,
+      "count": 3
+    },
+    {
+      "text": "periodo Agosto",
+      "relevance": 0.677185,
+      "count": 3
+    },
+    {
+      "text": "proceso de Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.61476,
+      "count": 1
+    },
+    {
+      "text": "periodo de Cancelacion de Asignaturas",
+      "relevance": 0.609604,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.601329,
+      "count": 1
+    },
+    {
+      "text": "receso acad\u00e9mico",
+      "relevance": 0.57016,
+      "count": 1
+    },
+    {
+      "text": "ciudad de Cali",
+      "relevance": 0.566721,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.556443,
+      "count": 1
+    },
+    {
+      "text": "Congreso de los Pueblos Tierra",
+      "relevance": 0.533727,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Septiembre",
+      "relevance": 0.521321,
+      "count": 1
+    },
+    {
+      "text": "Campus de Mel\u00e9ndez",
+      "relevance": 0.518194,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.518139,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.50915,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.501033,
+      "count": 1
+    },
+    {
+      "text": "Resoluciones No",
+      "relevance": 0.498045,
+      "count": 3
+    },
+    {
+      "text": "adecuacion del espacio",
+      "relevance": 0.497067,
+      "count": 1
+    },
+    {
+      "text": "Salon de Sesiones del Consejo Acad\u00e9mico",
+      "relevance": 0.492766,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.487422,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico de Desarrollo del Semestre",
+      "relevance": 0.486781,
+      "count": 1
+    },
+    {
+      "text": "participacion de Comunidades Indigenas de Colombia",
+      "relevance": 0.484504,
+      "count": 1
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.483448,
+      "count": 2
+    },
+    {
+      "text": "Cancelacion de Asignaturas",
+      "relevance": 0.482869,
+      "count": 1
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.47585,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.474324,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.468732,
+      "count": 4
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.466672,
+      "count": 3
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.464761,
+      "count": 3
+    },
+    {
+      "text": "movilidad",
+      "relevance": 0.464055,
+      "count": 1
+    },
+    {
+      "text": "anterior",
+      "relevance": 0.46066,
+      "count": 1
+    }
+  ]
+}

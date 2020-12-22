@@ -1,0 +1,115 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 790,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.674474,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.660776,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.629407,
+      "count": 1
+    },
+    {
+      "text": "fecha de inicio del curso",
+      "relevance": 0.618363,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.586138,
+      "count": 1
+    },
+    {
+      "text": "mes de Octubre",
+      "relevance": 0.56983,
+      "count": 1
+    },
+    {
+      "text": "Sec wo de Fadultad",
+      "relevance": 0.567087,
+      "count": 1
+    },
+    {
+      "text": "Sal\u00e9dn del Consejo de Facultad",
+      "relevance": 0.553771,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.550836,
+      "count": 1
+    },
+    {
+      "text": "A CAIAFFA",
+      "relevance": 0.50204,
+      "count": 1
+    },
+    {
+      "text": "CARLOS URO LOZANO MONCADA M CA CO",
+      "relevance": 0.48015,
+      "count": 1
+    },
+    {
+      "text": "mes de Septiembre",
+      "relevance": 0.477465,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.471204,
+      "count": 1
+    },
+    {
+      "text": "Valle",
+      "relevance": 0.446116,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.408219,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n",
+      "relevance": 0.403325,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.400882,
+      "count": 2
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.400882,
+      "count": 1
+    },
+    {
+      "text": "conferidas",
+      "relevance": 0.400882,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.400882,
+      "count": 1
+    },
+    {
+      "text": "ay",
+      "relevance": 0.400882,
+      "count": 1
+    }
+  ]
+}

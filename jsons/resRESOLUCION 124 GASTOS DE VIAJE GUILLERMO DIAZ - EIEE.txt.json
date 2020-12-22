@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1520,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.80498,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.701014,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.677301,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.644839,
+      "count": 4
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.640033,
+      "count": 1
+    },
+    {
+      "text": "PAGO GASTOS DE VIAJE",
+      "relevance": 0.594386,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.57824,
+      "count": 1
+    },
+    {
+      "text": "Profesor visitante",
+      "relevance": 0.57824,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.555095,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Maestria",
+      "relevance": 0.554899,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.544846,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.5411,
+      "count": 1
+    },
+    {
+      "text": "pago de los gastos de viaje",
+      "relevance": 0.514468,
+      "count": 1
+    },
+    {
+      "text": "Auditorio de Posgrado",
+      "relevance": 0.507389,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.494869,
+      "count": 2
+    },
+    {
+      "text": "ingenieria El\u00e9ctrica",
+      "relevance": 0.491675,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.485393,
+      "count": 1
+    },
+    {
+      "text": "Ingeniero Wilver Correa Bravo",
+      "relevance": 0.47266,
+      "count": 1
+    },
+    {
+      "text": "GUILLERMO ANDRES DiAZ FLOREZ gastos de viaje",
+      "relevance": 0.463814,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.461369,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.45672,
+      "count": 1
+    },
+    {
+      "text": "jurado evaluador de la tesis de Maestria",
+      "relevance": 0.455009,
+      "count": 1
+    },
+    {
+      "text": "recursos del Programa Acad\u00e9mico de Posgrado",
+      "relevance": 0.45263,
+      "count": 1
+    },
+    {
+      "text": "GUILLERMO ANDRES DIAZ FLOREZ",
+      "relevance": 0.451991,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.450651,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.446836,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.445148,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.444991,
+      "count": 2
+    },
+    {
+      "text": "ruta",
+      "relevance": 0.443085,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.442806,
+      "count": 3
+    }
+  ]
+}

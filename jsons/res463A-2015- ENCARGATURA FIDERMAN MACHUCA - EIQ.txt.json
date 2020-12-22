@@ -1,0 +1,115 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1035,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.848287,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.658462,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.649662,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.595909,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.588043,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Quimica",
+      "relevance": 0.540591,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.527897,
+      "count": 1
+    },
+    {
+      "text": "mes de Noviembre",
+      "relevance": 0.492426,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela",
+      "relevance": 0.490846,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.490846,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.486907,
+      "count": 1
+    },
+    {
+      "text": "nombramiento definitivo",
+      "relevance": 0.48433,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.421322,
+      "count": 2
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.413279,
+      "count": 2
+    },
+    {
+      "text": "Profesor",
+      "relevance": 0.409476,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.40622,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.403876,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.403876,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.403876,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.403876,
+      "count": 1
+    },
+    {
+      "text": "cargo",
+      "relevance": 0.403876,
+      "count": 1
+    }
+  ]
+}

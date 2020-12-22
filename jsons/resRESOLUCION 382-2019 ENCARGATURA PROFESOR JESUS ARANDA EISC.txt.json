@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 985,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.66444,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.649809,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.641005,
+      "count": 1
+    },
+    {
+      "text": "Coordinacion Acad\u00e9mica del Posgrado",
+      "relevance": 0.587844,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.584993,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria de Sistemas",
+      "relevance": 0.582827,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.550798,
+      "count": 1
+    },
+    {
+      "text": "LOZANO MONCADA",
+      "relevance": 0.522423,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.514094,
+      "count": 1
+    },
+    {
+      "text": "Resolucidn No",
+      "relevance": 0.487033,
+      "count": 1
+    },
+    {
+      "text": "mes de septiembre",
+      "relevance": 0.486055,
+      "count": 1
+    },
+    {
+      "text": "Profesor JESUS ALEXANDER ARANDA BUENO",
+      "relevance": 0.46588,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.448706,
+      "count": 1
+    },
+    {
+      "text": "Profesor Pedro Antonio Moreno Tovar",
+      "relevance": 0.442237,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.424083,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.419028,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.414466,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.404142,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.404142,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.404142,
+      "count": 1
+    }
+  ]
+}

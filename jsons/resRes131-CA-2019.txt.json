@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7262,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Ciencias Ambientales",
+      "relevance": 0.67876,
+      "count": 12
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.646245,
+      "count": 7
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Doctorado",
+      "relevance": 0.605993,
+      "count": 2
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.592272,
+      "count": 1
+    },
+    {
+      "text": "proyectos de investigacion",
+      "relevance": 0.578775,
+      "count": 1
+    },
+    {
+      "text": "cohortes anteriores",
+      "relevance": 0.560645,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.547856,
+      "count": 1
+    },
+    {
+      "text": "tercer semestre",
+      "relevance": 0.541242,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.537868,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.537777,
+      "count": 1
+    },
+    {
+      "text": "Seminario de \u00e9nfasis",
+      "relevance": 0.536211,
+      "count": 2
+    },
+    {
+      "text": "Trayectoria profesional",
+      "relevance": 0.53598,
+      "count": 1
+    },
+    {
+      "text": "requisito de grado",
+      "relevance": 0.533658,
+      "count": 1
+    },
+    {
+      "text": "campo de las ciencias ambientales",
+      "relevance": 0.533604,
+      "count": 4
+    },
+    {
+      "text": "LENGUA EXTRANJERA",
+      "relevance": 0.532457,
+      "count": 2
+    },
+    {
+      "text": "Programa Acad\u00e9mico Doctorado",
+      "relevance": 0.531844,
+      "count": 2
+    },
+    {
+      "text": "segundo idioma diferente",
+      "relevance": 0.530015,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ciencias Naturales",
+      "relevance": 0.528986,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la Rectoria",
+      "relevance": 0.527391,
+      "count": 1
+    },
+    {
+      "text": "presente resoluci6n",
+      "relevance": 0.526429,
+      "count": 1
+    },
+    {
+      "text": "Reglamento interno",
+      "relevance": 0.524452,
+      "count": 1
+    },
+    {
+      "text": "problematica de la relacion sociedad",
+      "relevance": 0.522851,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.521179,
+      "count": 2
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.521066,
+      "count": 1
+    },
+    {
+      "text": "siguientes componentes",
+      "relevance": 0.520536,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.520318,
+      "count": 1
+    },
+    {
+      "text": "numero de cr\u00e9ditos cursados",
+      "relevance": 0.5177,
+      "count": 1
+    },
+    {
+      "text": "motivaciones de origen",
+      "relevance": 0.516687,
+      "count": 1
+    },
+    {
+      "text": "PERFIL DE EGRESO",
+      "relevance": 0.515204,
+      "count": 1
+    },
+    {
+      "text": "mes de marzo",
+      "relevance": 0.514401,
+      "count": 1
+    }
+  ]
+}

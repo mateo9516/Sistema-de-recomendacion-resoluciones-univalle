@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 950,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.821455,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.61532,
+      "count": 1
+    },
+    {
+      "text": "literal f del Articulo",
+      "relevance": 0.613216,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.604118,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Industrial",
+      "relevance": 0.558528,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.546678,
+      "count": 1
+    },
+    {
+      "text": "Director del Programa",
+      "relevance": 0.513649,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.502278,
+      "count": 1
+    },
+    {
+      "text": "mes de Octubre",
+      "relevance": 0.481164,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.451921,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.432476,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.426955,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.420929,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.411018,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.411018,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.411018,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.411018,
+      "count": 1
+    },
+    {
+      "text": "leonardo",
+      "relevance": 0.411018,
+      "count": 1
+    }
+  ]
+}

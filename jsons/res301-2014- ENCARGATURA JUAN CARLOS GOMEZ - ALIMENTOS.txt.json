@@ -1,0 +1,140 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1066,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "profesor Asistente",
+      "relevance": 0.814672,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.705125,
+      "count": 1
+    },
+    {
+      "text": "CARLOS NO MONCADA",
+      "relevance": 0.644298,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.640747,
+      "count": 1
+    },
+    {
+      "text": "Coordinadora Acad\u00e9mica",
+      "relevance": 0.587914,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.569002,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.559181,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.547609,
+      "count": 1
+    },
+    {
+      "text": "MONICA CONSUEGRA CAIAFFA",
+      "relevance": 0.523214,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.513565,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria de Alimentos",
+      "relevance": 0.500469,
+      "count": 1
+    },
+    {
+      "text": "mes de Septiembre",
+      "relevance": 0.473574,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.465117,
+      "count": 1
+    },
+    {
+      "text": "Profesor Alberto Diaz Ortiz",
+      "relevance": 0.464141,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.445099,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.429457,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.429075,
+      "count": 1
+    },
+    {
+      "text": "Decano",
+      "relevance": 0.427569,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.424658,
+      "count": 1
+    },
+    {
+      "text": "Director",
+      "relevance": 0.423188,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.422014,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.420253,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.420253,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.420253,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.420253,
+      "count": 1
+    },
+    {
+      "text": "reemplazo",
+      "relevance": 0.420253,
+      "count": 1
+    }
+  ]
+}

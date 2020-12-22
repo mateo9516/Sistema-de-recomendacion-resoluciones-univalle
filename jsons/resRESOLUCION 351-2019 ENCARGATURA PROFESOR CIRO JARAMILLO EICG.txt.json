@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1070,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.726069,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.645157,
+      "count": 1
+    },
+    {
+      "text": "Bicicletas Publicas",
+      "relevance": 0.632528,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.624256,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.579167,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.549965,
+      "count": 1
+    },
+    {
+      "text": "Ciudad de Cali",
+      "relevance": 0.54465,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.526439,
+      "count": 1
+    },
+    {
+      "text": "Financieros del Sistema",
+      "relevance": 0.504552,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.502762,
+      "count": 1
+    },
+    {
+      "text": "Profesor CIRO JARAMILLO MOLINA",
+      "relevance": 0.500455,
+      "count": 2
+    },
+    {
+      "text": "mes de Agosto",
+      "relevance": 0.490249,
+      "count": 1
+    },
+    {
+      "text": "Profesora Jackeline Murillo Hoyos",
+      "relevance": 0.480771,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.469083,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.447318,
+      "count": 1
+    },
+    {
+      "text": "Proyecto",
+      "relevance": 0.447318,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.438783,
+      "count": 1
+    },
+    {
+      "text": "Legales",
+      "relevance": 0.435601,
+      "count": 1
+    },
+    {
+      "text": "Veintitin",
+      "relevance": 0.434673,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.429598,
+      "count": 1
+    },
+    {
+      "text": "Agosto",
+      "relevance": 0.429598,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.429598,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.429598,
+      "count": 1
+    },
+    {
+      "text": "reemplazo",
+      "relevance": 0.429598,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.429598,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 994,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIER",
+      "relevance": 0.893963,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.69273,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.602074,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.589702,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.576663,
+      "count": 1
+    },
+    {
+      "text": "Director del Laboratorio",
+      "relevance": 0.549717,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria El\u00e9ctrica",
+      "relevance": 0.545028,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.514846,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.511659,
+      "count": 1
+    },
+    {
+      "text": "mes de Marzo",
+      "relevance": 0.496653,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.468357,
+      "count": 2
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.460103,
+      "count": 1
+    },
+    {
+      "text": "Electronica",
+      "relevance": 0.460103,
+      "count": 1
+    },
+    {
+      "text": "piso",
+      "relevance": 0.460103,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.446768,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.442581,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n",
+      "relevance": 0.442339,
+      "count": 1
+    },
+    {
+      "text": "espacio",
+      "relevance": 0.442339,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.436138,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.436138,
+      "count": 1
+    },
+    {
+      "text": "Marzo",
+      "relevance": 0.432925,
+      "count": 1
+    },
+    {
+      "text": "Designacion",
+      "relevance": 0.432925,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.432925,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.432925,
+      "count": 1
+    },
+    {
+      "text": "perfodo",
+      "relevance": 0.432925,
+      "count": 1
+    },
+    {
+      "text": "afios",
+      "relevance": 0.432925,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.432925,
+      "count": 1
+    },
+    {
+      "text": "ext",
+      "relevance": 0.432925,
+      "count": 1
+    }
+  ]
+}

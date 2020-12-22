@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 953,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.703817,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.664116,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.639674,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.634842,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.567465,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.531328,
+      "count": 1
+    },
+    {
+      "text": "mes de Julio",
+      "relevance": 0.529585,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.504571,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n dela Escuela de Ingenieria",
+      "relevance": 0.487849,
+      "count": 1
+    },
+    {
+      "text": "Profesor CARLOS ARTURO MADERA PARRA",
+      "relevance": 0.478637,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.4665,
+      "count": 1
+    },
+    {
+      "text": "Julio",
+      "relevance": 0.4472,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.441929,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.429954,
+      "count": 1
+    },
+    {
+      "text": "Ambiente",
+      "relevance": 0.427127,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.426685,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.421963,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.421963,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.421963,
+      "count": 1
+    },
+    {
+      "text": "EIDENAR",
+      "relevance": 0.421963,
+      "count": 1
+    }
+  ]
+}

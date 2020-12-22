@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 40494,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Medio Tiempo",
+      "relevance": 0.670328,
+      "count": 13
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.669273,
+      "count": 3
+    },
+    {
+      "text": "Tiempo Completo",
+      "relevance": 0.646775,
+      "count": 16
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.639533,
+      "count": 1
+    },
+    {
+      "text": "Titulo profesional",
+      "relevance": 0.629324,
+      "count": 12
+    },
+    {
+      "text": "Experiencia investigativa",
+      "relevance": 0.603469,
+      "count": 21
+    },
+    {
+      "text": "Unidades Acad\u00e9micas",
+      "relevance": 0.586671,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.574024,
+      "count": 24
+    },
+    {
+      "text": "Experiencia docente universitaria de minimo",
+      "relevance": 0.573165,
+      "count": 26
+    },
+    {
+      "text": "Titulo de Maestria",
+      "relevance": 0.567887,
+      "count": 12
+    },
+    {
+      "text": "cupos docentes",
+      "relevance": 0.567713,
+      "count": 1
+    },
+    {
+      "text": "docentes de carrera de Tiempo Completo",
+      "relevance": 0.560498,
+      "count": 1
+    },
+    {
+      "text": "Comunicacion Social",
+      "relevance": 0.540906,
+      "count": 3
+    },
+    {
+      "text": "Tiempo Area",
+      "relevance": 0.539048,
+      "count": 17
+    },
+    {
+      "text": "Ciencias Naturales",
+      "relevance": 0.538059,
+      "count": 1
+    },
+    {
+      "text": "investigativa de minimo",
+      "relevance": 0.53754,
+      "count": 2
+    },
+    {
+      "text": "area minima",
+      "relevance": 0.537312,
+      "count": 3
+    },
+    {
+      "text": "proyecciones acad\u00e9micas",
+      "relevance": 0.535952,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.533618,
+      "count": 4
+    },
+    {
+      "text": "Ciencias Sociales",
+      "relevance": 0.531621,
+      "count": 9
+    },
+    {
+      "text": "tiempo cronoldgico",
+      "relevance": 0.530895,
+      "count": 12
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.530552,
+      "count": 20
+    },
+    {
+      "text": "casos de experiencia Hora Catedra",
+      "relevance": 0.530196,
+      "count": 1
+    },
+    {
+      "text": "area",
+      "relevance": 0.530113,
+      "count": 41
+    },
+    {
+      "text": "trabajo de la Maestria",
+      "relevance": 0.528656,
+      "count": 1
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.525229,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria",
+      "relevance": 0.524953,
+      "count": 30
+    },
+    {
+      "text": "areas de Construcci\u00e9n",
+      "relevance": 0.523218,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.521573,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.520162,
+      "count": 58
+    }
+  ]
+}

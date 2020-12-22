@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7926,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.638164,
+      "count": 2
+    },
+    {
+      "text": "Programas de Postgrado de la Facultad",
+      "relevance": 0.625041,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.622517,
+      "count": 6
+    },
+    {
+      "text": "area de ciencias",
+      "relevance": 0.606542,
+      "count": 1
+    },
+    {
+      "text": "titulo de Postgrado",
+      "relevance": 0.593967,
+      "count": 1
+    },
+    {
+      "text": "Escuelas de Ciencias Basicas",
+      "relevance": 0.589961,
+      "count": 1
+    },
+    {
+      "text": "salud publica",
+      "relevance": 0.589204,
+      "count": 5
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.557898,
+      "count": 1
+    },
+    {
+      "text": "formaci6n de M\u00e9dicos",
+      "relevance": 0.555916,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.55139,
+      "count": 1
+    },
+    {
+      "text": "area de salud publica",
+      "relevance": 0.547223,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.544169,
+      "count": 1
+    },
+    {
+      "text": "nombre del grupo",
+      "relevance": 0.543762,
+      "count": 1
+    },
+    {
+      "text": "proceso de admisiones",
+      "relevance": 0.538218,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.537102,
+      "count": 1
+    },
+    {
+      "text": "disminucion del tiempo",
+      "relevance": 0.533087,
+      "count": 1
+    },
+    {
+      "text": "APLICACION DE LA RESOLUCION",
+      "relevance": 0.531016,
+      "count": 1
+    },
+    {
+      "text": "Ley colombiana",
+      "relevance": 0.530568,
+      "count": 1
+    },
+    {
+      "text": "areas de las ciencias biom\u00e9dicas",
+      "relevance": 0.528709,
+      "count": 1
+    },
+    {
+      "text": "respectivos directores",
+      "relevance": 0.528048,
+      "count": 1
+    },
+    {
+      "text": "coordinador de los Programas de Postgrado",
+      "relevance": 0.527555,
+      "count": 1
+    },
+    {
+      "text": "area clinica",
+      "relevance": 0.526137,
+      "count": 1
+    },
+    {
+      "text": "area de las ciencias biom\u00e9dicas",
+      "relevance": 0.524476,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.52403,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Medicina",
+      "relevance": 0.523809,
+      "count": 1
+    },
+    {
+      "text": "Medicina Familiar",
+      "relevance": 0.52281,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 del Programa",
+      "relevance": 0.522676,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ciencias",
+      "relevance": 0.521403,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de Ultimo ano",
+      "relevance": 0.521275,
+      "count": 1
+    },
+    {
+      "text": "estimulo acad\u00e9mico",
+      "relevance": 0.520578,
+      "count": 1
+    }
+  ]
+}

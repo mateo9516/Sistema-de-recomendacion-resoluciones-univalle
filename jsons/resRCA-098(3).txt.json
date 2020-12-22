@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3164,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Proceso de Matricula",
+      "relevance": 0.6341,
+      "count": 3
+    },
+    {
+      "text": "Desarrollo del periodo Febrero",
+      "relevance": 0.627487,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de pregrado",
+      "relevance": 0.613294,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.580479,
+      "count": 2
+    },
+    {
+      "text": "Reservas de Cupo",
+      "relevance": 0.572047,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.571706,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.564368,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.56327,
+      "count": 1
+    },
+    {
+      "text": "Recepcion de Documentos",
+      "relevance": 0.561936,
+      "count": 2
+    },
+    {
+      "text": "Reserva de Cupo via",
+      "relevance": 0.547038,
+      "count": 1
+    },
+    {
+      "text": "Segundo Llamado",
+      "relevance": 0.545505,
+      "count": 1
+    },
+    {
+      "text": "Iniciaci6n de Clases",
+      "relevance": 0.543887,
+      "count": 1
+    },
+    {
+      "text": "Area de Admisiones",
+      "relevance": 0.536238,
+      "count": 2
+    },
+    {
+      "text": "Envio de los documentos soporte",
+      "relevance": 0.531671,
+      "count": 1
+    },
+    {
+      "text": "Reingreso",
+      "relevance": 0.531081,
+      "count": 4
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.5245,
+      "count": 1
+    },
+    {
+      "text": "Direccion de Regionalizaci\u00e9n",
+      "relevance": 0.520541,
+      "count": 1
+    },
+    {
+      "text": "Calificaciones de Validacion",
+      "relevance": 0.516811,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de Reserva",
+      "relevance": 0.515734,
+      "count": 1
+    },
+    {
+      "text": "dias de Noviembre",
+      "relevance": 0.515261,
+      "count": 1
+    },
+    {
+      "text": "Secretarias Acad\u00e9micas",
+      "relevance": 0.50924,
+      "count": 1
+    },
+    {
+      "text": "Admisiones de los admitidos",
+      "relevance": 0.509109,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.508725,
+      "count": 1
+    },
+    {
+      "text": "Cambios de Sede",
+      "relevance": 0.507524,
+      "count": 2
+    },
+    {
+      "text": "Fecha",
+      "relevance": 0.50693,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.504481,
+      "count": 1
+    },
+    {
+      "text": "Saldn de Sesiones",
+      "relevance": 0.504481,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.503474,
+      "count": 1
+    },
+    {
+      "text": "documentos soporte",
+      "relevance": 0.501851,
+      "count": 1
+    },
+    {
+      "text": "Matricula Financiera",
+      "relevance": 0.497136,
+      "count": 1
+    }
+  ]
+}

@@ -92,7 +92,8 @@ all_sentences=sent_tokenize(nube)
 
 for i in range(len(all_sentences)):
     all_sentences[i] = re.sub("\W+"," ", all_sentences[i])
-    all_sentences[i] = re.sub("\b[a-zA-Z]\b","",all_sentences[i])
+    #all_sentences[i] = re.sub(r"\b[a-zA-Z]\b","",all_sentences[i])
+    all_sentences[i] = re.sub(r"\W*\b\w{1,3}\b","",all_sentences[i])
 
 #print(all_sentences)
 print(len(all_sentences))
@@ -101,12 +102,19 @@ all_words = [nltk.word_tokenize(sent) for sent in all_sentences]
 #all_words = [toktok.tokenize(sent) for sent in sent_tokenize(all_sentences, language='spanish')]
 #rint(all_words[0])
  # con esto separo todas las palabras de las supuestas oraciones
-#model = Word2Vec(all_words, size=300, window = 6, min_count=3, workers=3) # este es el modelo del word2vec
-model = FastText(all_words ,size=200, window = 6, min_count=3, workers=3)
+model = Word2Vec(all_words, size=200, window = 7, min_count=4, workers=3,sg=1) # este es el modelo del word2vec
+#model = FastText(all_words ,size=300, window = 8, min_count=5, workers=3)
 
-sim_words = model.wv.most_similar('afrocolombianas',topn=30) 
+model.save("word2vec.model")
+
+#vector = model.wv["afrocolombiano"]
+
+#print(vector)
+
+sim_words = model.wv.most_similar('afrocolombianas',topn=30)
 
 print(sim_words)
+
 
 def reduce_dimensions(model):
     num_dimensions = 2  # final num dimensions (2D, 3D, etc)
@@ -138,6 +146,7 @@ def plot_with_plotly(x_vals, y_vals, labels, plot_in_notebook=True):
         print("ploteando....")
         fig = go.Figure(data=data)
         py.plot(fig)
+        
 
 
 def plot_with_matplotlib(x_vals, y_vals, labels):
@@ -150,7 +159,7 @@ def plot_with_matplotlib(x_vals, y_vals, labels):
 
    
     indices = list(range(len(labels)))
-    selected_indices = random.sample(indices, 100)
+    selected_indices = random.sample(indices, 50)
     for i in selected_indices:
         plt.annotate(labels[i], (x_vals[i], y_vals[i]))
 

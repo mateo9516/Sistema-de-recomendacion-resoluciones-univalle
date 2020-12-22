@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 27240,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "carrera de Tiempo Completo",
+      "relevance": 0.680944,
+      "count": 1
+    },
+    {
+      "text": "area de Construcci\u00e9n de la Facultad",
+      "relevance": 0.624277,
+      "count": 1
+    },
+    {
+      "text": "perfiles profesionales",
+      "relevance": 0.612231,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.59344,
+      "count": 3
+    },
+    {
+      "text": "convocatorias docentes",
+      "relevance": 0.58542,
+      "count": 1
+    },
+    {
+      "text": "Medio Tiempo",
+      "relevance": 0.583534,
+      "count": 4
+    },
+    {
+      "text": "Titulo profesional",
+      "relevance": 0.576479,
+      "count": 4
+    },
+    {
+      "text": "Tiempo Completo",
+      "relevance": 0.565935,
+      "count": 18
+    },
+    {
+      "text": "area de Estadistica de la Facultad",
+      "relevance": 0.558844,
+      "count": 1
+    },
+    {
+      "text": "Titulo de Maestria",
+      "relevance": 0.548754,
+      "count": 5
+    },
+    {
+      "text": "lengua materna",
+      "relevance": 0.546543,
+      "count": 1
+    },
+    {
+      "text": "area de la convocatoria",
+      "relevance": 0.544759,
+      "count": 28
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.544236,
+      "count": 4
+    },
+    {
+      "text": "perfil especifico de un concurso",
+      "relevance": 0.537644,
+      "count": 2
+    },
+    {
+      "text": "Estatuto Profesoral",
+      "relevance": 0.536655,
+      "count": 2
+    },
+    {
+      "text": "equivalente de tiempo completo",
+      "relevance": 0.536244,
+      "count": 14
+    },
+    {
+      "text": "Experiencia docente universitaria de minimo",
+      "relevance": 0.532768,
+      "count": 12
+    },
+    {
+      "text": "aspirantes deberdn",
+      "relevance": 0.532406,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudio",
+      "relevance": 0.532225,
+      "count": 1
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.52821,
+      "count": 1
+    },
+    {
+      "text": "experiencia investigativa de los ultimos",
+      "relevance": 0.527977,
+      "count": 1
+    },
+    {
+      "text": "Conflictos Socio-Ambientales",
+      "relevance": 0.527858,
+      "count": 1
+    },
+    {
+      "text": "Comisi\u00e9n de Selecci\u00e9n Docente",
+      "relevance": 0.527791,
+      "count": 1
+    },
+    {
+      "text": "cupos de las Escuelas de Medicina",
+      "relevance": 0.527039,
+      "count": 1
+    },
+    {
+      "text": "planta de profesores nombrados",
+      "relevance": 0.526143,
+      "count": 1
+    },
+    {
+      "text": "Instituto de Educacion",
+      "relevance": 0.525472,
+      "count": 1
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.525404,
+      "count": 1
+    },
+    {
+      "text": "dominio de esta lengua",
+      "relevance": 0.525029,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.523763,
+      "count": 2
+    },
+    {
+      "text": "Experiencia profesional minimo",
+      "relevance": 0.523746,
+      "count": 1
+    }
+  ]
+}

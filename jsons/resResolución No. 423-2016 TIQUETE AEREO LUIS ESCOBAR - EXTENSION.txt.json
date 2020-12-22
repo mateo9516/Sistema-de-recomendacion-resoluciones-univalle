@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1005,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.68177,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE TIQUETE AEREO",
+      "relevance": 0.645657,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.620681,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.594332,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.581747,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.576415,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.575024,
+      "count": 2
+    },
+    {
+      "text": "fondos de la Decanatura Facultad",
+      "relevance": 0.561107,
+      "count": 1
+    },
+    {
+      "text": "LUIS ALFONSO ESCOBAR JARAMILLO",
+      "relevance": 0.497555,
+      "count": 2
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.479049,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.466474,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.462001,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE TIQUETE AEREO A",
+      "relevance": 0.459961,
+      "count": 1
+    },
+    {
+      "text": "TERCERO",
+      "relevance": 0.45479,
+      "count": 1
+    },
+    {
+      "text": "ruta",
+      "relevance": 0.45358,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.450414,
+      "count": 1
+    },
+    {
+      "text": "Bogota",
+      "relevance": 0.44926,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.448449,
+      "count": 2
+    },
+    {
+      "text": "conferencista",
+      "relevance": 0.4479,
+      "count": 1
+    },
+    {
+      "text": "Semana",
+      "relevance": 0.443723,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.44301,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria",
+      "relevance": 0.442045,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.440555,
+      "count": 2
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.440555,
+      "count": 1
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.439339,
+      "count": 1
+    }
+  ]
+}

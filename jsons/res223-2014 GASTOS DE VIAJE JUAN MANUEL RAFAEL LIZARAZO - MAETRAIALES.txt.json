@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1435,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.825453,
+      "count": 2
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.699391,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.643123,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.579833,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.568606,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.549323,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.543873,
+      "count": 1
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.536656,
+      "count": 2
+    },
+    {
+      "text": "jurado evaluador de la tesis",
+      "relevance": 0.535647,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria de Materiales",
+      "relevance": 0.532642,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.52829,
+      "count": 2
+    },
+    {
+      "text": "ruta Bogota",
+      "relevance": 0.514002,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.512342,
+      "count": 2
+    },
+    {
+      "text": "JUAN MANUEL RAFAEL LIZARAZO MARRIAGA",
+      "relevance": 0.50139,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.477032,
+      "count": 2
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.476367,
+      "count": 2
+    },
+    {
+      "text": "Docente Universidad Nacional Sede Bogota",
+      "relevance": 0.470046,
+      "count": 1
+    },
+    {
+      "text": "estudiante Luis Octavio Gonzalez",
+      "relevance": 0.469721,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.458635,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.457417,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.453442,
+      "count": 1
+    },
+    {
+      "text": "direcci6",
+      "relevance": 0.44899,
+      "count": 1
+    },
+    {
+      "text": "Santiago",
+      "relevance": 0.44833,
+      "count": 1
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.448114,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.446767,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.446767,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.446767,
+      "count": 1
+    },
+    {
+      "text": "C\u00e9dula",
+      "relevance": 0.446767,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.446767,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.446767,
+      "count": 1
+    }
+  ]
+}

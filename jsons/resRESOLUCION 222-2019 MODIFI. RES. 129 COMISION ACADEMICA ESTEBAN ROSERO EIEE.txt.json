@@ -1,0 +1,145 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1552,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.807428,
+      "count": 3
+    },
+    {
+      "text": "valor de los viaticos",
+      "relevance": 0.788847,
+      "count": 2
+    },
+    {
+      "text": "pago de los gastos de transporte",
+      "relevance": 0.659904,
+      "count": 1
+    },
+    {
+      "text": "literal fh del Articulo",
+      "relevance": 0.641134,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.631985,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.579626,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria El\u00e9ctrica",
+      "relevance": 0.5619,
+      "count": 2
+    },
+    {
+      "text": "comisi\u00e9n acad\u00e9mica",
+      "relevance": 0.544153,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.506493,
+      "count": 1
+    },
+    {
+      "text": "cargo de la Escuela",
+      "relevance": 0.500516,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.493307,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.478756,
+      "count": 1
+    },
+    {
+      "text": "Articulo Segundo de la resoluci\u00e9n de Decanatura",
+      "relevance": 0.44713,
+      "count": 1
+    },
+    {
+      "text": "Abril",
+      "relevance": 0.444228,
+      "count": 2
+    },
+    {
+      "text": "Resoluci6n de Decanatura No",
+      "relevance": 0.43482,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.432939,
+      "count": 2
+    },
+    {
+      "text": "Profesor ESTEBAN EMILIO ROSERO GARCIA",
+      "relevance": 0.429555,
+      "count": 3
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.428012,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.423915,
+      "count": 1
+    },
+    {
+      "text": "TERCERO",
+      "relevance": 0.415902,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.41302,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.408521,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION",
+      "relevance": 0.408521,
+      "count": 2
+    },
+    {
+      "text": "Electr\u00e9nica",
+      "relevance": 0.408521,
+      "count": 2
+    },
+    {
+      "text": "Mayo",
+      "relevance": 0.406628,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.406628,
+      "count": 1
+    },
+    {
+      "text": "Electronica",
+      "relevance": 0.406628,
+      "count": 1
+    }
+  ]
+}

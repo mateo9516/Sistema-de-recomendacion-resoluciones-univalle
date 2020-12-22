@@ -1,0 +1,150 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1004,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.682509,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.648715,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.626198,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.619448,
+      "count": 2
+    },
+    {
+      "text": "Direccion de la Escuela de Ingenieria",
+      "relevance": 0.601889,
+      "count": 1
+    },
+    {
+      "text": "aprobacion virtual",
+      "relevance": 0.593847,
+      "count": 1
+    },
+    {
+      "text": "profesor JOSE HERM",
+      "relevance": 0.560755,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.538446,
+      "count": 1
+    },
+    {
+      "text": "Uni idad",
+      "relevance": 0.535716,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.529618,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.504266,
+      "count": 1
+    },
+    {
+      "text": "NSUL MINA HERNANDEZ",
+      "relevance": 0.500061,
+      "count": 1
+    },
+    {
+      "text": "Profesor JOSE HERMiNSUL MINA HERNANDEZ",
+      "relevance": 0.485216,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.470031,
+      "count": 1
+    },
+    {
+      "text": "ARTICULOPRIMERO",
+      "relevance": 0.469535,
+      "count": 1
+    },
+    {
+      "text": "profesor Yesid Aguilar Castro",
+      "relevance": 0.467943,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.448739,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.447907,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.447907,
+      "count": 1
+    },
+    {
+      "text": "NOTIFI",
+      "relevance": 0.438997,
+      "count": 1
+    },
+    {
+      "text": "agosto",
+      "relevance": 0.434557,
+      "count": 1
+    },
+    {
+      "text": "QUESE",
+      "relevance": 0.433001,
+      "count": 1
+    },
+    {
+      "text": "delValle",
+      "relevance": 0.429894,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.429894,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.429894,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.429894,
+      "count": 1
+    },
+    {
+      "text": "Materiales",
+      "relevance": 0.429894,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.429894,
+      "count": 1
+    }
+  ]
+}

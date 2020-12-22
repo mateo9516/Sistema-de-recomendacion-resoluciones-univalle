@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10050,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "MEDICINA FAMILIAR",
+      "relevance": 0.698764,
+      "count": 11
+    },
+    {
+      "text": "Ser capaz",
+      "relevance": 0.611586,
+      "count": 1
+    },
+    {
+      "text": "M\u00e9dico especialista",
+      "relevance": 0.596922,
+      "count": 6
+    },
+    {
+      "text": "titulo de Especialista",
+      "relevance": 0.579266,
+      "count": 3
+    },
+    {
+      "text": "actividades docentes",
+      "relevance": 0.573964,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.571459,
+      "count": 5
+    },
+    {
+      "text": "perfil profesional del ESPECIALISTA",
+      "relevance": 0.558741,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.540298,
+      "count": 2
+    },
+    {
+      "text": "postgrado clinico",
+      "relevance": 0.539616,
+      "count": 1
+    },
+    {
+      "text": "fundamentos establecidos",
+      "relevance": 0.533598,
+      "count": 1
+    },
+    {
+      "text": "aspectos de promocion de la salud",
+      "relevance": 0.53324,
+      "count": 1
+    },
+    {
+      "text": "co  Aspectos comunitarios",
+      "relevance": 0.532947,
+      "count": 1
+    },
+    {
+      "text": "Educacion de Colombia",
+      "relevance": 0.531944,
+      "count": 1
+    },
+    {
+      "text": "practica clinica",
+      "relevance": 0.529794,
+      "count": 2
+    },
+    {
+      "text": "deteccion precoz",
+      "relevance": 0.528061,
+      "count": 1
+    },
+    {
+      "text": "elementos de costo-beneficio",
+      "relevance": 0.527324,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Medicina de la Facultad",
+      "relevance": 0.527139,
+      "count": 2
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.527102,
+      "count": 1
+    },
+    {
+      "text": "Capaz",
+      "relevance": 0.526422,
+      "count": 1
+    },
+    {
+      "text": "contexto de \u00e9tica",
+      "relevance": 0.525885,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.525507,
+      "count": 1
+    },
+    {
+      "text": "actividades de pregrado",
+      "relevance": 0.525374,
+      "count": 1
+    },
+    {
+      "text": "coordinador de actividades educativas",
+      "relevance": 0.524778,
+      "count": 1
+    },
+    {
+      "text": "titulo acad\u00e9mico",
+      "relevance": 0.524044,
+      "count": 1
+    },
+    {
+      "text": "M\u00e9dico especialista de atenci6\u00e9n primaria",
+      "relevance": 0.522621,
+      "count": 1
+    },
+    {
+      "text": "ESPECIALISTA",
+      "relevance": 0.521834,
+      "count": 4
+    },
+    {
+      "text": "enfoque de riesgo",
+      "relevance": 0.521717,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.520437,
+      "count": 1
+    },
+    {
+      "text": "atencion directa",
+      "relevance": 0.520234,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.520011,
+      "count": 7
+    }
+  ]
+}

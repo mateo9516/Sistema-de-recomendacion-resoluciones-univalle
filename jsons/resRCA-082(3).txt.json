@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9065,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "espacio de formacion",
+      "relevance": 0.658072,
+      "count": 4
+    },
+    {
+      "text": "investigacion interinstitucional",
+      "relevance": 0.63857,
+      "count": 1
+    },
+    {
+      "text": "resoluci6n",
+      "relevance": 0.624257,
+      "count": 1
+    },
+    {
+      "text": "ESTRUCTURA CURRICULAR",
+      "relevance": 0.622081,
+      "count": 1
+    },
+    {
+      "text": "Educaci6n",
+      "relevance": 0.616299,
+      "count": 3
+    },
+    {
+      "text": "Curriculo del Programa Acad\u00e9mico",
+      "relevance": 0.595585,
+      "count": 2
+    },
+    {
+      "text": "cr\u00e9ditos de acuerdo",
+      "relevance": 0.5924,
+      "count": 1
+    },
+    {
+      "text": "tesis doctoral rigurosa",
+      "relevance": 0.580978,
+      "count": 1
+    },
+    {
+      "text": "Instituto de Educaci6n",
+      "relevance": 0.567714,
+      "count": 1
+    },
+    {
+      "text": "investigacion interdisciplinaria",
+      "relevance": 0.566435,
+      "count": 2
+    },
+    {
+      "text": "espacios de formacidn",
+      "relevance": 0.565463,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.556261,
+      "count": 3
+    },
+    {
+      "text": "propuestas educativas",
+      "relevance": 0.548197,
+      "count": 3
+    },
+    {
+      "text": "numero de cr\u00e9ditos",
+      "relevance": 0.544687,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.540771,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.536552,
+      "count": 7
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.534491,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos asignados",
+      "relevance": 0.533044,
+      "count": 1
+    },
+    {
+      "text": "manera flexible",
+      "relevance": 0.531493,
+      "count": 1
+    },
+    {
+      "text": "espacio propicia",
+      "relevance": 0.529142,
+      "count": 2
+    },
+    {
+      "text": "jurado calificador de acuerdo",
+      "relevance": 0.528742,
+      "count": 1
+    },
+    {
+      "text": "competencia investigativa",
+      "relevance": 0.527485,
+      "count": 2
+    },
+    {
+      "text": "materia educativa",
+      "relevance": 0.52659,
+      "count": 1
+    },
+    {
+      "text": "tesis frente",
+      "relevance": 0.525658,
+      "count": 1
+    },
+    {
+      "text": "diferentes \u00e9nfasis",
+      "relevance": 0.525281,
+      "count": 1
+    },
+    {
+      "text": "generacion de grupos",
+      "relevance": 0.525277,
+      "count": 2
+    },
+    {
+      "text": "construcci6n",
+      "relevance": 0.525243,
+      "count": 1
+    },
+    {
+      "text": "desarrollo nacional",
+      "relevance": 0.524816,
+      "count": 2
+    },
+    {
+      "text": "programas de investigacion interdisciplinarios",
+      "relevance": 0.524317,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 Central de Curriculo",
+      "relevance": 0.52381,
+      "count": 1
+    }
+  ]
+}

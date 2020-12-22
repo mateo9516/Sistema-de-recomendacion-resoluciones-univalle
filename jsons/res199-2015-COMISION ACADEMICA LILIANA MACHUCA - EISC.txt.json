@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2305,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.654167,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE LOCAL",
+      "relevance": 0.652742,
+      "count": 4
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.598106,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.590331,
+      "count": 2
+    },
+    {
+      "text": "Congreso Iberoamericano de Telematica",
+      "relevance": 0.584592,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.583069,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE INTERMUNICIPAL",
+      "relevance": 0.564616,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.562939,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE INSCRIPCION",
+      "relevance": 0.559811,
+      "count": 1
+    },
+    {
+      "text": "recursos de la Escuela de Ingenieria",
+      "relevance": 0.559042,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.539158,
+      "count": 1
+    },
+    {
+      "text": "in Plan Genebanks",
+      "relevance": 0.534016,
+      "count": 1
+    },
+    {
+      "text": "COMISLON ACADEMICA",
+      "relevance": 0.523306,
+      "count": 1
+    },
+    {
+      "text": "pago de la inscripci\u00e9n",
+      "relevance": 0.517572,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE INSCRIPCION A",
+      "relevance": 0.511106,
+      "count": 1
+    },
+    {
+      "text": "Consgjo de Facultad",
+      "relevance": 0.505253,
+      "count": 1
+    },
+    {
+      "text": "dia martes",
+      "relevance": 0.503758,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.503271,
+      "count": 4
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.499053,
+      "count": 3
+    },
+    {
+      "text": "Decanatura No",
+      "relevance": 0.497327,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.497327,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE INTERMUNICIPAL",
+      "relevance": 0.495045,
+      "count": 1
+    },
+    {
+      "text": "PAGO",
+      "relevance": 0.49137,
+      "count": 4
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.4789,
+      "count": 1
+    },
+    {
+      "text": "pardgrafo",
+      "relevance": 0.478213,
+      "count": 1
+    },
+    {
+      "text": "QUINTO",
+      "relevance": 0.471775,
+      "count": 1
+    },
+    {
+      "text": "DOSCIEWTOS",
+      "relevance": 0.463508,
+      "count": 1
+    },
+    {
+      "text": "vidticos",
+      "relevance": 0.460778,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.460379,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.460177,
+      "count": 2
+    }
+  ]
+}

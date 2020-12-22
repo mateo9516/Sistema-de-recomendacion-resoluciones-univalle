@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4323,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PROCESO DE MATRICULA",
+      "relevance": 0.701645,
+      "count": 5
+    },
+    {
+      "text": "Examen M\u00e9dico",
+      "relevance": 0.668717,
+      "count": 2
+    },
+    {
+      "text": "DESARROLLO del periodo acad\u00e9mico",
+      "relevance": 0.639942,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de Reserva",
+      "relevance": 0.621634,
+      "count": 1
+    },
+    {
+      "text": "registro de Paz",
+      "relevance": 0.594972,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.590377,
+      "count": 1
+    },
+    {
+      "text": "Idioma Extranjero",
+      "relevance": 0.590097,
+      "count": 2
+    },
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.565715,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.565311,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.565142,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.560392,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.554395,
+      "count": 2
+    },
+    {
+      "text": "Asignaturas Electivas via",
+      "relevance": 0.553311,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.550633,
+      "count": 3
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.549191,
+      "count": 1
+    },
+    {
+      "text": "Servicio M\u00e9dico",
+      "relevance": 0.542716,
+      "count": 1
+    },
+    {
+      "text": "recibos de pago",
+      "relevance": 0.537396,
+      "count": 2
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.532797,
+      "count": 1
+    },
+    {
+      "text": "Examenes de Proficiencia",
+      "relevance": 0.528392,
+      "count": 2
+    },
+    {
+      "text": "Programa de Induccion",
+      "relevance": 0.526801,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.524783,
+      "count": 1
+    },
+    {
+      "text": "Periodo Acad\u00e9mico AGOSTO",
+      "relevance": 0.523788,
+      "count": 1
+    },
+    {
+      "text": "Derechos Econ\u00e9micos",
+      "relevance": 0.517385,
+      "count": 1
+    },
+    {
+      "text": "Ciencias del Lenguaje",
+      "relevance": 0.517385,
+      "count": 1
+    },
+    {
+      "text": "Registro de Calificaciones",
+      "relevance": 0.5136,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de pregrado",
+      "relevance": 0.50623,
+      "count": 1
+    },
+    {
+      "text": "parte de la Escuela",
+      "relevance": 0.504691,
+      "count": 1
+    },
+    {
+      "text": "Matricula Estudiantes Antiguos",
+      "relevance": 0.504468,
+      "count": 1
+    },
+    {
+      "text": "al9 de Julio",
+      "relevance": 0.502819,
+      "count": 1
+    },
+    {
+      "text": "Asignaturas de Practica",
+      "relevance": 0.499099,
+      "count": 1
+    }
+  ]
+}

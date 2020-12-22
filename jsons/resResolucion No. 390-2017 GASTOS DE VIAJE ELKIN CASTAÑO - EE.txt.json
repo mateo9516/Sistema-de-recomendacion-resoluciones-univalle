@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1490,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.810011,
+      "count": 2
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.721484,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.599003,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.592579,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.575509,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.565302,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.562073,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9dulo del Diplomado",
+      "relevance": 0.549584,
+      "count": 1
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.549364,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.540322,
+      "count": 1
+    },
+    {
+      "text": "valor total",
+      "relevance": 0.533982,
+      "count": 1
+    },
+    {
+      "text": "ruta Medellin",
+      "relevance": 0.527386,
+      "count": 1
+    },
+    {
+      "text": "Data Mining",
+      "relevance": 0.522747,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.522747,
+      "count": 2
+    },
+    {
+      "text": "Escuela de Estadistica",
+      "relevance": 0.522747,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.515501,
+      "count": 2
+    },
+    {
+      "text": "Ciencia de Datos",
+      "relevance": 0.4991,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.488335,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.484921,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.472599,
+      "count": 1
+    },
+    {
+      "text": "ELKIN ARGEMIRO CASTANO VELEZ",
+      "relevance": 0.464532,
+      "count": 2
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.455325,
+      "count": 1
+    },
+    {
+      "text": "HOSPEDAJE",
+      "relevance": 0.455317,
+      "count": 4
+    },
+    {
+      "text": "sefior ELKIN ARGEMIRO CASTANO VELEZ",
+      "relevance": 0.449871,
+      "count": 1
+    },
+    {
+      "text": "pago",
+      "relevance": 0.445287,
+      "count": 1
+    },
+    {
+      "text": "cubiertos",
+      "relevance": 0.442058,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.440191,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.438911,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.438326,
+      "count": 4
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.438326,
+      "count": 1
+    }
+  ]
+}

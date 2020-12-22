@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5787,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Entrega de contrasefas",
+      "relevance": 0.769325,
+      "count": 1
+    },
+    {
+      "text": "solicitud via",
+      "relevance": 0.728947,
+      "count": 1
+    },
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.727488,
+      "count": 1
+    },
+    {
+      "text": "Documentos soporte",
+      "relevance": 0.700246,
+      "count": 1
+    },
+    {
+      "text": "CAMBIOS DE SEDE",
+      "relevance": 0.695941,
+      "count": 2
+    },
+    {
+      "text": "entrega de claves",
+      "relevance": 0.628624,
+      "count": 1
+    },
+    {
+      "text": "Procesos de ADMISION",
+      "relevance": 0.611233,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.609639,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.588624,
+      "count": 4
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.578158,
+      "count": 1
+    },
+    {
+      "text": "Recibos de pago",
+      "relevance": 0.57727,
+      "count": 3
+    },
+    {
+      "text": "PRIMER SEMESTRE",
+      "relevance": 0.561557,
+      "count": 1
+    },
+    {
+      "text": "aprobacion del Comit\u00e9",
+      "relevance": 0.54427,
+      "count": 1
+    },
+    {
+      "text": "Procesos de Admisi\u00e9n",
+      "relevance": 0.538186,
+      "count": 1
+    },
+    {
+      "text": "Secretaria Acad\u00e9mica",
+      "relevance": 0.533261,
+      "count": 2
+    },
+    {
+      "text": "Registro Acad\u00e9mico previa",
+      "relevance": 0.532861,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.529671,
+      "count": 1
+    },
+    {
+      "text": "Derechos de Inscripci6",
+      "relevance": 0.526553,
+      "count": 1
+    },
+    {
+      "text": "Sede Regional",
+      "relevance": 0.52574,
+      "count": 2
+    },
+    {
+      "text": "periodo Agosto",
+      "relevance": 0.524264,
+      "count": 1
+    },
+    {
+      "text": "CAMBIO DE SEDE",
+      "relevance": 0.523594,
+      "count": 4
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.5234,
+      "count": 1
+    },
+    {
+      "text": "parte de los Secretarios Acad\u00e9micos",
+      "relevance": 0.523219,
+      "count": 1
+    },
+    {
+      "text": "Solicitudes via Web",
+      "relevance": 0.521087,
+      "count": 1
+    },
+    {
+      "text": "red de la informaci6n",
+      "relevance": 0.518443,
+      "count": 1
+    },
+    {
+      "text": "Salon del Consejo Acad\u00e9mico",
+      "relevance": 0.51685,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.515605,
+      "count": 1
+    },
+    {
+      "text": "Secretarios Acad\u00e9micos de las solicitudes",
+      "relevance": 0.514855,
+      "count": 1
+    },
+    {
+      "text": "Coordinadores de Programa de Sede",
+      "relevance": 0.511626,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de los requisitos",
+      "relevance": 0.509565,
+      "count": 1
+    }
+  ]
+}

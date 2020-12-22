@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 995,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.68918,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n del Programa Acad\u00e9mico",
+      "relevance": 0.657983,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.636029,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.609179,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.564499,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.531458,
+      "count": 1
+    },
+    {
+      "text": "periodo de vacaciones",
+      "relevance": 0.510748,
+      "count": 1
+    },
+    {
+      "text": "Resolucidn No",
+      "relevance": 0.505439,
+      "count": 1
+    },
+    {
+      "text": "mes de Julio",
+      "relevance": 0.491681,
+      "count": 1
+    },
+    {
+      "text": "reemplazo del Profesor Carlos Alberto Herrera Caceres",
+      "relevance": 0.481052,
+      "count": 1
+    },
+    {
+      "text": "Profesor MIGUEL ENRIQUE ROSILLO PENA",
+      "relevance": 0.48078,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.468406,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.444492,
+      "count": 1
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.438514,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.435559,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.425046,
+      "count": 1
+    },
+    {
+      "text": "Julio",
+      "relevance": 0.425046,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.425046,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.425046,
+      "count": 1
+    },
+    {
+      "text": "Agosto",
+      "relevance": 0.425046,
+      "count": 1
+    }
+  ]
+}

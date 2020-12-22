@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 4,
+    "text_characters": 37994,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "asignatura Lectura",
+      "relevance": 0.587371,
+      "count": 2
+    },
+    {
+      "text": "ciclo basico",
+      "relevance": 0.552901,
+      "count": 6
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.546263,
+      "count": 34
+    },
+    {
+      "text": "titulo de Ingeniero de Sistemas",
+      "relevance": 0.546199,
+      "count": 2
+    },
+    {
+      "text": "desarrollo de la sociedad",
+      "relevance": 0.546101,
+      "count": 2
+    },
+    {
+      "text": "problemas reales",
+      "relevance": 0.545836,
+      "count": 2
+    },
+    {
+      "text": "estudiantes anuales",
+      "relevance": 0.541486,
+      "count": 4
+    },
+    {
+      "text": "asignaturas de manera integral",
+      "relevance": 0.540457,
+      "count": 2
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.539744,
+      "count": 2
+    },
+    {
+      "text": "forma oral",
+      "relevance": 0.539052,
+      "count": 2
+    },
+    {
+      "text": "discapacidad auditiva",
+      "relevance": 0.53687,
+      "count": 2
+    },
+    {
+      "text": "Ciclo de Namero de Porcentaje",
+      "relevance": 0.536087,
+      "count": 2
+    },
+    {
+      "text": "siguientes Aambitos",
+      "relevance": 0.534324,
+      "count": 2
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.534323,
+      "count": 2
+    },
+    {
+      "text": "nivel local",
+      "relevance": 0.533623,
+      "count": 2
+    },
+    {
+      "text": "formacion cientifica",
+      "relevance": 0.530748,
+      "count": 2
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Ingenieria de Sistemas",
+      "relevance": 0.530155,
+      "count": 8
+    },
+    {
+      "text": "Nimero de cr\u00e9ditos Porcentaje",
+      "relevance": 0.528979,
+      "count": 2
+    },
+    {
+      "text": "Consejo de la Facultad de Ingenieria",
+      "relevance": 0.528736,
+      "count": 4
+    },
+    {
+      "text": "Ingenieria de Sistemas",
+      "relevance": 0.527853,
+      "count": 8
+    },
+    {
+      "text": "componentes de la Formaci6",
+      "relevance": 0.527687,
+      "count": 2
+    },
+    {
+      "text": "parte del sello institucional",
+      "relevance": 0.52723,
+      "count": 2
+    },
+    {
+      "text": "ciclo profesional",
+      "relevance": 0.527167,
+      "count": 12
+    },
+    {
+      "text": "actividades extracurriculares",
+      "relevance": 0.526648,
+      "count": 2
+    },
+    {
+      "text": "Politica Curricular",
+      "relevance": 0.526216,
+      "count": 2
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.523954,
+      "count": 2
+    },
+    {
+      "text": "Seminario de trabajo",
+      "relevance": 0.522302,
+      "count": 4
+    },
+    {
+      "text": "Desarrollo de software",
+      "relevance": 0.522123,
+      "count": 10
+    },
+    {
+      "text": "siguientes cargos",
+      "relevance": 0.521597,
+      "count": 2
+    },
+    {
+      "text": "calidad del programa",
+      "relevance": 0.521538,
+      "count": 2
+    }
+  ]
+}

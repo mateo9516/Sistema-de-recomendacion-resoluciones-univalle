@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17245,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodos acad\u00e9micos",
+      "relevance": 0.682976,
+      "count": 5
+    },
+    {
+      "text": "necesidad de la presencialidad de los estudiantes",
+      "relevance": 0.657961,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.595477,
+      "count": 4
+    },
+    {
+      "text": "juicio del docente de la asignatura",
+      "relevance": 0.593978,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.589245,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.566024,
+      "count": 10
+    },
+    {
+      "text": "promedio semestral",
+      "relevance": 0.564087,
+      "count": 4
+    },
+    {
+      "text": "redes sociales",
+      "relevance": 0.557082,
+      "count": 2
+    },
+    {
+      "text": "facultades extraordinarias",
+      "relevance": 0.547614,
+      "count": 1
+    },
+    {
+      "text": "historial acad\u00e9mico",
+      "relevance": 0.545785,
+      "count": 4
+    },
+    {
+      "text": "forma transitoria",
+      "relevance": 0.538569,
+      "count": 4
+    },
+    {
+      "text": "registro de promedio",
+      "relevance": 0.537683,
+      "count": 1
+    },
+    {
+      "text": "funcion del Consejo Acad\u00e9mico",
+      "relevance": 0.537113,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Salud",
+      "relevance": 0.533254,
+      "count": 1
+    },
+    {
+      "text": "Instituto debera",
+      "relevance": 0.532872,
+      "count": 2
+    },
+    {
+      "text": "territorio nacional",
+      "relevance": 0.532419,
+      "count": 1
+    },
+    {
+      "text": "actividad acad\u00e9mica",
+      "relevance": 0.530174,
+      "count": 1
+    },
+    {
+      "text": "nota definitiva",
+      "relevance": 0.528639,
+      "count": 1
+    },
+    {
+      "text": "promedio ponderado",
+      "relevance": 0.527715,
+      "count": 3
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.527247,
+      "count": 3
+    },
+    {
+      "text": "emergencia sanitaria",
+      "relevance": 0.526955,
+      "count": 2
+    },
+    {
+      "text": "constancia de promedio acumulado semestral",
+      "relevance": 0.52626,
+      "count": 1
+    },
+    {
+      "text": "tabla anterior",
+      "relevance": 0.526022,
+      "count": 2
+    },
+    {
+      "text": "semestres superiores",
+      "relevance": 0.52391,
+      "count": 1
+    },
+    {
+      "text": "orden de aislamiento social",
+      "relevance": 0.522603,
+      "count": 1
+    },
+    {
+      "text": "historial acad\u00e9mico del estudiante",
+      "relevance": 0.521703,
+      "count": 1
+    },
+    {
+      "text": "medicion cualitativa del cumplimiento",
+      "relevance": 0.521369,
+      "count": 1
+    },
+    {
+      "text": "Sede Cali",
+      "relevance": 0.52121,
+      "count": 4
+    },
+    {
+      "text": "Bajos Rendimientos",
+      "relevance": 0.520467,
+      "count": 1
+    },
+    {
+      "text": "maximo organismo de la Universidad",
+      "relevance": 0.520261,
+      "count": 1
+    }
+  ]
+}

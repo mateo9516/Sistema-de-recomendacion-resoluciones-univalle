@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2800,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.789196,
+      "count": 1
+    },
+    {
+      "text": "Proceso de Matricula",
+      "relevance": 0.732111,
+      "count": 3
+    },
+    {
+      "text": "Desarrollo del periodo Agosto",
+      "relevance": 0.668367,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.64734,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.628692,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.625575,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.607524,
+      "count": 2
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.593073,
+      "count": 1
+    },
+    {
+      "text": "Admisiones de los admitidos",
+      "relevance": 0.580571,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.55848,
+      "count": 2
+    },
+    {
+      "text": "Secretarias Acad\u00e9micas",
+      "relevance": 0.544594,
+      "count": 1
+    },
+    {
+      "text": "Reporte de Calificaciones de Validaciones",
+      "relevance": 0.541024,
+      "count": 1
+    },
+    {
+      "text": "Entrega de informacion",
+      "relevance": 0.53968,
+      "count": 1
+    },
+    {
+      "text": "Matricula Acad\u00e9mica",
+      "relevance": 0.528466,
+      "count": 1
+    },
+    {
+      "text": "periodo Agosto",
+      "relevance": 0.515937,
+      "count": 1
+    },
+    {
+      "text": "Iniciacion de Clases",
+      "relevance": 0.510579,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n de Regionalizaci\u00e9n",
+      "relevance": 0.510579,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.510579,
+      "count": 1
+    },
+    {
+      "text": "reserva de cupo",
+      "relevance": 0.509542,
+      "count": 2
+    },
+    {
+      "text": "dias de Junio",
+      "relevance": 0.504488,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci6n de Semestre",
+      "relevance": 0.501065,
+      "count": 1
+    },
+    {
+      "text": "ADMITIDOS A PRIMER SEMESTRE",
+      "relevance": 0.500942,
+      "count": 1
+    },
+    {
+      "text": "SEGUNDO LLAMADO",
+      "relevance": 0.500428,
+      "count": 2
+    },
+    {
+      "text": "Estudiantes Antiguos",
+      "relevance": 0.495038,
+      "count": 2
+    },
+    {
+      "text": "Cambios de Sede",
+      "relevance": 0.484218,
+      "count": 2
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.476541,
+      "count": 1
+    },
+    {
+      "text": "Sal\u00e9dn de Sesiones del Consejo Acad\u00e9mico",
+      "relevance": 0.473855,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad del Valle",
+      "relevance": 0.464756,
+      "count": 1
+    },
+    {
+      "text": "pregrado",
+      "relevance": 0.464326,
+      "count": 1
+    },
+    {
+      "text": "Reingreso",
+      "relevance": 0.46257,
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1522,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.763184,
+      "count": 2
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.701057,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.700789,
+      "count": 1
+    },
+    {
+      "text": "estudiante Johann Ospina",
+      "relevance": 0.658258,
+      "count": 1
+    },
+    {
+      "text": "Profesor visitante",
+      "relevance": 0.652627,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.639986,
+      "count": 4
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.639686,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.586127,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.568107,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.564048,
+      "count": 2
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.547651,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.53841,
+      "count": 1
+    },
+    {
+      "text": "Cl 152A No",
+      "relevance": 0.511902,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.508007,
+      "count": 2
+    },
+    {
+      "text": "serdn cubiertos",
+      "relevance": 0.502617,
+      "count": 1
+    },
+    {
+      "text": "laruta Bogota",
+      "relevance": 0.49524,
+      "count": 1
+    },
+    {
+      "text": "asesoria de Tesis",
+      "relevance": 0.493029,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Estadistica",
+      "relevance": 0.491086,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.460738,
+      "count": 1
+    },
+    {
+      "text": "profesor RAMON GIRALDO HENAO",
+      "relevance": 0.45034,
+      "count": 1
+    },
+    {
+      "text": "HOSPEDAJE",
+      "relevance": 0.449104,
+      "count": 4
+    },
+    {
+      "text": "direcci\u00e9n",
+      "relevance": 0.446904,
+      "count": 1
+    },
+    {
+      "text": "Estadistica",
+      "relevance": 0.443072,
+      "count": 2
+    },
+    {
+      "text": "TERCERO",
+      "relevance": 0.440995,
+      "count": 1
+    },
+    {
+      "text": "Lugar",
+      "relevance": 0.438796,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.435876,
+      "count": 2
+    },
+    {
+      "text": "conferencia",
+      "relevance": 0.43427,
+      "count": 1
+    },
+    {
+      "text": "Maestria",
+      "relevance": 0.433393,
+      "count": 1
+    },
+    {
+      "text": "Nombre",
+      "relevance": 0.432416,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.432054,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5630,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Entrega de sobres",
+      "relevance": 0.665108,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.662155,
+      "count": 2
+    },
+    {
+      "text": "Direcci\u00e9dn del Programa Acad\u00e9mico",
+      "relevance": 0.652256,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.634698,
+      "count": 1
+    },
+    {
+      "text": "Examen M\u00e9dico",
+      "relevance": 0.619045,
+      "count": 1
+    },
+    {
+      "text": "Entrega de solicitudes",
+      "relevance": 0.582132,
+      "count": 3
+    },
+    {
+      "text": "Area de Admisiones",
+      "relevance": 0.573,
+      "count": 1
+    },
+    {
+      "text": "Programa de Inducci6n",
+      "relevance": 0.561141,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ciencias",
+      "relevance": 0.560247,
+      "count": 1
+    },
+    {
+      "text": "Venta de Formularios",
+      "relevance": 0.559208,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.549373,
+      "count": 1
+    },
+    {
+      "text": "Proceso de TRASLADO",
+      "relevance": 0.547409,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Febrero",
+      "relevance": 0.544844,
+      "count": 1
+    },
+    {
+      "text": "Primer Llamado Adicional",
+      "relevance": 0.544446,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.544424,
+      "count": 1
+    },
+    {
+      "text": "Derechos Econ\u00e9micos",
+      "relevance": 0.543797,
+      "count": 1
+    },
+    {
+      "text": "Area de Registro",
+      "relevance": 0.542438,
+      "count": 2
+    },
+    {
+      "text": "siguiente calendario Acad\u00e9mico",
+      "relevance": 0.540686,
+      "count": 1
+    },
+    {
+      "text": "Inscripciones Ordinarias",
+      "relevance": 0.53676,
+      "count": 1
+    },
+    {
+      "text": "Area de Admisiones de las decisiones",
+      "relevance": 0.523603,
+      "count": 1
+    },
+    {
+      "text": "Llamados Adicionales",
+      "relevance": 0.521141,
+      "count": 1
+    },
+    {
+      "text": "sobres de admisi6",
+      "relevance": 0.519668,
+      "count": 1
+    },
+    {
+      "text": "Primer semestre",
+      "relevance": 0.519232,
+      "count": 2
+    },
+    {
+      "text": "parte de la Escuela",
+      "relevance": 0.517907,
+      "count": 1
+    },
+    {
+      "text": "Ciencias del Lenguaje de los Examenes",
+      "relevance": 0.515851,
+      "count": 1
+    },
+    {
+      "text": "periodo Agosto",
+      "relevance": 0.514796,
+      "count": 2
+    },
+    {
+      "text": "Asignaturas Electivas",
+      "relevance": 0.511932,
+      "count": 2
+    },
+    {
+      "text": "Inscripciones Extemporaneas",
+      "relevance": 0.509214,
+      "count": 1
+    },
+    {
+      "text": "Segundo Llamado",
+      "relevance": 0.508495,
+      "count": 2
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.506797,
+      "count": 1
+    }
+  ]
+}

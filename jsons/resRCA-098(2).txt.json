@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1627,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Oferta Acad\u00e9mica",
+      "relevance": 0.865618,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Especializacion",
+      "relevance": 0.754879,
+      "count": 1
+    },
+    {
+      "text": "Medicina Familiar",
+      "relevance": 0.731863,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.622241,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Clinicas",
+      "relevance": 0.618062,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.600752,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.590064,
+      "count": 1
+    },
+    {
+      "text": "siguiente Oferta Acad\u00e9mica",
+      "relevance": 0.58536,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.57672,
+      "count": 1
+    },
+    {
+      "text": "periodo Enero",
+      "relevance": 0.558836,
+      "count": 4
+    },
+    {
+      "text": "Sede San Fernando",
+      "relevance": 0.539603,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.53173,
+      "count": 1
+    },
+    {
+      "text": "Consejo de la Facultad de Salud",
+      "relevance": 0.530924,
+      "count": 1
+    },
+    {
+      "text": "Salon de Reuniones",
+      "relevance": 0.501636,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Noviembre",
+      "relevance": 0.481122,
+      "count": 1
+    },
+    {
+      "text": "Cupos",
+      "relevance": 0.44693,
+      "count": 2
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.44578,
+      "count": 1
+    },
+    {
+      "text": "Plan Programa Acad\u00e9mico Cupos SNIES",
+      "relevance": 0.440006,
+      "count": 1
+    },
+    {
+      "text": "admision",
+      "relevance": 0.437741,
+      "count": 1
+    },
+    {
+      "text": "Posgrados",
+      "relevance": 0.437106,
+      "count": 3
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.433894,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Clinicas de la Facultad de Salud",
+      "relevance": 0.433266,
+      "count": 2
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.427911,
+      "count": 4
+    },
+    {
+      "text": "Especializacion",
+      "relevance": 0.424398,
+      "count": 3
+    },
+    {
+      "text": "Estatuto General de la Universidad del Valle",
+      "relevance": 0.424256,
+      "count": 1
+    },
+    {
+      "text": "Programa",
+      "relevance": 0.421622,
+      "count": 1
+    },
+    {
+      "text": "convocatoria",
+      "relevance": 0.414619,
+      "count": 1
+    },
+    {
+      "text": "Familiar",
+      "relevance": 0.414302,
+      "count": 1
+    },
+    {
+      "text": "Medicina",
+      "relevance": 0.412417,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.412288,
+      "count": 2
+    }
+  ]
+}

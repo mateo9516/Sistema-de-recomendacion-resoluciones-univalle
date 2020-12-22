@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11286,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.768085,
+      "count": 10
+    },
+    {
+      "text": "fechas de grado",
+      "relevance": 0.623835,
+      "count": 6
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.620193,
+      "count": 8
+    },
+    {
+      "text": "Programa de Amnistia Acad\u00e9mica",
+      "relevance": 0.614028,
+      "count": 2
+    },
+    {
+      "text": "requisitos de grado",
+      "relevance": 0.590142,
+      "count": 4
+    },
+    {
+      "text": "excepcidn del Trabajo de Grado",
+      "relevance": 0.573953,
+      "count": 2
+    },
+    {
+      "text": "plazos establecidos",
+      "relevance": 0.567695,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.567125,
+      "count": 2
+    },
+    {
+      "text": "Tesis Doctoral",
+      "relevance": 0.565038,
+      "count": 2
+    },
+    {
+      "text": "articulo anterior",
+      "relevance": 0.557389,
+      "count": 4
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.557276,
+      "count": 8
+    },
+    {
+      "text": "Examen de Estado de Calidad",
+      "relevance": 0.552017,
+      "count": 6
+    },
+    {
+      "text": "asignaturas constitutivas de su curriculo",
+      "relevance": 0.550098,
+      "count": 2
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.549886,
+      "count": 2
+    },
+    {
+      "text": "sanciones disciplinarias",
+      "relevance": 0.54683,
+      "count": 2
+    },
+    {
+      "text": "unica vez",
+      "relevance": 0.544372,
+      "count": 4
+    },
+    {
+      "text": "afios de la Universidad del Valle",
+      "relevance": 0.53922,
+      "count": 2
+    },
+    {
+      "text": "motivo de la conmemoraci6",
+      "relevance": 0.538163,
+      "count": 2
+    },
+    {
+      "text": "Bajo Rendimiento Acad\u00e9mico",
+      "relevance": 0.528909,
+      "count": 2
+    },
+    {
+      "text": "plazo maximo",
+      "relevance": 0.52802,
+      "count": 4
+    },
+    {
+      "text": "programas acad\u00e9micos de Pregrado",
+      "relevance": 0.527325,
+      "count": 2
+    },
+    {
+      "text": "mecanismo de Reingreso Especial",
+      "relevance": 0.52706,
+      "count": 2
+    },
+    {
+      "text": "condici\u00e9n de estudiantes",
+      "relevance": 0.52122,
+      "count": 2
+    },
+    {
+      "text": "estudiantes de Pregrado",
+      "relevance": 0.516171,
+      "count": 2
+    },
+    {
+      "text": "tramites administrativos",
+      "relevance": 0.510751,
+      "count": 2
+    },
+    {
+      "text": "Trabajo de Investigacion",
+      "relevance": 0.510183,
+      "count": 2
+    },
+    {
+      "text": "razones distintas",
+      "relevance": 0.505867,
+      "count": 2
+    },
+    {
+      "text": "Educaci\u00e9dn Superior",
+      "relevance": 0.50445,
+      "count": 2
+    },
+    {
+      "text": "Trabajo de Investigacidn",
+      "relevance": 0.503566,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.503195,
+      "count": 19
+    }
+  ]
+}

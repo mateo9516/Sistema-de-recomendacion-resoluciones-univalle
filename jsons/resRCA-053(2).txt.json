@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4131,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "tiempo de permanencia",
+      "relevance": 0.844114,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.775469,
+      "count": 2
+    },
+    {
+      "text": "efecto del tiempo",
+      "relevance": 0.667308,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.659199,
+      "count": 2
+    },
+    {
+      "text": "duracion de las Comisiones Acad\u00e9micas",
+      "relevance": 0.590193,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.588174,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior No",
+      "relevance": 0.579642,
+      "count": 1
+    },
+    {
+      "text": "Profesores de carrera de la Universidad",
+      "relevance": 0.578202,
+      "count": 1
+    },
+    {
+      "text": "Oficina de Relaciones Internacionales",
+      "relevance": 0.541121,
+      "count": 2
+    },
+    {
+      "text": "requisitos establecidos",
+      "relevance": 0.539775,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.539652,
+      "count": 6
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.535251,
+      "count": 1
+    },
+    {
+      "text": "actividad adicional",
+      "relevance": 0.528574,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.528074,
+      "count": 1
+    },
+    {
+      "text": "informe de la comision",
+      "relevance": 0.52626,
+      "count": 1
+    },
+    {
+      "text": "Comision acad\u00e9mica",
+      "relevance": 0.523773,
+      "count": 1
+    },
+    {
+      "text": "San Fernando",
+      "relevance": 0.517774,
+      "count": 1
+    },
+    {
+      "text": "mayor aprovechamiento del entrenamiento",
+      "relevance": 0.517457,
+      "count": 1
+    },
+    {
+      "text": "plan de trabajo",
+      "relevance": 0.515768,
+      "count": 1
+    },
+    {
+      "text": "dominio de una segunda lengua",
+      "relevance": 0.515572,
+      "count": 1
+    },
+    {
+      "text": "salo6n de reuniones",
+      "relevance": 0.515013,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de dichas comisiones",
+      "relevance": 0.510719,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.510477,
+      "count": 1
+    },
+    {
+      "text": "tiempo",
+      "relevance": 0.51001,
+      "count": 1
+    },
+    {
+      "text": "nivel medio del idioma",
+      "relevance": 0.508223,
+      "count": 1
+    },
+    {
+      "text": "oferta de este tipo de cursos",
+      "relevance": 0.507143,
+      "count": 1
+    },
+    {
+      "text": "inmersidn total",
+      "relevance": 0.506768,
+      "count": 1
+    },
+    {
+      "text": "cursos de idiomas",
+      "relevance": 0.502924,
+      "count": 1
+    },
+    {
+      "text": "profesores beneficiarios",
+      "relevance": 0.501775,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.499374,
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1407,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.778416,
+      "count": 2
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.684533,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.646584,
+      "count": 3
+    },
+    {
+      "text": "TIQUETE AEREO",
+      "relevance": 0.611544,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.578266,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.577671,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria de Materiales",
+      "relevance": 0.557487,
+      "count": 1
+    },
+    {
+      "text": "tiquete a\u00e9reo",
+      "relevance": 0.549752,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.540987,
+      "count": 1
+    },
+    {
+      "text": "jurados de votacidn",
+      "relevance": 0.53412,
+      "count": 1
+    },
+    {
+      "text": "TIQUETE AEREO A",
+      "relevance": 0.531076,
+      "count": 1
+    },
+    {
+      "text": "Docente Universidad de los Andes",
+      "relevance": 0.522215,
+      "count": 1
+    },
+    {
+      "text": "ruta Bogota",
+      "relevance": 0.520098,
+      "count": 1
+    },
+    {
+      "text": "LOZANO MONCADA",
+      "relevance": 0.518699,
+      "count": 1
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.500295,
+      "count": 1
+    },
+    {
+      "text": "tesis de Doctorado",
+      "relevance": 0.493035,
+      "count": 1
+    },
+    {
+      "text": "JUAN FRANCISCO JAVIER CORREALgastos de viaje",
+      "relevance": 0.483652,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.47508,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.469998,
+      "count": 1
+    },
+    {
+      "text": "JUAN FRANCISCO JAVIER CORREAL",
+      "relevance": 0.462582,
+      "count": 1
+    },
+    {
+      "text": "fondos del Programa Acad\u00e9mico de Doctorado",
+      "relevance": 0.45943,
+      "count": 1
+    },
+    {
+      "text": "Artfculo",
+      "relevance": 0.458962,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.449156,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE",
+      "relevance": 0.446982,
+      "count": 1
+    },
+    {
+      "text": "GASTOS",
+      "relevance": 0.445492,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.444,
+      "count": 2
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.443038,
+      "count": 1
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.440575,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.439147,
+      "count": 1
+    },
+    {
+      "text": "Valie",
+      "relevance": 0.439147,
+      "count": 1
+    }
+  ]
+}

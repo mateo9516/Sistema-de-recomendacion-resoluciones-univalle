@@ -1,0 +1,379 @@
+Universidad
+del Valle
+
+UNIVERSIDAD DEL VALLE
+CONSEJO SUPERIOR
+
+RESOLUCION No. 069
+23 de septiembre de 2020
+
+“Por la cual se autoriza al sefior Rector para comprometer Presupuesto con
+cargo a vigencias futuras”
+
+EL CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE, en uso de
+sus atribuciones y en especial las que le confiere el literal k) y 1) del Articulo
+18° del Estatuto General y,
+
+CONSIDERANDO:
+
+Que La Universidad del Valle, creada por la Ordenanza No. 12 de 1945
+emanada de la Asamblea Departamental del Valle, reformada por la
+Ordenanza No. 10 de 1954 es un ente universitario Autonomo del orden
+Departamental, con régimen especial, personeria juridica, autonomia
+académica, administrativa y financiera, patrimonio independiente y
+capacidad para gobernarse, vinculada al Ministerio de Educacion Nacional en
+los términos definidos en la ley 30 de 1992;
+
+Que las Universidades publicas estan sometidas al cumplimiento del Estatuto
+Organico del Presupuesto en la parte que no vulnere su autonomia;
+
+Que la figura de vigencias futuras es aquella extension en el periodo fiscal que
+permite ejecutar un proyecto por encima del principio de anualidad
+contemplada en el Estatuto Organico de presupuesto garantizando tanto al
+Ordenador del gasto como al contratista o tercero la existencia en el tiempo
+de una partida en el presupuesto de inversiones, gastos o apropiaciones que
+permita ejecutar y honrar el pago de los compromisos durante los afios en
+que transcurre la ejecucién de la obra o proyecto; es decir, se desarrolle el
+objeto del compromiso, hasta el recibo a satisfaccion de la misma;UNIVERSIDAD DEL VALLE
+RESOLUCION No. 069 — 2020 Consejo Superior 2
+
+Que el mecanismo de las vigencias futuras se surte en desarrollo del principio
+de la legalidad del gasto putblico; es decir, previo a la asuncion del
+compromiso, se garantiza su ejecucion, o sea antes de abrir una licitacién o
+contratacién directa se debe obtener la autorizacién correspondiente,
+comprometiendo recursos de la(s) vigencia(s) fiscal(es) siguiente(s), que sean
+requeridas para su cumplimiento;
+
+Que el Acuerdo No. 017 del 13 de diciembre del afo 2019, expedido por el
+Consejo Superior de la Universidad del Valle, “por medio del cual se aprueba
+el Presupuesto de Ingresos y Gastos para la vigencia Fiscal Enero 1 a
+Diciembre 31 de 2020”, establece, en su capitulo III numeral 14, que para
+pactar la recepcién de bienes y servicios en vigencias siguientes a la de la
+celebracién del compromiso se deberd contar previamente con la autorizacién
+del Consejo Superior para asumir obligaciones con cargo a presupuestos de
+vigencias futuras. Para tal efecto, previo a la expedicién de los actos
+administrativos de apertura del proceso de seleccién de contratistas en los que
+se evidencie la provisién de bienes o servicios que superen el 31 de diciembre
+de la respectiva vigencia fiscal, deberd contarse con dicha autorizacién;
+
+Que en el Plan Estratégico de Desarrollo 2015-2025, la Universidad del Valle
+establece la estrategia 4.6: Implementar una plataforma tecnoldgica efectiva,
+integrada y actualizada en forma permanente para mejorar los procesos de
+gestion académico, administrativa, de la investigacion y la extension;
+
+Que mediante Resolucién 083-2019 del Consejo Superior del 13 de diciembre
+de 2019, “Por la cual se aprueba el Plan Operativo Anual de Inversiones (POAI)
+de la Universidad del Valle para la vigencia fiscal 2020”, se incluye en el
+programa 4.1.1 “ transformacion de la Gestion Administrativa y Académica”
+el proyecto “24420 - Transformacion digital y Vertical Académica”, por un
+valor de $7.250.000.000;
+
+Que el proyecto 24420 - Transformaci6n digital y Vertical Académica tiene
+como alcance la optimizacion de los flujos de informaci6n de procesos
+transversales, conforme al marco normativo contable, estandares nacionales
+e internacionales, implementando un software tipo ERP los flujos de
+informacién de subprocesos de formacion para la gestion administrativa y
+financiera, y la optimizacion de integral, de conformidad con los reglamentos
+académicos, estandares nacionales e internacionales, implementando su
+gestion a través de un sistema para gestion de la formacion superior.
+
+Que la Universidad del Valle tiene definido un conjunto de 16 procesos
+compuestos por 40 subprocesos, entre estratégicos, misionales, de soporte y
+de control y mejoramiento continuo o evaluacion. Que para efectos de mejorar
+su caracterizacion, descripcién y operaciOn, se hace necesario redisenar,UNIVERSIDAD DEL VALLE
+RESOLUCION No. 069 — 2020 Consejo Superior 3
+
+actualizar, ajustar y optimizar los flujos de entrada y salida que los
+relacionan;
+
+Que solo el 51% de los procedimientos misionales y de soporte son realizados
+en sistemas de informacién aislados o con niveles minimos de
+interoperabilidad, algunos con mas 15 afos de funcionamiento y sin
+actualizaciones sustanciales de plataforma y funcionalidad. El otro 49% de
+estos procedimientos se realiza de manera manual, en formatos impresos y
+en herramientas de ofimatica que no son tan robustas para atender una
+operacion crecientemente compleja como la de la Universidad del Valle;
+
+Que la Universidad requiere avanzar de operar a través de sistemas aislados
+hacia un sistema de informacion que articule los flujos de datos de la gestion
+de contratos, compras, facturacion, financiera con la gestion de proyectos;
+evitando que se sigan presentando riesgos y retrasos para la operacion y
+posibles hallazgos administrativos de la Contraloria, respecto de seguridad y
+trazabilidad de la informacion de acuerdo con los procesos;
+
+Que la Universidad ha soportado el registro y tramites de la actividad
+académica de los estudiantes en el Sistema de Registro Académico y
+Admisiones - SRA desde el ano 2003; sin embargo, la tecnologia en la que fue
+desarrollado y la plataforma tecnologica en la que se soporta estan quedando
+obsoletas y dia a dia reune mayor numero de vulnerabilidades de seguridad
+que estan siendo solventadas solo en la capa de red; adicionalmente, no
+incluye funcionalidades para que los estudiantes puedan realizar todos sus
+tramites académicos 100% en linea y que los docentes puedan gestionar el
+avance en sus cursos como ya lo tienen varias universidades tanto pUblicas,
+como privadas;
+
+Que el desarrollo e implementacién de sistemas de informacioén para la
+gestion por procesos, requiere un esfuerzo institucional especial para hacer
+una revision y actualizacion efectiva de procesos con base en normativas y
+estandares que cuente con en el compromiso y la participacién activa y
+continua de lideres y equipos de trabajo que impulsen los cambios; por lo
+tanto, se requiere personal adicional de apoyo al proyecto, que asegure la
+continuidad de la operaci6n;
+
+Que la Ley 1978 de 2019 del Departamento Administrativo de la Funci6n
+Publica, Por la cual se moderniza el Sector de las Tecnologias de la
+Informacion y las Comunicaciones -TIC, se distribuyen competencias, se
+crea un Regulador Unico y se dictan otras disposiciones, establece en su
+ARTICULO 1°. Objeto. La presente Ley tiene por objeto alinear los incentivos
+de los agentes y autoridades del sector de Tecnologias de la Informacion y las
+Comunicaciones (TIC), aumentar su certidumbre juridica, simplificar y
+modernizar el marco institucional del sector, focalizar las inversiones para elUNIVERSIDAD DEL VALLE
+RESOLUCION No. 069 — 2020 Consejo Superior 4
+
+cierre efectivo de la brecha digital y potenciar la vinculacion del sector privado
+en el desarrollo de los proyectos asociados, asi como aumentar la eficiencia
+en el pago de las contraprestaciones y cargas economicas de los agentes del
+sector;
+
+Asi mismo, el ARTICULO 4° de la citada ley, modifica el numeral 13 del
+articulo 4°. de la Ley 1341 de 2009, para Incentivar la inversién para la
+construcci6én, operacién y mantenimiento de infraestructuras de las
+Tecnologias de la Informacion y las Comunicaciones, y propender por
+la proteccién del medio ambiente y la salud publica;
+
+Que Colombia cuenta con una politica de Estado que ha venido evolucionando
+permanentemente en su alcance e implementacion reconociendo el uso de las
+Tecnologias de la Informacién y las Comunicaciones -TIC, como un
+instrumento fundamental para mejorar la gestion publica y la relaci6n del
+Estado con los ciudadanos;
+
+Que la politica de Gobierno Digital establecida mediante el Decreto 1008 de
+2018, forma parte del Modelo Integrado de planeaci6én y Gesti6n (MIPG) y
+se integra con las politicas de Gestion y Desempeno Institucional en la
+dimension operativa de Gestion para el Resultado con Valores;
+
+Que la transici6n de Gobierno en Linea a Gobierno Digital, con miras a
+transformar las entidades putblicas y dotarlas de capacidades que les
+permitan responder a las necesidades que demanda un escenario de
+economia digital; asi como, al establecimiento y desarrollo de ciudades y
+territorios inteligentes que les ofrezcan mejores condiciones a los ciudadanos
+y, por ende, un nivel superior de vida, implica abordar como compromiso
+institucional la Transformaci6n Digital, como un proceso por medio del cual
+las instituciones reorganizan sus métodos de trabajo y estrategias, para
+obtener mas beneficios, crecer, optimizar sus operaciones y mejorar la
+eficiencia institucional gracias a la implementacion de las nuevas tecnologias;
+Que la Transformacion Digital, en las organizaciones de vanguardia es
+liderada por la alta direcci6n y su implementacion implica abordarla no como
+un proyecto de Tecnologia sino como un proyecto institucional de la Alta
+Direccion, que implica los siguientes pasos:
+
+1. Repensar el negocio
+
+2. Definir procesos, reglas de negocio y flujos de informacion.
+3. Hacer gestion del cambio
+
+4. Seleccionar e implementar tecnologia
+
+Que actualmente, la Universidad ademas de la digitalizacion de procesos, o la
+provision de tramites y servicios para la ciudadania, se proyecta en temas de
+eficiencia administrativa que se enriquece con una visioén mucho mas integralUNIVERSIDAD DEL VALLE
+RESOLUCION No. 069 — 2020 Consejo Superior 5
+
+orientada a la generacion de valor publico por parte de todos los actores que
+construyen y aportan al mismo segutn las necesidades y problematicas de la
+sociedad y las TIC, son una herramienta mas para generar soluciones;
+
+Que en el plan de mejoramiento de la Contraloria Departamental del Valle del
+Cauca de la Auditoria Regular vigencia 2018 se encuentra el hallazgo 10: “La
+Universidad del Valle ejecutd sus operaciones financieras bajo el software
+financiero "Finanzas Plus" utilizado para la aplicacién al nuevo marco
+normativo del proceso de convergencia de los estados financieros a Norma
+Internacionales de Contabilidad para el Sector Ptiblico (NICSP), observandose
+que el programa financiero no estaba en condiciones para la inplementacién
+del proceso de los estados financieros a normas NICSP, toda vez que no es
+funcional y no cuenta con los aplicativos en las diferentes areas que tienen que
+ver con la parte contable como tampoco se encuentra en interfase, asi las cosas
+y por la ausencia de estas actividades el programa no es confiable, tanto asi,
+que el area contable realizé en el sistema “Finanzas Plus" la convergencia a
+normas internacionales, evidencidndose que la entidad present6 deficiencias al
+no contar con un software con las condiciones que se requieren, ademds la
+Contaduria General de la Republica en razén a las solicitudes de aplazamiento
+del cronograma establecido en la Resolucién No.533 de 2015, debido a las
+dificultades para la implementacién del marco normativo aplicable a entidades
+de gobierno relacionada entre otros aspectos los sistemas de informacién por
+cuanto los aplicativos contables de la entidad no estaban preparados para
+soportar los cambios normativos, lo anterior segtin la Resolucién No.693 del 06
+de diciembre de 2016.” Lo anterior se present6 por deficiencias en los
+controles, seguimiento y monitoreo implementados, que no permitieron
+advertir la situacion; y por lo tanto, las cifras de los estados de la situaci6n
+financiera para el periodo de aplicacion vigencia 2018, podrian generar riesgo;
+
+Que entre las principales causas de este hallazgo se encuentra el hecho de
+que el software disponible en la Universidad del Valle no responde a los
+nuevos requerimientos relacionados con el proceso de convergencia de los
+estados financieros a las normas internacionales de contabilidad para
+entidades del sector publico. Igualmente, las particularidades de la
+institucion universitaria como entidad publica de educacion superior generan
+requerimientos especiales en cuanto a la parametrizacio6n de la soluci6n
+tecnoldgica lo que dificulta encontrar un software de facil implementaci6n;
+
+Que la accion correctiva propuesta para dicho hallazgo No. 10 corresponde a
+fortalecer el proceso de transformaci6n digital de la Universidad con el fin de
+integrar los procesos relacionados con la informacion financiera, contable y
+fiscal por medio de una solucidn tecnologica que responda a los
+requerimientos de la universidad como entidad publica;UNIVERSIDAD DEL VALLE
+RESOLUCION No. 069 — 2020 Consejo Superior 6
+
+Que mediante Resolucién 009-2020 del Consejo Superior del 12 de febrero de
+2020, por la cual se autoriza al seMor Rector para comprometer Presupuesto
+con cargo a vigencias futuras, se autoriz6 el compromiso del presupuesto de
+$12.795.100.480 para las vigencias 2021, 2022, y 2023 con el fin de dar inicio
+al proceso de contratacion de la sistematizacion de los procesos;
+
+Que la Universidad del Valle durante el 2020 ha adelantado acciones de
+alistamiento en pro de la ejecucion del proyecto que le permitan a la Direcci6n
+y la Oficina de Informatica asegurar condiciones para la toma de decisiones y
+ejecucion de acciones bajo su responsabilidad para el éxito de este;
+
+Que la Universidad del Valle, designo comité Ad hoc para el direccionamiento
+técnico y administrativo, planeacién y seguimiento del proyecto, conformado
+por la Vicerrectoria Administrativa, el Jefe de la Oficina de Planeaci6n y
+Desarrollo Institucional - OPDI, la Jefe de Oficina de Informatica y
+Telecomunicaciones - OITel, la Direccién de Nuevas Tecnologias y educaci6n
+Virtual y la Direccion de Relaciones Internacionales;
+
+Que la Oficina de Informatica y Telecomunicaciones realiz6 sesiones entre
+febrero y junio del presente afio, con los lideres de los procesos
+administrativos y financieros para ajustar el listado las capacidades que
+desde sus puntos de vista debe reunir un software que les permita gestionar
+de manera integrada. En el ejercicio se identific6 necesaria una fase de
+confrontacion respecto de lo que los software de mercado ofrecen y con base
+en esto una ponderacion objetiva para posibilitar la evaluacién de lo que
+posibles proveedores ofrezcan en un proceso de selecci6n;
+
+Que el Comité Ad hoc, en sesiones semanales a partir de marzo de 2020 y
+hasta la fecha, realiz6 acciones de contextualizacion sobre el proyecto para
+todos sus integrantes, definicidn de un plan de alistamiento, present6 estado
+y plan ante la Direccion Universitaria y definio lineamientos para la
+contratacion de un gerente y/o equipo consultor que apoye las acciones
+requeridas para seleccién del sistema para gestion integrada administrativa y
+financiera;
+
+Que ante los hechos no previsibles relacionados con el aislamiento preventivo
+obligatorio para salvaguardar la salud y vida de las personas por causa del
+virus COVID19, situacién que escapa totalmente del control de la
+Universidad, se afecto de manera estructural la programacion de la ejecuci6n
+del proyecto 24420 Transformacion digital y vertical académica, el cual fue
+amparado con la Resolucién de Vigencias Futuras 009 de 2020;
+
+Que las medidas establecidas por el Gobierno Nacional definidas en el Decreto
+1168 del 25 de agosto de 2020 en el Articulo 8 referidas a que “durante el
+tiempo que dure la emergencia sanitaria por causa de la pandemia delUNIVERSIDAD DEL VALLE
+RESOLUCION No. 069 — 2020 Consejo Superior 7
+
+Coronavirus COVID-19, las entidades del sector publico y privado procuraran
+que sus empleados o contratistas cuya presencia no sea indispensable en la
+sede de trabajo, desarrollen las funciones y obligaciones bajo las modalidades
+de teletrabajo, trabajo en casa u otras similares”; afectan la contrataci6n de
+la prestacion de servicios técnicos y profesionales, teniendo en cuenta que no
+se ejecutaran todas las actividades de soporte, actualizacién y mantenimiento
+en areas funcionales; por lo tanto, se podra disponer de una parte de estos
+recursos a otras intervenciones que la Universidad considere necesarias;
+
+Que las condiciones requeridas para dar continuidad a las labores en casa
+por parte de los integrantes de la Universidad, exigieron la priorizacién y
+ejecucién de acciones conforme con las necesidades de la operaci6n de los
+proceso institucionales estratégicos, misionales y de soporte, las cuales
+implicaron tiempo y el Re direccionamiento de esfuerzos a cargo de la
+Direcci6n Universitaria, principalmente de las areas responsables de asegurar
+la continuidad de la operaci6n, como son las de soporte tecnoldgico Oficina
+de Informatica y Telecomunicaciones y la Direccién de Nuevas Tecnologias y
+Educacion Virtual, impactando la ejecucién del proyecto de Transformacion
+Digital y Vertical Académica liderado por estas areas;
+
+Que las acciones implicadas en el proceso de alistamiento de equipos de
+trabajo, contratacién de proveedores de software y servicios, implementacion,
+gestion para el cambio, ajuste de procesos y puesta en operacion de los
+sistemas de gestion administrativa y financiera como de gestion académica,
+se han redistribuido en el cronograma del proyecto para garantizar
+cumplimiento del alcance del mismo; por lo anterior, las contrataciones de los
+servicios que se realizaran en el 2020 representan no mas del 4% del
+presupuesto asignado para este afio, en consecuencia las vigencias futuras
+2021, 2022 y 2023 aprobadas en la Resoluci6n 009 del 2020, deben fenecer;
+
+Que las acciones que se alcanzan a ejecutar en el 2020, de acuerdo con la
+capacidad operativa de todos los involucrados en el proyecto, son la
+contratacién de consultorias que apoyen la seleccién del proveedor mas
+conveniente para la Universidad en cuanto a licenciamiento, implementaci6n,
+soporte, actualizacion y mantenimiento de un sistema para gestion
+administrativa y financiera, y proporcionen a la Oficina de Informatica y
+Telecomunicaciones los fundamentos, practicas y herramientas que le
+permitan mejorar y asegurar las condiciones para la gestion y control técnico
+de los sistemas en operacion y la incorporacion de los nuevos;
+
+Que de acuerdo con el periodo proyectado para la ejecucién de los contratos
+requeridos, se hace necesario comprometer presupuesto con cargo a la
+vigencias futuras 2021 y 2022, por un valor total de $215.394.043;UNIVERSIDAD DEL VALLE
+RESOLUCION No. 069 — 2020 Consejo Superior 8
+
+RESUELVE:
+
+ARTICULO 1°. Autorizar al senor Rector de la Universidad del
+
+Valle para comprometer presupuesto de la
+vigencias fiscales 2021 y 2022 con el fin de dar continuidad al proceso de
+contratacién de servicios requeridos en el proyecto 24420 Transformaci6n
+digital y vertical académica, de acuerdo con la siguiente informacion:
+
+ 
+
+Fuente de
+
+ae Objeto 2020 2021 2022
+Inversion
+
+ 
+
+Consultoria definicion
+RFP, selecci6n proveedor
+Estampilla Pro- ERP y acompanamiento
+
+Universidad del|€ implementacion
+
+$148.750.000) $107.100.000] $41.650.000|
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Valle Consultoria
+Mejoramiento Practicas $28.560.000|] $66.640.000
+Operacion TI
+TOTAL $177.310.000|$173.740.000/$41.650.000
+ARTIiCULO 2°. Derogar el Articulo Unico de la Resolucién 009 de CS
+
+del 12 de febrero de 2020.
+COMUNIQUESE Y CUMPLASE
+Dada en Santiago de Cali, a los 23 dias del mes de septiembre de 2020.
+
+La presidente,
+
+DOCUMENTO ORIGINAL FIRMADO
+
+CLARA LUZ ROLDAN GONZALEZ
+Gobernadora del Departamento
+del Valle del Cauca
+ANTONIO JOSE ECHEVERRY PEREZ
+Secretario General

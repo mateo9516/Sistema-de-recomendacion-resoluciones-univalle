@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4528,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PROCESO DE MATRICULA",
+      "relevance": 0.712427,
+      "count": 2
+    },
+    {
+      "text": "Examen M\u00e9dico",
+      "relevance": 0.678771,
+      "count": 2
+    },
+    {
+      "text": "DESARROLLO del periodo acad\u00e9mico",
+      "relevance": 0.63308,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de Reserva",
+      "relevance": 0.613694,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.592114,
+      "count": 1
+    },
+    {
+      "text": "registro de Paz",
+      "relevance": 0.584115,
+      "count": 1
+    },
+    {
+      "text": "Idioma Extranjero",
+      "relevance": 0.578321,
+      "count": 2
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.571408,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.561191,
+      "count": 1
+    },
+    {
+      "text": "Inscripci6n",
+      "relevance": 0.560431,
+      "count": 1
+    },
+    {
+      "text": "Examen de Clasificaci\u00e9n",
+      "relevance": 0.558086,
+      "count": 1
+    },
+    {
+      "text": "Servicio M\u00e9dico",
+      "relevance": 0.550012,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.547027,
+      "count": 4
+    },
+    {
+      "text": "Recibos de pago",
+      "relevance": 0.543081,
+      "count": 2
+    },
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.542078,
+      "count": 2
+    },
+    {
+      "text": "PROCESO DE MATRIiCULA",
+      "relevance": 0.540597,
+      "count": 1
+    },
+    {
+      "text": "calificaciones de validaci6",
+      "relevance": 0.537931,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.537381,
+      "count": 1
+    },
+    {
+      "text": "Verificacidn de deudas",
+      "relevance": 0.53565,
+      "count": 1
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.535619,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.525263,
+      "count": 1
+    },
+    {
+      "text": "Periodo Acad\u00e9mico Febrero",
+      "relevance": 0.524642,
+      "count": 1
+    },
+    {
+      "text": "Examenes de Proficiencia",
+      "relevance": 0.521901,
+      "count": 2
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.51882,
+      "count": 2
+    },
+    {
+      "text": "Derechos Econ\u00e9micos",
+      "relevance": 0.517947,
+      "count": 1
+    },
+    {
+      "text": "Asignaturas Electivas",
+      "relevance": 0.517013,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Lenguaje",
+      "relevance": 0.514996,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.511931,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria de Bienestar",
+      "relevance": 0.506752,
+      "count": 1
+    },
+    {
+      "text": "parte de la Escuela",
+      "relevance": 0.504029,
+      "count": 1
+    }
+  ]
+}

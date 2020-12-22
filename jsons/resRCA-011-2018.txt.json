@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3110,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.754802,
+      "count": 6
+    },
+    {
+      "text": "peticion de parte",
+      "relevance": 0.64433,
+      "count": 1
+    },
+    {
+      "text": "Contencioso Administrativo",
+      "relevance": 0.612391,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.605239,
+      "count": 1
+    },
+    {
+      "text": "formales contenidos",
+      "relevance": 0.59453,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.586751,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.573355,
+      "count": 1
+    },
+    {
+      "text": "actos administrativos",
+      "relevance": 0.569648,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.567954,
+      "count": 1
+    },
+    {
+      "text": "denominacion del programa acad\u00e9mico",
+      "relevance": 0.566707,
+      "count": 1
+    },
+    {
+      "text": "ciudad de Cali-Valle",
+      "relevance": 0.555454,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.55011,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos de la asignatura",
+      "relevance": 0.548305,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.547766,
+      "count": 2
+    },
+    {
+      "text": "plan de estudios conducente",
+      "relevance": 0.542139,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.534688,
+      "count": 1
+    },
+    {
+      "text": "error de digitacion",
+      "relevance": 0.533079,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.52676,
+      "count": 2
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.523019,
+      "count": 8
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.520293,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.518872,
+      "count": 1
+    },
+    {
+      "text": "asignatura de Investigaci\u00e9n",
+      "relevance": 0.504693,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.500706,
+      "count": 1
+    },
+    {
+      "text": "oficio",
+      "relevance": 0.499018,
+      "count": 1
+    },
+    {
+      "text": "omision de palabras",
+      "relevance": 0.496439,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico ESPECIALIZACION",
+      "relevance": 0.495528,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.494429,
+      "count": 1
+    },
+    {
+      "text": "titulo de ESPECIALISTA",
+      "relevance": 0.492268,
+      "count": 1
+    },
+    {
+      "text": "fecha de aprobaci6",
+      "relevance": 0.492268,
+      "count": 1
+    },
+    {
+      "text": "OFTALMOLOGIA.UNIVERSIDAD DEL VALLE",
+      "relevance": 0.490799,
+      "count": 1
+    }
+  ]
+}

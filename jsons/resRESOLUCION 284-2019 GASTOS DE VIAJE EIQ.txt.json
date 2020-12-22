@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2122,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Profesor Asistente",
+      "relevance": 0.65503,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Biol\u00e9gica",
+      "relevance": 0.590354,
+      "count": 1
+    },
+    {
+      "text": "Profesor Asociado",
+      "relevance": 0.588858,
+      "count": 1
+    },
+    {
+      "text": "M\u00e9todos num\u00e9ricos",
+      "relevance": 0.58789,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Quimica",
+      "relevance": 0.583673,
+      "count": 1
+    },
+    {
+      "text": "evento ENEIQ",
+      "relevance": 0.577178,
+      "count": 1
+    },
+    {
+      "text": "URO LOZANO MONCADA",
+      "relevance": 0.566718,
+      "count": 1
+    },
+    {
+      "text": "Presente Resoluci\u00e9n",
+      "relevance": 0.557713,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.556828,
+      "count": 1
+    },
+    {
+      "text": "Sector Industrial",
+      "relevance": 0.556828,
+      "count": 1
+    },
+    {
+      "text": "Fenomenos de transporte",
+      "relevance": 0.552298,
+      "count": 1
+    },
+    {
+      "text": "Profesor hora",
+      "relevance": 0.542289,
+      "count": 1
+    },
+    {
+      "text": "Universidad Nacional",
+      "relevance": 0.529796,
+      "count": 1
+    },
+    {
+      "text": "conferencista Nacional",
+      "relevance": 0.527251,
+      "count": 1
+    },
+    {
+      "text": "Decanatura No",
+      "relevance": 0.520605,
+      "count": 1
+    },
+    {
+      "text": "Cargo",
+      "relevance": 0.518473,
+      "count": 3
+    },
+    {
+      "text": "recursos del evento",
+      "relevance": 0.517506,
+      "count": 1
+    },
+    {
+      "text": "gastos de viaje",
+      "relevance": 0.513489,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.509845,
+      "count": 1
+    },
+    {
+      "text": "Objeto",
+      "relevance": 0.505418,
+      "count": 3
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE",
+      "relevance": 0.505215,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.497155,
+      "count": 1
+    },
+    {
+      "text": "tallerista nacional",
+      "relevance": 0.495305,
+      "count": 1
+    },
+    {
+      "text": "agosto de 2019FACULTAD",
+      "relevance": 0.494736,
+      "count": 1
+    },
+    {
+      "text": "eltema",
+      "relevance": 0.490441,
+      "count": 1
+    },
+    {
+      "text": "Encuentro de Estudiantes de Ingenieria Quimica",
+      "relevance": 0.488589,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.485219,
+      "count": 1
+    },
+    {
+      "text": "FACULTAD",
+      "relevance": 0.483636,
+      "count": 1
+    },
+    {
+      "text": "Fecha",
+      "relevance": 0.483496,
+      "count": 3
+    },
+    {
+      "text": "PAGO DE GASTOS DE VIAJE A",
+      "relevance": 0.481337,
+      "count": 1
+    }
+  ]
+}

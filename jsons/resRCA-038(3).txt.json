@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2473,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.747334,
+      "count": 2
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.672629,
+      "count": 2
+    },
+    {
+      "text": "Consejos de Facultad",
+      "relevance": 0.621635,
+      "count": 1
+    },
+    {
+      "text": "finalizacion del periodo acad\u00e9mico",
+      "relevance": 0.612551,
+      "count": 1
+    },
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.575062,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.570978,
+      "count": 1
+    },
+    {
+      "text": "Directores de Instituto Acad\u00e9mico",
+      "relevance": 0.566994,
+      "count": 1
+    },
+    {
+      "text": "casos excepcionales",
+      "relevance": 0.557483,
+      "count": 1
+    },
+    {
+      "text": "fecha de terminacion",
+      "relevance": 0.54994,
+      "count": 1
+    },
+    {
+      "text": "mismos t\u00e9rminos",
+      "relevance": 0.547977,
+      "count": 1
+    },
+    {
+      "text": "tiempo previsto",
+      "relevance": 0.544082,
+      "count": 1
+    },
+    {
+      "text": "nueva evaluacion",
+      "relevance": 0.539846,
+      "count": 1
+    },
+    {
+      "text": "cancelacion de cursos",
+      "relevance": 0.539458,
+      "count": 1
+    },
+    {
+      "text": "Finalizacion de clases",
+      "relevance": 0.533639,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.532587,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.52758,
+      "count": 1
+    },
+    {
+      "text": "Sede Cali",
+      "relevance": 0.524257,
+      "count": 1
+    },
+    {
+      "text": "Salon de Reuniones del Consejo",
+      "relevance": 0.51992,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.510836,
+      "count": 2
+    },
+    {
+      "text": "respectivos Consejos",
+      "relevance": 0.508211,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.506394,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Mayo",
+      "relevance": 0.503095,
+      "count": 1
+    },
+    {
+      "text": "nuevo ajuste",
+      "relevance": 0.501156,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.495679,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectora Acad\u00e9mica",
+      "relevance": 0.495297,
+      "count": 1
+    },
+    {
+      "text": "Reglamento Estudiantil",
+      "relevance": 0.493325,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.489169,
+      "count": 1
+    },
+    {
+      "text": "normal desarrollo acad\u00e9mico del presente semestre",
+      "relevance": 0.488677,
+      "count": 1
+    },
+    {
+      "text": "ajuste inicial",
+      "relevance": 0.480772,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.478158,
+      "count": 1
+    }
+  ]
+}

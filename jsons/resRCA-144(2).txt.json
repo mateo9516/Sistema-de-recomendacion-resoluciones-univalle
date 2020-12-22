@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9905,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "nivel doctoral",
+      "relevance": 0.639852,
+      "count": 1
+    },
+    {
+      "text": "investigacion cientifico social",
+      "relevance": 0.631513,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n de tesis doctorales",
+      "relevance": 0.59436,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.584515,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de programas acad\u00e9micos",
+      "relevance": 0.581778,
+      "count": 1
+    },
+    {
+      "text": "curriculo del Programa Acad\u00e9mico",
+      "relevance": 0.578052,
+      "count": 2
+    },
+    {
+      "text": "investigaciones doctorales",
+      "relevance": 0.562931,
+      "count": 1
+    },
+    {
+      "text": "cursos de teoria sociologica",
+      "relevance": 0.560254,
+      "count": 1
+    },
+    {
+      "text": "Plan Estrat\u00e9gico",
+      "relevance": 0.559921,
+      "count": 1
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.559077,
+      "count": 3
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.546843,
+      "count": 3
+    },
+    {
+      "text": "Ciclo bdsico",
+      "relevance": 0.543906,
+      "count": 1
+    },
+    {
+      "text": "sociedad nacional",
+      "relevance": 0.543379,
+      "count": 2
+    },
+    {
+      "text": "asignaturas correspondientes",
+      "relevance": 0.543132,
+      "count": 1
+    },
+    {
+      "text": "reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.540788,
+      "count": 1
+    },
+    {
+      "text": "especial \u00e9nfasis",
+      "relevance": 0.539497,
+      "count": 1
+    },
+    {
+      "text": "estudios comparados",
+      "relevance": 0.538435,
+      "count": 1
+    },
+    {
+      "text": "resultados de su investigacion doctoral",
+      "relevance": 0.538232,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.537713,
+      "count": 5
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.534639,
+      "count": 4
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.530835,
+      "count": 1
+    },
+    {
+      "text": "realidad socioecon\u00e9mica",
+      "relevance": 0.529292,
+      "count": 1
+    },
+    {
+      "text": "oferta de doctorados",
+      "relevance": 0.528171,
+      "count": 1
+    },
+    {
+      "text": "investigacion permanente",
+      "relevance": 0.526784,
+      "count": 2
+    },
+    {
+      "text": "alto nivel",
+      "relevance": 0.526408,
+      "count": 1
+    },
+    {
+      "text": "grado de Doctor",
+      "relevance": 0.521187,
+      "count": 1
+    },
+    {
+      "text": "OBJETIVOS DEL PROGRAMA",
+      "relevance": 0.519277,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ciencias Sociales",
+      "relevance": 0.518796,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.518279,
+      "count": 3
+    },
+    {
+      "text": "normativa vigente",
+      "relevance": 0.517542,
+      "count": 1
+    }
+  ]
+}

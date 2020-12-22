@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3727,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.789885,
+      "count": 8
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.641823,
+      "count": 1
+    },
+    {
+      "text": "decanos de las Facultades de Ciencias",
+      "relevance": 0.621892,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.617507,
+      "count": 5
+    },
+    {
+      "text": "estudiantes de la Facultad",
+      "relevance": 0.59528,
+      "count": 1
+    },
+    {
+      "text": "Paro Acad\u00e9mico indefinido",
+      "relevance": 0.595016,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.591869,
+      "count": 1
+    },
+    {
+      "text": "cronograma de las reuniones",
+      "relevance": 0.580638,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Sociales",
+      "relevance": 0.570149,
+      "count": 1
+    },
+    {
+      "text": "Comisidn del Consejo Acad\u00e9mico",
+      "relevance": 0.55796,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.557469,
+      "count": 1
+    },
+    {
+      "text": "actividad acad\u00e9mica",
+      "relevance": 0.555618,
+      "count": 1
+    },
+    {
+      "text": "LUIS ALBERTO",
+      "relevance": 0.539511,
+      "count": 1
+    },
+    {
+      "text": "Asamblea Estudiantil",
+      "relevance": 0.535304,
+      "count": 1
+    },
+    {
+      "text": "correspondientes propuestas",
+      "relevance": 0.535192,
+      "count": 1
+    },
+    {
+      "text": "Decano de la Facultad de Salud",
+      "relevance": 0.53499,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.534126,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de la Facultad de Salud",
+      "relevance": 0.530435,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de la Universidad",
+      "relevance": 0.523924,
+      "count": 1
+    },
+    {
+      "text": "UE RAMOS CALDERON",
+      "relevance": 0.522305,
+      "count": 1
+    },
+    {
+      "text": "delegados de la Asamblea Estudiantil",
+      "relevance": 0.521397,
+      "count": 1
+    },
+    {
+      "text": "Direcci\u00e9n Universitaria",
+      "relevance": 0.514445,
+      "count": 1
+    },
+    {
+      "text": "peticiones de los estudiantes",
+      "relevance": 0.512207,
+      "count": 1
+    },
+    {
+      "text": "paro indefinido",
+      "relevance": 0.508993,
+      "count": 1
+    },
+    {
+      "text": "encargado de la coordinaci6n",
+      "relevance": 0.508922,
+      "count": 1
+    },
+    {
+      "text": "normalidad acad\u00e9mica",
+      "relevance": 0.508367,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico de este afio",
+      "relevance": 0.505074,
+      "count": 1
+    },
+    {
+      "text": "mes de marzo",
+      "relevance": 0.505064,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.502433,
+      "count": 1
+    },
+    {
+      "text": "RESUELV E",
+      "relevance": 0.502433,
+      "count": 1
+    }
+  ]
+}

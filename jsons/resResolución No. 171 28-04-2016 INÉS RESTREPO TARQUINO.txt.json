@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2072,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "GASTOS DE TRANSPORTE LOCAL",
+      "relevance": 0.74288,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.719987,
+      "count": 2
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.646765,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.602269,
+      "count": 1
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE INTERMUNICIPAL",
+      "relevance": 0.600923,
+      "count": 1
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.582674,
+      "count": 1
+    },
+    {
+      "text": "Actividades del proyecto",
+      "relevance": 0.580989,
+      "count": 1
+    },
+    {
+      "text": "fondos del Proyecto",
+      "relevance": 0.580514,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.57396,
+      "count": 1
+    },
+    {
+      "text": "MANEJO INTEGRADO",
+      "relevance": 0.557261,
+      "count": 1
+    },
+    {
+      "text": "RECURSO HIDRICO",
+      "relevance": 0.556903,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.538177,
+      "count": 1
+    },
+    {
+      "text": "PAGO DE VIATICOS",
+      "relevance": 0.537585,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.53619,
+      "count": 1
+    },
+    {
+      "text": "TRANSPORTE LOCAL",
+      "relevance": 0.534818,
+      "count": 1
+    },
+    {
+      "text": "CUENCAS DEL CAUCA",
+      "relevance": 0.525844,
+      "count": 1
+    },
+    {
+      "text": "Regalias Cauca",
+      "relevance": 0.524499,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.522098,
+      "count": 1
+    },
+    {
+      "text": "sesion del dia martes",
+      "relevance": 0.513627,
+      "count": 1
+    },
+    {
+      "text": "Cuenca del Rio Cauca",
+      "relevance": 0.51286,
+      "count": 1
+    },
+    {
+      "text": "gastos de transporte",
+      "relevance": 0.510206,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.510038,
+      "count": 2
+    },
+    {
+      "text": "CARLOS AR",
+      "relevance": 0.510038,
+      "count": 1
+    },
+    {
+      "text": "correo electronico",
+      "relevance": 0.510038,
+      "count": 1
+    },
+    {
+      "text": "transporte imtermunicipal",
+      "relevance": 0.509062,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA",
+      "relevance": 0.501123,
+      "count": 1
+    },
+    {
+      "text": "Congejo de Facu",
+      "relevance": 0.498076,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.491412,
+      "count": 1
+    },
+    {
+      "text": "transporte intermunicipal",
+      "relevance": 0.489345,
+      "count": 1
+    },
+    {
+      "text": "INTERMUNICIPAL A",
+      "relevance": 0.48358,
+      "count": 1
+    }
+  ]
+}

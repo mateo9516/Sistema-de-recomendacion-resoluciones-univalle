@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1150,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Directora del Programa Acad\u00e9mico",
+      "relevance": 0.6901,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.678762,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.607216,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.583047,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.574346,
+      "count": 1
+    },
+    {
+      "text": "Acad\u00e9mica U",
+      "relevance": 0.532605,
+      "count": 1
+    },
+    {
+      "text": "Sistemas de Informaci\u00e9n",
+      "relevance": 0.528306,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.522246,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.519303,
+      "count": 1
+    },
+    {
+      "text": "mes de Septiembre",
+      "relevance": 0.500373,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.47926,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.471609,
+      "count": 1
+    },
+    {
+      "text": "Tecnologia",
+      "relevance": 0.463674,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.459233,
+      "count": 1
+    },
+    {
+      "text": "C113",
+      "relevance": 0.455342,
+      "count": 1
+    },
+    {
+      "text": "piso",
+      "relevance": 0.455342,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.45184,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.448156,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.446363,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.446363,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.446363,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.446363,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.446363,
+      "count": 1
+    },
+    {
+      "text": "oficina",
+      "relevance": 0.446363,
+      "count": 1
+    },
+    {
+      "text": "RUBIANO",
+      "relevance": 0.446363,
+      "count": 1
+    }
+  ]
+}

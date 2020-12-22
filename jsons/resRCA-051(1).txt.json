@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17645,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.615248,
+      "count": 2
+    },
+    {
+      "text": "puntaje minimo de preseleccion",
+      "relevance": 0.585898,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente universitaria",
+      "relevance": 0.568275,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.566176,
+      "count": 12
+    },
+    {
+      "text": "Hoja de Vida",
+      "relevance": 0.561381,
+      "count": 2
+    },
+    {
+      "text": "publicacion impresa",
+      "relevance": 0.553555,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional",
+      "relevance": 0.553448,
+      "count": 2
+    },
+    {
+      "text": "cargos de profesores de tiempo",
+      "relevance": 0.547565,
+      "count": 1
+    },
+    {
+      "text": "siguiente escala",
+      "relevance": 0.543215,
+      "count": 1
+    },
+    {
+      "text": "Comision de Evaluacion de M\u00e9ritos",
+      "relevance": 0.541196,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.539766,
+      "count": 2
+    },
+    {
+      "text": "caso de aspirantes",
+      "relevance": 0.538901,
+      "count": 1
+    },
+    {
+      "text": "ano de avance",
+      "relevance": 0.538796,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.537587,
+      "count": 5
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.535202,
+      "count": 3
+    },
+    {
+      "text": "posgrado obtenido",
+      "relevance": 0.534779,
+      "count": 1
+    },
+    {
+      "text": "literales g",
+      "relevance": 0.533818,
+      "count": 1
+    },
+    {
+      "text": "pruebas acad\u00e9micas",
+      "relevance": 0.532619,
+      "count": 5
+    },
+    {
+      "text": "tiempo completo",
+      "relevance": 0.528759,
+      "count": 1
+    },
+    {
+      "text": "estudio de la Hoja de Vida",
+      "relevance": 0.527389,
+      "count": 1
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.527119,
+      "count": 1
+    },
+    {
+      "text": "tipo de publicacion",
+      "relevance": 0.526948,
+      "count": 1
+    },
+    {
+      "text": "evaluaci\u00e9n de los aspirantes",
+      "relevance": 0.525545,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.525295,
+      "count": 3
+    },
+    {
+      "text": "instituci6n educativa",
+      "relevance": 0.522883,
+      "count": 1
+    },
+    {
+      "text": "exposiciones individuales",
+      "relevance": 0.522541,
+      "count": 1
+    },
+    {
+      "text": "caso de las Licenciaturas",
+      "relevance": 0.522492,
+      "count": 1
+    },
+    {
+      "text": "instituciones de educacion basica",
+      "relevance": 0.521676,
+      "count": 1
+    },
+    {
+      "text": "maximo tope",
+      "relevance": 0.521402,
+      "count": 5
+    },
+    {
+      "text": "Experiencia investigativa",
+      "relevance": 0.520005,
+      "count": 1
+    }
+  ]
+}

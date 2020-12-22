@@ -1,0 +1,100 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 902,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.761525,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.664111,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.656016,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.624367,
+      "count": 1
+    },
+    {
+      "text": "Direccion de la Escuela de Estadistica",
+      "relevance": 0.595951,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.581163,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.514003,
+      "count": 1
+    },
+    {
+      "text": "mes de octubre",
+      "relevance": 0.506656,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.483871,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.441257,
+      "count": 1
+    },
+    {
+      "text": "Profesor JAVIER OLAYA OCHOA",
+      "relevance": 0.429407,
+      "count": 2
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.424143,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.416852,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.413971,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.39917,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.391952,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.391952,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.391952,
+      "count": 1
+    }
+  ]
+}

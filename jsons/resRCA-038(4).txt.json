@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10011,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Electivas de Area",
+      "relevance": 0.772978,
+      "count": 1
+    },
+    {
+      "text": "Electivas Complementarias",
+      "relevance": 0.642088,
+      "count": 1
+    },
+    {
+      "text": "Area de Profundizaci\u00e9n",
+      "relevance": 0.631375,
+      "count": 1
+    },
+    {
+      "text": "Empresas modalidad diurno",
+      "relevance": 0.594583,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.581168,
+      "count": 6
+    },
+    {
+      "text": "Programa de ADMINISTRACION",
+      "relevance": 0.571204,
+      "count": 2
+    },
+    {
+      "text": "ADMINISTRACION DE EMPRESAS",
+      "relevance": 0.552849,
+      "count": 5
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.541157,
+      "count": 1
+    },
+    {
+      "text": "presupuestos Presupuesto",
+      "relevance": 0.537514,
+      "count": 1
+    },
+    {
+      "text": "AREA DE ECONOMIA",
+      "relevance": 0.536462,
+      "count": 1
+    },
+    {
+      "text": "denominacion de algunas asignaturas",
+      "relevance": 0.53423,
+      "count": 2
+    },
+    {
+      "text": "Ciencias de la Administracion",
+      "relevance": 0.528318,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.528113,
+      "count": 2
+    },
+    {
+      "text": "informacion compleja",
+      "relevance": 0.527928,
+      "count": 1
+    },
+    {
+      "text": "PERFIL PROFESIONAL",
+      "relevance": 0.527419,
+      "count": 1
+    },
+    {
+      "text": "Gestion I Organizacional",
+      "relevance": 0.525897,
+      "count": 1
+    },
+    {
+      "text": "realidad social",
+      "relevance": 0.524354,
+      "count": 1
+    },
+    {
+      "text": "Ser Humano",
+      "relevance": 0.524346,
+      "count": 1
+    },
+    {
+      "text": "AREA DE GESTION",
+      "relevance": 0.524098,
+      "count": 1
+    },
+    {
+      "text": "AREA DE MATEMATICAS",
+      "relevance": 0.522484,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion.UNIVERSIDAD",
+      "relevance": 0.521885,
+      "count": 1
+    },
+    {
+      "text": "Sede San Fernando",
+      "relevance": 0.521563,
+      "count": 1
+    },
+    {
+      "text": "Ciencias Humanas",
+      "relevance": 0.521268,
+      "count": 1
+    },
+    {
+      "text": "areas funcionales",
+      "relevance": 0.521203,
+      "count": 1
+    },
+    {
+      "text": "AREA DE CONTABILIDAD",
+      "relevance": 0.520401,
+      "count": 1
+    },
+    {
+      "text": "Politica Economica",
+      "relevance": 0.51864,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.518607,
+      "count": 1
+    },
+    {
+      "text": "campo empresarial",
+      "relevance": 0.517553,
+      "count": 1
+    },
+    {
+      "text": "Negocios Internacionales",
+      "relevance": 0.516631,
+      "count": 3
+    },
+    {
+      "text": "examen de proficiencia",
+      "relevance": 0.516312,
+      "count": 1
+    }
+  ]
+}

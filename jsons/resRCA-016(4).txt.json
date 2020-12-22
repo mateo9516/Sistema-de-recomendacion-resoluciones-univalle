@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4618,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.693593,
+      "count": 1
+    },
+    {
+      "text": "periodo Agosto",
+      "relevance": 0.651013,
+      "count": 1
+    },
+    {
+      "text": "PRIMER SEMESTRE",
+      "relevance": 0.633182,
+      "count": 2
+    },
+    {
+      "text": "documentos soporte",
+      "relevance": 0.622688,
+      "count": 1
+    },
+    {
+      "text": "Entrega de contrasenas",
+      "relevance": 0.620097,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.603561,
+      "count": 1
+    },
+    {
+      "text": "solicitudes via",
+      "relevance": 0.602553,
+      "count": 1
+    },
+    {
+      "text": "Pruebas Adicionales",
+      "relevance": 0.59836,
+      "count": 2
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.586602,
+      "count": 1
+    },
+    {
+      "text": "Registro de solicitudes via",
+      "relevance": 0.585363,
+      "count": 1
+    },
+    {
+      "text": "fechas de reingreso",
+      "relevance": 0.578637,
+      "count": 1
+    },
+    {
+      "text": "Procesos de Admisi6",
+      "relevance": 0.567834,
+      "count": 1
+    },
+    {
+      "text": "Liquidacion de los Derechos",
+      "relevance": 0.547494,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.547076,
+      "count": 4
+    },
+    {
+      "text": "Programa de las solicitudes",
+      "relevance": 0.545855,
+      "count": 2
+    },
+    {
+      "text": "entrega de claves",
+      "relevance": 0.542664,
+      "count": 1
+    },
+    {
+      "text": "cupo via",
+      "relevance": 0.539625,
+      "count": 1
+    },
+    {
+      "text": "Ciudad de Buga",
+      "relevance": 0.537306,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.532633,
+      "count": 1
+    },
+    {
+      "text": "revision de documentos",
+      "relevance": 0.531497,
+      "count": 1
+    },
+    {
+      "text": "dias del mes Marzo",
+      "relevance": 0.524978,
+      "count": 1
+    },
+    {
+      "text": "Web aspirantes de otras Instituciones",
+      "relevance": 0.521273,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de los requisitos",
+      "relevance": 0.52001,
+      "count": 1
+    },
+    {
+      "text": "Condiciones de Excepcion",
+      "relevance": 0.516432,
+      "count": 1
+    },
+    {
+      "text": "Entrega de recibo",
+      "relevance": 0.515388,
+      "count": 1
+    },
+    {
+      "text": "Recibos de Pago",
+      "relevance": 0.51398,
+      "count": 1
+    },
+    {
+      "text": "SEMESTRES SUPERIORES",
+      "relevance": 0.509699,
+      "count": 1
+    },
+    {
+      "text": "Reservas de Cupo via",
+      "relevance": 0.503171,
+      "count": 1
+    },
+    {
+      "text": "Area de Admisiones",
+      "relevance": 0.502712,
+      "count": 1
+    },
+    {
+      "text": "formulario via",
+      "relevance": 0.50236,
+      "count": 1
+    }
+  ]
+}

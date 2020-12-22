@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 20977,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.680001,
+      "count": 2
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.67406,
+      "count": 2
+    },
+    {
+      "text": "resultados del EXAMEN DE ESTADO",
+      "relevance": 0.601691,
+      "count": 2
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.584412,
+      "count": 9
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.57652,
+      "count": 8
+    },
+    {
+      "text": "diferentes Comit\u00e9s de Programa",
+      "relevance": 0.575117,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Industrial",
+      "relevance": 0.574288,
+      "count": 3
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Tecnologia",
+      "relevance": 0.565438,
+      "count": 2
+    },
+    {
+      "text": "reconocimiento de cada estudiante",
+      "relevance": 0.563044,
+      "count": 1
+    },
+    {
+      "text": "CRITERIOS DE ADMISION",
+      "relevance": 0.551261,
+      "count": 1
+    },
+    {
+      "text": "grado de bachiller",
+      "relevance": 0.545078,
+      "count": 1
+    },
+    {
+      "text": "puntaje minimo",
+      "relevance": 0.539282,
+      "count": 3
+    },
+    {
+      "text": "siguientes puntajes",
+      "relevance": 0.538562,
+      "count": 1
+    },
+    {
+      "text": "grado de educaci\u00e9dn media",
+      "relevance": 0.537825,
+      "count": 1
+    },
+    {
+      "text": "PRUEBA ELECTIVA DEL ICFES",
+      "relevance": 0.535573,
+      "count": 1
+    },
+    {
+      "text": "Instituto Colombiano",
+      "relevance": 0.5347,
+      "count": 1
+    },
+    {
+      "text": "MAS ALTOS PUNTAJES",
+      "relevance": 0.534671,
+      "count": 2
+    },
+    {
+      "text": "Examen de Estado",
+      "relevance": 0.531507,
+      "count": 9
+    },
+    {
+      "text": "demas Programas ofrecidos",
+      "relevance": 0.530495,
+      "count": 1
+    },
+    {
+      "text": "numero de cupos",
+      "relevance": 0.530422,
+      "count": 3
+    },
+    {
+      "text": "SERVICIO MILITAR OBLIGATORIO",
+      "relevance": 0.528895,
+      "count": 3
+    },
+    {
+      "text": "Ingenieria de Sistemas",
+      "relevance": 0.52679,
+      "count": 3
+    },
+    {
+      "text": "Ciencias Naturales",
+      "relevance": 0.526463,
+      "count": 4
+    },
+    {
+      "text": "siguientes condiciones",
+      "relevance": 0.526086,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de una tercera persona",
+      "relevance": 0.524294,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.521771,
+      "count": 9
+    },
+    {
+      "text": "Fomento de la Educaci\u00e9n Superior",
+      "relevance": 0.521045,
+      "count": 1
+    },
+    {
+      "text": "COLEGIOS OFICIALES",
+      "relevance": 0.520816,
+      "count": 2
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.520326,
+      "count": 3
+    },
+    {
+      "text": "und\u00e9cimo grado",
+      "relevance": 0.519827,
+      "count": 1
+    }
+  ]
+}

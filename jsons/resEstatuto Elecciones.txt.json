@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 4,
+    "text_characters": 34446,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Secretaria General",
+      "relevance": 0.619819,
+      "count": 24
+    },
+    {
+      "text": "PARAGRAFO 30.El voto",
+      "relevance": 0.610991,
+      "count": 2
+    },
+    {
+      "text": "primer escrutinio",
+      "relevance": 0.60347,
+      "count": 4
+    },
+    {
+      "text": "numero de papeletas",
+      "relevance": 0.595937,
+      "count": 10
+    },
+    {
+      "text": "Secretarias Acad\u00e9micas de las Facultades",
+      "relevance": 0.587942,
+      "count": 2
+    },
+    {
+      "text": "eleccidn de los representantes de los profesores",
+      "relevance": 0.582889,
+      "count": 2
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.57921,
+      "count": 4
+    },
+    {
+      "text": "Comit\u00e9 de Honor",
+      "relevance": 0.578436,
+      "count": 20
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.563799,
+      "count": 6
+    },
+    {
+      "text": "claustro de profesores",
+      "relevance": 0.561108,
+      "count": 2
+    },
+    {
+      "text": "Recursos Humanos",
+      "relevance": 0.556658,
+      "count": 2
+    },
+    {
+      "text": "representaciones de los directores de programas",
+      "relevance": 0.551318,
+      "count": 2
+    },
+    {
+      "text": "numero de votantes firmantes",
+      "relevance": 0.545802,
+      "count": 6
+    },
+    {
+      "text": "personas inscritas",
+      "relevance": 0.545687,
+      "count": 2
+    },
+    {
+      "text": "votacion directa",
+      "relevance": 0.545459,
+      "count": 4
+    },
+    {
+      "text": "papeletas de votacion",
+      "relevance": 0.541234,
+      "count": 8
+    },
+    {
+      "text": "NORMAS GENERALES",
+      "relevance": 0.539613,
+      "count": 2
+    },
+    {
+      "text": "elecci\u00e9n de los representantes de los directores",
+      "relevance": 0.538373,
+      "count": 2
+    },
+    {
+      "text": "PARAGRAFO",
+      "relevance": 0.536814,
+      "count": 34
+    },
+    {
+      "text": "escrutinio definitivo",
+      "relevance": 0.53522,
+      "count": 2
+    },
+    {
+      "text": "PARAGRAFO 20.La",
+      "relevance": 0.534135,
+      "count": 2
+    },
+    {
+      "text": "Secretario del Comit\u00e9 de Honor",
+      "relevance": 0.533495,
+      "count": 6
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.526516,
+      "count": 2
+    },
+    {
+      "text": "respectiva Facultad",
+      "relevance": 0.525224,
+      "count": 10
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.525008,
+      "count": 4
+    },
+    {
+      "text": "listas de los profesores",
+      "relevance": 0.524501,
+      "count": 2
+    },
+    {
+      "text": "Planes nocturnos",
+      "relevance": 0.523674,
+      "count": 2
+    },
+    {
+      "text": "mayor numero de votos",
+      "relevance": 0.521725,
+      "count": 2
+    },
+    {
+      "text": "Secretaria Acad\u00e9mica",
+      "relevance": 0.521051,
+      "count": 6
+    },
+    {
+      "text": "inscripcion de los candidatos",
+      "relevance": 0.520916,
+      "count": 2
+    }
+  ]
+}

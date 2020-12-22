@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 990,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Recursos Naturales",
+      "relevance": 0.7289,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.658022,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.618482,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.599694,
+      "count": 1
+    },
+    {
+      "text": "Director de la Escuela de Ingenieria",
+      "relevance": 0.57161,
+      "count": 1
+    },
+    {
+      "text": "correo electronico",
+      "relevance": 0.532551,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.521705,
+      "count": 1
+    },
+    {
+      "text": "mes de Enero",
+      "relevance": 0.518614,
+      "count": 1
+    },
+    {
+      "text": "Profesor Yesid Carvajal Escobar",
+      "relevance": 0.498951,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.473444,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.454694,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.449357,
+      "count": 1
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.444687,
+      "count": 2
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.444687,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.439867,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.438836,
+      "count": 1
+    },
+    {
+      "text": "Ambiente",
+      "relevance": 0.437501,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.433918,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.433918,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.433918,
+      "count": 1
+    }
+  ]
+}

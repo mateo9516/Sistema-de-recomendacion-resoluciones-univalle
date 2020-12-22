@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4462,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Examen M\u00e9dico",
+      "relevance": 0.685885,
+      "count": 2
+    },
+    {
+      "text": "PROCESO DE MATRICULA",
+      "relevance": 0.674957,
+      "count": 2
+    },
+    {
+      "text": "Recepcion de documentos",
+      "relevance": 0.641193,
+      "count": 1
+    },
+    {
+      "text": "Dela Oitel",
+      "relevance": 0.623634,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.620106,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.609447,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.599664,
+      "count": 1
+    },
+    {
+      "text": "Verificacidn de deudas",
+      "relevance": 0.58334,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.581447,
+      "count": 2
+    },
+    {
+      "text": "Idioma Extranjero",
+      "relevance": 0.577136,
+      "count": 2
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.562295,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de Reserva de Cupo",
+      "relevance": 0.559865,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.552729,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.550201,
+      "count": 4
+    },
+    {
+      "text": "Santiago de Cali alos",
+      "relevance": 0.543193,
+      "count": 1
+    },
+    {
+      "text": "Servicio M\u00e9dico",
+      "relevance": 0.542681,
+      "count": 1
+    },
+    {
+      "text": "Dela Biblioteca",
+      "relevance": 0.541122,
+      "count": 1
+    },
+    {
+      "text": "Examenes de Proficiencia",
+      "relevance": 0.534446,
+      "count": 2
+    },
+    {
+      "text": "Documentos soporte Reserva",
+      "relevance": 0.533889,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.530141,
+      "count": 2
+    },
+    {
+      "text": "Dela Vicerrectoria de Bienestar",
+      "relevance": 0.530058,
+      "count": 1
+    },
+    {
+      "text": "registro de Paz",
+      "relevance": 0.529643,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.529499,
+      "count": 1
+    },
+    {
+      "text": "Asignaturas Electivas",
+      "relevance": 0.52877,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.526455,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Noviembre",
+      "relevance": 0.521747,
+      "count": 1
+    },
+    {
+      "text": "dependencias correspondientes",
+      "relevance": 0.514142,
+      "count": 1
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.512431,
+      "count": 1
+    },
+    {
+      "text": "Matricula Acad\u00e9mica",
+      "relevance": 0.510441,
+      "count": 1
+    },
+    {
+      "text": "Reserva de Cupo",
+      "relevance": 0.51041,
+      "count": 1
+    }
+  ]
+}

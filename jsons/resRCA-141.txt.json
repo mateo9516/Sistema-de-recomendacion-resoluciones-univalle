@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3026,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.6286,
+      "count": 1
+    },
+    {
+      "text": "Solicitud via",
+      "relevance": 0.62746,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.616034,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico de documentos",
+      "relevance": 0.613216,
+      "count": 1
+    },
+    {
+      "text": "PROCESO DE MATRICULA",
+      "relevance": 0.601077,
+      "count": 3
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.58259,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de Pregrado",
+      "relevance": 0.577441,
+      "count": 2
+    },
+    {
+      "text": "Recepcidn de documentos soporte",
+      "relevance": 0.577098,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.570707,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.568274,
+      "count": 2
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.558574,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.552051,
+      "count": 2
+    },
+    {
+      "text": "Recepcion de documentos soporte",
+      "relevance": 0.546405,
+      "count": 1
+    },
+    {
+      "text": "Conrecargo Hasta diciembre",
+      "relevance": 0.537148,
+      "count": 2
+    },
+    {
+      "text": "Cancelacion de Asignaturas",
+      "relevance": 0.533894,
+      "count": 1
+    },
+    {
+      "text": "Estudiantes Admitidos",
+      "relevance": 0.518782,
+      "count": 1
+    },
+    {
+      "text": "Direcciones de Del",
+      "relevance": 0.515862,
+      "count": 1
+    },
+    {
+      "text": "Cambios de Sede",
+      "relevance": 0.508585,
+      "count": 2
+    },
+    {
+      "text": "Reporte",
+      "relevance": 0.507684,
+      "count": 1
+    },
+    {
+      "text": "enero de 2017UNIVERSIDAD",
+      "relevance": 0.50743,
+      "count": 1
+    },
+    {
+      "text": "Area de Hasta",
+      "relevance": 0.507326,
+      "count": 1
+    },
+    {
+      "text": "Asignaturas de Practica",
+      "relevance": 0.50334,
+      "count": 1
+    },
+    {
+      "text": "Primer Semestre",
+      "relevance": 0.500584,
+      "count": 1
+    },
+    {
+      "text": "ADMITIDOS A PRIMER SEMESTRE",
+      "relevance": 0.497165,
+      "count": 1
+    },
+    {
+      "text": "DESARROLLO DEL SEMESTRE",
+      "relevance": 0.4923,
+      "count": 1
+    },
+    {
+      "text": "Matricula Acad\u00e9mica",
+      "relevance": 0.491445,
+      "count": 1
+    },
+    {
+      "text": "Primer Semestre de Primer",
+      "relevance": 0.489076,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.482389,
+      "count": 1
+    },
+    {
+      "text": "JUNIO",
+      "relevance": 0.480668,
+      "count": 4
+    },
+    {
+      "text": "validaciones",
+      "relevance": 0.479967,
+      "count": 1
+    }
+  ]
+}

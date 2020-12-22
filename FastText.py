@@ -49,7 +49,7 @@ with open('./normal.csv', 'rt',encoding="utf8") as f:
 
 #for entry in entries:
 
-    #print(entry.name)
+   #print(entry.name)
    # palabras = ""
    # f = open('/Users/Mateo/Documents/OCR/corpus/'+entry.name,'r')
    # for x in f:

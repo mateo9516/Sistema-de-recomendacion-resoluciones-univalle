@@ -1,0 +1,90 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 911,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.718406,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.641627,
+      "count": 1
+    },
+    {
+      "text": "Direccion del Instituto CINARA",
+      "relevance": 0.619759,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.611121,
+      "count": 1
+    },
+    {
+      "text": "mes de Junio",
+      "relevance": 0.523713,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.520139,
+      "count": 1
+    },
+    {
+      "text": "comision acad\u00e9mica",
+      "relevance": 0.520139,
+      "count": 1
+    },
+    {
+      "text": "Profesor ALBERTO GALVIS CASTANO",
+      "relevance": 0.491664,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.454099,
+      "count": 2
+    },
+    {
+      "text": "Profesor Luis Dario Sanchez Torres",
+      "relevance": 0.452433,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.433289,
+      "count": 2
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.433289,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.427382,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.417581,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.410339,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.410339,
+      "count": 1
+    }
+  ]
+}

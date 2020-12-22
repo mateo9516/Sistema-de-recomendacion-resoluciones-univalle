@@ -1,0 +1,115 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1019,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIJERIA",
+      "relevance": 0.830778,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.685593,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.662649,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.597409,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.555547,
+      "count": 1
+    },
+    {
+      "text": "Directora del Instituto CINARA",
+      "relevance": 0.544923,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.541149,
+      "count": 1
+    },
+    {
+      "text": "Profesora INES RESTREPO",
+      "relevance": 0.527563,
+      "count": 2
+    },
+    {
+      "text": "Comision Acad\u00e9mica",
+      "relevance": 0.51127,
+      "count": 1
+    },
+    {
+      "text": "Ja Rectoria",
+      "relevance": 0.499404,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.486381,
+      "count": 1
+    },
+    {
+      "text": "mes de Septiembre",
+      "relevance": 0.465604,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.41182,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.406513,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.403867,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.403339,
+      "count": 1
+    },
+    {
+      "text": "Septiembre",
+      "relevance": 0.401227,
+      "count": 2
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.401227,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.401227,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.401227,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.401227,
+      "count": 1
+    }
+  ]
+}

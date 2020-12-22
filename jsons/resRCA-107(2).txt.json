@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2094,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.798101,
+      "count": 2
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.62672,
+      "count": 2
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.623004,
+      "count": 1
+    },
+    {
+      "text": "programas Acad\u00e9micos",
+      "relevance": 0.617809,
+      "count": 1
+    },
+    {
+      "text": "periodo Agosto-Diciembre",
+      "relevance": 0.61669,
+      "count": 2
+    },
+    {
+      "text": "opcion de cancelacion del curso",
+      "relevance": 0.60626,
+      "count": 1
+    },
+    {
+      "text": "casos extremos",
+      "relevance": 0.592224,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.586977,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.57312,
+      "count": 1
+    },
+    {
+      "text": "anormalidad acad\u00e9mico",
+      "relevance": 0.560476,
+      "count": 1
+    },
+    {
+      "text": "Uultimos dias",
+      "relevance": 0.549684,
+      "count": 1
+    },
+    {
+      "text": "San Fernando",
+      "relevance": 0.549107,
+      "count": 1
+    },
+    {
+      "text": "Cancelacion de asignaturas",
+      "relevance": 0.544335,
+      "count": 1
+    },
+    {
+      "text": "Norte del Cauca",
+      "relevance": 0.537409,
+      "count": 1
+    },
+    {
+      "text": "Salon de Sesiones",
+      "relevance": 0.526276,
+      "count": 1
+    },
+    {
+      "text": "Acad\u00e9micos de Pregrado",
+      "relevance": 0.519841,
+      "count": 1
+    },
+    {
+      "text": "Facultad respectiva",
+      "relevance": 0.518131,
+      "count": 1
+    },
+    {
+      "text": "Proceso de Matricula",
+      "relevance": 0.505477,
+      "count": 1
+    },
+    {
+      "text": "normal desarrollo de las actividades",
+      "relevance": 0.502961,
+      "count": 1
+    },
+    {
+      "text": "Direccion de Regionalizacion",
+      "relevance": 0.497227,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de noviembre",
+      "relevance": 0.495783,
+      "count": 1
+    },
+    {
+      "text": "grado de avance",
+      "relevance": 0.495324,
+      "count": 1
+    },
+    {
+      "text": "PARAGRAFO",
+      "relevance": 0.485874,
+      "count": 1
+    },
+    {
+      "text": "Palmira",
+      "relevance": 0.477477,
+      "count": 1
+    },
+    {
+      "text": "Resolucion",
+      "relevance": 0.470248,
+      "count": 2
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.463899,
+      "count": 1
+    },
+    {
+      "text": "Pacifico",
+      "relevance": 0.461818,
+      "count": 1
+    },
+    {
+      "text": "pregrado",
+      "relevance": 0.460204,
+      "count": 1
+    },
+    {
+      "text": "curso",
+      "relevance": 0.459446,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad del Valle",
+      "relevance": 0.458923,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 974,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.771602,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.737986,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.687639,
+      "count": 1
+    },
+    {
+      "text": "Director del Programa de Ingenieria",
+      "relevance": 0.660346,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.613275,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.583267,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.563685,
+      "count": 1
+    },
+    {
+      "text": "mes de Diciembre",
+      "relevance": 0.518383,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.492109,
+      "count": 1
+    },
+    {
+      "text": "Profesor Asociado FRED ALBAN ACHINTE",
+      "relevance": 0.478727,
+      "count": 1
+    },
+    {
+      "text": "Profesor FRED ALBAN ACHINTEa",
+      "relevance": 0.462644,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.44375,
+      "count": 2
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.437489,
+      "count": 1
+    },
+    {
+      "text": "Calle",
+      "relevance": 0.433323,
+      "count": 1
+    },
+    {
+      "text": "Edificio",
+      "relevance": 0.430693,
+      "count": 1
+    },
+    {
+      "text": "piso",
+      "relevance": 0.426664,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.423797,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.423348,
+      "count": 1
+    },
+    {
+      "text": "espacio",
+      "relevance": 0.423348,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.420618,
+      "count": 1
+    },
+    {
+      "text": "Materiales",
+      "relevance": 0.420618,
+      "count": 1
+    },
+    {
+      "text": "Tel\u00e9fono",
+      "relevance": 0.420618,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.418371,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.418371,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.418371,
+      "count": 1
+    }
+  ]
+}

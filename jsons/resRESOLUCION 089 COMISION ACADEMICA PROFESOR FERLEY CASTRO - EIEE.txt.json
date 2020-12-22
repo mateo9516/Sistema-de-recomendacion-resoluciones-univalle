@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2109,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "APOYO ECONOMICO",
+      "relevance": 0.645821,
+      "count": 2
+    },
+    {
+      "text": "GASTOS DE TRANSPORTE",
+      "relevance": 0.638447,
+      "count": 4
+    },
+    {
+      "text": "CONCEDE COMISION ACADEMICA",
+      "relevance": 0.633535,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.614466,
+      "count": 2
+    },
+    {
+      "text": "Profesor Asociado Escuela",
+      "relevance": 0.607098,
+      "count": 1
+    },
+    {
+      "text": "Laboratorio de Alta Tensi\u00e9n",
+      "relevance": 0.575452,
+      "count": 1
+    },
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.568435,
+      "count": 1
+    },
+    {
+      "text": "COMPRA DE TIQUETE",
+      "relevance": 0.567408,
+      "count": 1
+    },
+    {
+      "text": "apoyo econ\u00e9mico",
+      "relevance": 0.541252,
+      "count": 1
+    },
+    {
+      "text": "compra de tiquete a\u00e9reo",
+      "relevance": 0.537335,
+      "count": 2
+    },
+    {
+      "text": "pr\u00e9ximo Consejo de Facultad",
+      "relevance": 0.531894,
+      "count": 1
+    },
+    {
+      "text": "anterior solicitud Acad\u00e9mica",
+      "relevance": 0.526979,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.518033,
+      "count": 1
+    },
+    {
+      "text": "COMISION ACADEMICA",
+      "relevance": 0.517366,
+      "count": 1
+    },
+    {
+      "text": "Secretaria Consejo de Facultad",
+      "relevance": 0.512306,
+      "count": 1
+    },
+    {
+      "text": "PESOS MCTE",
+      "relevance": 0.509289,
+      "count": 3
+    },
+    {
+      "text": "apoyo econd\u00e9mico",
+      "relevance": 0.50217,
+      "count": 1
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.500405,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Gesti\u00e9n",
+      "relevance": 0.494716,
+      "count": 1
+    },
+    {
+      "text": "dia martes",
+      "relevance": 0.493024,
+      "count": 1
+    },
+    {
+      "text": "wn Cc",
+      "relevance": 0.493024,
+      "count": 1
+    },
+    {
+      "text": "VIATICOS",
+      "relevance": 0.488478,
+      "count": 2
+    },
+    {
+      "text": "profesor FERLEY CASTRO ARANDA",
+      "relevance": 0.487549,
+      "count": 2
+    },
+    {
+      "text": "CARL URO LOZANO MONCADA MGNICA PIEDAD",
+      "relevance": 0.485618,
+      "count": 1
+    },
+    {
+      "text": "CUAL",
+      "relevance": 0.483648,
+      "count": 1
+    },
+    {
+      "text": "PAGO",
+      "relevance": 0.481753,
+      "count": 2
+    },
+    {
+      "text": "Cali",
+      "relevance": 0.477675,
+      "count": 1
+    },
+    {
+      "text": "COMPRA",
+      "relevance": 0.468052,
+      "count": 1
+    },
+    {
+      "text": "Medellin",
+      "relevance": 0.466727,
+      "count": 1
+    },
+    {
+      "text": "QUINTO",
+      "relevance": 0.465938,
+      "count": 1
+    }
+  ]
+}

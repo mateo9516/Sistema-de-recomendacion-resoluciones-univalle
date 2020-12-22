@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7801,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "CIENCIAS EXPERIMENTALES",
+      "relevance": 0.62973,
+      "count": 7
+    },
+    {
+      "text": "EDUCACION MATEMATICAS",
+      "relevance": 0.617683,
+      "count": 6
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.597207,
+      "count": 5
+    },
+    {
+      "text": "area de Ciencias de la Educaci\u00e9n",
+      "relevance": 0.589417,
+      "count": 1
+    },
+    {
+      "text": "\u00e9nfasis de la MAESTRIA",
+      "relevance": 0.579144,
+      "count": 1
+    },
+    {
+      "text": "modalidades de investigacion",
+      "relevance": 0.563737,
+      "count": 2
+    },
+    {
+      "text": "sede Tulua",
+      "relevance": 0.550401,
+      "count": 1
+    },
+    {
+      "text": "docentes de instituciones educativas",
+      "relevance": 0.548564,
+      "count": 1
+    },
+    {
+      "text": "CAMPOS DE ACCION DEL EGRESADO",
+      "relevance": 0.547637,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.545648,
+      "count": 4
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.541463,
+      "count": 1
+    },
+    {
+      "text": "investigativa de las practicas",
+      "relevance": 0.538014,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.537992,
+      "count": 1
+    },
+    {
+      "text": "distribucidn de asignaturas",
+      "relevance": 0.537308,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.533857,
+      "count": 4
+    },
+    {
+      "text": "marco de las lineas de accion",
+      "relevance": 0.530381,
+      "count": 1
+    },
+    {
+      "text": "educacion basica",
+      "relevance": 0.528025,
+      "count": 1
+    },
+    {
+      "text": "curriculo del \u00e9nfasis",
+      "relevance": 0.527869,
+      "count": 1
+    },
+    {
+      "text": "norte del departamento",
+      "relevance": 0.526561,
+      "count": 1
+    },
+    {
+      "text": "EDUCACION",
+      "relevance": 0.526135,
+      "count": 11
+    },
+    {
+      "text": "procesos de desarrollo organizacional",
+      "relevance": 0.523895,
+      "count": 1
+    },
+    {
+      "text": "distribucion de los cr\u00e9ditos",
+      "relevance": 0.522925,
+      "count": 1
+    },
+    {
+      "text": "aplicacidn de conocimientos",
+      "relevance": 0.522598,
+      "count": 1
+    },
+    {
+      "text": "aprobacion de su extension",
+      "relevance": 0.520496,
+      "count": 1
+    },
+    {
+      "text": "Estructura",
+      "relevance": 0.520409,
+      "count": 2
+    },
+    {
+      "text": "\u00e9nfasis",
+      "relevance": 0.519946,
+      "count": 12
+    },
+    {
+      "text": "EDUCACION MATEMATICA",
+      "relevance": 0.519124,
+      "count": 1
+    },
+    {
+      "text": "mencion del \u00e9nfasis",
+      "relevance": 0.518318,
+      "count": 1
+    },
+    {
+      "text": "OBJETIVO GENERAL",
+      "relevance": 0.518058,
+      "count": 2
+    },
+    {
+      "text": "proceso de formacion personal",
+      "relevance": 0.516788,
+      "count": 1
+    }
+  ]
+}

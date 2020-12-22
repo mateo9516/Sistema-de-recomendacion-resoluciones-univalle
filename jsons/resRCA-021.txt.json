@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 12229,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Estamento Estudiantil",
+      "relevance": 0.659974,
+      "count": 8
+    },
+    {
+      "text": "Programas Acad\u00e9micos de pregrado",
+      "relevance": 0.631618,
+      "count": 2
+    },
+    {
+      "text": "B. Que",
+      "relevance": 0.586827,
+      "count": 1
+    },
+    {
+      "text": "DESARROLLO DEL SEMESTRE",
+      "relevance": 0.580949,
+      "count": 1
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.578289,
+      "count": 6
+    },
+    {
+      "text": "actividad acad\u00e9mica",
+      "relevance": 0.576759,
+      "count": 1
+    },
+    {
+      "text": "Comunidad Estudiantil",
+      "relevance": 0.575262,
+      "count": 2
+    },
+    {
+      "text": "semanas habiles",
+      "relevance": 0.549635,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.545563,
+      "count": 8
+    },
+    {
+      "text": "segundo periodo",
+      "relevance": 0.545197,
+      "count": 2
+    },
+    {
+      "text": "estudiante interesado",
+      "relevance": 0.540242,
+      "count": 1
+    },
+    {
+      "text": "siguiente forma",
+      "relevance": 0.540051,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Grado",
+      "relevance": 0.53996,
+      "count": 3
+    },
+    {
+      "text": "BIENESTAR UNIVERSITARIO",
+      "relevance": 0.535729,
+      "count": 1
+    },
+    {
+      "text": "Estudiantes de Educaci\u00e9n Superior",
+      "relevance": 0.533655,
+      "count": 1
+    },
+    {
+      "text": "actividades del Encuentro Nacional",
+      "relevance": 0.533613,
+      "count": 1
+    },
+    {
+      "text": "historiales acad\u00e9micos de los estudiantes",
+      "relevance": 0.533281,
+      "count": 1
+    },
+    {
+      "text": "movimiento estudiantil",
+      "relevance": 0.531669,
+      "count": 3
+    },
+    {
+      "text": "efectos de registro de matriculas",
+      "relevance": 0.527506,
+      "count": 1
+    },
+    {
+      "text": "estudiantes del Comit\u00e9 Estudiantil",
+      "relevance": 0.526859,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.524985,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.523496,
+      "count": 2
+    },
+    {
+      "text": "continuidad de los subsidios",
+      "relevance": 0.520107,
+      "count": 1
+    },
+    {
+      "text": "segunda semana",
+      "relevance": 0.51994,
+      "count": 1
+    },
+    {
+      "text": "servicio continuo de los programas",
+      "relevance": 0.519389,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre",
+      "relevance": 0.519326,
+      "count": 2
+    },
+    {
+      "text": "presentacion del Trabajo de Grado",
+      "relevance": 0.5191,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de Univalle de la Facultad",
+      "relevance": 0.518576,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado",
+      "relevance": 0.518542,
+      "count": 1
+    },
+    {
+      "text": "puestos permanentes",
+      "relevance": 0.518523,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 46102,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Area de Urbanismo",
+      "relevance": 0.73182,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad del Consejo Acad\u00e9mico",
+      "relevance": 0.718655,
+      "count": 1
+    },
+    {
+      "text": "Perfil profesional",
+      "relevance": 0.680696,
+      "count": 54
+    },
+    {
+      "text": "Perfil acad\u00e9mico",
+      "relevance": 0.669723,
+      "count": 45
+    },
+    {
+      "text": "Experiencia Profesional",
+      "relevance": 0.647514,
+      "count": 11
+    },
+    {
+      "text": "Perfil ocupacional",
+      "relevance": 0.635061,
+      "count": 40
+    },
+    {
+      "text": "Area de Arquitectura",
+      "relevance": 0.619222,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.616141,
+      "count": 1
+    },
+    {
+      "text": "perfiles",
+      "relevance": 0.595925,
+      "count": 3
+    },
+    {
+      "text": "Quimica Organica Inorganica",
+      "relevance": 0.572311,
+      "count": 1
+    },
+    {
+      "text": "calidad de los procesos acad\u00e9micos",
+      "relevance": 0.57072,
+      "count": 1
+    },
+    {
+      "text": "Departamento de Quimica",
+      "relevance": 0.569434,
+      "count": 1
+    },
+    {
+      "text": "Experiencia profesional certificada",
+      "relevance": 0.567899,
+      "count": 1
+    },
+    {
+      "text": "apertura de convocatorias",
+      "relevance": 0.561834,
+      "count": 1
+    },
+    {
+      "text": "Area de Acondicionamiento Ambiental",
+      "relevance": 0.559204,
+      "count": 2
+    },
+    {
+      "text": "Area de Fisicoquimica",
+      "relevance": 0.550821,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Arquitectura",
+      "relevance": 0.54518,
+      "count": 3
+    },
+    {
+      "text": "Area de Historia",
+      "relevance": 0.537693,
+      "count": 2
+    },
+    {
+      "text": "cursos tedricos",
+      "relevance": 0.537549,
+      "count": 1
+    },
+    {
+      "text": "carreras afines",
+      "relevance": 0.537337,
+      "count": 3
+    },
+    {
+      "text": "areas de quimica computacional",
+      "relevance": 0.535906,
+      "count": 1
+    },
+    {
+      "text": "Experiencia docente",
+      "relevance": 0.535797,
+      "count": 22
+    },
+    {
+      "text": "Titulo de Pregrado",
+      "relevance": 0.534119,
+      "count": 11
+    },
+    {
+      "text": "cronograma de actividades",
+      "relevance": 0.530842,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.53068,
+      "count": 2
+    },
+    {
+      "text": "proceso de convocatoria",
+      "relevance": 0.530164,
+      "count": 1
+    },
+    {
+      "text": "Cirugia General",
+      "relevance": 0.527581,
+      "count": 2
+    },
+    {
+      "text": "Quimica Organica",
+      "relevance": 0.525751,
+      "count": 2
+    },
+    {
+      "text": "Capacidad de gestion",
+      "relevance": 0.524785,
+      "count": 1
+    },
+    {
+      "text": "Actividades Acad\u00e9mico",
+      "relevance": 0.522468,
+      "count": 1
+    }
+  ]
+}

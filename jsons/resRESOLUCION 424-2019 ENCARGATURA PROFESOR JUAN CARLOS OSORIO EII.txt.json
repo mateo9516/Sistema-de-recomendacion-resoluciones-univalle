@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 937,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "DECANO DE LA FACULTAD DE INGENIERIA",
+      "relevance": 0.765175,
+      "count": 1
+    },
+    {
+      "text": "literal fi del Articulo",
+      "relevance": 0.618159,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.609765,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.598757,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Industrial",
+      "relevance": 0.527078,
+      "count": 1
+    },
+    {
+      "text": "laDireccidn de la Escuela",
+      "relevance": 0.52423,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.513472,
+      "count": 1
+    },
+    {
+      "text": "mes de octubre",
+      "relevance": 0.510408,
+      "count": 1
+    },
+    {
+      "text": "Profesor Pablo C\u00e9sar Manyoma Velasquez",
+      "relevance": 0.494655,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.465697,
+      "count": 2
+    },
+    {
+      "text": "CARLOS",
+      "relevance": 0.459284,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.447173,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.441905,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.437295,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.434706,
+      "count": 1
+    },
+    {
+      "text": "Encargatura",
+      "relevance": 0.426671,
+      "count": 1
+    },
+    {
+      "text": "Rectoria",
+      "relevance": 0.426671,
+      "count": 1
+    },
+    {
+      "text": "vacaciones",
+      "relevance": 0.426671,
+      "count": 1
+    },
+    {
+      "text": "elE",
+      "relevance": 0.426671,
+      "count": 1
+    }
+  ]
+}
