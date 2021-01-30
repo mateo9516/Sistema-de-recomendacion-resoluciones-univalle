@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10045,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "umidades acad\u00e9micas",
+      "relevance": 0.633142,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR",
+      "relevance": 0.580542,
+      "count": 2
+    },
+    {
+      "text": "docentes nombrados",
+      "relevance": 0.574164,
+      "count": 1
+    },
+    {
+      "text": "mantenimiento de las unidades acad\u00e9micas",
+      "relevance": 0.569102,
+      "count": 1
+    },
+    {
+      "text": "proyecto de investigacion",
+      "relevance": 0.563048,
+      "count": 1
+    },
+    {
+      "text": "servicios temporales",
+      "relevance": 0.563028,
+      "count": 1
+    },
+    {
+      "text": "actividades de docencia",
+      "relevance": 0.561643,
+      "count": 1
+    },
+    {
+      "text": "REST ae Homiticactonres",
+      "relevance": 0.556334,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.555925,
+      "count": 2
+    },
+    {
+      "text": "necesidades reales",
+      "relevance": 0.552778,
+      "count": 1
+    },
+    {
+      "text": "personal docente",
+      "relevance": 0.543839,
+      "count": 1
+    },
+    {
+      "text": "En ningtin caso",
+      "relevance": 0.543253,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.538801,
+      "count": 1
+    },
+    {
+      "text": "pago de salarios del personal",
+      "relevance": 0.536668,
+      "count": 1
+    },
+    {
+      "text": "beneficio acad\u00e9mico",
+      "relevance": 0.536062,
+      "count": 1
+    },
+    {
+      "text": "funciones correspondientes",
+      "relevance": 0.532652,
+      "count": 1
+    },
+    {
+      "text": "servicios acad\u00e9micos",
+      "relevance": 0.530012,
+      "count": 1
+    },
+    {
+      "text": "tel\u00e9fonos celulares",
+      "relevance": 0.529702,
+      "count": 1
+    },
+    {
+      "text": "excedentes de los fondos especiales",
+      "relevance": 0.529061,
+      "count": 1
+    },
+    {
+      "text": "recursos propios",
+      "relevance": 0.526068,
+      "count": 1
+    },
+    {
+      "text": "previa evaluacion",
+      "relevance": 0.525818,
+      "count": 1
+    },
+    {
+      "text": "normas tendientes",
+      "relevance": 0.525059,
+      "count": 1
+    },
+    {
+      "text": "fecha mayo",
+      "relevance": 0.524458,
+      "count": 1
+    },
+    {
+      "text": "tiempo maximo",
+      "relevance": 0.521155,
+      "count": 1
+    },
+    {
+      "text": "DISPOSICIONES GENERALES",
+      "relevance": 0.520385,
+      "count": 1
+    },
+    {
+      "text": "caso especial",
+      "relevance": 0.519603,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.51959,
+      "count": 1
+    },
+    {
+      "text": "racionalizacion del gasto",
+      "relevance": 0.519065,
+      "count": 1
+    },
+    {
+      "text": "apoyo de la actividad acad\u00e9mica",
+      "relevance": 0.519057,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.518548,
+      "count": 1
+    }
+  ]
+}

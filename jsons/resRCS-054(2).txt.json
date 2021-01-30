@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3727,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Estatuto General",
+      "relevance": 0.647508,
+      "count": 1
+    },
+    {
+      "text": "plazo total",
+      "relevance": 0.619993,
+      "count": 1
+    },
+    {
+      "text": "negocios fiduciarios",
+      "relevance": 0.584975,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.584936,
+      "count": 5
+    },
+    {
+      "text": "entidades financieras",
+      "relevance": 0.584218,
+      "count": 1
+    },
+    {
+      "text": "Consorcio UNIVALLE",
+      "relevance": 0.580438,
+      "count": 3
+    },
+    {
+      "text": "Alma Mater",
+      "relevance": 0.57164,
+      "count": 1
+    },
+    {
+      "text": "manejo de recursos",
+      "relevance": 0.553212,
+      "count": 1
+    },
+    {
+      "text": "constitucion de contrato",
+      "relevance": 0.5517,
+      "count": 1
+    },
+    {
+      "text": "Pagos Irrevocable",
+      "relevance": 0.547278,
+      "count": 2
+    },
+    {
+      "text": "Pago de la Deuda Publica",
+      "relevance": 0.547009,
+      "count": 1
+    },
+    {
+      "text": "autorizacion del Consejo Superior",
+      "relevance": 0.541223,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.535163,
+      "count": 1
+    },
+    {
+      "text": "extension del plazo",
+      "relevance": 0.534825,
+      "count": 1
+    },
+    {
+      "text": "operaciones conexas vigentes",
+      "relevance": 0.533803,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.532354,
+      "count": 3
+    },
+    {
+      "text": "pago de las obligaciones crediticias",
+      "relevance": 0.530564,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de la clausula",
+      "relevance": 0.528686,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle suscribi6",
+      "relevance": 0.528652,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.527911,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Organico de Presupuesto",
+      "relevance": 0.525379,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.52526,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo de Pago",
+      "relevance": 0.517613,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.512913,
+      "count": 6
+    },
+    {
+      "text": "Universidad cancelaria",
+      "relevance": 0.509414,
+      "count": 1
+    },
+    {
+      "text": "Rector de la Universidad del Valle",
+      "relevance": 0.508865,
+      "count": 1
+    },
+    {
+      "text": "prorroga del contrato",
+      "relevance": 0.50725,
+      "count": 1
+    },
+    {
+      "text": "vigencia fiscal",
+      "relevance": 0.506462,
+      "count": 1
+    },
+    {
+      "text": "recursos monetarios",
+      "relevance": 0.506092,
+      "count": 1
+    },
+    {
+      "text": "Torre Institucional",
+      "relevance": 0.498864,
+      "count": 1
+    }
+  ]
+}

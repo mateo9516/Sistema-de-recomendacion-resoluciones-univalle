@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3611,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Convenio Marco",
+      "relevance": 0.655601,
+      "count": 1
+    },
+    {
+      "text": "UNIVERSIDAD DEL VALLE",
+      "relevance": 0.619341,
+      "count": 5
+    },
+    {
+      "text": "Ingenieria Sanitaria",
+      "relevance": 0.598311,
+      "count": 4
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.572814,
+      "count": 1
+    },
+    {
+      "text": "programa de Maestria",
+      "relevance": 0.571986,
+      "count": 1
+    },
+    {
+      "text": "estudiantes del programa",
+      "relevance": 0.571355,
+      "count": 1
+    },
+    {
+      "text": "sera equivalente",
+      "relevance": 0.56891,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.563521,
+      "count": 4
+    },
+    {
+      "text": "Cooperacion Acad\u00e9mica",
+      "relevance": 0.56245,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.549713,
+      "count": 1
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.54764,
+      "count": 1
+    },
+    {
+      "text": "Estudiantes del programa de doble titulaci6",
+      "relevance": 0.544552,
+      "count": 1
+    },
+    {
+      "text": "costo de la Maestria",
+      "relevance": 0.531581,
+      "count": 1
+    },
+    {
+      "text": "valor de los Derechos Economicos de Matricula",
+      "relevance": 0.527343,
+      "count": 1
+    },
+    {
+      "text": "derechos especiales",
+      "relevance": 0.527012,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion.UNIVERSIDAD",
+      "relevance": 0.522535,
+      "count": 1
+    },
+    {
+      "text": "Valle",
+      "relevance": 0.517913,
+      "count": 3
+    },
+    {
+      "text": "seguin Resoluci\u00e9n",
+      "relevance": 0.516781,
+      "count": 1
+    },
+    {
+      "text": "Financiacion del Programa",
+      "relevance": 0.515748,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.511215,
+      "count": 1
+    },
+    {
+      "text": "Instituto UNESCO-IHE-HOLANDA.UNIVERSIDAD",
+      "relevance": 0.51057,
+      "count": 1
+    },
+    {
+      "text": "duracion del programa",
+      "relevance": 0.509776,
+      "count": 1
+    },
+    {
+      "text": "Instituto UNESCO-IHE-HOLANDA",
+      "relevance": 0.507172,
+      "count": 4
+    },
+    {
+      "text": "Modalidad Investigacion",
+      "relevance": 0.506993,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.50559,
+      "count": 4
+    },
+    {
+      "text": "estudiantes del programa de doble",
+      "relevance": 0.504474,
+      "count": 1
+    },
+    {
+      "text": "costo de los derechos",
+      "relevance": 0.503868,
+      "count": 1
+    },
+    {
+      "text": "demas conceptos",
+      "relevance": 0.503806,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.503097,
+      "count": 1
+    },
+    {
+      "text": "UNESCO-IHE",
+      "relevance": 0.502869,
+      "count": 1
+    }
+  ]
+}

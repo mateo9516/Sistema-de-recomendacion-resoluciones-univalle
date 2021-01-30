@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 12274,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.711291,
+      "count": 11
+    },
+    {
+      "text": "orden del dia",
+      "relevance": 0.608038,
+      "count": 5
+    },
+    {
+      "text": "caracter de las reuniones",
+      "relevance": 0.572887,
+      "count": 1
+    },
+    {
+      "text": "miembros del Consejo Superior",
+      "relevance": 0.559212,
+      "count": 2
+    },
+    {
+      "text": "siguientes correspondientes",
+      "relevance": 0.547893,
+      "count": 1
+    },
+    {
+      "text": "suplente del Decano",
+      "relevance": 0.547214,
+      "count": 1
+    },
+    {
+      "text": "reuniones ordinarias",
+      "relevance": 0.546775,
+      "count": 3
+    },
+    {
+      "text": "caso de ausencia",
+      "relevance": 0.542841,
+      "count": 1
+    },
+    {
+      "text": "problemas de orden",
+      "relevance": 0.542512,
+      "count": 1
+    },
+    {
+      "text": "asuntos habituales del Consejo",
+      "relevance": 0.537456,
+      "count": 1
+    },
+    {
+      "text": "dias habiles",
+      "relevance": 0.536483,
+      "count": 1
+    },
+    {
+      "text": "rector Universitario",
+      "relevance": 0.535145,
+      "count": 1
+    },
+    {
+      "text": "miembros del Consejo",
+      "relevance": 0.534557,
+      "count": 1
+    },
+    {
+      "text": "Gobernador del Departamento",
+      "relevance": 0.533571,
+      "count": 1
+    },
+    {
+      "text": "representante del sector productivo",
+      "relevance": 0.533086,
+      "count": 1
+    },
+    {
+      "text": "sesion determinada",
+      "relevance": 0.531898,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.5306,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de teleconferencia",
+      "relevance": 0.530304,
+      "count": 1
+    },
+    {
+      "text": "miembros titulares",
+      "relevance": 0.530249,
+      "count": 1
+    },
+    {
+      "text": "Presidente de la Republica",
+      "relevance": 0.528966,
+      "count": 2
+    },
+    {
+      "text": "segundo lugar",
+      "relevance": 0.528851,
+      "count": 2
+    },
+    {
+      "text": "Orden del Dia podra",
+      "relevance": 0.52832,
+      "count": 1
+    },
+    {
+      "text": "reuniones extraordinarias",
+      "relevance": 0.528294,
+      "count": 2
+    },
+    {
+      "text": "sucesion de comunicaciones",
+      "relevance": 0.527068,
+      "count": 1
+    },
+    {
+      "text": "comunidad universitaria",
+      "relevance": 0.523018,
+      "count": 1
+    },
+    {
+      "text": "Secretario General",
+      "relevance": 0.520865,
+      "count": 1
+    },
+    {
+      "text": "representante suplente correspondiente",
+      "relevance": 0.520641,
+      "count": 1
+    },
+    {
+      "text": "decisiones inaplazables",
+      "relevance": 0.520383,
+      "count": 1
+    },
+    {
+      "text": "decisiones importantes",
+      "relevance": 0.520017,
+      "count": 1
+    },
+    {
+      "text": "REUNIONES",
+      "relevance": 0.519268,
+      "count": 6
+    }
+  ]
+}

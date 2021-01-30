@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5066,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "creacion del Departamento del Valle",
+      "relevance": 0.6802,
+      "count": 2
+    },
+    {
+      "text": "Independencia de la Republica de Colombia",
+      "relevance": 0.672004,
+      "count": 2
+    },
+    {
+      "text": "ganadores de los Concursos de Ensayo",
+      "relevance": 0.62841,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.582885,
+      "count": 2
+    },
+    {
+      "text": "orden nacional",
+      "relevance": 0.58011,
+      "count": 1
+    },
+    {
+      "text": "sola vez exenciones",
+      "relevance": 0.576198,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.575292,
+      "count": 4
+    },
+    {
+      "text": "carrera respectiva",
+      "relevance": 0.568236,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.564062,
+      "count": 4
+    },
+    {
+      "text": "programas conmemorativos",
+      "relevance": 0.563334,
+      "count": 1
+    },
+    {
+      "text": "promedio semestral",
+      "relevance": 0.560119,
+      "count": 2
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.55957,
+      "count": 2
+    },
+    {
+      "text": "desarrollo de nuestra nacion",
+      "relevance": 0.557752,
+      "count": 1
+    },
+    {
+      "text": "misma manera",
+      "relevance": 0.554547,
+      "count": 1
+    },
+    {
+      "text": "realizacion de un concurso de ensayos",
+      "relevance": 0.546959,
+      "count": 1
+    },
+    {
+      "text": "premio Unico",
+      "relevance": 0.546764,
+      "count": 2
+    },
+    {
+      "text": "diversidad \u00e9tnica",
+      "relevance": 0.543687,
+      "count": 1
+    },
+    {
+      "text": "afios de creacion de la Universidad",
+      "relevance": 0.542759,
+      "count": 1
+    },
+    {
+      "text": "estudiantes universitarios",
+      "relevance": 0.541681,
+      "count": 1
+    },
+    {
+      "text": "motivo de estas efem\u00e9rides",
+      "relevance": 0.536213,
+      "count": 1
+    },
+    {
+      "text": "ambitos de la ciencia",
+      "relevance": 0.536213,
+      "count": 1
+    },
+    {
+      "text": "Valle del Cauca",
+      "relevance": 0.53616,
+      "count": 1
+    },
+    {
+      "text": "Bicentenario de la Independencia",
+      "relevance": 0.529455,
+      "count": 3
+    },
+    {
+      "text": "conmemoracion del Bicentenario de creacion",
+      "relevance": 0.527846,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Abril",
+      "relevance": 0.527218,
+      "count": 1
+    },
+    {
+      "text": "Centenario de la creacion del Departamento",
+      "relevance": 0.526054,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.523118,
+      "count": 1
+    },
+    {
+      "text": "expresiones del proceso de construccion",
+      "relevance": 0.522311,
+      "count": 1
+    },
+    {
+      "text": "Posgrado de acuerdo",
+      "relevance": 0.521627,
+      "count": 1
+    },
+    {
+      "text": "programas de Pregrado",
+      "relevance": 0.51825,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8260,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "facultades legales",
+      "relevance": 0.657875,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.640219,
+      "count": 2
+    },
+    {
+      "text": "GESTION URBANA",
+      "relevance": 0.614111,
+      "count": 16
+    },
+    {
+      "text": "investigacion de la gestion urbana",
+      "relevance": 0.589397,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Artes Integradas",
+      "relevance": 0.582337,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.563637,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.562095,
+      "count": 6
+    },
+    {
+      "text": "obligatorio especifico",
+      "relevance": 0.550326,
+      "count": 2
+    },
+    {
+      "text": "titulo de DOCTOR",
+      "relevance": 0.550232,
+      "count": 2
+    },
+    {
+      "text": "Ciencias sociales",
+      "relevance": 0.544709,
+      "count": 1
+    },
+    {
+      "text": "dedicacion de tiempo completo",
+      "relevance": 0.542461,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenierias",
+      "relevance": 0.542176,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Administraci\u00e9n",
+      "relevance": 0.539495,
+      "count": 1
+    },
+    {
+      "text": "Facultad de ciencias Naturales",
+      "relevance": 0.539441,
+      "count": 1
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.538624,
+      "count": 2
+    },
+    {
+      "text": "ambito de la gestion urbana",
+      "relevance": 0.537135,
+      "count": 1
+    },
+    {
+      "text": "alto nivel",
+      "relevance": 0.536119,
+      "count": 1
+    },
+    {
+      "text": "grupos de investigacion",
+      "relevance": 0.535718,
+      "count": 2
+    },
+    {
+      "text": "normativa vigente",
+      "relevance": 0.534994,
+      "count": 1
+    },
+    {
+      "text": "siguientes objetivos",
+      "relevance": 0.532832,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.53095,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.529571,
+      "count": 1
+    },
+    {
+      "text": "Departamento de Proyectos de la Escuela",
+      "relevance": 0.525828,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.525782,
+      "count": 1
+    },
+    {
+      "text": "proceso de articulacion interdisciplinario",
+      "relevance": 0.524924,
+      "count": 1
+    },
+    {
+      "text": "mikes Electiva",
+      "relevance": 0.524026,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.52229,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.520949,
+      "count": 3
+    },
+    {
+      "text": "necesidades del medio",
+      "relevance": 0.52047,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la Escuela de Arquitectura",
+      "relevance": 0.5195,
+      "count": 1
+    }
+  ]
+}

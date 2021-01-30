@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 12100,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "experiencia calificada",
+      "relevance": 0.782412,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional diferente",
+      "relevance": 0.633501,
+      "count": 1
+    },
+    {
+      "text": "logro de la calidad acad\u00e9mica",
+      "relevance": 0.626392,
+      "count": 1
+    },
+    {
+      "text": "existencia de una Comision",
+      "relevance": 0.617062,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.587958,
+      "count": 2
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.586708,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.586081,
+      "count": 11
+    },
+    {
+      "text": "experiencia investigativa",
+      "relevance": 0.559896,
+      "count": 1
+    },
+    {
+      "text": "Comision de Evaluaci\u00e9n de M\u00e9ritos",
+      "relevance": 0.553789,
+      "count": 1
+    },
+    {
+      "text": "concurso publico de m\u00e9ritos",
+      "relevance": 0.550361,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.537526,
+      "count": 1
+    },
+    {
+      "text": "Hoja de Vida",
+      "relevance": 0.537433,
+      "count": 2
+    },
+    {
+      "text": "trabajo escrito",
+      "relevance": 0.537346,
+      "count": 1
+    },
+    {
+      "text": "mayor objetividad",
+      "relevance": 0.535584,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Profesoral",
+      "relevance": 0.534742,
+      "count": 4
+    },
+    {
+      "text": "Comision de Evaluacion de M\u00e9ritos",
+      "relevance": 0.532464,
+      "count": 5
+    },
+    {
+      "text": "idoneidad de los profesores",
+      "relevance": 0.532278,
+      "count": 1
+    },
+    {
+      "text": "Unidad acad\u00e9mica",
+      "relevance": 0.531673,
+      "count": 2
+    },
+    {
+      "text": "mayor documentacion",
+      "relevance": 0.529588,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los m\u00e9ritos",
+      "relevance": 0.529342,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.529069,
+      "count": 9
+    },
+    {
+      "text": "forma definitiva",
+      "relevance": 0.527729,
+      "count": 1
+    },
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.527074,
+      "count": 1
+    },
+    {
+      "text": "docente universitaria",
+      "relevance": 0.525678,
+      "count": 1
+    },
+    {
+      "text": "respectivo Consejo de Facultad",
+      "relevance": 0.525373,
+      "count": 2
+    },
+    {
+      "text": "capacidad creativa",
+      "relevance": 0.523852,
+      "count": 1
+    },
+    {
+      "text": "sustentacion oral",
+      "relevance": 0.52312,
+      "count": 1
+    },
+    {
+      "text": "Director de Instituto Acad\u00e9mico",
+      "relevance": 0.522586,
+      "count": 1
+    },
+    {
+      "text": "medio tiempo",
+      "relevance": 0.522464,
+      "count": 1
+    },
+    {
+      "text": "razones legales",
+      "relevance": 0.522028,
+      "count": 1
+    }
+  ]
+}

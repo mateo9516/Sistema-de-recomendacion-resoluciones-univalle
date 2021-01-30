@@ -1,159 +1,159 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 3483,
+    "text_characters": 1312,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Registro Acad\u00e9mico",
-      "relevance": 0.742114,
-      "count": 2
-    },
-    {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.649068,
-      "count": 4
-    },
-    {
-      "text": "Desarrollo del periodo acad\u00e9mico",
-      "relevance": 0.646372,
-      "count": 1
-    },
-    {
-      "text": "periodo Febrero",
-      "relevance": 0.627885,
-      "count": 2
-    },
-    {
-      "text": "Programas Acad\u00e9micos de Pregrado",
-      "relevance": 0.62701,
-      "count": 1
-    },
-    {
-      "text": "uso de sus atribuciones",
-      "relevance": 0.612662,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.599591,
-      "count": 2
-    },
-    {
-      "text": "Examen de Estado",
-      "relevance": 0.596032,
-      "count": 1
-    },
-    {
-      "text": "listado inicial de admitidos",
-      "relevance": 0.567215,
-      "count": 1
-    },
-    {
-      "text": "Ciencias Sociales",
-      "relevance": 0.560444,
-      "count": 2
+      "relevance": 0.921395,
+      "count": 3
     },
     {
       "text": "Reuniones del Consejo Acad\u00e9mico",
-      "relevance": 0.543606,
+      "relevance": 0.740064,
       "count": 1
     },
     {
-      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.535104,
-      "count": 2
-    },
-    {
-      "text": "Divisi6n de Admisiones",
-      "relevance": 0.532662,
-      "count": 1
-    },
-    {
-      "text": "Divisibn de Admisiones",
-      "relevance": 0.527554,
-      "count": 1
-    },
-    {
-      "text": "dias del mes de Enero",
-      "relevance": 0.526686,
+      "text": "Desarrollo del periodo acad\u00e9mico",
+      "relevance": 0.714482,
       "count": 1
     },
     {
       "text": "Sede de Cali",
-      "relevance": 0.509334,
+      "relevance": 0.560981,
       "count": 1
     },
     {
-      "text": "desagregaci\u00e9n de las Ciencias Sociales",
-      "relevance": 0.507206,
-      "count": 1
-    },
-    {
-      "text": "Universidad modificd",
-      "relevance": 0.504934,
-      "count": 1
-    },
-    {
-      "text": "resultados de las componentes",
-      "relevance": 0.503867,
-      "count": 1
-    },
-    {
-      "text": "proceso de inclusion",
-      "relevance": 0.502468,
-      "count": 1
-    },
-    {
-      "text": "sola componente denominada",
-      "relevance": 0.502021,
-      "count": 1
-    },
-    {
-      "text": "RESOLUCION No",
-      "relevance": 0.500034,
-      "count": 1
-    },
-    {
-      "text": "Saldn de Sesiones del Consejo Acad\u00e9mico",
-      "relevance": 0.497759,
-      "count": 1
-    },
-    {
-      "text": "Noviembre.UNIVERSIDAD DEL VALLE",
-      "relevance": 0.497349,
-      "count": 1
-    },
-    {
-      "text": "Educacion Superior",
-      "relevance": 0.497327,
-      "count": 1
-    },
-    {
-      "text": "cupo asignado",
-      "relevance": 0.497327,
-      "count": 1
-    },
-    {
-      "text": "Estatuto General",
-      "relevance": 0.496592,
-      "count": 1
-    },
-    {
-      "text": "Division de Admisiones",
-      "relevance": 0.495023,
+      "text": "Santiago de Cali",
+      "relevance": 0.549675,
       "count": 1
     },
     {
       "text": "Resoluciones No",
-      "relevance": 0.492088,
+      "relevance": 0.509814,
       "count": 2
     },
     {
       "text": "dias de enero",
-      "relevance": 0.491453,
+      "relevance": 0.505308,
+      "count": 1
+    },
+    {
+      "text": "proceso de Matricula",
+      "relevance": 0.504285,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.50249,
+      "count": 1
+    },
+    {
+      "text": "sede Mel\u00e9ndez",
+      "relevance": 0.488917,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.488605,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.479996,
+      "count": 2
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.478019,
+      "count": 2
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.468727,
+      "count": 1
+    },
+    {
+      "text": "demas",
+      "relevance": 0.45347,
+      "count": 1
+    },
+    {
+      "text": "Pregrado",
+      "relevance": 0.442503,
+      "count": 1
+    },
+    {
+      "text": "habilitaciones",
+      "relevance": 0.440603,
+      "count": 2
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.438133,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.437037,
+      "count": 2
+    },
+    {
+      "text": "Calendario",
+      "relevance": 0.434244,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.433686,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.433686,
+      "count": 1
+    },
+    {
+      "text": "Enero",
+      "relevance": 0.431455,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.431455,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.429158,
+      "count": 1
+    },
+    {
+      "text": "realizacion",
+      "relevance": 0.429158,
+      "count": 1
+    },
+    {
+      "text": "Salon",
+      "relevance": 0.429158,
+      "count": 1
+    },
+    {
+      "text": "Presidente",
+      "relevance": 0.429158,
+      "count": 1
+    },
+    {
+      "text": "Rocio",
+      "relevance": 0.429158,
+      "count": 1
+    },
+    {
+      "text": "Resoluciones",
+      "relevance": 0.423191,
       "count": 1
     }
   ]

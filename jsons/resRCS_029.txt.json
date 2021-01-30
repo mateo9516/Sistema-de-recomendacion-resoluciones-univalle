@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 14848,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "vigencia fiscal",
+      "relevance": 0.674398,
+      "count": 4
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.608905,
+      "count": 1
+    },
+    {
+      "text": "recibo de obras",
+      "relevance": 0.566064,
+      "count": 4
+    },
+    {
+      "text": "mecanismo de vigencias futuras",
+      "relevance": 0.564851,
+      "count": 1
+    },
+    {
+      "text": "previa autorizacion",
+      "relevance": 0.558245,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.553878,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.550156,
+      "count": 1
+    },
+    {
+      "text": "entidades territoriales",
+      "relevance": 0.54826,
+      "count": 2
+    },
+    {
+      "text": "patrimonio independiente",
+      "relevance": 0.547352,
+      "count": 1
+    },
+    {
+      "text": "tal efecto",
+      "relevance": 0.543028,
+      "count": 2
+    },
+    {
+      "text": "desarrollo del principio de la legalidad",
+      "relevance": 0.541885,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.538987,
+      "count": 4
+    },
+    {
+      "text": "parte del CONFIS",
+      "relevance": 0.538755,
+      "count": 1
+    },
+    {
+      "text": "Asamblea Departamental",
+      "relevance": 0.537659,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.537641,
+      "count": 7
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.534061,
+      "count": 2
+    },
+    {
+      "text": "estatuto organico de presupuesto",
+      "relevance": 0.533557,
+      "count": 1
+    },
+    {
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.533551,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.531631,
+      "count": 1
+    },
+    {
+      "text": "presupuestos de vigencias futuras",
+      "relevance": 0.531073,
+      "count": 3
+    },
+    {
+      "text": "tales presupuestos subsiguientes",
+      "relevance": 0.530947,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.530671,
+      "count": 1
+    },
+    {
+      "text": "autorizacion de vigencias futuras",
+      "relevance": 0.529167,
+      "count": 1
+    },
+    {
+      "text": "Estampilla Pro-Universidad",
+      "relevance": 0.529067,
+      "count": 1
+    },
+    {
+      "text": "ejecucidn de la obra",
+      "relevance": 0.527872,
+      "count": 1
+    },
+    {
+      "text": "S Q BS",
+      "relevance": 0.526861,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.526605,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.526528,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.52588,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Hacienda",
+      "relevance": 0.522389,
+      "count": 3
+    }
+  ]
+}

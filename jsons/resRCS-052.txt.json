@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6650,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "actividades de los estudiantes",
+      "relevance": 0.689991,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado",
+      "relevance": 0.630183,
+      "count": 3
+    },
+    {
+      "text": "reglamentacion del Programa de Semilleros",
+      "relevance": 0.62571,
+      "count": 1
+    },
+    {
+      "text": "trabajo de profesores",
+      "relevance": 0.600793,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de un programa",
+      "relevance": 0.587642,
+      "count": 1
+    },
+    {
+      "text": "eventos nacionales",
+      "relevance": 0.561107,
+      "count": 1
+    },
+    {
+      "text": "vinculaci6n de estudiantes",
+      "relevance": 0.559113,
+      "count": 1
+    },
+    {
+      "text": "vinculaci\u00e9n de los estudiantes de pregrado",
+      "relevance": 0.557799,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.548064,
+      "count": 4
+    },
+    {
+      "text": "Estatuto de Investigaciones",
+      "relevance": 0.546049,
+      "count": 1
+    },
+    {
+      "text": "institutos de investigacion",
+      "relevance": 0.544273,
+      "count": 1
+    },
+    {
+      "text": "marco de proyectos",
+      "relevance": 0.542306,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de las siguientes opciones",
+      "relevance": 0.538205,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.53459,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.534462,
+      "count": 5
+    },
+    {
+      "text": "Semilleros de Investigacion",
+      "relevance": 0.532486,
+      "count": 2
+    },
+    {
+      "text": "Programa de Semilleros de Investigaci\u00e9n",
+      "relevance": 0.53043,
+      "count": 2
+    },
+    {
+      "text": "numero minimo",
+      "relevance": 0.529894,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de pregrado de la Universidad",
+      "relevance": 0.52885,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.527311,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la incorporacion de la investigaci\u00e9n",
+      "relevance": 0.527143,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 Central de Investigaciones",
+      "relevance": 0.526343,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria de Investigaciones",
+      "relevance": 0.524227,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.523844,
+      "count": 1
+    },
+    {
+      "text": "tutoria de un profesor de la Universidad",
+      "relevance": 0.522684,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de proyectos",
+      "relevance": 0.51835,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.517285,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.516563,
+      "count": 2
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.516449,
+      "count": 1
+    },
+    {
+      "text": "Asignaci\u00e9n de apoyo econdmico",
+      "relevance": 0.516382,
+      "count": 1
+    }
+  ]
+}

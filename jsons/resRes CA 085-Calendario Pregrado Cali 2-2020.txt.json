@@ -1,160 +1,160 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 6744,
+    "text_characters": 3372,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "Proceso de MATRICULA",
-      "relevance": 0.679496,
-      "count": 6
+      "relevance": 0.68082,
+      "count": 3
     },
     {
       "text": "programas acad\u00e9micos de Pregrado",
-      "relevance": 0.666291,
-      "count": 2
+      "relevance": 0.667538,
+      "count": 1
     },
     {
       "text": "Idioma Extranjero",
-      "relevance": 0.614009,
-      "count": 8
+      "relevance": 0.614869,
+      "count": 4
     },
     {
       "text": "Registro de Matricula Acad\u00e9mica",
-      "relevance": 0.611248,
-      "count": 2
+      "relevance": 0.612137,
+      "count": 1
     },
     {
       "text": "uso de las atribuciones",
-      "relevance": 0.604464,
-      "count": 2
+      "relevance": 0.605305,
+      "count": 1
     },
     {
       "text": "Escuela de Ciencias del Lenguaje",
-      "relevance": 0.596138,
-      "count": 4
+      "relevance": 0.59692,
+      "count": 2
     },
     {
       "text": "Examen de Proficiencia",
-      "relevance": 0.583826,
-      "count": 2
+      "relevance": 0.584517,
+      "count": 1
     },
     {
       "text": "siguiente Calendario Acad\u00e9mico",
-      "relevance": 0.569194,
-      "count": 2
+      "relevance": 0.569777,
+      "count": 1
     },
     {
       "text": "DOCUMENTO ORIGINAL",
-      "relevance": 0.56546,
-      "count": 2
+      "relevance": 0.565967,
+      "count": 1
     },
     {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.555932,
-      "count": 6
+      "relevance": 0.556366,
+      "count": 3
     },
     {
       "text": "Sede de Cali",
-      "relevance": 0.538634,
-      "count": 4
+      "relevance": 0.538985,
+      "count": 2
     },
     {
       "text": "Asignaturas Electivas",
-      "relevance": 0.538109,
-      "count": 2
+      "relevance": 0.538455,
+      "count": 1
     },
     {
       "text": "AGOSTO-DICIEMBRE",
-      "relevance": 0.537516,
-      "count": 2
+      "relevance": 0.537858,
+      "count": 1
     },
     {
       "text": "Inicio de Clases",
-      "relevance": 0.533809,
-      "count": 2
+      "relevance": 0.534122,
+      "count": 1
     },
     {
       "text": "Idioma Extranjero Entre",
-      "relevance": 0.530529,
-      "count": 4
+      "relevance": 0.530817,
+      "count": 2
     },
     {
       "text": "calificaciones de validacion",
-      "relevance": 0.530142,
-      "count": 2
+      "relevance": 0.530427,
+      "count": 1
     },
     {
       "text": "Direccion del Programa Acad\u00e9mico",
-      "relevance": 0.529903,
-      "count": 2
+      "relevance": 0.530186,
+      "count": 1
     },
     {
       "text": "Trabajos de Grado",
-      "relevance": 0.52952,
-      "count": 2
+      "relevance": 0.529801,
+      "count": 1
     },
     {
       "text": "Examenes de Proficiencia",
-      "relevance": 0.5291,
-      "count": 4
+      "relevance": 0.529377,
+      "count": 2
     },
     {
       "text": "Registro de Calificaciones",
-      "relevance": 0.52812,
-      "count": 2
+      "relevance": 0.528389,
+      "count": 1
     },
     {
       "text": "ESTUDIANTES ANTIGUOS",
-      "relevance": 0.523843,
-      "count": 2
+      "relevance": 0.524079,
+      "count": 1
     },
     {
       "text": "Santiago de Cali",
-      "relevance": 0.52317,
-      "count": 2
+      "relevance": 0.5234,
+      "count": 1
     },
     {
       "text": "VARELA BARRIOSUNIVERSIDAD",
-      "relevance": 0.517901,
-      "count": 2
-    },
-    {
-      "text": "Estatuto General",
-      "relevance": 0.517725,
-      "count": 2
+      "relevance": 0.51809,
+      "count": 1
     },
     {
       "text": "Director de Programa Acad\u00e9mico",
-      "relevance": 0.517538,
-      "count": 2
+      "relevance": 0.517725,
+      "count": 1
     },
     {
       "text": "dias del mes de junio",
-      "relevance": 0.514949,
-      "count": 2
+      "relevance": 0.515116,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.514182,
+      "count": 1
     },
     {
       "text": "Matricula Acad\u00e9mica",
-      "relevance": 0.501357,
-      "count": 2
+      "relevance": 0.501417,
+      "count": 1
     },
     {
       "text": "agosto 2020UNIVERSIDAD",
-      "relevance": 0.492313,
-      "count": 2
+      "relevance": 0.492303,
+      "count": 1
     },
     {
       "text": "Area",
-      "relevance": 0.489146,
-      "count": 2
+      "relevance": 0.489111,
+      "count": 1
     },
     {
       "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.486692,
-      "count": 2
+      "relevance": 0.486638,
+      "count": 1
     }
   ]
 }

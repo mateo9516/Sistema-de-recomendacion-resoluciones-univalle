@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7235,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.570117,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.564954,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.564565,
+      "count": 2
+    },
+    {
+      "text": "contrato Unico de acceso",
+      "relevance": 0.554122,
+      "count": 1
+    },
+    {
+      "text": "uso de tecnologias de informacion",
+      "relevance": 0.551849,
+      "count": 1
+    },
+    {
+      "text": "Pontificia Universidad Javeriana",
+      "relevance": 0.550603,
+      "count": 1
+    },
+    {
+      "text": "contratacion de dicho servicio",
+      "relevance": 0.544363,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.541787,
+      "count": 10
+    },
+    {
+      "text": "plataforma tecnoldgica de la Universidad",
+      "relevance": 0.541642,
+      "count": 1
+    },
+    {
+      "text": "Escuela Militar de Aviacion",
+      "relevance": 0.538878,
+      "count": 1
+    },
+    {
+      "text": "siguientes instituciones",
+      "relevance": 0.536852,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la universidad del Valle",
+      "relevance": 0.536629,
+      "count": 1
+    },
+    {
+      "text": "Agricultura Tropical",
+      "relevance": 0.536126,
+      "count": 1
+    },
+    {
+      "text": "sedes regionales",
+      "relevance": 0.533293,
+      "count": 2
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.532257,
+      "count": 2
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.532074,
+      "count": 1
+    },
+    {
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.527498,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.527441,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.526817,
+      "count": 1
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.525725,
+      "count": 1
+    },
+    {
+      "text": "Centro Internacional",
+      "relevance": 0.52492,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.524724,
+      "count": 3
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.524724,
+      "count": 1
+    },
+    {
+      "text": "Universidad de San Buenaventura",
+      "relevance": 0.522845,
+      "count": 1
+    },
+    {
+      "text": "redes acad\u00e9micas avanzadas",
+      "relevance": 0.52248,
+      "count": 1
+    },
+    {
+      "text": "Educaci\u00e9n Nacional",
+      "relevance": 0.522345,
+      "count": 1
+    },
+    {
+      "text": "celebraci6n del Compromiso",
+      "relevance": 0.522283,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Organico del Presupuesto",
+      "relevance": 0.522137,
+      "count": 2
+    },
+    {
+      "text": "mismos servicios",
+      "relevance": 0.521866,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.521626,
+      "count": 1
+    }
+  ]
+}

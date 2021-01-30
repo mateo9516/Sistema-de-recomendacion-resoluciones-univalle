@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5262,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudiante tales",
+      "relevance": 0.664228,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.630964,
+      "count": 2
+    },
+    {
+      "text": "posgrado de la Modalidad Desescolarizada",
+      "relevance": 0.608675,
+      "count": 1
+    },
+    {
+      "text": "concepto de actividades",
+      "relevance": 0.608527,
+      "count": 1
+    },
+    {
+      "text": "pago de hora catedra",
+      "relevance": 0.578315,
+      "count": 1
+    },
+    {
+      "text": "estudiante matriculado",
+      "relevance": 0.569831,
+      "count": 1
+    },
+    {
+      "text": "programas de pregrado",
+      "relevance": 0.566597,
+      "count": 2
+    },
+    {
+      "text": "Gobierno Nacional",
+      "relevance": 0.562702,
+      "count": 1
+    },
+    {
+      "text": "Atencion telefonica",
+      "relevance": 0.562129,
+      "count": 1
+    },
+    {
+      "text": "caso del curso de Metodologias",
+      "relevance": 0.555912,
+      "count": 1
+    },
+    {
+      "text": "docencia directa",
+      "relevance": 0.547912,
+      "count": 1
+    },
+    {
+      "text": "vigencia del afio",
+      "relevance": 0.546186,
+      "count": 2
+    },
+    {
+      "text": "campus virtual",
+      "relevance": 0.543894,
+      "count": 2
+    },
+    {
+      "text": "trabajo adicional",
+      "relevance": 0.537593,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n acad\u00e9mica de los profesores",
+      "relevance": 0.536402,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.536025,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de la docencia",
+      "relevance": 0.532374,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.531758,
+      "count": 1
+    },
+    {
+      "text": "modalidad de Hora Catedra",
+      "relevance": 0.530559,
+      "count": 1
+    },
+    {
+      "text": "actividades distintas",
+      "relevance": 0.530411,
+      "count": 1
+    },
+    {
+      "text": "dias de iniciado",
+      "relevance": 0.528278,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.527499,
+      "count": 2
+    },
+    {
+      "text": "estudiantes matriculados",
+      "relevance": 0.527237,
+      "count": 2
+    },
+    {
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.523659,
+      "count": 1
+    },
+    {
+      "text": "estudio del comportamiento de los costos",
+      "relevance": 0.520261,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion de tarifas de acuerdo",
+      "relevance": 0.519169,
+      "count": 1
+    },
+    {
+      "text": "normales de la docencia presencial",
+      "relevance": 0.518404,
+      "count": 1
+    },
+    {
+      "text": "monto total",
+      "relevance": 0.518182,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.517889,
+      "count": 1
+    },
+    {
+      "text": "asignatura de posgrado",
+      "relevance": 0.517673,
+      "count": 1
+    }
+  ]
+}

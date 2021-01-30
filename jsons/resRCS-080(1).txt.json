@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.634182,
+      "count": 40
+    },
+    {
+      "text": "acad\u00e9mico de la Universidad",
+      "relevance": 0.567843,
+      "count": 1
+    },
+    {
+      "text": "demas elementos",
+      "relevance": 0.567623,
+      "count": 1
+    },
+    {
+      "text": "miembros del Consejo Superior",
+      "relevance": 0.555476,
+      "count": 21
+    },
+    {
+      "text": "Declaracion de Politicas",
+      "relevance": 0.553705,
+      "count": 9
+    },
+    {
+      "text": "Buen Gobierno",
+      "relevance": 0.550753,
+      "count": 4
+    },
+    {
+      "text": "cumplimiento de los fines misionales",
+      "relevance": 0.54114,
+      "count": 2
+    },
+    {
+      "text": "Control Interno",
+      "relevance": 0.540795,
+      "count": 4
+    },
+    {
+      "text": "desempeno institucional",
+      "relevance": 0.539717,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.534888,
+      "count": 3
+    },
+    {
+      "text": "principio de la autonomia universitaria",
+      "relevance": 0.534358,
+      "count": 1
+    },
+    {
+      "text": "actuar de las actividades acad\u00e9micas",
+      "relevance": 0.534124,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.533117,
+      "count": 32
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.532921,
+      "count": 25
+    },
+    {
+      "text": "objetivos de acuerdo",
+      "relevance": 0.531971,
+      "count": 1
+    },
+    {
+      "text": "Compromisos de Buen Gobierno",
+      "relevance": 0.530911,
+      "count": 10
+    },
+    {
+      "text": "siguiente texto",
+      "relevance": 0.529705,
+      "count": 1
+    },
+    {
+      "text": "parte de la Comunidad Universitaria",
+      "relevance": 0.528112,
+      "count": 1
+    },
+    {
+      "text": "gobierno del Rector",
+      "relevance": 0.526114,
+      "count": 1
+    },
+    {
+      "text": "demas servidores de la Universidad",
+      "relevance": 0.52541,
+      "count": 19
+    },
+    {
+      "text": "responsabilidad de su cargo",
+      "relevance": 0.525263,
+      "count": 1
+    },
+    {
+      "text": "presente documento",
+      "relevance": 0.525101,
+      "count": 3
+    },
+    {
+      "text": "formacion profesional integral",
+      "relevance": 0.525087,
+      "count": 1
+    },
+    {
+      "text": "manera de compromiso \u00e9tico",
+      "relevance": 0.524173,
+      "count": 1
+    },
+    {
+      "text": "siguientes cargos",
+      "relevance": 0.522626,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.5215,
+      "count": 1
+    },
+    {
+      "text": "vocacion de servicio",
+      "relevance": 0.521102,
+      "count": 1
+    },
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.52081,
+      "count": 2
+    },
+    {
+      "text": "equipo directivo",
+      "relevance": 0.520059,
+      "count": 24
+    },
+    {
+      "text": "diversos grupos de inter\u00e9s",
+      "relevance": 0.52005,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

@@ -1,160 +1,160 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 14214,
+    "text_units": 1,
+    "text_characters": 7107,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "evaluacion del desempefio acad\u00e9mico",
-      "relevance": 0.75164,
-      "count": 4
+      "relevance": 0.752176,
+      "count": 2
     },
     {
       "text": "periodo de prueba",
-      "relevance": 0.607078,
-      "count": 14
+      "relevance": 0.607347,
+      "count": 7
     },
     {
       "text": "Consejo Superior",
-      "relevance": 0.606794,
-      "count": 4
+      "relevance": 0.607062,
+      "count": 2
     },
     {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.578036,
-      "count": 4
+      "relevance": 0.578234,
+      "count": 2
     },
     {
       "text": "Estatuto Profesoral",
-      "relevance": 0.569938,
-      "count": 8
+      "relevance": 0.570118,
+      "count": 4
     },
     {
       "text": "profesores nombrados",
-      "relevance": 0.566193,
-      "count": 2
+      "relevance": 0.566364,
+      "count": 1
     },
     {
       "text": "caso de la evaluacion de los profesores",
-      "relevance": 0.563977,
-      "count": 2
+      "relevance": 0.564142,
+      "count": 1
     },
     {
       "text": "unidad acad\u00e9mica",
-      "relevance": 0.562164,
-      "count": 4
+      "relevance": 0.562323,
+      "count": 2
     },
     {
       "text": "calificaci\u00e9n global de SATISFACTORIA",
-      "relevance": 0.559664,
-      "count": 2
+      "relevance": 0.559818,
+      "count": 1
     },
     {
       "text": "procesos de evaluacion",
-      "relevance": 0.549443,
-      "count": 2
+      "relevance": 0.549572,
+      "count": 1
     },
     {
       "text": "facultades legales",
-      "relevance": 0.546996,
-      "count": 2
+      "relevance": 0.547119,
+      "count": 1
     },
     {
       "text": "Resolucion No",
-      "relevance": 0.541479,
-      "count": 2
+      "relevance": 0.541588,
+      "count": 1
     },
     {
       "text": "libre nombramiento",
-      "relevance": 0.538187,
-      "count": 2
+      "relevance": 0.538287,
+      "count": 1
     },
     {
       "text": "actuacion integral del profesor",
-      "relevance": 0.538105,
-      "count": 2
+      "relevance": 0.538205,
+      "count": 1
     },
     {
       "text": "colaboracion de la Direccion de Planeacion",
-      "relevance": 0.536332,
-      "count": 2
+      "relevance": 0.536427,
+      "count": 1
     },
     {
       "text": "evaluacion de los cursos",
-      "relevance": 0.535612,
-      "count": 2
+      "relevance": 0.535705,
+      "count": 1
     },
     {
       "text": "evaluaciOn del desempefio docente",
-      "relevance": 0.532156,
-      "count": 2
+      "relevance": 0.532241,
+      "count": 1
     },
     {
       "text": "Santiago de Cali",
-      "relevance": 0.530581,
-      "count": 2
+      "relevance": 0.530661,
+      "count": 1
     },
     {
       "text": "actividades de docencia",
-      "relevance": 0.529315,
-      "count": 4
+      "relevance": 0.529393,
+      "count": 2
     },
     {
       "text": "base de su Plan de Trabajo",
-      "relevance": 0.528763,
-      "count": 2
+      "relevance": 0.528839,
+      "count": 1
     },
     {
       "text": "apertura de convocatorias",
-      "relevance": 0.52614,
-      "count": 2
+      "relevance": 0.526209,
+      "count": 1
     },
     {
       "text": "r\u00e9gimen especial",
-      "relevance": 0.525065,
-      "count": 2
+      "relevance": 0.525129,
+      "count": 1
     },
     {
       "text": "reglamento docente de la Universidad",
-      "relevance": 0.524682,
-      "count": 2
+      "relevance": 0.524747,
+      "count": 1
     },
     {
       "text": "siguientes criterios",
-      "relevance": 0.524208,
-      "count": 2
+      "relevance": 0.52427,
+      "count": 1
     },
     {
       "text": "produccion acad\u00e9mica",
-      "relevance": 0.52356,
-      "count": 6
+      "relevance": 0.523623,
+      "count": 3
     },
     {
       "text": "Entrega oportuna de las evaluaciones",
-      "relevance": 0.523375,
-      "count": 2
+      "relevance": 0.523437,
+      "count": 1
     },
     {
       "text": "Instituto Acad\u00e9mico",
-      "relevance": 0.522559,
-      "count": 8
-    },
-    {
-      "text": "Consejos de Facultad",
-      "relevance": 0.522469,
+      "relevance": 0.522619,
       "count": 4
     },
     {
-      "text": "campos de la docencia",
-      "relevance": 0.521582,
+      "text": "Consejos de Facultad",
+      "relevance": 0.522528,
       "count": 2
     },
     {
+      "text": "campos de la docencia",
+      "relevance": 0.52164,
+      "count": 1
+    },
+    {
       "text": "Objetivos del curso",
-      "relevance": 0.520849,
-      "count": 2
+      "relevance": 0.520904,
+      "count": 1
     }
   ]
 }

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3220,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "ingreso total del IVA",
+      "relevance": 0.719637,
+      "count": 2
+    },
+    {
+      "text": "devolucion del IVA",
+      "relevance": 0.669339,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de los planes",
+      "relevance": 0.609616,
+      "count": 1
+    },
+    {
+      "text": "adecuacion de los espacios de las Bibliotecas",
+      "relevance": 0.577812,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.568166,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.563056,
+      "count": 2
+    },
+    {
+      "text": "adecuaci\u00e9n de los espacios de las Bibliotecas",
+      "relevance": 0.560938,
+      "count": 1
+    },
+    {
+      "text": "Centros de Documentaci\u00e9n de la Universidad",
+      "relevance": 0.555402,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n N",
+      "relevance": 0.530297,
+      "count": 1
+    },
+    {
+      "text": "adquisicion de material documental",
+      "relevance": 0.526826,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.525212,
+      "count": 1
+    },
+    {
+      "text": "sedes de la Ciudad de Cali",
+      "relevance": 0.521468,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.517512,
+      "count": 1
+    },
+    {
+      "text": "material documental",
+      "relevance": 0.516824,
+      "count": 1
+    },
+    {
+      "text": "Sistema de Regionalizacion",
+      "relevance": 0.514528,
+      "count": 1
+    },
+    {
+      "text": "diferentes pagos",
+      "relevance": 0.514482,
+      "count": 1
+    },
+    {
+      "text": "Sal\u00e9n de Reuniones del Despacho",
+      "relevance": 0.510823,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.509689,
+      "count": 1
+    },
+    {
+      "text": "IVA",
+      "relevance": 0.50869,
+      "count": 3
+    },
+    {
+      "text": "fuentes financieras",
+      "relevance": 0.50668,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion",
+      "relevance": 0.50668,
+      "count": 1
+    },
+    {
+      "text": "actualizacion tecnoldgica de los recursos",
+      "relevance": 0.502172,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.501326,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria de Investigaciones",
+      "relevance": 0.501326,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.499736,
+      "count": 2
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.498561,
+      "count": 1
+    },
+    {
+      "text": "prestacion del servicio",
+      "relevance": 0.495998,
+      "count": 2
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.494653,
+      "count": 1
+    },
+    {
+      "text": "Julio",
+      "relevance": 0.490604,
+      "count": 2
+    },
+    {
+      "text": "espacios",
+      "relevance": 0.489659,
+      "count": 1
+    }
+  ]
+}

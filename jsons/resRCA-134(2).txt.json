@@ -1,159 +1,159 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 6329,
+    "text_characters": 2602,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.744619,
-      "count": 10
-    },
-    {
-      "text": "facultades legales",
-      "relevance": 0.601676,
-      "count": 1
-    },
-    {
-      "text": "decanos de las Facultades de Ciencias",
-      "relevance": 0.58855,
-      "count": 1
-    },
-    {
-      "text": "Paro Acad\u00e9mico indefinido",
-      "relevance": 0.586612,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.586295,
-      "count": 5
-    },
-    {
-      "text": "Facultad de Salud",
-      "relevance": 0.567391,
-      "count": 1
-    },
-    {
-      "text": "estudiantes de la Facultad",
-      "relevance": 0.56508,
-      "count": 1
-    },
-    {
-      "text": "cronograma de las reuniones",
-      "relevance": 0.563408,
-      "count": 1
-    },
-    {
-      "text": "LUIS ALBERTO",
-      "relevance": 0.552596,
-      "count": 1
-    },
-    {
-      "text": "siguiente manera",
-      "relevance": 0.54923,
-      "count": 1
-    },
-    {
-      "text": "Ciencias Sociales",
-      "relevance": 0.549197,
-      "count": 1
-    },
-    {
-      "text": "actividad acad\u00e9mica",
-      "relevance": 0.54888,
-      "count": 1
-    },
-    {
-      "text": "Comisidn del Consejo Acad\u00e9mico",
-      "relevance": 0.542614,
-      "count": 1
-    },
-    {
       "text": "uso de las atribuciones",
-      "relevance": 0.539855,
+      "relevance": 0.614668,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.61374,
       "count": 1
     },
     {
       "text": "Matricula Inicio de Adiciones",
-      "relevance": 0.533559,
-      "count": 1
-    },
-    {
-      "text": "RESOLUCION No",
-      "relevance": 0.532096,
+      "relevance": 0.599318,
       "count": 1
     },
     {
       "text": "Noviembre Diciembre",
-      "relevance": 0.530326,
+      "relevance": 0.578468,
       "count": 1
     },
     {
-      "text": "correspondientes propuestas",
-      "relevance": 0.528622,
-      "count": 1
-    },
-    {
-      "text": "Asamblea Estudiantil",
-      "relevance": 0.528559,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.527247,
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.564542,
       "count": 2
     },
     {
-      "text": "Decano de la Facultad de Salud",
-      "relevance": 0.526786,
-      "count": 1
-    },
-    {
-      "text": "estudiantes de la Facultad de Salud",
-      "relevance": 0.522489,
-      "count": 1
-    },
-    {
-      "text": "mes de marzo",
-      "relevance": 0.520821,
-      "count": 1
-    },
-    {
-      "text": "delegados de la Asamblea Estudiantil",
-      "relevance": 0.518473,
-      "count": 1
-    },
-    {
       "text": "DECIMO Febrero",
-      "relevance": 0.51757,
+      "relevance": 0.560588,
       "count": 1
     },
     {
-      "text": "estudiantes de la Universidad",
-      "relevance": 0.516688,
-      "count": 1
-    },
-    {
-      "text": "normalidad acad\u00e9mica",
-      "relevance": 0.512094,
-      "count": 1
-    },
-    {
-      "text": "Direcci\u00e9n Universitaria",
-      "relevance": 0.511284,
-      "count": 1
-    },
-    {
-      "text": "siguiente calendario Acad\u00e9mico",
-      "relevance": 0.510616,
+      "text": "DESARROLLO DE LOS SEMESTRES",
+      "relevance": 0.559419,
       "count": 1
     },
     {
       "text": "Internado Febrero",
-      "relevance": 0.510593,
+      "relevance": 0.542523,
+      "count": 1
+    },
+    {
+      "text": "Intemado Enero",
+      "relevance": 0.54191,
+      "count": 1
+    },
+    {
+      "text": "Cancelacion Cancelacion",
+      "relevance": 0.537815,
+      "count": 1
+    },
+    {
+      "text": "Marzo13y14",
+      "relevance": 0.535452,
+      "count": 1
+    },
+    {
+      "text": "Vacaciones semestre",
+      "relevance": 0.535293,
+      "count": 1
+    },
+    {
+      "text": "siguiente calendario Acad\u00e9mico",
+      "relevance": 0.534163,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.532075,
+      "count": 2
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.525736,
+      "count": 1
+    },
+    {
+      "text": "meses de Octubre",
+      "relevance": 0.519001,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.518301,
+      "count": 1
+    },
+    {
+      "text": "Ene.17",
+      "relevance": 0.515365,
+      "count": 3
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Medicina",
+      "relevance": 0.514592,
+      "count": 1
+    },
+    {
+      "text": "Febrero",
+      "relevance": 0.511038,
+      "count": 4
+    },
+    {
+      "text": "Con Recargo",
+      "relevance": 0.510903,
+      "count": 1
+    },
+    {
+      "text": "Finalizacion Reporte",
+      "relevance": 0.507711,
+      "count": 1
+    },
+    {
+      "text": "Abril3y4",
+      "relevance": 0.502447,
+      "count": 1
+    },
+    {
+      "text": "dias de noviembre",
+      "relevance": 0.500799,
+      "count": 1
+    },
+    {
+      "text": "clinica del Programa Acad\u00e9mico de Medicina",
+      "relevance": 0.492693,
+      "count": 1
+    },
+    {
+      "text": "sede Mel\u00e9ndez",
+      "relevance": 0.492259,
+      "count": 1
+    },
+    {
+      "text": "Salon de reuniones del Consejo Acad\u00e9mico",
+      "relevance": 0.489382,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.484795,
+      "count": 1
+    },
+    {
+      "text": "Ene.24",
+      "relevance": 0.483831,
+      "count": 1
+    },
+    {
+      "text": "Meets Eerlodo Semanas Financiera Acad\u00e9mica Clases Cancelaciones Asignaturas de semestre",
+      "relevance": 0.4806,
       "count": 1
     }
   ]

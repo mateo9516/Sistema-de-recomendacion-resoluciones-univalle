@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 9037,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.676209,
+      "count": 2
+    },
+    {
+      "text": "recurso del valor del contrato",
+      "relevance": 0.587035,
+      "count": 1
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.58469,
+      "count": 1
+    },
+    {
+      "text": "entidades territoriales",
+      "relevance": 0.581315,
+      "count": 2
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.563451,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Organico del Presupuesto",
+      "relevance": 0.557876,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de vigencias futuras",
+      "relevance": 0.552748,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.547815,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.546525,
+      "count": 1
+    },
+    {
+      "text": "recepcion de los bienes",
+      "relevance": 0.545173,
+      "count": 1
+    },
+    {
+      "text": "normas organicas del presupuesto",
+      "relevance": 0.536662,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias de la Universidad",
+      "relevance": 0.536487,
+      "count": 1
+    },
+    {
+      "text": "tal efecto",
+      "relevance": 0.535788,
+      "count": 2
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.535224,
+      "count": 1
+    },
+    {
+      "text": "apertura del proceso de seleccio\u00e9n",
+      "relevance": 0.534216,
+      "count": 1
+    },
+    {
+      "text": "Concejos Municipales",
+      "relevance": 0.533501,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico de presupuesto",
+      "relevance": 0.531787,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.530563,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.529754,
+      "count": 5
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.528087,
+      "count": 2
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.527535,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria Administrativa",
+      "relevance": 0.525722,
+      "count": 1
+    },
+    {
+      "text": "Financiera Territorial",
+      "relevance": 0.525292,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.524056,
+      "count": 1
+    },
+    {
+      "text": "caso de la Nacion",
+      "relevance": 0.524015,
+      "count": 1
+    },
+    {
+      "text": "Fuente de Financiaci\u00e9n",
+      "relevance": 0.523746,
+      "count": 1
+    },
+    {
+      "text": "agilidad de la gestion administrativa",
+      "relevance": 0.521429,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de gastos",
+      "relevance": 0.520316,
+      "count": 1
+    },
+    {
+      "text": "Senor Rector",
+      "relevance": 0.517781,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Hacienda",
+      "relevance": 0.516756,
+      "count": 3
+    }
+  ]
+}

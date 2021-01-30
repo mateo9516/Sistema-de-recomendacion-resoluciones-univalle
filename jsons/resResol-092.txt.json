@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 892,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "uso de sus Atribuciones",
+      "relevance": 0.704011,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.676326,
+      "count": 1
+    },
+    {
+      "text": "ejecucion anual de la Universidad",
+      "relevance": 0.650088,
+      "count": 1
+    },
+    {
+      "text": "cupos de monitores",
+      "relevance": 0.622347,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.607085,
+      "count": 1
+    },
+    {
+      "text": "diferentes modalidades",
+      "relevance": 0.585711,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.559402,
+      "count": 2
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.533222,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.500923,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.490203,
+      "count": 1
+    },
+    {
+      "text": "Gobernador",
+      "relevance": 0.478539,
+      "count": 1
+    },
+    {
+      "text": "Sal6n de Reuniones del Despacho",
+      "relevance": 0.457346,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.446769,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.438936,
+      "count": 1
+    },
+    {
+      "text": "inclusi\u00e9n",
+      "relevance": 0.425561,
+      "count": 1
+    },
+    {
+      "text": "Diciembre",
+      "relevance": 0.424551,
+      "count": 1
+    },
+    {
+      "text": "Rector",
+      "relevance": 0.424551,
+      "count": 1
+    },
+    {
+      "text": "delegacion",
+      "relevance": 0.421524,
+      "count": 1
+    },
+    {
+      "text": "Articulo",
+      "relevance": 0.421524,
+      "count": 2
+    },
+    {
+      "text": "asignacion",
+      "relevance": 0.421524,
+      "count": 1
+    },
+    {
+      "text": "Monitorias",
+      "relevance": 0.421524,
+      "count": 1
+    },
+    {
+      "text": "presupuesto",
+      "relevance": 0.421524,
+      "count": 1
+    },
+    {
+      "text": "afio",
+      "relevance": 0.421524,
+      "count": 1
+    },
+    {
+      "text": "departamento",
+      "relevance": 0.421524,
+      "count": 1
+    }
+  ]
+}

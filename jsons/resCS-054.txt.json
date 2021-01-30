@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10044,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.604046,
+      "count": 1
+    },
+    {
+      "text": "informe de la Comision",
+      "relevance": 0.594806,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.588378,
+      "count": 1
+    },
+    {
+      "text": "realizaci\u00e9n de la convocatoria",
+      "relevance": 0.580917,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos",
+      "relevance": 0.571283,
+      "count": 2
+    },
+    {
+      "text": "Comision de Selecci\u00e9n",
+      "relevance": 0.566787,
+      "count": 1
+    },
+    {
+      "text": "Comisi\u00e9n de Seleccion",
+      "relevance": 0.562835,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores",
+      "relevance": 0.561332,
+      "count": 2
+    },
+    {
+      "text": "siguientes pruebas",
+      "relevance": 0.547011,
+      "count": 1
+    },
+    {
+      "text": "parte de la Comision de Seleccion",
+      "relevance": 0.543789,
+      "count": 1
+    },
+    {
+      "text": "Consejos de Facultad",
+      "relevance": 0.542605,
+      "count": 2
+    },
+    {
+      "text": "acad\u00e9mica de los candidatos",
+      "relevance": 0.541471,
+      "count": 1
+    },
+    {
+      "text": "reglamentacion expedida",
+      "relevance": 0.540609,
+      "count": 1
+    },
+    {
+      "text": "estabilidad laboral",
+      "relevance": 0.539027,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Profesoral",
+      "relevance": 0.538701,
+      "count": 4
+    },
+    {
+      "text": "trabajo de indole acad\u00e9mica",
+      "relevance": 0.533926,
+      "count": 1
+    },
+    {
+      "text": "diferentes Facultades",
+      "relevance": 0.532506,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria acad\u00e9mica",
+      "relevance": 0.529714,
+      "count": 5
+    },
+    {
+      "text": "tal caso",
+      "relevance": 0.52922,
+      "count": 2
+    },
+    {
+      "text": "decision de Rector",
+      "relevance": 0.527308,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.52725,
+      "count": 1
+    },
+    {
+      "text": "hojas de vida",
+      "relevance": 0.526849,
+      "count": 1
+    },
+    {
+      "text": "trayectoria profesional",
+      "relevance": 0.526096,
+      "count": 1
+    },
+    {
+      "text": "documentaci\u00e9n reunida",
+      "relevance": 0.525643,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.525452,
+      "count": 1
+    },
+    {
+      "text": "razones legales",
+      "relevance": 0.524795,
+      "count": 1
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.523223,
+      "count": 2
+    },
+    {
+      "text": "perfil ocupacional",
+      "relevance": 0.52273,
+      "count": 1
+    },
+    {
+      "text": "formaci\u00e9n acad\u00e9mica",
+      "relevance": 0.522072,
+      "count": 1
+    },
+    {
+      "text": "Comisiones de Seleccion",
+      "relevance": 0.522057,
+      "count": 1
+    }
+  ]
+}

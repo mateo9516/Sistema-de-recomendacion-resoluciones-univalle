@@ -1,0 +1,110 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 832,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Representante del Sector Productivo",
+      "relevance": 0.764163,
+      "count": 1
+    },
+    {
+      "text": "Senor Gobernador",
+      "relevance": 0.739069,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.709284,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.693131,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.608591,
+      "count": 1
+    },
+    {
+      "text": "dia del mes de junio",
+      "relevance": 0.554034,
+      "count": 1
+    },
+    {
+      "text": "Salon de Reuniones del Despacho",
+      "relevance": 0.532542,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.499621,
+      "count": 2
+    },
+    {
+      "text": "Designar",
+      "relevance": 0.455227,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.440872,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.420134,
+      "count": 2
+    },
+    {
+      "text": "Representante",
+      "relevance": 0.412391,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.410885,
+      "count": 1
+    },
+    {
+      "text": "UNIVERSIDAD",
+      "relevance": 0.40412,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.403652,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.402716,
+      "count": 1
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.399911,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.399911,
+      "count": 1
+    },
+    {
+      "text": "afo",
+      "relevance": 0.399911,
+      "count": 1
+    },
+    {
+      "text": "Presidente",
+      "relevance": 0.399911,
+      "count": 2
+    }
+  ]
+}

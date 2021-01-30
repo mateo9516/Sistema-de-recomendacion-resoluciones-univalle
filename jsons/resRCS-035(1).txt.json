@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4360,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Servicios M\u00e9dico Asistenciales",
+      "relevance": 0.715191,
+      "count": 1
+    },
+    {
+      "text": "forma integral",
+      "relevance": 0.700366,
+      "count": 1
+    },
+    {
+      "text": "Servicio de Salud",
+      "relevance": 0.682977,
+      "count": 2
+    },
+    {
+      "text": "suministros m\u00e9dicos",
+      "relevance": 0.625974,
+      "count": 3
+    },
+    {
+      "text": "alta complejidad",
+      "relevance": 0.585702,
+      "count": 2
+    },
+    {
+      "text": "recurso humano",
+      "relevance": 0.581172,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9dica integral",
+      "relevance": 0.567402,
+      "count": 1
+    },
+    {
+      "text": "laboratorio clinico",
+      "relevance": 0.560992,
+      "count": 1
+    },
+    {
+      "text": "m\u00e9dico asistenciales",
+      "relevance": 0.560878,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.553465,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria de Bienestar Universitario",
+      "relevance": 0.54589,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.54311,
+      "count": 1
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.540613,
+      "count": 1
+    },
+    {
+      "text": "servicio continuo",
+      "relevance": 0.538,
+      "count": 1
+    },
+    {
+      "text": "capacidad instalada",
+      "relevance": 0.535941,
+      "count": 1
+    },
+    {
+      "text": "siguientes conceptos",
+      "relevance": 0.534852,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.534349,
+      "count": 1
+    },
+    {
+      "text": "procesos de contratacion",
+      "relevance": 0.525199,
+      "count": 1
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.524199,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.522408,
+      "count": 2
+    },
+    {
+      "text": "Orden Departamental",
+      "relevance": 0.519728,
+      "count": 1
+    },
+    {
+      "text": "figura de vigencia futura",
+      "relevance": 0.518773,
+      "count": 1
+    },
+    {
+      "text": "Servicios de salud",
+      "relevance": 0.518688,
+      "count": 5
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.517986,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.517418,
+      "count": 1
+    },
+    {
+      "text": "Sehor Rector",
+      "relevance": 0.514593,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.514471,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.514053,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Organico del Presupuesto",
+      "relevance": 0.512421,
+      "count": 2
+    },
+    {
+      "text": "patologia especializada",
+      "relevance": 0.512111,
+      "count": 1
+    }
+  ]
+}

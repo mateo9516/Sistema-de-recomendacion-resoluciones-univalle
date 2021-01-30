@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4120,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "asentamientos humanos",
+      "relevance": 0.570192,
+      "count": 1
+    },
+    {
+      "text": "infraestructura de apoyo",
+      "relevance": 0.567227,
+      "count": 1
+    },
+    {
+      "text": "objeto de la donacion",
+      "relevance": 0.565522,
+      "count": 1
+    },
+    {
+      "text": "Plan de ordenamiento Territorial",
+      "relevance": 0.563166,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.562259,
+      "count": 2
+    },
+    {
+      "text": "estudios pertinentes",
+      "relevance": 0.555305,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.552295,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.543343,
+      "count": 5
+    },
+    {
+      "text": "cesion del predio",
+      "relevance": 0.542272,
+      "count": 1
+    },
+    {
+      "text": "ciudad de Cali",
+      "relevance": 0.539742,
+      "count": 1
+    },
+    {
+      "text": "Municipio de Santiago de Cali",
+      "relevance": 0.538182,
+      "count": 1
+    },
+    {
+      "text": "numeral anterior",
+      "relevance": 0.53709,
+      "count": 1
+    },
+    {
+      "text": "solucion de los problemas",
+      "relevance": 0.536806,
+      "count": 1
+    },
+    {
+      "text": "competencia acad\u00e9mica",
+      "relevance": 0.536296,
+      "count": 1
+    },
+    {
+      "text": "proyecto de ciudad",
+      "relevance": 0.531488,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior Universitario",
+      "relevance": 0.529228,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.525691,
+      "count": 2
+    },
+    {
+      "text": "Paragrafo del Articulo",
+      "relevance": 0.525067,
+      "count": 2
+    },
+    {
+      "text": "cesion del lote de terreno",
+      "relevance": 0.524972,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.524468,
+      "count": 1
+    },
+    {
+      "text": "parque central de Cali",
+      "relevance": 0.524283,
+      "count": 1
+    },
+    {
+      "text": "No Predio",
+      "relevance": 0.523182,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior Pagina",
+      "relevance": 0.517057,
+      "count": 2
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.516574,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la Universidad del Valle",
+      "relevance": 0.516119,
+      "count": 1
+    },
+    {
+      "text": "Bandera de acuerdo",
+      "relevance": 0.514357,
+      "count": 1
+    },
+    {
+      "text": "comunidad de Cali",
+      "relevance": 0.514136,
+      "count": 1
+    },
+    {
+      "text": "pobres del pais",
+      "relevance": 0.513718,
+      "count": 1
+    },
+    {
+      "text": "Rector de la Universidad del Valle",
+      "relevance": 0.512546,
+      "count": 1
+    },
+    {
+      "text": "Rio Anchicaya Ltda",
+      "relevance": 0.509762,
+      "count": 1
+    }
+  ]
+}

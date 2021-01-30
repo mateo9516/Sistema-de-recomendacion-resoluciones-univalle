@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 23367,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "cargos de Directores de Escuela",
+      "relevance": 0.6701,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9s de Programa Acad\u00e9mico",
+      "relevance": 0.624277,
+      "count": 2
+    },
+    {
+      "text": "Comit\u00e9s de Departamento",
+      "relevance": 0.584887,
+      "count": 5
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.571312,
+      "count": 4
+    },
+    {
+      "text": "Director de Programa Acad\u00e9mico",
+      "relevance": 0.561564,
+      "count": 1
+    },
+    {
+      "text": "Directores de Programa Acad\u00e9mico de Pregrado",
+      "relevance": 0.556077,
+      "count": 1
+    },
+    {
+      "text": "desarrollo acad\u00e9mico",
+      "relevance": 0.551295,
+      "count": 1
+    },
+    {
+      "text": "Consejos de Escuela",
+      "relevance": 0.541857,
+      "count": 4
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.539536,
+      "count": 14
+    },
+    {
+      "text": "Rector de candidato",
+      "relevance": 0.537863,
+      "count": 2
+    },
+    {
+      "text": "programas Acad\u00e9micos",
+      "relevance": 0.536775,
+      "count": 2
+    },
+    {
+      "text": "disposiciones legales",
+      "relevance": 0.536232,
+      "count": 2
+    },
+    {
+      "text": "cargos de Director de Escuela",
+      "relevance": 0.535249,
+      "count": 1
+    },
+    {
+      "text": "organizacion de los saberes",
+      "relevance": 0.534042,
+      "count": 1
+    },
+    {
+      "text": "apertura de los cursos",
+      "relevance": 0.533657,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.532952,
+      "count": 14
+    },
+    {
+      "text": "Jefe de Departamento",
+      "relevance": 0.532741,
+      "count": 5
+    },
+    {
+      "text": "unidades acad\u00e9mico administrativas",
+      "relevance": 0.532136,
+      "count": 1
+    },
+    {
+      "text": "proyecto del Plan",
+      "relevance": 0.530731,
+      "count": 1
+    },
+    {
+      "text": "programaci6n",
+      "relevance": 0.53043,
+      "count": 1
+    },
+    {
+      "text": "diferentes programas",
+      "relevance": 0.530374,
+      "count": 1
+    },
+    {
+      "text": "funciones del Director de Escuela",
+      "relevance": 0.528651,
+      "count": 1
+    },
+    {
+      "text": "diferentes dreas",
+      "relevance": 0.528382,
+      "count": 1
+    },
+    {
+      "text": "Claustro de Profesores de la Escuela",
+      "relevance": 0.526736,
+      "count": 2
+    },
+    {
+      "text": "representante de la Escuela",
+      "relevance": 0.526696,
+      "count": 1
+    },
+    {
+      "text": "categoria de Profesor Asistente",
+      "relevance": 0.525249,
+      "count": 2
+    },
+    {
+      "text": "Proponer de conformidad",
+      "relevance": 0.523087,
+      "count": 1
+    },
+    {
+      "text": "parte del Consejo de Escuela",
+      "relevance": 0.521388,
+      "count": 1
+    },
+    {
+      "text": "Consejos",
+      "relevance": 0.521253,
+      "count": 2
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.520916,
+      "count": 1
+    }
+  ]
+}

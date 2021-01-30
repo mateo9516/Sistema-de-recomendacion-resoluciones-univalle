@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3220,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "INGENIERIA MECANICA",
+      "relevance": 0.703765,
+      "count": 7
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.637681,
+      "count": 2
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.597517,
+      "count": 1
+    },
+    {
+      "text": "mes de enero",
+      "relevance": 0.584817,
+      "count": 1
+    },
+    {
+      "text": "formacion de investigadores",
+      "relevance": 0.582419,
+      "count": 1
+    },
+    {
+      "text": "Ingenieria Civil",
+      "relevance": 0.570732,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.570337,
+      "count": 5
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.565032,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.564996,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.558998,
+      "count": 1
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.553213,
+      "count": 1
+    },
+    {
+      "text": "ciudad de Cali-Valle",
+      "relevance": 0.548357,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.541547,
+      "count": 1
+    },
+    {
+      "text": "despacho de la gobernadora",
+      "relevance": 0.537567,
+      "count": 1
+    },
+    {
+      "text": "procesos acad\u00e9micos",
+      "relevance": 0.531538,
+      "count": 1
+    },
+    {
+      "text": "Resoluci6\u00e9n",
+      "relevance": 0.530327,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.527623,
+      "count": 1
+    },
+    {
+      "text": "titulo de DOCTOR",
+      "relevance": 0.527318,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.527083,
+      "count": 2
+    },
+    {
+      "text": "programa de doctorado",
+      "relevance": 0.526737,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci6on Nacional",
+      "relevance": 0.521853,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.517722,
+      "count": 3
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.516155,
+      "count": 1
+    },
+    {
+      "text": "diferentes campos disciplinarios",
+      "relevance": 0.508971,
+      "count": 1
+    },
+    {
+      "text": "nivel doctoral",
+      "relevance": 0.50865,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.507153,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico DOCTORADO",
+      "relevance": 0.505549,
+      "count": 2
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.50547,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.501875,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.499101,
+      "count": 1
+    }
+  ]
+}

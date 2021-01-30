@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 21456,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "asignaciOn acad\u00e9mica",
+      "relevance": 0.686539,
+      "count": 5
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.607878,
+      "count": 2
+    },
+    {
+      "text": "pago de bonificaciones",
+      "relevance": 0.595683,
+      "count": 1
+    },
+    {
+      "text": "actividades de Extension",
+      "relevance": 0.582677,
+      "count": 5
+    },
+    {
+      "text": "correspondiente presupuesto",
+      "relevance": 0.580377,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de proyectos",
+      "relevance": 0.577842,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico de acuerdo",
+      "relevance": 0.576197,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.570199,
+      "count": 4
+    },
+    {
+      "text": "casos excepcionales",
+      "relevance": 0.56937,
+      "count": 1
+    },
+    {
+      "text": "dedicacion del profesor",
+      "relevance": 0.546547,
+      "count": 1
+    },
+    {
+      "text": "control respectivo",
+      "relevance": 0.542458,
+      "count": 1
+    },
+    {
+      "text": "Costos de personal",
+      "relevance": 0.540933,
+      "count": 1
+    },
+    {
+      "text": "Gastos de transporte",
+      "relevance": 0.540282,
+      "count": 2
+    },
+    {
+      "text": "ano correspondiente",
+      "relevance": 0.538519,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.534318,
+      "count": 9
+    },
+    {
+      "text": "ACTIVIDADES DOCENTES",
+      "relevance": 0.534168,
+      "count": 1
+    },
+    {
+      "text": "actividades de capacitacion",
+      "relevance": 0.533851,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.532811,
+      "count": 2
+    },
+    {
+      "text": "unidades descentralizadas",
+      "relevance": 0.532095,
+      "count": 1
+    },
+    {
+      "text": "Fondo Comtn",
+      "relevance": 0.530512,
+      "count": 2
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.530007,
+      "count": 1
+    },
+    {
+      "text": "presente reglamentaci6\u00e9n",
+      "relevance": 0.529467,
+      "count": 1
+    },
+    {
+      "text": "previa justificacion",
+      "relevance": 0.528893,
+      "count": 2
+    },
+    {
+      "text": "propuestas de proyectos de asesoria",
+      "relevance": 0.528289,
+      "count": 1
+    },
+    {
+      "text": "valor del punto",
+      "relevance": 0.526698,
+      "count": 1
+    },
+    {
+      "text": "compromiso adicional",
+      "relevance": 0.526364,
+      "count": 1
+    },
+    {
+      "text": "programas de diplomados",
+      "relevance": 0.525672,
+      "count": 1
+    },
+    {
+      "text": "Extension de la Vicerrectoria Acad\u00e9mica",
+      "relevance": 0.524992,
+      "count": 1
+    },
+    {
+      "text": "diferentes organizaciones",
+      "relevance": 0.524889,
+      "count": 1
+    },
+    {
+      "text": "caso de los cursos de posgrado",
+      "relevance": 0.523721,
+      "count": 1
+    }
+  ]
+}

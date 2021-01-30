@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 28094,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.700881,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.610198,
+      "count": 11
+    },
+    {
+      "text": "condici6n fundamental",
+      "relevance": 0.574751,
+      "count": 1
+    },
+    {
+      "text": "Consejos de Facultad",
+      "relevance": 0.569739,
+      "count": 1
+    },
+    {
+      "text": "nombramiento de profesores de carrera",
+      "relevance": 0.565784,
+      "count": 1
+    },
+    {
+      "text": "concurso publico",
+      "relevance": 0.564109,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de la Hoja de Vida",
+      "relevance": 0.563529,
+      "count": 1
+    },
+    {
+      "text": "cargos docentes",
+      "relevance": 0.550292,
+      "count": 1
+    },
+    {
+      "text": "Unidades Acad\u00e9micas",
+      "relevance": 0.548977,
+      "count": 1
+    },
+    {
+      "text": "procesos de selecci6n",
+      "relevance": 0.54806,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria Acad\u00e9mica",
+      "relevance": 0.54555,
+      "count": 3
+    },
+    {
+      "text": "Hoja de Vida",
+      "relevance": 0.545475,
+      "count": 3
+    },
+    {
+      "text": "Estatuto General de la Universidad",
+      "relevance": 0.543965,
+      "count": 1
+    },
+    {
+      "text": "casos de aquellos candidatos",
+      "relevance": 0.539265,
+      "count": 1
+    },
+    {
+      "text": "elaboraci\u00e9n de los perfiles",
+      "relevance": 0.538031,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.536972,
+      "count": 1
+    },
+    {
+      "text": "conveniente podra",
+      "relevance": 0.536213,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la pagina Web",
+      "relevance": 0.533634,
+      "count": 1
+    },
+    {
+      "text": "Selecci6n Docente",
+      "relevance": 0.53363,
+      "count": 1
+    },
+    {
+      "text": "Representante del Rector",
+      "relevance": 0.532525,
+      "count": 1
+    },
+    {
+      "text": "Previa autorizacion del Rector",
+      "relevance": 0.531406,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.531167,
+      "count": 10
+    },
+    {
+      "text": "Comisi6n de Selecci6",
+      "relevance": 0.530622,
+      "count": 1
+    },
+    {
+      "text": "proceso de evaluacion de m\u00e9ritos",
+      "relevance": 0.53029,
+      "count": 3
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.528384,
+      "count": 3
+    },
+    {
+      "text": "CONCURSO PUBLICO DE MERITOS",
+      "relevance": 0.527765,
+      "count": 1
+    },
+    {
+      "text": "respectiva Facultad",
+      "relevance": 0.52765,
+      "count": 1
+    },
+    {
+      "text": "orden alfab\u00e9tico",
+      "relevance": 0.527321,
+      "count": 1
+    },
+    {
+      "text": "proyecciones acad\u00e9micas",
+      "relevance": 0.527256,
+      "count": 1
+    },
+    {
+      "text": "equivalente de tiempo",
+      "relevance": 0.524829,
+      "count": 1
+    }
+  ]
+}

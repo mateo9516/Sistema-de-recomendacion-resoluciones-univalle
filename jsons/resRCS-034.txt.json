@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4125,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.589976,
+      "count": 1
+    },
+    {
+      "text": "sera entregada",
+      "relevance": 0.589088,
+      "count": 1
+    },
+    {
+      "text": "d\u00e9cada de los anos",
+      "relevance": 0.577001,
+      "count": 1
+    },
+    {
+      "text": "bienestar universitario",
+      "relevance": 0.575115,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.565941,
+      "count": 1
+    },
+    {
+      "text": "profesor visitante",
+      "relevance": 0.562261,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.562121,
+      "count": 2
+    },
+    {
+      "text": "trav\u00e9s de su vinculaci6",
+      "relevance": 0.558513,
+      "count": 1
+    },
+    {
+      "text": "Medalla pendera de un cordon",
+      "relevance": 0.556809,
+      "count": 1
+    },
+    {
+      "text": "Educacion del Departamento del Valle",
+      "relevance": 0.551555,
+      "count": 1
+    },
+    {
+      "text": "parte frontal",
+      "relevance": 0.549327,
+      "count": 1
+    },
+    {
+      "text": "ceremonia acad\u00e9mica anual",
+      "relevance": 0.548713,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.547137,
+      "count": 4
+    },
+    {
+      "text": "materia de docencia",
+      "relevance": 0.541709,
+      "count": 1
+    },
+    {
+      "text": "Ministro de Salud Publica",
+      "relevance": 0.541507,
+      "count": 1
+    },
+    {
+      "text": "Colegio M\u00e9dico del Valle",
+      "relevance": 0.540046,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.539323,
+      "count": 1
+    },
+    {
+      "text": "colores rojo",
+      "relevance": 0.535806,
+      "count": 1
+    },
+    {
+      "text": "servidores de la Universidad del Valle",
+      "relevance": 0.531787,
+      "count": 1
+    },
+    {
+      "text": "nota de estilo",
+      "relevance": 0.527264,
+      "count": 1
+    },
+    {
+      "text": "doctor Gabriel Velasquez Palau",
+      "relevance": 0.52332,
+      "count": 1
+    },
+    {
+      "text": "alla del quehacer cotidiano",
+      "relevance": 0.522924,
+      "count": 1
+    },
+    {
+      "text": "personas naturales",
+      "relevance": 0.522559,
+      "count": 1
+    },
+    {
+      "text": "primer decano",
+      "relevance": 0.520408,
+      "count": 1
+    },
+    {
+      "text": "Medicina del Valle",
+      "relevance": 0.520325,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.520257,
+      "count": 1
+    },
+    {
+      "text": "Rector de la Universidad.UNIVERSIDAD",
+      "relevance": 0.518541,
+      "count": 1
+    },
+    {
+      "text": "proyectos de caracter docente",
+      "relevance": 0.515522,
+      "count": 1
+    },
+    {
+      "text": "Medalla",
+      "relevance": 0.508967,
+      "count": 5
+    },
+    {
+      "text": "Facultad de Medicina de la Universidad",
+      "relevance": 0.508459,
+      "count": 1
+    }
+  ]
+}

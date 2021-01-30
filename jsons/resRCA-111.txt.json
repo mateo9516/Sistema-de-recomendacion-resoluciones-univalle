@@ -1,160 +1,160 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 11879,
+    "text_units": 1,
+    "text_characters": 3982,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "Manual de Inscripci6",
-      "relevance": 0.654935,
+      "relevance": 0.869512,
       "count": 1
     },
     {
-      "text": "asignaturas de un Programa Acad\u00e9mico",
-      "relevance": 0.644922,
-      "count": 1
-    },
-    {
-      "text": "ESTUDIANTE VISITANTE",
-      "relevance": 0.593116,
-      "count": 3
-    },
-    {
-      "text": "movilidad de estudiantes",
-      "relevance": 0.589979,
-      "count": 1
-    },
-    {
-      "text": "presente Resolucion",
-      "relevance": 0.57584,
-      "count": 1
-    },
-    {
-      "text": "programas de cooperacion",
-      "relevance": 0.57384,
-      "count": 2
-    },
-    {
-      "text": "periodos acad\u00e9micos",
-      "relevance": 0.563065,
-      "count": 2
-    },
-    {
-      "text": "Division de Admisiones yUNIVERSIDAD",
-      "relevance": 0.558954,
-      "count": 1
-    },
-    {
-      "text": "Programa Acad\u00e9mico",
-      "relevance": 0.540981,
-      "count": 1
-    },
-    {
-      "text": "respectivos carn\u00e9s",
-      "relevance": 0.540081,
-      "count": 1
-    },
-    {
-      "text": "registro de los Estudiantes Nacionales",
-      "relevance": 0.539034,
-      "count": 1
-    },
-    {
-      "text": "Estudiantes Visitantes",
-      "relevance": 0.535469,
-      "count": 3
-    },
-    {
-      "text": "estudiantes extranjeros",
-      "relevance": 0.535159,
-      "count": 1
-    },
-    {
-      "text": "Ambito nacional",
-      "relevance": 0.53505,
-      "count": 1
-    },
-    {
-      "text": "Seguro M\u00e9dico Internacional",
-      "relevance": 0.534209,
+      "text": "Recepcion de solicitudes de las personas",
+      "relevance": 0.641837,
       "count": 1
     },
     {
       "text": "Salon de Rectoria",
-      "relevance": 0.533526,
+      "relevance": 0.588253,
       "count": 1
     },
     {
-      "text": "Unidad Acad\u00e9mica",
-      "relevance": 0.530164,
+      "text": "Pruebas adicionales de admision",
+      "relevance": 0.580233,
       "count": 1
     },
     {
-      "text": "Registro Acad\u00e9mico",
-      "relevance": 0.529465,
-      "count": 6
-    },
-    {
-      "text": "Relaciones Internacional",
-      "relevance": 0.52924,
+      "text": "Recepcion de documentos soporte",
+      "relevance": 0.552185,
       "count": 1
     },
     {
-      "text": "Calidad Acad\u00e9mica",
-      "relevance": 0.527907,
+      "text": "Recepci\u00e9n de solicitudes de contrasenha",
+      "relevance": 0.54313,
       "count": 1
     },
     {
-      "text": "identificacion de sus Estudiantes Visitantes",
-      "relevance": 0.523842,
-      "count": 1
-    },
-    {
-      "text": "Derechos Econ\u00e9micos",
-      "relevance": 0.523485,
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.538333,
       "count": 2
     },
     {
-      "text": "Relaciones Internacionales",
-      "relevance": 0.523433,
-      "count": 2
-    },
-    {
-      "text": "numero del documento",
-      "relevance": 0.523108,
+      "text": "Sede Cali",
+      "relevance": 0.537205,
       "count": 1
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.521475,
-      "count": 5
-    },
-    {
-      "text": "Division de Admisiones",
-      "relevance": 0.521439,
+      "text": "reserva de cupo",
+      "relevance": 0.534616,
       "count": 4
     },
     {
-      "text": "proceso de admision",
-      "relevance": 0.52103,
-      "count": 2
-    },
-    {
-      "text": "estudiantes de pregrado",
-      "relevance": 0.520652,
+      "text": "Programas Acad\u00e9micos de PREGRADO",
+      "relevance": 0.533825,
       "count": 1
     },
     {
-      "text": "previo cumplimiento",
-      "relevance": 0.52005,
+      "text": "CALENDARIO ACADEMICO",
+      "relevance": 0.531328,
       "count": 1
     },
     {
-      "text": "Area de Registro Acad\u00e9mico",
-      "relevance": 0.519813,
+      "text": "Descarga de los recibos de pago",
+      "relevance": 0.531291,
       "count": 2
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.526528,
+      "count": 1
+    },
+    {
+      "text": "Pruebas Adicionales de Admisi6",
+      "relevance": 0.524361,
+      "count": 1
+    },
+    {
+      "text": "primer Llamado",
+      "relevance": 0.523762,
+      "count": 1
+    },
+    {
+      "text": "periodo Febrero",
+      "relevance": 0.52147,
+      "count": 1
+    },
+    {
+      "text": "Entrega de contrasefias",
+      "relevance": 0.519501,
+      "count": 1
+    },
+    {
+      "text": "PRIMER SEMESTRE",
+      "relevance": 0.519116,
+      "count": 2
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.518295,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.517958,
+      "count": 1
+    },
+    {
+      "text": "proceso de Admision",
+      "relevance": 0.515468,
+      "count": 1
+    },
+    {
+      "text": "cupo primer",
+      "relevance": 0.511177,
+      "count": 1
+    },
+    {
+      "text": "pagina web del Area",
+      "relevance": 0.508605,
+      "count": 1
+    },
+    {
+      "text": "derechos econ\u00e9micos",
+      "relevance": 0.507648,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.507275,
+      "count": 1
+    },
+    {
+      "text": "Condiciones de Excepci6",
+      "relevance": 0.507275,
+      "count": 1
+    },
+    {
+      "text": "Inscripciones via",
+      "relevance": 0.507262,
+      "count": 1
+    },
+    {
+      "text": "documentos soporte",
+      "relevance": 0.507145,
+      "count": 1
+    },
+    {
+      "text": "web de la informaci6n",
+      "relevance": 0.507124,
+      "count": 1
+    },
+    {
+      "text": "inicio del proceso",
+      "relevance": 0.506764,
+      "count": 1
     }
   ]
 }

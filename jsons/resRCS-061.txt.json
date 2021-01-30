@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 24417,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.723327,
+      "count": 5
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.619094,
+      "count": 4
+    },
+    {
+      "text": "Comit\u00e9 de Honor",
+      "relevance": 0.59034,
+      "count": 12
+    },
+    {
+      "text": "numero de papeletasUNIVERSIDAD",
+      "relevance": 0.588608,
+      "count": 1
+    },
+    {
+      "text": "Secretaria General",
+      "relevance": 0.581364,
+      "count": 18
+    },
+    {
+      "text": "caso de votacid\u00e9n",
+      "relevance": 0.567691,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.563569,
+      "count": 26
+    },
+    {
+      "text": "acad\u00e9mica correspondientes",
+      "relevance": 0.562456,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.559045,
+      "count": 2
+    },
+    {
+      "text": "Directores de Instituto Acad\u00e9mico",
+      "relevance": 0.546182,
+      "count": 5
+    },
+    {
+      "text": "voto electrdnico",
+      "relevance": 0.544012,
+      "count": 1
+    },
+    {
+      "text": "eleccidn de los representantes de los profesores",
+      "relevance": 0.541894,
+      "count": 2
+    },
+    {
+      "text": "Secretario del Comit\u00e9 de Honor",
+      "relevance": 0.540771,
+      "count": 1
+    },
+    {
+      "text": "numero de votantes firmantes",
+      "relevance": 0.540473,
+      "count": 2
+    },
+    {
+      "text": "Cuerpos Colegiados",
+      "relevance": 0.540406,
+      "count": 3
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.539836,
+      "count": 1
+    },
+    {
+      "text": "papeletas de votacion serdn",
+      "relevance": 0.53482,
+      "count": 1
+    },
+    {
+      "text": "NORMAS GENERALES",
+      "relevance": 0.534026,
+      "count": 1
+    },
+    {
+      "text": "votacion estipulado",
+      "relevance": 0.532984,
+      "count": 1
+    },
+    {
+      "text": "6n profesoral",
+      "relevance": 0.531055,
+      "count": 1
+    },
+    {
+      "text": "caso de los representantes de los profesores",
+      "relevance": 0.530369,
+      "count": 1
+    },
+    {
+      "text": "Rector convocard",
+      "relevance": 0.530163,
+      "count": 1
+    },
+    {
+      "text": "elecciones directas",
+      "relevance": 0.529121,
+      "count": 4
+    },
+    {
+      "text": "numero de papeletas",
+      "relevance": 0.528874,
+      "count": 2
+    },
+    {
+      "text": "voto electr\u00e9nico",
+      "relevance": 0.522586,
+      "count": 1
+    },
+    {
+      "text": "Reglamento de Inscripcidn",
+      "relevance": 0.522251,
+      "count": 1
+    },
+    {
+      "text": "eleccidn de los representantes de los directores",
+      "relevance": 0.522186,
+      "count": 1
+    },
+    {
+      "text": "voto",
+      "relevance": 0.52207,
+      "count": 7
+    },
+    {
+      "text": "respectivos suplentes",
+      "relevance": 0.521589,
+      "count": 3
+    },
+    {
+      "text": "Representantes profesorales",
+      "relevance": 0.519594,
+      "count": 4
+    }
+  ]
+}

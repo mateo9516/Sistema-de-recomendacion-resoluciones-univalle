@@ -1,160 +1,160 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 9772,
+    "text_characters": 7516,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.688991,
-      "count": 10
-    },
-    {
-      "text": "Ministerio de Educaci\u00e9n Nacional",
-      "relevance": 0.593051,
+      "text": "modificacion del programa acad\u00e9mico",
+      "relevance": 0.597202,
       "count": 1
-    },
-    {
-      "text": "programa acad\u00e9mico",
-      "relevance": 0.585834,
-      "count": 7
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.578385,
-      "count": 2
     },
     {
       "text": "curriculo del \u00e9nfasis",
-      "relevance": 0.561198,
+      "relevance": 0.592275,
       "count": 2
-    },
-    {
-      "text": "sede Mel\u00e9ndez",
-      "relevance": 0.553795,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.553242,
-      "count": 4
-    },
-    {
-      "text": "titulo acad\u00e9mico",
-      "relevance": 0.550593,
-      "count": 1
-    },
-    {
-      "text": "marco de las lineas de accidn",
-      "relevance": 0.544213,
-      "count": 1
-    },
-    {
-      "text": "uso de sus atribuciones legales",
-      "relevance": 0.543038,
-      "count": 1
-    },
-    {
-      "text": "instituciones educativas de preescolar",
-      "relevance": 0.539935,
-      "count": 1
-    },
-    {
-      "text": "Ss Que",
-      "relevance": 0.539639,
-      "count": 1
-    },
-    {
-      "text": "reuniones del Consejo Acad\u00e9mico",
-      "relevance": 0.539175,
-      "count": 1
-    },
-    {
-      "text": "Concepciones Concepciones Concepciones",
-      "relevance": 0.536894,
-      "count": 1
     },
     {
       "text": "Cartago de la Universidad del Valle",
-      "relevance": 0.532843,
+      "relevance": 0.59134,
       "count": 2
     },
     {
-      "text": "programas de acuerdo",
-      "relevance": 0.531293,
-      "count": 1
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.55757,
+      "count": 4
     },
     {
-      "text": "Resolucion No",
-      "relevance": 0.531042,
-      "count": 5
-    },
-    {
-      "text": "tedricas del \u00e9nfasis",
-      "relevance": 0.530687,
-      "count": 1
-    },
-    {
-      "text": "jornada mixta",
-      "relevance": 0.529482,
-      "count": 1
-    },
-    {
-      "text": "\u00e9nfasis de la MAESTRIA",
-      "relevance": 0.527905,
-      "count": 1
-    },
-    {
-      "text": "areas de \u00e9nfasis",
-      "relevance": 0.525048,
-      "count": 1
-    },
-    {
-      "text": "periodicidad de admisiones anual",
-      "relevance": 0.523926,
-      "count": 1
-    },
-    {
-      "text": "campos de la Educacion",
-      "relevance": 0.523884,
+      "text": "periodicidad anual",
+      "relevance": 0.557056,
       "count": 1
     },
     {
       "text": "sede Cali",
-      "relevance": 0.523268,
-      "count": 1
-    },
-    {
-      "text": "Resoluci\u00e9n No",
-      "relevance": 0.522515,
-      "count": 4
-    },
-    {
-      "text": "respectivos Enfasis",
-      "relevance": 0.522024,
-      "count": 1
-    },
-    {
-      "text": "unidades acad\u00e9micas",
-      "relevance": 0.521255,
+      "relevance": 0.556276,
       "count": 1
     },
     {
       "text": "Plan Sectorial de Educaci\u00e9n",
-      "relevance": 0.520042,
+      "relevance": 0.554743,
+      "count": 1
+    },
+    {
+      "text": "marco de las lineas de accidn",
+      "relevance": 0.554192,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.551667,
+      "count": 3
+    },
+    {
+      "text": "instituciones educativas de preescolar",
+      "relevance": 0.551225,
+      "count": 1
+    },
+    {
+      "text": "Concepciones Concepciones Concepciones",
+      "relevance": 0.54799,
+      "count": 1
+    },
+    {
+      "text": "tedricas del \u00e9nfasis",
+      "relevance": 0.544857,
+      "count": 1
+    },
+    {
+      "text": "\u00e9nfasis de la MAESTRIA",
+      "relevance": 0.542895,
+      "count": 1
+    },
+    {
+      "text": "jornada mixta",
+      "relevance": 0.541219,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.539141,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.537681,
+      "count": 5
+    },
+    {
+      "text": "areas de \u00e9nfasis",
+      "relevance": 0.536456,
+      "count": 1
+    },
+    {
+      "text": "campos de la Educacion",
+      "relevance": 0.533515,
+      "count": 1
+    },
+    {
+      "text": "respectivos Enfasis",
+      "relevance": 0.531936,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n",
+      "relevance": 0.529639,
       "count": 1
     },
     {
       "text": "area de Ciencias de la Educacion",
-      "relevance": 0.519395,
+      "relevance": 0.528672,
       "count": 1
     },
     {
-      "text": "periodicidad anual",
-      "relevance": 0.519288,
+      "text": "sedes Tulua",
+      "relevance": 0.528579,
       "count": 1
+    },
+    {
+      "text": "modalidades de investigacion",
+      "relevance": 0.528241,
+      "count": 1
+    },
+    {
+      "text": "fecha de su aprobacion",
+      "relevance": 0.522249,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.521899,
+      "count": 1
+    },
+    {
+      "text": "OBJETIVO GENERAL",
+      "relevance": 0.521686,
+      "count": 2
+    },
+    {
+      "text": "Sedes de la Universidad de Valle",
+      "relevance": 0.521464,
+      "count": 1
+    },
+    {
+      "text": "EDUCACION",
+      "relevance": 0.520317,
+      "count": 9
+    },
+    {
+      "text": "Instituciones de Educaci\u00e9dn Media",
+      "relevance": 0.520026,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.519362,
+      "count": 2
     }
   ]
 }

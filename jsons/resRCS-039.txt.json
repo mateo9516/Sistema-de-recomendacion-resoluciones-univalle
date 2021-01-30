@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2288,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.660949,
+      "count": 3
+    },
+    {
+      "text": "compra de un predio",
+      "relevance": 0.650833,
+      "count": 2
+    },
+    {
+      "text": "Municipio de Santiago de Cali",
+      "relevance": 0.637401,
+      "count": 2
+    },
+    {
+      "text": "Senor Rector",
+      "relevance": 0.618048,
+      "count": 1
+    },
+    {
+      "text": "propietario del predio",
+      "relevance": 0.609446,
+      "count": 1
+    },
+    {
+      "text": "numero predial",
+      "relevance": 0.603715,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.585653,
+      "count": 3
+    },
+    {
+      "text": "Matricula Inmobiliaria No",
+      "relevance": 0.565055,
+      "count": 2
+    },
+    {
+      "text": "Corretaje Inmobiliario",
+      "relevance": 0.56298,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.55016,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.549757,
+      "count": 1
+    },
+    {
+      "text": "Paragrafo del Articulo",
+      "relevance": 0.540784,
+      "count": 1
+    },
+    {
+      "text": "dias de mayo del afo",
+      "relevance": 0.534702,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.531088,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior Pagina",
+      "relevance": 0.519548,
+      "count": 1
+    },
+    {
+      "text": "Inmobiliaria Bienco S.A.",
+      "relevance": 0.513427,
+      "count": 2
+    },
+    {
+      "text": "Literal k",
+      "relevance": 0.50782,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.506997,
+      "count": 1
+    },
+    {
+      "text": "Estatuto de Contratacion",
+      "relevance": 0.499697,
+      "count": 1
+    },
+    {
+      "text": "tramites necesarios",
+      "relevance": 0.494053,
+      "count": 2
+    },
+    {
+      "text": "virtud del Contrato",
+      "relevance": 0.494053,
+      "count": 1
+    },
+    {
+      "text": "4rea de lote",
+      "relevance": 0.492409,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.491338,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.489936,
+      "count": 1
+    },
+    {
+      "text": "VICTOR JAVIER SAAVEDRA MERCADO",
+      "relevance": 0.477995,
+      "count": 1
+    },
+    {
+      "text": "Instituto de Ciencias Sociales de Cali",
+      "relevance": 0.476982,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.476626,
+      "count": 1
+    },
+    {
+      "text": "ofrecimiento de la Inmobiliaria Bienco S.A",
+      "relevance": 0.47037,
+      "count": 1
+    },
+    {
+      "text": "area de lote",
+      "relevance": 0.469336,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones de la Torre Institucional",
+      "relevance": 0.467509,
+      "count": 1
+    }
+  ]
+}

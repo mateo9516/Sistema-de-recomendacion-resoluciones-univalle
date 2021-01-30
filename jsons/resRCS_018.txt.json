@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4317,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.746675,
+      "count": 6
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.620672,
+      "count": 2
+    },
+    {
+      "text": "nivel acad\u00e9mico",
+      "relevance": 0.60671,
+      "count": 1
+    },
+    {
+      "text": "peticion de parte",
+      "relevance": 0.598178,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.591246,
+      "count": 1
+    },
+    {
+      "text": "Contencioso Administrativo",
+      "relevance": 0.589358,
+      "count": 1
+    },
+    {
+      "text": "formales contenidos",
+      "relevance": 0.583047,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.558099,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.558076,
+      "count": 6
+    },
+    {
+      "text": "actos administrativos",
+      "relevance": 0.555154,
+      "count": 1
+    },
+    {
+      "text": "titulo de Especialista",
+      "relevance": 0.554225,
+      "count": 2
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.546273,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.545596,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de ESPECIALIZACION",
+      "relevance": 0.539082,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.534483,
+      "count": 5
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.530721,
+      "count": 1
+    },
+    {
+      "text": "municipios de Palmira",
+      "relevance": 0.526483,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional emitio",
+      "relevance": 0.525213,
+      "count": 1
+    },
+    {
+      "text": "nivel de tecnologia",
+      "relevance": 0.516209,
+      "count": 1
+    },
+    {
+      "text": "Yumbo Valle del Cauca",
+      "relevance": 0.512787,
+      "count": 1
+    },
+    {
+      "text": "ESPECIALIZACION TECNOLOGICA",
+      "relevance": 0.512584,
+      "count": 1
+    },
+    {
+      "text": "MECATRONICA patra",
+      "relevance": 0.506046,
+      "count": 1
+    },
+    {
+      "text": "omision de palabras",
+      "relevance": 0.505467,
+      "count": 1
+    },
+    {
+      "text": "error involuntario",
+      "relevance": 0.505004,
+      "count": 1
+    },
+    {
+      "text": "estudio de posgrado",
+      "relevance": 0.503286,
+      "count": 1
+    },
+    {
+      "text": "Tecndlogo Especialista",
+      "relevance": 0.503193,
+      "count": 1
+    },
+    {
+      "text": "fecha de aprobacion",
+      "relevance": 0.502133,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.502116,
+      "count": 1
+    },
+    {
+      "text": "siguiente forma",
+      "relevance": 0.502116,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.501901,
+      "count": 1
+    }
+  ]
+}

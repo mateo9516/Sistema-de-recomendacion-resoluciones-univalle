@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Comunicacion Social",
+      "relevance": 0.769081,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.766343,
+      "count": 3
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.716494,
+      "count": 2
+    },
+    {
+      "text": "fecha de aprobacion",
+      "relevance": 0.69531,
+      "count": 1
+    },
+    {
+      "text": "Resoluci6n",
+      "relevance": 0.646178,
+      "count": 2
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.632103,
+      "count": 1
+    },
+    {
+      "text": "Comunicaci\u00e9n Social",
+      "relevance": 0.623388,
+      "count": 2
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.593456,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.57508,
+      "count": 2
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.571762,
+      "count": 1
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.562342,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.562171,
+      "count": 1
+    },
+    {
+      "text": "Comunicaci6n",
+      "relevance": 0.558478,
+      "count": 1
+    },
+    {
+      "text": "denominacion del programa",
+      "relevance": 0.549793,
+      "count": 1
+    },
+    {
+      "text": "titulo Comunicador Social",
+      "relevance": 0.545275,
+      "count": 1
+    },
+    {
+      "text": "Educaci6n Superior",
+      "relevance": 0.538416,
+      "count": 1
+    },
+    {
+      "text": "Comunicaci6n Social",
+      "relevance": 0.523425,
+      "count": 2
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.523128,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.522831,
+      "count": 1
+    },
+    {
+      "text": "Artes Integradas",
+      "relevance": 0.516915,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.508265,
+      "count": 2
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.501471,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.500978,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.493271,
+      "count": 1
+    },
+    {
+      "text": "Plan de Estudios de Ciencias",
+      "relevance": 0.491192,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad de Artes Integradas",
+      "relevance": 0.48973,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.487399,
+      "count": 1
+    },
+    {
+      "text": "denominacion del programa acad\u00e9mico",
+      "relevance": 0.486973,
+      "count": 1
+    },
+    {
+      "text": "condiciones de calidad",
+      "relevance": 0.486902,
+      "count": 1
+    },
+    {
+      "text": "registros calificados de los programas acad\u00e9micos",
+      "relevance": 0.486878,
+      "count": 1
+    }
+  ]
+}

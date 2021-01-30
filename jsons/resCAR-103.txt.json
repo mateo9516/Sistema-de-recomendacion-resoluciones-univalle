@@ -1,160 +1,160 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 4574,
+    "text_characters": 2287,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.670966,
-      "count": 2
+      "relevance": 0.672408,
+      "count": 1
     },
     {
       "text": "Comit\u00e9 de Evaluacion",
-      "relevance": 0.66723,
-      "count": 4
+      "relevance": 0.667222,
+      "count": 2
     },
     {
       "text": "Santiago de Cali",
-      "relevance": 0.628882,
-      "count": 2
+      "relevance": 0.629769,
+      "count": 1
     },
     {
       "text": "Programa respectivo",
-      "relevance": 0.605869,
-      "count": 2
+      "relevance": 0.605947,
+      "count": 1
     },
     {
       "text": "equivalencias correspondientes",
-      "relevance": 0.581295,
-      "count": 2
+      "relevance": 0.581169,
+      "count": 1
     },
     {
       "text": "titulos de Estadistico",
-      "relevance": 0.571484,
-      "count": 2
+      "relevance": 0.571407,
+      "count": 1
     },
     {
       "text": "primer caso",
-      "relevance": 0.569482,
-      "count": 2
+      "relevance": 0.569401,
+      "count": 1
     },
     {
       "text": "experiencia profesional",
-      "relevance": 0.563228,
-      "count": 2
+      "relevance": 0.56319,
+      "count": 1
     },
     {
       "text": "actividades acad\u00e9micas",
-      "relevance": 0.55579,
-      "count": 2
+      "relevance": 0.555829,
+      "count": 1
     },
     {
       "text": "Comit\u00e9 de Programa",
-      "relevance": 0.554687,
-      "count": 2
+      "relevance": 0.55469,
+      "count": 1
     },
     {
       "text": "ultimo caso",
-      "relevance": 0.549306,
-      "count": 2
+      "relevance": 0.549216,
+      "count": 1
     },
     {
       "text": "requisitos acad\u00e9micos",
-      "relevance": 0.542609,
-      "count": 2
+      "relevance": 0.54261,
+      "count": 1
     },
     {
       "text": "dias del mes de octubre",
-      "relevance": 0.5423,
-      "count": 2
-    },
-    {
-      "text": "Facultad de Ingenieria",
-      "relevance": 0.538165,
-      "count": 2
+      "relevance": 0.542203,
+      "count": 1
     },
     {
       "text": "planes de estudios",
-      "relevance": 0.537946,
-      "count": 2
+      "relevance": 0.538592,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.538074,
+      "count": 1
     },
     {
       "text": "otorgamiento de titulos",
-      "relevance": 0.528767,
-      "count": 2
+      "relevance": 0.528682,
+      "count": 1
     },
     {
       "text": "palabra Estadistico",
-      "relevance": 0.524866,
-      "count": 2
+      "relevance": 0.524797,
+      "count": 1
     },
     {
       "text": "titulo de Ingeniero",
-      "relevance": 0.521569,
-      "count": 2
+      "relevance": 0.521501,
+      "count": 1
     },
     {
       "text": "Consejo Acad\u00e9mico de la Universidad",
-      "relevance": 0.51966,
-      "count": 2
+      "relevance": 0.520001,
+      "count": 1
     },
     {
       "text": "Consejo Directivo de la Universidad",
-      "relevance": 0.518131,
-      "count": 2
+      "relevance": 0.518742,
+      "count": 1
     },
     {
       "text": "estudio de los documentos",
-      "relevance": 0.512846,
-      "count": 2
-    },
-    {
-      "text": "Estatuto General",
-      "relevance": 0.503826,
-      "count": 2
+      "relevance": 0.512895,
+      "count": 1
     },
     {
       "text": "literal c",
-      "relevance": 0.502247,
-      "count": 2
+      "relevance": 0.502173,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.502173,
+      "count": 1
     },
     {
       "text": "Resolucion No",
-      "relevance": 0.498484,
-      "count": 2
+      "relevance": 0.498412,
+      "count": 1
     },
     {
       "text": "Resoluci\u00e9n No",
-      "relevance": 0.492546,
-      "count": 10
+      "relevance": 0.492478,
+      "count": 5
     },
     {
       "text": "vez",
-      "relevance": 0.492138,
-      "count": 2
+      "relevance": 0.492082,
+      "count": 1
     },
     {
       "text": "salon de reuniones del Consejo Acad\u00e9mico",
-      "relevance": 0.483866,
-      "count": 2
+      "relevance": 0.483989,
+      "count": 1
     },
     {
       "text": "Facultad",
-      "relevance": 0.482053,
-      "count": 2
+      "relevance": 0.481993,
+      "count": 1
     },
     {
       "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.479445,
-      "count": 2
+      "relevance": 0.479606,
+      "count": 1
     },
     {
       "text": "Ingeniero",
-      "relevance": 0.478934,
-      "count": 2
+      "relevance": 0.478881,
+      "count": 1
     }
   ]
 }

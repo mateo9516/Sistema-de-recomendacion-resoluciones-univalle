@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5542,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "recursos del Fondo de Ciencia",
+      "relevance": 0.622351,
+      "count": 1
+    },
+    {
+      "text": "Sistema General de Regalias",
+      "relevance": 0.598753,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.578648,
+      "count": 2
+    },
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.56567,
+      "count": 2
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.565204,
+      "count": 1
+    },
+    {
+      "text": "Sehor Rector",
+      "relevance": 0.56117,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.555094,
+      "count": 2
+    },
+    {
+      "text": "Ministerio de Hacienda",
+      "relevance": 0.545116,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.54152,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.538694,
+      "count": 3
+    },
+    {
+      "text": "SECTOR TRANSFORMADORES",
+      "relevance": 0.5375,
+      "count": 2
+    },
+    {
+      "text": "FCTel del Sistema General",
+      "relevance": 0.532339,
+      "count": 1
+    },
+    {
+      "text": "Reuniones de la Torre Institucional",
+      "relevance": 0.529823,
+      "count": 1
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.528401,
+      "count": 2
+    },
+    {
+      "text": "Estatuto Organico del Presupuesto",
+      "relevance": 0.527297,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.52719,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de las facultades",
+      "relevance": 0.52719,
+      "count": 1
+    },
+    {
+      "text": "giro de los recursos correspondientes",
+      "relevance": 0.526099,
+      "count": 1
+    },
+    {
+      "text": "Sefior Rector de la Universidad",
+      "relevance": 0.525727,
+      "count": 1
+    },
+    {
+      "text": "Fondo de Ciencia",
+      "relevance": 0.52559,
+      "count": 1
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.523506,
+      "count": 1
+    },
+    {
+      "text": "CULTURA DE CIENCIA",
+      "relevance": 0.522686,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.520094,
+      "count": 1
+    },
+    {
+      "text": "proyectos aprobados",
+      "relevance": 0.519833,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.517967,
+      "count": 2
+    },
+    {
+      "text": "siguientes proyectos",
+      "relevance": 0.51478,
+      "count": 1
+    },
+    {
+      "text": "Secretaria T\u00e9cnica del OCAD",
+      "relevance": 0.51438,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.513689,
+      "count": 1
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.513096,
+      "count": 1
+    },
+    {
+      "text": "Ultimo trimestre del ano",
+      "relevance": 0.512695,
+      "count": 1
+    }
+  ]
+}

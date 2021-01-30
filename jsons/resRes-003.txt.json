@@ -1,159 +1,159 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 7170,
+    "text_characters": 3695,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "actividades desarrolladas",
-      "relevance": 0.655978,
+      "text": "valor total de los derechos",
+      "relevance": 0.711557,
       "count": 1
     },
     {
-      "text": "Consejo Directivo",
-      "relevance": 0.626502,
+      "text": "siguientes valores",
+      "relevance": 0.682299,
+      "count": 1
+    },
+    {
+      "text": "estudiantes presenciales de los Programas",
+      "relevance": 0.65122,
+      "count": 1
+    },
+    {
+      "text": "Derechos Especiales",
+      "relevance": 0.642221,
+      "count": 3
+    },
+    {
+      "text": "valor correspondiente",
+      "relevance": 0.59026,
       "count": 2
     },
     {
-      "text": "comit\u00e9 evaluador",
-      "relevance": 0.621714,
-      "count": 3
-    },
-    {
-      "text": "titulos acad\u00e9micos",
-      "relevance": 0.604795,
-      "count": 3
-    },
-    {
-      "text": "Condiciones del aspirante",
-      "relevance": 0.604539,
-      "count": 1
-    },
-    {
-      "text": "requerimientos de certificacion faltantes",
-      "relevance": 0.581995,
-      "count": 1
-    },
-    {
-      "text": "programas acad\u00e9micos",
-      "relevance": 0.577171,
-      "count": 3
-    },
-    {
-      "text": "competencia del candidato de acuerdo",
-      "relevance": 0.562546,
-      "count": 1
-    },
-    {
-      "text": "director del programa respectivo",
-      "relevance": 0.559859,
+      "text": "Servicio M\u00e9dico Estudiantil",
+      "relevance": 0.586639,
       "count": 2
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.552992,
-      "count": 2
-    },
-    {
-      "text": "juicio del comit\u00e9 evaluador",
-      "relevance": 0.549255,
-      "count": 3
-    },
-    {
-      "text": "comit\u00e9 de curriculo respectivo",
-      "relevance": 0.539841,
+      "text": "Derechos Econ\u00e9micos",
+      "relevance": 0.582262,
       "count": 1
     },
     {
       "text": "Consejo Superior",
-      "relevance": 0.536271,
+      "relevance": 0.580959,
+      "count": 3
+    },
+    {
+      "text": "normas vigentes",
+      "relevance": 0.562885,
+      "count": 1
+    },
+    {
+      "text": "valor total de los Derechos Econ\u00e9micos de la Matricula Financiera",
+      "relevance": 0.562243,
+      "count": 1
+    },
+    {
+      "text": "Sede Cali",
+      "relevance": 0.552392,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.548119,
+      "count": 1
+    },
+    {
+      "text": "forma clara",
+      "relevance": 0.544443,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.52454,
+      "count": 1
+    },
+    {
+      "text": "Salud de la Universidad del Valle",
+      "relevance": 0.523421,
       "count": 2
     },
     {
-      "text": "consejo de facultad",
-      "relevance": 0.534154,
-      "count": 4
-    },
-    {
-      "text": "costo de las asignaturas",
-      "relevance": 0.532675,
+      "text": "uso de sus atribuciones",
+      "relevance": 0.518906,
       "count": 1
     },
     {
-      "text": "director del programa",
-      "relevance": 0.530844,
+      "text": "efectos de expedicion",
+      "relevance": 0.516719,
       "count": 1
     },
     {
-      "text": "aprobacion del caso",
-      "relevance": 0.529772,
+      "text": "dias del mes de enero",
+      "relevance": 0.516677,
       "count": 1
     },
     {
-      "text": "Universidad del Valle podra",
-      "relevance": 0.528399,
+      "text": "CARNE ESTUDIANTIL",
+      "relevance": 0.512747,
       "count": 1
     },
     {
-      "text": "titulo acad\u00e9mico universitario",
-      "relevance": 0.527613,
-      "count": 1
-    },
-    {
-      "text": "candidato seprocedera",
-      "relevance": 0.526472,
-      "count": 1
-    },
-    {
-      "text": "textos escritos",
-      "relevance": 0.525898,
+      "text": "efectos de registro de notas",
+      "relevance": 0.510201,
       "count": 1
     },
     {
       "text": "RESOLUCION No",
-      "relevance": 0.524316,
+      "relevance": 0.510029,
+      "count": 2
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.502949,
       "count": 1
     },
     {
-      "text": "instituto acad\u00e9mico",
-      "relevance": 0.522594,
-      "count": 5
-    },
-    {
-      "text": "Comit\u00e9 de Curriculo de la Universidad",
-      "relevance": 0.520954,
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.502102,
       "count": 1
     },
     {
-      "text": "consideracion del comit\u00e9 del programa acad\u00e9mico",
-      "relevance": 0.519657,
+      "text": "Mediante Resolucio\u00e9n No",
+      "relevance": 0.501691,
       "count": 1
     },
     {
-      "text": "trav\u00e9s de los programas acad\u00e9micos",
-      "relevance": 0.519598,
+      "text": "FINANCIERA DE ESTUDIANTES",
+      "relevance": 0.498137,
       "count": 1
     },
     {
-      "text": "presente resolucion",
-      "relevance": 0.518602,
+      "text": "dependencia especializada de acuerdo",
+      "relevance": 0.496704,
       "count": 1
     },
     {
-      "text": "requisitos previstos",
-      "relevance": 0.518397,
+      "text": "cuenta fiduciaria",
+      "relevance": 0.494842,
       "count": 1
     },
     {
-      "text": "t\u00e9rminos de los literales",
-      "relevance": 0.517672,
+      "text": "estudiantes presenciales",
+      "relevance": 0.494462,
       "count": 1
     },
     {
-      "text": "cuenta diversas",
-      "relevance": 0.51734,
+      "text": "salario minimo mensual vigente",
+      "relevance": 0.493151,
+      "count": 1
+    },
+    {
+      "text": "parte del Servicio",
+      "relevance": 0.491894,
       "count": 1
     }
   ]

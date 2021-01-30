@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Institutos Acad\u00e9micos de la Universidad",
+      "relevance": 0.895767,
+      "count": 1
+    },
+    {
+      "text": "Institutos Acad\u00e9micos",
+      "relevance": 0.741375,
+      "count": 1
+    },
+    {
+      "text": "Valle gestion",
+      "relevance": 0.722717,
+      "count": 2
+    },
+    {
+      "text": "Ambiental Universidad ordinarios",
+      "relevance": 0.674788,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.641578,
+      "count": 3
+    },
+    {
+      "text": "compromisos administrativos",
+      "relevance": 0.640463,
+      "count": 1
+    },
+    {
+      "text": "infraestructura administrativa",
+      "relevance": 0.640129,
+      "count": 9
+    },
+    {
+      "text": "adopcion de programas concretos",
+      "relevance": 0.634702,
+      "count": 1
+    },
+    {
+      "text": "alto nivel acad\u00e9mico",
+      "relevance": 0.624226,
+      "count": 1
+    },
+    {
+      "text": "parte integral",
+      "relevance": 0.62093,
+      "count": 1
+    },
+    {
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.582349,
+      "count": 3
+    },
+    {
+      "text": "integral centrada",
+      "relevance": 0.57427,
+      "count": 21
+    },
+    {
+      "text": "estudiante integral centrada",
+      "relevance": 0.567206,
+      "count": 3
+    },
+    {
+      "text": "formacion integral",
+      "relevance": 0.566608,
+      "count": 1
+    },
+    {
+      "text": "transformacion de la planta fisica",
+      "relevance": 0.564741,
+      "count": 1
+    },
+    {
+      "text": "Exito Acad\u00e9mico",
+      "relevance": 0.553663,
+      "count": 3
+    },
+    {
+      "text": "administrativos",
+      "relevance": 0.550789,
+      "count": 3
+    },
+    {
+      "text": "acad\u00e9mico fisica",
+      "relevance": 0.539701,
+      "count": 1
+    },
+    {
+      "text": "gestion Acad\u00e9mica",
+      "relevance": 0.536865,
+      "count": 6
+    },
+    {
+      "text": "lineamientos institucionales",
+      "relevance": 0.532737,
+      "count": 1
+    },
+    {
+      "text": "financiera",
+      "relevance": 0.530053,
+      "count": 24
+    },
+    {
+      "text": "Institucional de Pro",
+      "relevance": 0.530008,
+      "count": 3
+    },
+    {
+      "text": "estudiante",
+      "relevance": 0.525493,
+      "count": 10
+    },
+    {
+      "text": "acad\u00e9micos",
+      "relevance": 0.525417,
+      "count": 6
+    },
+    {
+      "text": "vigencia fiscal",
+      "relevance": 0.524113,
+      "count": 1
+    },
+    {
+      "text": "innovacion del Valle tecnoldgica",
+      "relevance": 0.524052,
+      "count": 1
+    },
+    {
+      "text": "Internacional programas",
+      "relevance": 0.523083,
+      "count": 1
+    },
+    {
+      "text": "Plan Programatico",
+      "relevance": 0.521254,
+      "count": 5
+    },
+    {
+      "text": "Gestion Universidad sistemas",
+      "relevance": 0.520321,
+      "count": 1
+    },
+    {
+      "text": "sociedad caracter regional",
+      "relevance": 0.520049,
+      "count": 3
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

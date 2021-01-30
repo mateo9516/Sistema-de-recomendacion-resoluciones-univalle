@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3454,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.598291,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.596952,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.580125,
+      "count": 2
+    },
+    {
+      "text": "numeral anterior",
+      "relevance": 0.568153,
+      "count": 1
+    },
+    {
+      "text": "Sefor Rector",
+      "relevance": 0.567324,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.565096,
+      "count": 1
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.565026,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias de la Universidad",
+      "relevance": 0.564619,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.562791,
+      "count": 1
+    },
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.557429,
+      "count": 2
+    },
+    {
+      "text": "orden Departamental",
+      "relevance": 0.557118,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Organico del Presupuesto",
+      "relevance": 0.546643,
+      "count": 1
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.543569,
+      "count": 2
+    },
+    {
+      "text": "6n del compromiso",
+      "relevance": 0.535875,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.535875,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.535677,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la Torre Institucional",
+      "relevance": 0.533203,
+      "count": 1
+    },
+    {
+      "text": "entre universitario",
+      "relevance": 0.529737,
+      "count": 1
+    },
+    {
+      "text": "recepcion de bienes",
+      "relevance": 0.525659,
+      "count": 1
+    },
+    {
+      "text": "Senor Rector de la Universidad",
+      "relevance": 0.521964,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.520852,
+      "count": 1
+    },
+    {
+      "text": "OBJETO PRESUPUESTO",
+      "relevance": 0.51874,
+      "count": 1
+    },
+    {
+      "text": "contratos corporativos de suministro",
+      "relevance": 0.518379,
+      "count": 1
+    },
+    {
+      "text": "Universidades Publicas",
+      "relevance": 0.518234,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.516783,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.510624,
+      "count": 1
+    },
+    {
+      "text": "certificados de disponibilidad",
+      "relevance": 0.510624,
+      "count": 1
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.508711,
+      "count": 1
+    },
+    {
+      "text": "dias de noviembre",
+      "relevance": 0.499642,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.499244,
+      "count": 1
+    }
+  ]
+}

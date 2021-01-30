@@ -25,15 +25,17 @@ import plotly.graph_objs as go
 from IPython import get_ipython
 
 model = Word2Vec.load("word2vec.model")
+#model = Word2Vec.load("fastText.model")
 #print(len(model.wv.vocab))
 
-model.build_vocab([["beneficios","admision","afro"]], update=True)
+#model.build_vocab([["beneficios","admision","afro"]], update=True)
 
-model.train([["beneficios","admision","afro"]],total_examples=1,epochs=1)
+#model.train([["beneficios","admision","afro"]],total_examples=1,epochs=1)
 
 #print(len(model.wv.vocab))
 
 #annoy_index = AnnoyIndexer(model,100)
+
 
 
 
@@ -50,15 +52,17 @@ for x in consulta:
 top = model.wv.most_similar(entrada,topn=30)
 
 lista_terminos = []
+lista_valores = []
 #print(top)
 
 for palabra, valor in top:
     lista_terminos.append(palabra)
+    lista_valores.append(valor)
 
 #print(lista_terminos)
 
 matriz = []
-with open('./Categorias.txt', 'rt') as f:
+with open('./Categorias.txt', 'rt',encoding='utf-8') as f:
     lineas = f.readlines()
     for linea in lineas:
         linea = linea.split('*')
@@ -66,16 +70,19 @@ with open('./Categorias.txt', 'rt') as f:
 
 aux=[]
 resoluciones = []
+valores =[]
 
-for i in lista_terminos:
+
+for i in range(len(lista_terminos)):
     for a,b in matriz:
-        aux=re.split(' |, ',b)
-        if i in aux:
+        aux=re.split(' |,',b)
+        if lista_terminos[i] in aux:
             elemento = matriz.index([a,b])
             resoluciones.append(elemento)
+            valores.append(lista_valores[i])
 
 
 
 print('puede consultar las resoluciones: ')
 for i in range(len(resoluciones)):
-    print(matriz[resoluciones[i]][0])
+    print(matriz[resoluciones[i]][0]," /// ",valores[i])

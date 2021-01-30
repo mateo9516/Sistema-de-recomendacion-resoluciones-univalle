@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5845,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.684246,
+      "count": 8
+    },
+    {
+      "text": "ponencia oral",
+      "relevance": 0.620209,
+      "count": 4
+    },
+    {
+      "text": "Articulos publicados",
+      "relevance": 0.616516,
+      "count": 3
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.592304,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Posgrados",
+      "relevance": 0.579791,
+      "count": 2
+    },
+    {
+      "text": "tipo de productos",
+      "relevance": 0.579162,
+      "count": 2
+    },
+    {
+      "text": "evento cientifico internacional",
+      "relevance": 0.573764,
+      "count": 2
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.570234,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.561444,
+      "count": 2
+    },
+    {
+      "text": "numero total",
+      "relevance": 0.559572,
+      "count": 1
+    },
+    {
+      "text": "Reuniones de Rectoria",
+      "relevance": 0.552019,
+      "count": 1
+    },
+    {
+      "text": "Trabajos de Investigacion",
+      "relevance": 0.551361,
+      "count": 2
+    },
+    {
+      "text": "Tesis de Doctorado",
+      "relevance": 0.540908,
+      "count": 1
+    },
+    {
+      "text": "siguiente numero de articulos",
+      "relevance": 0.539331,
+      "count": 1
+    },
+    {
+      "text": "resultado de la actividad",
+      "relevance": 0.537782,
+      "count": 1
+    },
+    {
+      "text": "impacto de los mismos",
+      "relevance": 0.534848,
+      "count": 1
+    },
+    {
+      "text": "aprobaci\u00e9n de la presente Resolucion.UNIVERSIDAD",
+      "relevance": 0.534719,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.533229,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.529111,
+      "count": 1
+    },
+    {
+      "text": "Sede San Fernando",
+      "relevance": 0.521906,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 Central de Curriculo",
+      "relevance": 0.520436,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.51935,
+      "count": 1
+    },
+    {
+      "text": "literal c",
+      "relevance": 0.518776,
+      "count": 1
+    },
+    {
+      "text": "Profundizacion de Maestria",
+      "relevance": 0.518731,
+      "count": 3
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.51334,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento doble",
+      "relevance": 0.513213,
+      "count": 1
+    },
+    {
+      "text": "tesis doctoral",
+      "relevance": 0.512977,
+      "count": 3
+    },
+    {
+      "text": "mencion de Meritoria",
+      "relevance": 0.5111,
+      "count": 2
+    },
+    {
+      "text": "solicitud de registro de una patente",
+      "relevance": 0.509733,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.508586,
+      "count": 1
+    }
+  ]
+}

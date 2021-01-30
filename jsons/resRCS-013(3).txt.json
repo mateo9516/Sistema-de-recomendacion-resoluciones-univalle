@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1839,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.787529,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.668298,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.637204,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios conducente",
+      "relevance": 0.617153,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.611603,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.607802,
+      "count": 1
+    },
+    {
+      "text": "titulo acad\u00e9mico",
+      "relevance": 0.596339,
+      "count": 1
+    },
+    {
+      "text": "Senor Gobernador",
+      "relevance": 0.583499,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.579493,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.562152,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.55896,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de ESPECIALIDAD",
+      "relevance": 0.552644,
+      "count": 1
+    },
+    {
+      "text": "solicitud de Registro Calificado",
+      "relevance": 0.520772,
+      "count": 1
+    },
+    {
+      "text": "Salon de Reuniones del Despacho",
+      "relevance": 0.518461,
+      "count": 1
+    },
+    {
+      "text": "Programas de acuerdo",
+      "relevance": 0.509968,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.508892,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mico de ESPECIALIZACION",
+      "relevance": 0.508246,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.502489,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.498684,
+      "count": 4
+    },
+    {
+      "text": "Escuela de Medicina",
+      "relevance": 0.498062,
+      "count": 1
+    },
+    {
+      "text": "titulo de ESPECIALISTA",
+      "relevance": 0.492125,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.491618,
+      "count": 1
+    },
+    {
+      "text": "dia de marzo",
+      "relevance": 0.486368,
+      "count": 1
+    },
+    {
+      "text": "TRAUMATOLOGIA",
+      "relevance": 0.473876,
+      "count": 5
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.466773,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.455557,
+      "count": 1
+    },
+    {
+      "text": "ORTOPEDIA",
+      "relevance": 0.4538,
+      "count": 6
+    },
+    {
+      "text": "modificd",
+      "relevance": 0.452011,
+      "count": 1
+    },
+    {
+      "text": "ESPECIALIDAD",
+      "relevance": 0.450189,
+      "count": 1
+    },
+    {
+      "text": "Especialista",
+      "relevance": 0.450189,
+      "count": 1
+    }
+  ]
+}

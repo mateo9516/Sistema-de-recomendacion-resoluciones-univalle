@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2500,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Publicacion de informacion",
+      "relevance": 0.672899,
+      "count": 1
+    },
+    {
+      "text": "Calendario Acad\u00e9mico",
+      "relevance": 0.651823,
+      "count": 1
+    },
+    {
+      "text": "procesos de Reingreso",
+      "relevance": 0.619741,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos",
+      "relevance": 0.613061,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.606489,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.588342,
+      "count": 2
+    },
+    {
+      "text": "Resoluci6n",
+      "relevance": 0.586461,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.567094,
+      "count": 1
+    },
+    {
+      "text": "Sede CALI",
+      "relevance": 0.565619,
+      "count": 2
+    },
+    {
+      "text": "SEMESTRES SUPERIORES",
+      "relevance": 0.56407,
+      "count": 1
+    },
+    {
+      "text": "parte de los Directores de Programa",
+      "relevance": 0.562492,
+      "count": 3
+    },
+    {
+      "text": "solicitudes via",
+      "relevance": 0.561004,
+      "count": 2
+    },
+    {
+      "text": "Descarga de recibos",
+      "relevance": 0.554862,
+      "count": 1
+    },
+    {
+      "text": "periodo AGOSTO",
+      "relevance": 0.548054,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.536554,
+      "count": 1
+    },
+    {
+      "text": "SRA de las decisiones",
+      "relevance": 0.534829,
+      "count": 2
+    },
+    {
+      "text": "REINGRESO",
+      "relevance": 0.518652,
+      "count": 5
+    },
+    {
+      "text": "dias de abril",
+      "relevance": 0.518127,
+      "count": 1
+    },
+    {
+      "text": "Sede de San Fernando",
+      "relevance": 0.513529,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.505268,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.504094,
+      "count": 1
+    },
+    {
+      "text": "PROCESO DE REINGRESO A PRIMER SEMESTRE",
+      "relevance": 0.50269,
+      "count": 1
+    },
+    {
+      "text": "Procesos",
+      "relevance": 0.499886,
+      "count": 1
+    },
+    {
+      "text": "Registro",
+      "relevance": 0.498211,
+      "count": 1
+    },
+    {
+      "text": "Secretario General",
+      "relevance": 0.494467,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.486033,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.483883,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.481974,
+      "count": 1
+    },
+    {
+      "text": "PREGRADO",
+      "relevance": 0.478918,
+      "count": 1
+    },
+    {
+      "text": "parte de los Directores",
+      "relevance": 0.47632,
+      "count": 1
+    }
+  ]
+}

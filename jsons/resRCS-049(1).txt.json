@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4899,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estudiantes de estratos",
+      "relevance": 0.693923,
+      "count": 1
+    },
+    {
+      "text": "horas diarias",
+      "relevance": 0.672396,
+      "count": 1
+    },
+    {
+      "text": "Hospital Universitario",
+      "relevance": 0.651999,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.60201,
+      "count": 2
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Medicina",
+      "relevance": 0.600018,
+      "count": 1
+    },
+    {
+      "text": "presente ayuda",
+      "relevance": 0.595505,
+      "count": 1
+    },
+    {
+      "text": "horas semanales",
+      "relevance": 0.566881,
+      "count": 1
+    },
+    {
+      "text": "Convenio Regulador de la Relaci6",
+      "relevance": 0.561013,
+      "count": 1
+    },
+    {
+      "text": "desarrollo cientifico",
+      "relevance": 0.55833,
+      "count": 1
+    },
+    {
+      "text": "Apoyo Econo\u00e9mico",
+      "relevance": 0.555813,
+      "count": 1
+    },
+    {
+      "text": "Evaristo Garcia E.S.E.",
+      "relevance": 0.553582,
+      "count": 1
+    },
+    {
+      "text": "clases magistrales",
+      "relevance": 0.553025,
+      "count": 1
+    },
+    {
+      "text": "estudiantes de escasos recursos",
+      "relevance": 0.551445,
+      "count": 1
+    },
+    {
+      "text": "labores asistenciales",
+      "relevance": 0.53623,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.533222,
+      "count": 1
+    },
+    {
+      "text": "financiacion de esta ayuda sera",
+      "relevance": 0.529458,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.528731,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de programas de posgrado",
+      "relevance": 0.524778,
+      "count": 1
+    },
+    {
+      "text": "afio de Internado",
+      "relevance": 0.524536,
+      "count": 2
+    },
+    {
+      "text": "tecnol\u00e9dgico de la salud",
+      "relevance": 0.524479,
+      "count": 1
+    },
+    {
+      "text": "ayuda econdmica mensual",
+      "relevance": 0.522782,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.520803,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.520635,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del ano del internado",
+      "relevance": 0.520526,
+      "count": 1
+    },
+    {
+      "text": "presencia de los estudiantes",
+      "relevance": 0.520042,
+      "count": 1
+    },
+    {
+      "text": "Convenio Posibilita",
+      "relevance": 0.519467,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.519295,
+      "count": 2
+    },
+    {
+      "text": "Docencia Servicio",
+      "relevance": 0.517938,
+      "count": 1
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.517852,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de la calidad de la educaci\u00e9dn",
+      "relevance": 0.516075,
+      "count": 1
+    }
+  ]
+}

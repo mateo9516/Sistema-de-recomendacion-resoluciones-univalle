@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3306,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "numeral anterior",
+      "relevance": 0.613187,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.601281,
+      "count": 2
+    },
+    {
+      "text": "modalidad de outsourcing",
+      "relevance": 0.597592,
+      "count": 1
+    },
+    {
+      "text": "diferentes dependencias de la Universidad",
+      "relevance": 0.592866,
+      "count": 1
+    },
+    {
+      "text": "Sefor Rector",
+      "relevance": 0.584372,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.579823,
+      "count": 2
+    },
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.578933,
+      "count": 2
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.565151,
+      "count": 1
+    },
+    {
+      "text": "celebracion del compromiso",
+      "relevance": 0.55605,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.555613,
+      "count": 1
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.548946,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.543801,
+      "count": 1
+    },
+    {
+      "text": "Estatuto Organico del Presupuesto",
+      "relevance": 0.541747,
+      "count": 1
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.53924,
+      "count": 2
+    },
+    {
+      "text": "modalidad de Fondo especial",
+      "relevance": 0.53919,
+      "count": 1
+    },
+    {
+      "text": "orden Departamental",
+      "relevance": 0.536364,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.528572,
+      "count": 1
+    },
+    {
+      "text": "sefor Rector de la Universidad",
+      "relevance": 0.528403,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la Torre Institucional",
+      "relevance": 0.526063,
+      "count": 1
+    },
+    {
+      "text": "Universidades Publicas",
+      "relevance": 0.522992,
+      "count": 1
+    },
+    {
+      "text": "entre universitario",
+      "relevance": 0.522809,
+      "count": 1
+    },
+    {
+      "text": "recepcion de bienes",
+      "relevance": 0.522424,
+      "count": 1
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.518145,
+      "count": 1
+    },
+    {
+      "text": "contrato corporativo",
+      "relevance": 0.517405,
+      "count": 1
+    },
+    {
+      "text": "OBJETO PRESUPUESTO",
+      "relevance": 0.517199,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.5158,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.512766,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.504878,
+      "count": 1
+    },
+    {
+      "text": "certificados de disponibilidad",
+      "relevance": 0.504878,
+      "count": 1
+    },
+    {
+      "text": "servicios",
+      "relevance": 0.501737,
+      "count": 3
+    }
+  ]
+}

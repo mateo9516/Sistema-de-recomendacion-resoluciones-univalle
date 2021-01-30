@@ -1,159 +1,159 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 12492,
+    "text_units": 1,
+    "text_characters": 1741,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "periodos acad\u00e9micos",
-      "relevance": 0.773547,
-      "count": 1
-    },
-    {
-      "text": "reglamentacion de Asistencias de Docencia",
-      "relevance": 0.750893,
-      "count": 1
-    },
-    {
-      "text": "estudiantes de Maestria",
-      "relevance": 0.635357,
-      "count": 3
-    },
-    {
-      "text": "calendario acad\u00e9mico",
-      "relevance": 0.59781,
-      "count": 3
-    },
-    {
-      "text": "Asistencia de Docencia",
-      "relevance": 0.591539,
-      "count": 9
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.586751,
-      "count": 3
-    },
-    {
-      "text": "Programa de Asistentes de Docencia",
-      "relevance": 0.585029,
-      "count": 1
-    },
-    {
-      "text": "apoyo econd\u00e9mico vigente",
-      "relevance": 0.576931,
-      "count": 1
-    },
-    {
-      "text": "semillero de docentes",
-      "relevance": 0.569616,
-      "count": 1
-    },
-    {
-      "text": "programas acad\u00e9micos",
-      "relevance": 0.562197,
-      "count": 1
-    },
-    {
-      "text": "Asistencias de Docencia",
-      "relevance": 0.560656,
-      "count": 5
-    },
-    {
       "text": "Consejo Superior",
-      "relevance": 0.555764,
+      "relevance": 0.655429,
+      "count": 2
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.646033,
+      "count": 1
+    },
+    {
+      "text": "Programas de Postgrado",
+      "relevance": 0.637745,
+      "count": 1
+    },
+    {
+      "text": "Fondo Comtn",
+      "relevance": 0.627736,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.614922,
+      "count": 1
+    },
+    {
+      "text": "Derechos Econ\u00e9micos de las matriculas",
+      "relevance": 0.575805,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.569455,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.561351,
+      "count": 1
+    },
+    {
+      "text": "valor de los derechos",
+      "relevance": 0.548713,
       "count": 1
     },
     {
       "text": "Instituto Acad\u00e9mico",
-      "relevance": 0.547536,
-      "count": 6
-    },
-    {
-      "text": "fecha de iniciacion de los cupos",
-      "relevance": 0.544703,
-      "count": 1
-    },
-    {
-      "text": "Vicerrectoria Acad\u00e9mica",
-      "relevance": 0.543946,
-      "count": 4
-    },
-    {
-      "text": "monto total",
-      "relevance": 0.543725,
-      "count": 1
-    },
-    {
-      "text": "presente Resoluci6n.UNIVERSIDAD DEL VALLE",
-      "relevance": 0.537009,
-      "count": 1
-    },
-    {
-      "text": "periodo acad\u00e9mico regular",
-      "relevance": 0.536982,
+      "relevance": 0.544775,
       "count": 2
     },
     {
-      "text": "caso de Programas de Maestrias",
-      "relevance": 0.536675,
+      "text": "Resoluci6n",
+      "relevance": 0.534532,
       "count": 1
     },
     {
-      "text": "Consejos de Facultad",
-      "relevance": 0.533753,
+      "text": "Fondo Comin",
+      "relevance": 0.531054,
+      "count": 1
+    },
+    {
+      "text": "parte pertinente",
+      "relevance": 0.520993,
+      "count": 1
+    },
+    {
+      "text": "Matricula Basica",
+      "relevance": 0.520651,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.512611,
+      "count": 1
+    },
+    {
+      "text": "Programa.UNIVERSIDAD DEL VALLE",
+      "relevance": 0.502965,
+      "count": 1
+    },
+    {
+      "text": "distribucion de los ingresos",
+      "relevance": 0.49737,
+      "count": 1
+    },
+    {
+      "text": "Resoluci\u00e9n",
+      "relevance": 0.496881,
       "count": 3
     },
     {
-      "text": "apoyos de Asistencia de Docencia",
-      "relevance": 0.531426,
+      "text": "respectivo programa acad\u00e9mico de postgrado",
+      "relevance": 0.49225,
       "count": 2
     },
     {
-      "text": "apoyo economico",
-      "relevance": 0.530692,
+      "text": "Agosto",
+      "relevance": 0.491686,
+      "count": 3
+    },
+    {
+      "text": "Derechos Especiales",
+      "relevance": 0.488982,
       "count": 1
     },
     {
-      "text": "vocacion acad\u00e9mico-investigativa",
-      "relevance": 0.52921,
+      "text": "Valle del Cauca",
+      "relevance": 0.481676,
       "count": 1
     },
     {
-      "text": "unidades acad\u00e9micas",
-      "relevance": 0.528918,
+      "text": "concepto de los costos",
+      "relevance": 0.480566,
       "count": 1
     },
     {
-      "text": "promedio ponderado",
-      "relevance": 0.526774,
+      "text": "Sal6n de Reuniones del Despacho",
+      "relevance": 0.465381,
       "count": 1
     },
     {
-      "text": "Grupo de Investigacion",
-      "relevance": 0.526048,
+      "text": "expedicion",
+      "relevance": 0.458227,
       "count": 1
     },
     {
-      "text": "inicio del semestre acad\u00e9mico regular",
-      "relevance": 0.523298,
+      "text": "Facultad",
+      "relevance": 0.456385,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.445463,
       "count": 1
     },
     {
-      "text": "apoyos parciales proporcionales",
-      "relevance": 0.52298,
+      "text": "Programas",
+      "relevance": 0.445196,
       "count": 1
     },
     {
-      "text": "unidad acad\u00e9mica",
-      "relevance": 0.522755,
+      "text": "Gobernador",
+      "relevance": 0.444911,
       "count": 1
     },
     {
-      "text": "docencia directa de acuerdo",
-      "relevance": 0.52245,
+      "text": "concepto",
+      "relevance": 0.440008,
       "count": 1
     }
   ]

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2675,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "personal de Empleados",
+      "relevance": 0.718854,
+      "count": 1
+    },
+    {
+      "text": "acuerdos suscritos",
+      "relevance": 0.691529,
+      "count": 2
+    },
+    {
+      "text": "Administrativos de la Universidad del Valle",
+      "relevance": 0.680107,
+      "count": 1
+    },
+    {
+      "text": "Empleados Publicos Administrativos",
+      "relevance": 0.646526,
+      "count": 1
+    },
+    {
+      "text": "organizaciones de empleados",
+      "relevance": 0.620712,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.617839,
+      "count": 1
+    },
+    {
+      "text": "Sindicato Mixto de Trabajadores",
+      "relevance": 0.610106,
+      "count": 1
+    },
+    {
+      "text": "vigencia de este Acuerdo Colectivo",
+      "relevance": 0.572904,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.569757,
+      "count": 2
+    },
+    {
+      "text": "Presidencia de la Republica",
+      "relevance": 0.558649,
+      "count": 1
+    },
+    {
+      "text": "Universidades Publicas Nacionales",
+      "relevance": 0.553705,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.553033,
+      "count": 1
+    },
+    {
+      "text": "temas tratados",
+      "relevance": 0.551836,
+      "count": 1
+    },
+    {
+      "text": "reuniones del Despacho de la Gobernadora",
+      "relevance": 0.551088,
+      "count": 1
+    },
+    {
+      "text": "Acta Final",
+      "relevance": 0.542635,
+      "count": 1
+    },
+    {
+      "text": "Seccional Cali",
+      "relevance": 0.523815,
+      "count": 2
+    },
+    {
+      "text": "Paola B.UNIVERSIDAD",
+      "relevance": 0.51754,
+      "count": 1
+    },
+    {
+      "text": "Republica reglamento",
+      "relevance": 0.517351,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria Administrativa",
+      "relevance": 0.516144,
+      "count": 1
+    },
+    {
+      "text": "Division de Recursos Humanos",
+      "relevance": 0.510759,
+      "count": 1
+    },
+    {
+      "text": "tramites de ley",
+      "relevance": 0.506528,
+      "count": 1
+    },
+    {
+      "text": "folios de fecha",
+      "relevance": 0.50572,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.505691,
+      "count": 1
+    },
+    {
+      "text": "Acta Final de Acuerdo Colectivo suscrita",
+      "relevance": 0.502345,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.502101,
+      "count": 1
+    },
+    {
+      "text": "pliego de solicitudes",
+      "relevance": 0.499699,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.498209,
+      "count": 2
+    },
+    {
+      "text": "servicio de la Institucion",
+      "relevance": 0.498139,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.496387,
+      "count": 1
+    },
+    {
+      "text": "dias de noviembre",
+      "relevance": 0.490795,
+      "count": 1
+    }
+  ]
+}

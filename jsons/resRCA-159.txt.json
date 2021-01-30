@@ -1,160 +1,160 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 3450,
+    "text_characters": 1725,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.828996,
-      "count": 6
+      "relevance": 0.830624,
+      "count": 3
     },
     {
       "text": "Administraci\u00e9n de Empresas",
-      "relevance": 0.684496,
-      "count": 2
+      "relevance": 0.685716,
+      "count": 1
     },
     {
       "text": "Consejo de la Facultad de Ciencias",
-      "relevance": 0.639563,
-      "count": 2
+      "relevance": 0.640527,
+      "count": 1
     },
     {
       "text": "grado postumo",
-      "relevance": 0.62365,
-      "count": 2
+      "relevance": 0.624513,
+      "count": 1
     },
     {
       "text": "obligaciones acad\u00e9micas",
-      "relevance": 0.60318,
-      "count": 2
+      "relevance": 0.603912,
+      "count": 1
     },
     {
       "text": "Santiago de Cali",
-      "relevance": 0.599056,
-      "count": 2
+      "relevance": 0.59976,
+      "count": 1
     },
     {
       "text": "c\u00e9dula de ciudadania No",
-      "relevance": 0.57844,
-      "count": 2
+      "relevance": 0.579003,
+      "count": 1
     },
     {
       "text": "momento de su fallecimiento",
-      "relevance": 0.569053,
-      "count": 2
+      "relevance": 0.56955,
+      "count": 1
     },
     {
       "text": "dias del mes de diciembre",
-      "relevance": 0.561938,
-      "count": 2
+      "relevance": 0.562386,
+      "count": 1
     },
     {
       "text": "normatividad interna",
-      "relevance": 0.559424,
-      "count": 2
+      "relevance": 0.559853,
+      "count": 1
     },
     {
       "text": "Sal6n de Reuniones",
-      "relevance": 0.555353,
-      "count": 2
+      "relevance": 0.555754,
+      "count": 1
     },
     {
       "text": "Grado P\u00e9stumo",
-      "relevance": 0.552554,
-      "count": 2
+      "relevance": 0.552935,
+      "count": 1
     },
     {
       "text": "Resolucion No",
-      "relevance": 0.549933,
-      "count": 2
+      "relevance": 0.550295,
+      "count": 1
     },
     {
       "text": "Resoluci\u00e9n No",
-      "relevance": 0.529678,
-      "count": 2
+      "relevance": 0.529895,
+      "count": 1
     },
     {
       "text": "Facultad de Ciencias de la Administraci\u00e9n",
-      "relevance": 0.528338,
-      "count": 2
+      "relevance": 0.528544,
+      "count": 1
     },
     {
       "text": "ceremonia de Grado Privada",
-      "relevance": 0.51324,
-      "count": 2
+      "relevance": 0.513336,
+      "count": 1
     },
     {
       "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.509992,
-      "count": 2
+      "relevance": 0.510065,
+      "count": 1
     },
     {
       "text": "entrega del diploma respectivo",
-      "relevance": 0.499002,
-      "count": 2
+      "relevance": 0.498995,
+      "count": 1
     },
     {
       "text": "sefior OSCAR MENESES GONZALEZ",
-      "relevance": 0.497548,
-      "count": 4
+      "relevance": 0.49753,
+      "count": 2
     },
     {
       "text": "uso de sus atribuciones",
-      "relevance": 0.482018,
-      "count": 2
+      "relevance": 0.481887,
+      "count": 1
     },
     {
       "text": "titulo de Administrador",
-      "relevance": 0.464108,
-      "count": 2
+      "relevance": 0.463847,
+      "count": 1
     },
     {
       "text": "Diciembre",
-      "relevance": 0.452897,
-      "count": 4
+      "relevance": 0.452556,
+      "count": 2
     },
     {
       "text": "Empresas",
-      "relevance": 0.442879,
-      "count": 4
+      "relevance": 0.442466,
+      "count": 2
     },
     {
       "text": "Otorgar Grado Po\u00e9stumo de Administrador",
-      "relevance": 0.43907,
-      "count": 2
+      "relevance": 0.43863,
+      "count": 1
     },
     {
       "text": "requisitos",
-      "relevance": 0.436894,
-      "count": 2
+      "relevance": 0.436438,
+      "count": 1
     },
     {
       "text": "Administraci\u00e9n",
-      "relevance": 0.436314,
-      "count": 2
+      "relevance": 0.435854,
+      "count": 1
     },
     {
       "text": "UNICO",
-      "relevance": 0.43447,
-      "count": 2
+      "relevance": 0.433997,
+      "count": 1
     },
     {
       "text": "Programa",
-      "relevance": 0.432551,
-      "count": 2
+      "relevance": 0.432065,
+      "count": 1
     },
     {
       "text": "Facultad",
-      "relevance": 0.431769,
-      "count": 2
+      "relevance": 0.431278,
+      "count": 1
     },
     {
       "text": "estudiante",
-      "relevance": 0.43161,
-      "count": 2
+      "relevance": 0.431117,
+      "count": 1
     }
   ]
 }

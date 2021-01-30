@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2181,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "segunda lengua",
+      "relevance": 0.771706,
+      "count": 2
+    },
+    {
+      "text": "inmersion total",
+      "relevance": 0.725296,
+      "count": 2
+    },
+    {
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.724281,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.668594,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.656647,
+      "count": 3
+    },
+    {
+      "text": "dominio de una segunda lengua",
+      "relevance": 0.6467,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de esta politica",
+      "relevance": 0.632678,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.616591,
+      "count": 2
+    },
+    {
+      "text": "programas intensivos",
+      "relevance": 0.594743,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de estimulos acad\u00e9micos",
+      "relevance": 0.587506,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.556516,
+      "count": 1
+    },
+    {
+      "text": "desarrollo profesoral",
+      "relevance": 0.543375,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior.UNIVERSIDAD DEL VALLE",
+      "relevance": 0.525991,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.524269,
+      "count": 1
+    },
+    {
+      "text": "instituciones extranjeras",
+      "relevance": 0.523973,
+      "count": 1
+    },
+    {
+      "text": "Universidad moderna",
+      "relevance": 0.52146,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.509659,
+      "count": 1
+    },
+    {
+      "text": "estrategias de modernizaci6",
+      "relevance": 0.504594,
+      "count": 1
+    },
+    {
+      "text": "relaci6n",
+      "relevance": 0.502597,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de comisiones",
+      "relevance": 0.496107,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.487503,
+      "count": 2
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.484195,
+      "count": 1
+    },
+    {
+      "text": "proyecci6on internacional",
+      "relevance": 0.482275,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.481044,
+      "count": 1
+    },
+    {
+      "text": "Salon de Reuniones del Despacho",
+      "relevance": 0.480756,
+      "count": 1
+    },
+    {
+      "text": "Resoluci6n",
+      "relevance": 0.47529,
+      "count": 1
+    },
+    {
+      "text": "consolidacion de la Institucion",
+      "relevance": 0.470282,
+      "count": 1
+    },
+    {
+      "text": "Comisiones Acad\u00e9micas",
+      "relevance": 0.469586,
+      "count": 1
+    },
+    {
+      "text": "cursos de Idiomas",
+      "relevance": 0.46598,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento de la Comisi6",
+      "relevance": 0.463401,
+      "count": 1
+    }
+  ]
+}

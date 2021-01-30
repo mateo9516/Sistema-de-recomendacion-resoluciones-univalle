@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4698,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "medida transitoria",
+      "relevance": 0.670324,
+      "count": 6
+    },
+    {
+      "text": "acad\u00e9micos de posgrado",
+      "relevance": 0.575556,
+      "count": 1
+    },
+    {
+      "text": "plan de estudios",
+      "relevance": 0.565488,
+      "count": 1
+    },
+    {
+      "text": "programa de estudios",
+      "relevance": 0.562074,
+      "count": 1
+    },
+    {
+      "text": "actual momento historico",
+      "relevance": 0.558135,
+      "count": 1
+    },
+    {
+      "text": "creacion del sistema de regionalizacion",
+      "relevance": 0.557941,
+      "count": 1
+    },
+    {
+      "text": "lengua extranjera",
+      "relevance": 0.556659,
+      "count": 2
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.555254,
+      "count": 1
+    },
+    {
+      "text": "numero significativo de personas",
+      "relevance": 0.55494,
+      "count": 1
+    },
+    {
+      "text": "seleccion de los beneficiarios",
+      "relevance": 0.553735,
+      "count": 1
+    },
+    {
+      "text": "PARAGRAFO UNICO",
+      "relevance": 0.553153,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.548019,
+      "count": 3
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.54552,
+      "count": 1
+    },
+    {
+      "text": "comunidad estudiantil",
+      "relevance": 0.544909,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.538329,
+      "count": 2
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.535057,
+      "count": 1
+    },
+    {
+      "text": "asuncion de un espiritu conciliatorio",
+      "relevance": 0.532948,
+      "count": 1
+    },
+    {
+      "text": "compromiso permanente",
+      "relevance": 0.5299,
+      "count": 1
+    },
+    {
+      "text": "aspecto acad\u00e9mico",
+      "relevance": 0.527272,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.525653,
+      "count": 1
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.523284,
+      "count": 1
+    },
+    {
+      "text": "Trabajo de Investigacion",
+      "relevance": 0.522477,
+      "count": 2
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.522061,
+      "count": 1
+    },
+    {
+      "text": "anteriores considerandos",
+      "relevance": 0.51675,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.515723,
+      "count": 3
+    },
+    {
+      "text": "beneficiarios de esta modalidad",
+      "relevance": 0.514954,
+      "count": 1
+    },
+    {
+      "text": "logro del titulo acad\u00e9mico",
+      "relevance": 0.51464,
+      "count": 1
+    },
+    {
+      "text": "Costo de la Matricula Financiera",
+      "relevance": 0.513222,
+      "count": 1
+    },
+    {
+      "text": "Salon de reuniones de Salon",
+      "relevance": 0.512244,
+      "count": 1
+    },
+    {
+      "text": "PARAGRAFO",
+      "relevance": 0.51084,
+      "count": 2
+    }
+  ]
+}

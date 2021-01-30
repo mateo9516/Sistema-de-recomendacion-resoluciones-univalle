@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "estimulos acad\u00e9micos",
+      "relevance": 0.728479,
+      "count": 5
+    },
+    {
+      "text": "perfeccionamiento acad\u00e9micos",
+      "relevance": 0.617589,
+      "count": 1
+    },
+    {
+      "text": "profesores de la Universidad",
+      "relevance": 0.607257,
+      "count": 2
+    },
+    {
+      "text": "asignacion de un tiempo",
+      "relevance": 0.580218,
+      "count": 1
+    },
+    {
+      "text": "comisi\u00e9n de estudios",
+      "relevance": 0.579383,
+      "count": 25
+    },
+    {
+      "text": "profesores de carrera consistentes",
+      "relevance": 0.57013,
+      "count": 1
+    },
+    {
+      "text": "area de trabajo del profesor",
+      "relevance": 0.553057,
+      "count": 1
+    },
+    {
+      "text": "comisiones acad\u00e9micas",
+      "relevance": 0.550629,
+      "count": 7
+    },
+    {
+      "text": "trav\u00e9s de estudios de posgrado",
+      "relevance": 0.550208,
+      "count": 1
+    },
+    {
+      "text": "Director del Instituto Acad\u00e9mico",
+      "relevance": 0.548788,
+      "count": 2
+    },
+    {
+      "text": "materia de desarrollo acad\u00e9mico",
+      "relevance": 0.544199,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Estimulos Acad\u00e9micos",
+      "relevance": 0.54069,
+      "count": 1
+    },
+    {
+      "text": "comisiones de estudio",
+      "relevance": 0.539684,
+      "count": 11
+    },
+    {
+      "text": "profesores de carrera",
+      "relevance": 0.539204,
+      "count": 5
+    },
+    {
+      "text": "profesores",
+      "relevance": 0.538997,
+      "count": 12
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.538994,
+      "count": 13
+    },
+    {
+      "text": "tiempo remunerado",
+      "relevance": 0.536875,
+      "count": 1
+    },
+    {
+      "text": "actividades acad\u00e9micas",
+      "relevance": 0.536528,
+      "count": 3
+    },
+    {
+      "text": "solicitud de la comisi\u00e9n de estudios",
+      "relevance": 0.53613,
+      "count": 1
+    },
+    {
+      "text": "afios sabaticos.UNIVERSIDAD",
+      "relevance": 0.532937,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.532908,
+      "count": 5
+    },
+    {
+      "text": "profesores vinculados",
+      "relevance": 0.531607,
+      "count": 1
+    },
+    {
+      "text": "siguientes estimulos acad\u00e9micos",
+      "relevance": 0.531259,
+      "count": 1
+    },
+    {
+      "text": "desarrollo profesoral",
+      "relevance": 0.531077,
+      "count": 2
+    },
+    {
+      "text": "nivel internacional",
+      "relevance": 0.530801,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.530766,
+      "count": 2
+    },
+    {
+      "text": "COMISIONES DE ESTUDIOS",
+      "relevance": 0.52891,
+      "count": 1
+    },
+    {
+      "text": "requisitos formales",
+      "relevance": 0.528245,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.526567,
+      "count": 1
+    },
+    {
+      "text": "respectiva unidad acad\u00e9mica",
+      "relevance": 0.526509,
+      "count": 2
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

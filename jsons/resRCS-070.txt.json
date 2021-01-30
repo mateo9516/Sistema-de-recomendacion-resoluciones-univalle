@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.647306,
+      "count": 30
+    },
+    {
+      "text": "Compromisos de Buen Gobierno",
+      "relevance": 0.608661,
+      "count": 15
+    },
+    {
+      "text": "Declaracion de Politicas",
+      "relevance": 0.589365,
+      "count": 3
+    },
+    {
+      "text": "acad\u00e9mico de la Universidad",
+      "relevance": 0.577613,
+      "count": 1
+    },
+    {
+      "text": "Comunidad Universitaria",
+      "relevance": 0.569938,
+      "count": 15
+    },
+    {
+      "text": "desarrollo del principio",
+      "relevance": 0.550476,
+      "count": 1
+    },
+    {
+      "text": "miembros del Consejo Superior",
+      "relevance": 0.549292,
+      "count": 25
+    },
+    {
+      "text": "Rector de la Universidad del Valle",
+      "relevance": 0.549033,
+      "count": 8
+    },
+    {
+      "text": "desarrollo de sus actividades acad\u00e9micas",
+      "relevance": 0.541941,
+      "count": 1
+    },
+    {
+      "text": "demas estamentos",
+      "relevance": 0.541864,
+      "count": 4
+    },
+    {
+      "text": "Declaracio\u00e9n de Politicas",
+      "relevance": 0.541311,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.54017,
+      "count": 58
+    },
+    {
+      "text": "Mision institucional",
+      "relevance": 0.539192,
+      "count": 1
+    },
+    {
+      "text": "Plan Nacional de Desarrollo",
+      "relevance": 0.537883,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.530701,
+      "count": 1
+    },
+    {
+      "text": "Instituto Colombiano",
+      "relevance": 0.528799,
+      "count": 2
+    },
+    {
+      "text": "equipo directivo",
+      "relevance": 0.528794,
+      "count": 29
+    },
+    {
+      "text": "actos administrativos motivados",
+      "relevance": 0.527741,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la Resoluci\u00e9n",
+      "relevance": 0.526015,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.525653,
+      "count": 23
+    },
+    {
+      "text": "vocacion de servicio",
+      "relevance": 0.525019,
+      "count": 1
+    },
+    {
+      "text": "autonomia acad\u00e9mica",
+      "relevance": 0.524983,
+      "count": 1
+    },
+    {
+      "text": "buen gobierno",
+      "relevance": 0.524832,
+      "count": 3
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.524778,
+      "count": 2
+    },
+    {
+      "text": "funciones misionales",
+      "relevance": 0.52426,
+      "count": 1
+    },
+    {
+      "text": "respeto del medio ambiente",
+      "relevance": 0.524156,
+      "count": 1
+    },
+    {
+      "text": "normas de conducta",
+      "relevance": 0.524127,
+      "count": 1
+    },
+    {
+      "text": "demas miembros",
+      "relevance": 0.524073,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de las libertades acad\u00e9micas",
+      "relevance": 0.522232,
+      "count": 1
+    },
+    {
+      "text": "Proyecto Institucional vigente",
+      "relevance": 0.521559,
+      "count": 2
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

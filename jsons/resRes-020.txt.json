@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5264,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "distinciones acad\u00e9micas",
+      "relevance": 0.734529,
+      "count": 2
+    },
+    {
+      "text": "Profesor Honorario",
+      "relevance": 0.715298,
+      "count": 3
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.683982,
+      "count": 7
+    },
+    {
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.610756,
+      "count": 1
+    },
+    {
+      "text": "PROFESOR DISTINGUIDO",
+      "relevance": 0.610546,
+      "count": 3
+    },
+    {
+      "text": "Consejos de Facultad",
+      "relevance": 0.59366,
+      "count": 1
+    },
+    {
+      "text": "respectiva Facultad",
+      "relevance": 0.581813,
+      "count": 1
+    },
+    {
+      "text": "Comision del Consejo Acad\u00e9mico",
+      "relevance": 0.575735,
+      "count": 1
+    },
+    {
+      "text": "cargos acad\u00e9mico-administrativos",
+      "relevance": 0.575292,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.567471,
+      "count": 1
+    },
+    {
+      "text": "Profesor Em\u00e9rito",
+      "relevance": 0.561654,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.55842,
+      "count": 4
+    },
+    {
+      "text": "docentes de la Universidad del Valle",
+      "relevance": 0.558334,
+      "count": 1
+    },
+    {
+      "text": "Directores de Instituto",
+      "relevance": 0.552273,
+      "count": 1
+    },
+    {
+      "text": "percentil total",
+      "relevance": 0.548006,
+      "count": 1
+    },
+    {
+      "text": "siguientes requisitos",
+      "relevance": 0.546156,
+      "count": 2
+    },
+    {
+      "text": "categoria de Profesor Asociado",
+      "relevance": 0.535033,
+      "count": 2
+    },
+    {
+      "text": "texto adecuado",
+      "relevance": 0.534681,
+      "count": 1
+    },
+    {
+      "text": "Unidades Acad\u00e9micas propondrdn",
+      "relevance": 0.529156,
+      "count": 1
+    },
+    {
+      "text": "Unica distinci6n",
+      "relevance": 0.52703,
+      "count": 1
+    },
+    {
+      "text": "siguientes cargos",
+      "relevance": 0.522142,
+      "count": 1
+    },
+    {
+      "text": "Maestro Universitario",
+      "relevance": 0.520784,
+      "count": 1
+    },
+    {
+      "text": "docentes activos",
+      "relevance": 0.51669,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.515901,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.515485,
+      "count": 1
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.514601,
+      "count": 1
+    },
+    {
+      "text": "Consejo de la Facultad",
+      "relevance": 0.508733,
+      "count": 1
+    },
+    {
+      "text": "largo de la carrera docente",
+      "relevance": 0.506065,
+      "count": 1
+    },
+    {
+      "text": "propuesta del Consejo Acad\u00e9mico",
+      "relevance": 0.505854,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.504212,
+      "count": 2
+    }
+  ]
+}

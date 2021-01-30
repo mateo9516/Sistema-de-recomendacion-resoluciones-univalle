@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3125,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.719467,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.661411,
+      "count": 8
+    },
+    {
+      "text": "demas estratos",
+      "relevance": 0.645635,
+      "count": 1
+    },
+    {
+      "text": "estratos ly",
+      "relevance": 0.611271,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.611246,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del Plan Estrat\u00e9gico",
+      "relevance": 0.566044,
+      "count": 1
+    },
+    {
+      "text": "Gobernacion del Departamento",
+      "relevance": 0.564767,
+      "count": 2
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.555621,
+      "count": 2
+    },
+    {
+      "text": "efecto de la aplicacion de la tabla",
+      "relevance": 0.553822,
+      "count": 1
+    },
+    {
+      "text": "recursos necesarios",
+      "relevance": 0.538996,
+      "count": 1
+    },
+    {
+      "text": "Valle del Cauca",
+      "relevance": 0.533585,
+      "count": 1
+    },
+    {
+      "text": "solicitudes estudiantiles",
+      "relevance": 0.533546,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.529601,
+      "count": 1
+    },
+    {
+      "text": "parte del presupuesto de aportes",
+      "relevance": 0.523004,
+      "count": 1
+    },
+    {
+      "text": "proyecto de presupuesto",
+      "relevance": 0.52023,
+      "count": 1
+    },
+    {
+      "text": "recursos adicionales provistos",
+      "relevance": 0.519597,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.51903,
+      "count": 1
+    },
+    {
+      "text": "Departamento del Valle",
+      "relevance": 0.511196,
+      "count": 1
+    },
+    {
+      "text": "desmonte de los derechos especiales",
+      "relevance": 0.509504,
+      "count": 1
+    },
+    {
+      "text": "siguientes partidas",
+      "relevance": 0.509308,
+      "count": 1
+    },
+    {
+      "text": "sumas mencionadas",
+      "relevance": 0.508875,
+      "count": 1
+    },
+    {
+      "text": "funcionamiento de la Universidad",
+      "relevance": 0.506375,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.505883,
+      "count": 1
+    },
+    {
+      "text": "enero",
+      "relevance": 0.50223,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.500405,
+      "count": 7
+    },
+    {
+      "text": "sefior Gobernador del Departamento del Valle",
+      "relevance": 0.499132,
+      "count": 1
+    },
+    {
+      "text": "Salon de Reuniones del Despacho",
+      "relevance": 0.497311,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de Mayo",
+      "relevance": 0.496303,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.496235,
+      "count": 1
+    },
+    {
+      "text": "derechos especiales",
+      "relevance": 0.496124,
+      "count": 2
+    }
+  ]
+}

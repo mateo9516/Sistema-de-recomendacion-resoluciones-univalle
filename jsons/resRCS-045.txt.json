@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2034,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.800901,
+      "count": 3
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.654735,
+      "count": 1
+    },
+    {
+      "text": "Consejo Directivo",
+      "relevance": 0.634588,
+      "count": 2
+    },
+    {
+      "text": "plan de estudios conducente",
+      "relevance": 0.621545,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.616634,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci6",
+      "relevance": 0.611777,
+      "count": 2
+    },
+    {
+      "text": "titulo acad\u00e9mico",
+      "relevance": 0.581485,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de ESPECIALIDAD",
+      "relevance": 0.570543,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.570224,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.568664,
+      "count": 1
+    },
+    {
+      "text": "Reuniones de la Torre Institucional",
+      "relevance": 0.565193,
+      "count": 1
+    },
+    {
+      "text": "solicitud de Registro Calificado",
+      "relevance": 0.526794,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Salud",
+      "relevance": 0.517041,
+      "count": 1
+    },
+    {
+      "text": "Programas de acuerdo",
+      "relevance": 0.51194,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.507568,
+      "count": 1
+    },
+    {
+      "text": "modificacion de curriculo",
+      "relevance": 0.507568,
+      "count": 1
+    },
+    {
+      "text": "dias de octubre",
+      "relevance": 0.501411,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.500913,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.50065,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.498443,
+      "count": 3
+    },
+    {
+      "text": "Resoluci\u00e9n No",
+      "relevance": 0.486029,
+      "count": 3
+    },
+    {
+      "text": "aprobo",
+      "relevance": 0.483791,
+      "count": 1
+    },
+    {
+      "text": "Junio",
+      "relevance": 0.483322,
+      "count": 3
+    },
+    {
+      "text": "NEUROCIRUGIA",
+      "relevance": 0.46997,
+      "count": 4
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.456469,
+      "count": 1
+    },
+    {
+      "text": "modific\u00e9",
+      "relevance": 0.455108,
+      "count": 1
+    },
+    {
+      "text": "adscrito",
+      "relevance": 0.454644,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.452398,
+      "count": 3
+    },
+    {
+      "text": "t\u00e9rmino",
+      "relevance": 0.451666,
+      "count": 1
+    },
+    {
+      "text": "ESPECIALISTA",
+      "relevance": 0.451057,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2129,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.666326,
+      "count": 1
+    },
+    {
+      "text": "fecha de aprobacion",
+      "relevance": 0.643808,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.62969,
+      "count": 1
+    },
+    {
+      "text": "Educacion Superior",
+      "relevance": 0.604925,
+      "count": 2
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.601299,
+      "count": 2
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.593134,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.592385,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.586873,
+      "count": 1
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.565695,
+      "count": 1
+    },
+    {
+      "text": "Aambito de Administracion Turistica",
+      "relevance": 0.542185,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de Administracion Turistica",
+      "relevance": 0.532515,
+      "count": 1
+    },
+    {
+      "text": "necesidades del medio",
+      "relevance": 0.530297,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.528082,
+      "count": 2
+    },
+    {
+      "text": "recursos docentes",
+      "relevance": 0.524349,
+      "count": 1
+    },
+    {
+      "text": "registros calificados",
+      "relevance": 0.524325,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.522732,
+      "count": 1
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.522615,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.520829,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.51128,
+      "count": 1
+    },
+    {
+      "text": "titulo de Administrador Turistico",
+      "relevance": 0.50886,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la Facultad de Ciencias",
+      "relevance": 0.507118,
+      "count": 1
+    },
+    {
+      "text": "formacion de alto nivel",
+      "relevance": 0.507003,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.499318,
+      "count": 1
+    },
+    {
+      "text": "condiciones de calidad",
+      "relevance": 0.498782,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.494179,
+      "count": 1
+    },
+    {
+      "text": "definicion de la estructura",
+      "relevance": 0.494179,
+      "count": 1
+    },
+    {
+      "text": "Organizaciones de la Facultad de Ciencias",
+      "relevance": 0.490773,
+      "count": 1
+    },
+    {
+      "text": "servicio ptblico",
+      "relevance": 0.490627,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.490173,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de julio",
+      "relevance": 0.48328,
+      "count": 1
+    }
+  ]
+}

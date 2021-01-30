@@ -1,0 +1,130 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 1121,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.731141,
+      "count": 1
+    },
+    {
+      "text": "Senor Gobernador",
+      "relevance": 0.713701,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.636493,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.610983,
+      "count": 1
+    },
+    {
+      "text": "Rector de la Universidad del Valle",
+      "relevance": 0.590584,
+      "count": 2
+    },
+    {
+      "text": "Salon de Reuniones del Despacho",
+      "relevance": 0.549471,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.545586,
+      "count": 1
+    },
+    {
+      "text": "correo electr\u00e9nico",
+      "relevance": 0.545586,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de noviembre",
+      "relevance": 0.527417,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.516795,
+      "count": 1
+    },
+    {
+      "text": "literal f",
+      "relevance": 0.503292,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9dula de  ciudadania",
+      "relevance": 0.503292,
+      "count": 1
+    },
+    {
+      "text": "cedula de ciudadania",
+      "relevance": 0.482531,
+      "count": 1
+    },
+    {
+      "text": "edu.co.Universidad del Valle",
+      "relevance": 0.48182,
+      "count": 1
+    },
+    {
+      "text": "Doctor EDGAR VARELA BARRIOS",
+      "relevance": 0.466119,
+      "count": 2
+    },
+    {
+      "text": "Valle del Cauca",
+      "relevance": 0.463593,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.438565,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.412448,
+      "count": 2
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.401704,
+      "count": 1
+    },
+    {
+      "text": "Noviembre",
+      "relevance": 0.395348,
+      "count": 3
+    },
+    {
+      "text": "tel\u00e9fono",
+      "relevance": 0.395348,
+      "count": 1
+    },
+    {
+      "text": "Presidente",
+      "relevance": 0.395348,
+      "count": 1
+    },
+    {
+      "text": "UM",
+      "relevance": 0.395348,
+      "count": 1
+    },
+    {
+      "text": "varela",
+      "relevance": 0.389932,
+      "count": 1
+    }
+  ]
+}

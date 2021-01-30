@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3623,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Vicerrectoria de Investigaciones",
+      "relevance": 0.658258,
+      "count": 1
+    },
+    {
+      "text": "proceso de evaluacion",
+      "relevance": 0.639365,
+      "count": 2
+    },
+    {
+      "text": "Institutos de Investigacion",
+      "relevance": 0.635449,
+      "count": 2
+    },
+    {
+      "text": "par externo internacional",
+      "relevance": 0.628199,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.602865,
+      "count": 1
+    },
+    {
+      "text": "presente resolucion",
+      "relevance": 0.590368,
+      "count": 1
+    },
+    {
+      "text": "Institutos existentes",
+      "relevance": 0.577874,
+      "count": 1
+    },
+    {
+      "text": "aprobacion del Estatuto",
+      "relevance": 0.566075,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.55683,
+      "count": 1
+    },
+    {
+      "text": "nuevos Institutos",
+      "relevance": 0.554107,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.550419,
+      "count": 4
+    },
+    {
+      "text": "pares externos",
+      "relevance": 0.547128,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.544462,
+      "count": 1
+    },
+    {
+      "text": "creacio\u00e9n del Instituto de Prospectiva",
+      "relevance": 0.541243,
+      "count": 1
+    },
+    {
+      "text": "Ciencias de la Administracion",
+      "relevance": 0.538994,
+      "count": 1
+    },
+    {
+      "text": "agua potable",
+      "relevance": 0.537501,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.535847,
+      "count": 1
+    },
+    {
+      "text": "Institutos",
+      "relevance": 0.532049,
+      "count": 3
+    },
+    {
+      "text": "Consejo de Facultad",
+      "relevance": 0.531442,
+      "count": 1
+    },
+    {
+      "text": "promocion de la convivencia social",
+      "relevance": 0.530165,
+      "count": 1
+    },
+    {
+      "text": "propuestas de ratificacion",
+      "relevance": 0.529988,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 Central",
+      "relevance": 0.529898,
+      "count": 1
+    },
+    {
+      "text": "proceso de evaluacio\u00e9n de los Institutos",
+      "relevance": 0.526739,
+      "count": 1
+    },
+    {
+      "text": "dias de julio",
+      "relevance": 0.517541,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de los Institutos de Investigacion",
+      "relevance": 0.5133,
+      "count": 1
+    },
+    {
+      "text": "proceso de entrega de informes",
+      "relevance": 0.511064,
+      "count": 1
+    },
+    {
+      "text": "ratificacion de los institutos Cinara",
+      "relevance": 0.51042,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.506185,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.506111,
+      "count": 1
+    },
+    {
+      "text": "despacho de la Gobernadora",
+      "relevance": 0.506111,
+      "count": 1
+    }
+  ]
+}

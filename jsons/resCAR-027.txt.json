@@ -1,160 +1,160 @@
 {
   "usage": {
-    "text_units": 3,
-    "text_characters": 23518,
+    "text_units": 2,
+    "text_characters": 11759,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "trabajo acad\u00e9mico",
-      "relevance": 0.761442,
-      "count": 4
+      "relevance": 0.761762,
+      "count": 2
     },
     {
       "text": "programas de formaci6on",
-      "relevance": 0.667014,
-      "count": 2
+      "relevance": 0.667099,
+      "count": 1
     },
     {
       "text": "procesos acad\u00e9micos",
-      "relevance": 0.627898,
-      "count": 2
+      "relevance": 0.628085,
+      "count": 1
     },
     {
       "text": "trabajo presencial",
-      "relevance": 0.613781,
-      "count": 4
+      "relevance": 0.613948,
+      "count": 2
     },
     {
       "text": "trabajo independiente",
-      "relevance": 0.607043,
-      "count": 6
+      "relevance": 0.6072,
+      "count": 3
     },
     {
       "text": "sistema de cr\u00e9ditos",
-      "relevance": 0.604111,
-      "count": 8
+      "relevance": 0.604248,
+      "count": 4
     },
     {
       "text": "cursos dirigidos",
-      "relevance": 0.584828,
-      "count": 2
+      "relevance": 0.58496,
+      "count": 1
     },
     {
       "text": "evaluacion de los programas de pregrado",
-      "relevance": 0.584171,
-      "count": 2
+      "relevance": 0.584221,
+      "count": 1
     },
     {
       "text": "actividades formativas",
-      "relevance": 0.575485,
-      "count": 2
+      "relevance": 0.575594,
+      "count": 1
     },
     {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.574746,
-      "count": 6
+      "relevance": 0.574857,
+      "count": 3
     },
     {
       "text": "actividad acad\u00e9mica",
-      "relevance": 0.560995,
-      "count": 4
+      "relevance": 0.561083,
+      "count": 2
     },
     {
       "text": "programa de formacion",
-      "relevance": 0.555702,
-      "count": 6
+      "relevance": 0.555657,
+      "count": 3
     },
     {
       "text": "tiempo de trabajo independiente",
-      "relevance": 0.549149,
-      "count": 4
+      "relevance": 0.549226,
+      "count": 2
     },
     {
       "text": "literal c",
-      "relevance": 0.534989,
-      "count": 2
+      "relevance": 0.535048,
+      "count": 1
     },
     {
       "text": "cursos presenciales",
-      "relevance": 0.534965,
-      "count": 2
+      "relevance": 0.53502,
+      "count": 1
     },
     {
       "text": "casos excepcionales",
-      "relevance": 0.533669,
-      "count": 2
+      "relevance": 0.533718,
+      "count": 1
     },
     {
       "text": "unidad de medida",
-      "relevance": 0.532566,
-      "count": 2
+      "relevance": 0.53262,
+      "count": 1
     },
     {
       "text": "tiempo de dedicacion necesario",
-      "relevance": 0.531028,
-      "count": 2
+      "relevance": 0.53108,
+      "count": 1
     },
     {
       "text": "periodo acad\u00e9mico",
-      "relevance": 0.530709,
-      "count": 4
+      "relevance": 0.53076,
+      "count": 2
     },
     {
       "text": "horas de dedicacion",
-      "relevance": 0.529524,
-      "count": 2
+      "relevance": 0.529573,
+      "count": 1
     },
     {
       "text": "trabajo de campo",
-      "relevance": 0.528451,
-      "count": 4
+      "relevance": 0.528497,
+      "count": 2
     },
     {
       "text": "actividades precisas",
-      "relevance": 0.526795,
-      "count": 2
+      "relevance": 0.526836,
+      "count": 1
     },
     {
       "text": "Acuerdo No",
-      "relevance": 0.526078,
-      "count": 4
+      "relevance": 0.52611,
+      "count": 2
     },
     {
       "text": "trabajo autonomo de los estudiantes",
-      "relevance": 0.524085,
-      "count": 2
+      "relevance": 0.524125,
+      "count": 1
     },
     {
       "text": "comit\u00e9s de programa",
-      "relevance": 0.523325,
-      "count": 4
+      "relevance": 0.523343,
+      "count": 2
     },
     {
       "text": "Ministerio de Educacion",
-      "relevance": 0.523006,
-      "count": 2
+      "relevance": 0.523043,
+      "count": 1
     },
     {
       "text": "diferentes actividades acad\u00e9micas",
-      "relevance": 0.522638,
-      "count": 2
+      "relevance": 0.522672,
+      "count": 1
     },
     {
       "text": "tiempo de trabajo dirigido",
-      "relevance": 0.522142,
-      "count": 2
+      "relevance": 0.522179,
+      "count": 1
     },
     {
       "text": "Santiago de Cali",
-      "relevance": 0.521702,
-      "count": 2
+      "relevance": 0.521741,
+      "count": 1
     },
     {
       "text": "numero total",
-      "relevance": 0.521431,
-      "count": 2
+      "relevance": 0.521452,
+      "count": 1
     }
   ]
 }

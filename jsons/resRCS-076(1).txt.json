@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4048,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "IMPUTACION CONCEPTO VALOR",
+      "relevance": 0.617246,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.600933,
+      "count": 8
+    },
+    {
+      "text": "negocios fiduciarios",
+      "relevance": 0.597258,
+      "count": 1
+    },
+    {
+      "text": "constituci\u00e9n de contrato",
+      "relevance": 0.59008,
+      "count": 1
+    },
+    {
+      "text": "Alma Mater",
+      "relevance": 0.583197,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo General de pago",
+      "relevance": 0.57938,
+      "count": 1
+    },
+    {
+      "text": "marzo del ano",
+      "relevance": 0.577667,
+      "count": 1
+    },
+    {
+      "text": "manejo de recursos",
+      "relevance": 0.576732,
+      "count": 1
+    },
+    {
+      "text": "contrato de Encargo Fiduciario",
+      "relevance": 0.573796,
+      "count": 1
+    },
+    {
+      "text": "Consorcio UNIVALLE",
+      "relevance": 0.565964,
+      "count": 4
+    },
+    {
+      "text": "entidades financieras",
+      "relevance": 0.565115,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.552458,
+      "count": 1
+    },
+    {
+      "text": "plazo total",
+      "relevance": 0.54985,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento de la clausula",
+      "relevance": 0.542519,
+      "count": 1
+    },
+    {
+      "text": "Universidad cancelaria",
+      "relevance": 0.540136,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.539608,
+      "count": 1
+    },
+    {
+      "text": "operaciones conexas vigentes",
+      "relevance": 0.531692,
+      "count": 1
+    },
+    {
+      "text": "recursos financieros de la Universidad",
+      "relevance": 0.531205,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.528831,
+      "count": 4
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.528742,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.527243,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.526609,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.522044,
+      "count": 2
+    },
+    {
+      "text": "prorroga del contrato",
+      "relevance": 0.520246,
+      "count": 1
+    },
+    {
+      "text": "nueva convocatoria",
+      "relevance": 0.518958,
+      "count": 1
+    },
+    {
+      "text": "autorizacion del Consejo Superior",
+      "relevance": 0.517688,
+      "count": 1
+    },
+    {
+      "text": "Pago de la Deuda Publica",
+      "relevance": 0.515311,
+      "count": 1
+    },
+    {
+      "text": "Comisiones Encargo Fiduciario",
+      "relevance": 0.512891,
+      "count": 1
+    },
+    {
+      "text": "extensidn del plazo",
+      "relevance": 0.512146,
+      "count": 1
+    },
+    {
+      "text": "Pagos Irrevocable",
+      "relevance": 0.512011,
+      "count": 2
+    }
+  ]
+}

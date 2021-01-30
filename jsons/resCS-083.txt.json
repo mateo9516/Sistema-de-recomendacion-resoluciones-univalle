@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 3,
+    "text_characters": 24244,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "productividad acad\u00e9mica",
+      "relevance": 0.769752,
+      "count": 9
+    },
+    {
+      "text": "reconocimiento de puntos",
+      "relevance": 0.639977,
+      "count": 3
+    },
+    {
+      "text": "Comit\u00e9s de Credenciales de Facultad",
+      "relevance": 0.609055,
+      "count": 1
+    },
+    {
+      "text": "asignaci\u00e9n de puntos",
+      "relevance": 0.600833,
+      "count": 1
+    },
+    {
+      "text": "siguientes cargos",
+      "relevance": 0.599083,
+      "count": 1
+    },
+    {
+      "text": "misma categoria del profesor",
+      "relevance": 0.574748,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.571727,
+      "count": 9
+    },
+    {
+      "text": "reconocimiento del desempefio",
+      "relevance": 0.567189,
+      "count": 2
+    },
+    {
+      "text": "aspectos pertinentes del Decreto",
+      "relevance": 0.565406,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen salarial",
+      "relevance": 0.558955,
+      "count": 1
+    },
+    {
+      "text": "Credenciales respectivo",
+      "relevance": 0.556498,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.553651,
+      "count": 6
+    },
+    {
+      "text": "criterios de productividad acad\u00e9mica",
+      "relevance": 0.552205,
+      "count": 1
+    },
+    {
+      "text": "resultados de las evaluaciones",
+      "relevance": 0.551355,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Credenciales",
+      "relevance": 0.547275,
+      "count": 4
+    },
+    {
+      "text": "efectos de la evaluaci\u00e9n de la productividad",
+      "relevance": 0.547055,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de puntos salariales",
+      "relevance": 0.546312,
+      "count": 4
+    },
+    {
+      "text": "Jefe de Oficina",
+      "relevance": 0.545904,
+      "count": 2
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.545441,
+      "count": 1
+    },
+    {
+      "text": "Directores de Oficina",
+      "relevance": 0.544176,
+      "count": 1
+    },
+    {
+      "text": "selecci\u00e9n de Pares Externos",
+      "relevance": 0.540973,
+      "count": 1
+    },
+    {
+      "text": "reconocimiento de la experiencia calificada",
+      "relevance": 0.538095,
+      "count": 2
+    },
+    {
+      "text": "fecha de recepcion de la solicitud",
+      "relevance": 0.537379,
+      "count": 1
+    },
+    {
+      "text": "Evaluacion de Productividad Acad\u00e9mica",
+      "relevance": 0.533566,
+      "count": 1
+    },
+    {
+      "text": "pago correspondiente",
+      "relevance": 0.533192,
+      "count": 2
+    },
+    {
+      "text": "actividades acad\u00e9mico-administrativas",
+      "relevance": 0.531458,
+      "count": 2
+    },
+    {
+      "text": "reconocimiento de bonificaciones",
+      "relevance": 0.530247,
+      "count": 2
+    },
+    {
+      "text": "funciones del Consejo Superior",
+      "relevance": 0.527237,
+      "count": 1
+    },
+    {
+      "text": "profesor de carrera",
+      "relevance": 0.527127,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria Acad\u00e9mica de la Universidad",
+      "relevance": 0.524396,
+      "count": 1
+    }
+  ]
+}

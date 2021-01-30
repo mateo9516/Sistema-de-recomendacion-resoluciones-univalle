@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11083,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.78649,
+      "count": 1
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.691871,
+      "count": 5
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.610025,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.574229,
+      "count": 10
+    },
+    {
+      "text": "Subdirector Acad\u00e9mico de la Facultad",
+      "relevance": 0.552067,
+      "count": 1
+    },
+    {
+      "text": "caso de Unidades Acad\u00e9micas",
+      "relevance": 0.550017,
+      "count": 1
+    },
+    {
+      "text": "procedimientos de la evaluacion",
+      "relevance": 0.549112,
+      "count": 1
+    },
+    {
+      "text": "respectivo Consejo",
+      "relevance": 0.548734,
+      "count": 2
+    },
+    {
+      "text": "personas interesadas",
+      "relevance": 0.547198,
+      "count": 1
+    },
+    {
+      "text": "Unidad Acad\u00e9mica",
+      "relevance": 0.547078,
+      "count": 3
+    },
+    {
+      "text": "fecha de cierre de la convocatoria",
+      "relevance": 0.546304,
+      "count": 1
+    },
+    {
+      "text": "Profesores Contratistas podra",
+      "relevance": 0.544829,
+      "count": 1
+    },
+    {
+      "text": "idoneidad de los profesores",
+      "relevance": 0.54082,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.540095,
+      "count": 1
+    },
+    {
+      "text": "experiencias de evaluacion",
+      "relevance": 0.538597,
+      "count": 1
+    },
+    {
+      "text": "informacion de los aspirantes inscritos",
+      "relevance": 0.534857,
+      "count": 1
+    },
+    {
+      "text": "hojas de vida",
+      "relevance": 0.53333,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria Acad\u00e9mica",
+      "relevance": 0.530442,
+      "count": 4
+    },
+    {
+      "text": "aspirantes interesados",
+      "relevance": 0.528326,
+      "count": 1
+    },
+    {
+      "text": "cierre de las inscripciones",
+      "relevance": 0.528076,
+      "count": 1
+    },
+    {
+      "text": "listado de los profesores elegibles",
+      "relevance": 0.526135,
+      "count": 1
+    },
+    {
+      "text": "aspirantes inscritos",
+      "relevance": 0.525961,
+      "count": 2
+    },
+    {
+      "text": "Director de Programa",
+      "relevance": 0.523616,
+      "count": 2
+    },
+    {
+      "text": "nivel universitario",
+      "relevance": 0.523368,
+      "count": 2
+    },
+    {
+      "text": "contratista ofrecera mayor",
+      "relevance": 0.523036,
+      "count": 1
+    },
+    {
+      "text": "estricto orden descendente",
+      "relevance": 0.522771,
+      "count": 1
+    },
+    {
+      "text": "experiencia profesional",
+      "relevance": 0.522594,
+      "count": 1
+    },
+    {
+      "text": "profesores contratistas",
+      "relevance": 0.521985,
+      "count": 5
+    },
+    {
+      "text": "Jefe de la Unidad Acad\u00e9mica",
+      "relevance": 0.521503,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.519587,
+      "count": 1
+    }
+  ]
+}

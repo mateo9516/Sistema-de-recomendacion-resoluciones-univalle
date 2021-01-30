@@ -1,160 +1,160 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 7802,
+    "text_characters": 3901,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "campo propio",
-      "relevance": 0.801517,
-      "count": 2
+      "relevance": 0.802397,
+      "count": 1
     },
     {
       "text": "Programas Acad\u00e9micos de Pregrado",
-      "relevance": 0.715088,
-      "count": 2
+      "relevance": 0.71583,
+      "count": 1
     },
     {
       "text": "Programa de Alternativa de Grado",
-      "relevance": 0.661507,
-      "count": 2
+      "relevance": 0.6621,
+      "count": 1
     },
     {
       "text": "requisitos acad\u00e9micos",
-      "relevance": 0.648429,
-      "count": 2
+      "relevance": 0.648981,
+      "count": 1
     },
     {
       "text": "campos afines",
-      "relevance": 0.631283,
-      "count": 2
+      "relevance": 0.63178,
+      "count": 1
     },
     {
       "text": "caso de los Programas Tecnoldgicos",
-      "relevance": 0.602261,
-      "count": 2
+      "relevance": 0.602654,
+      "count": 1
     },
     {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.595379,
-      "count": 2
+      "relevance": 0.595748,
+      "count": 1
     },
     {
       "text": "actividades acad\u00e9micas",
-      "relevance": 0.574369,
-      "count": 2
+      "relevance": 0.574659,
+      "count": 1
     },
     {
       "text": "Consejo Superior",
-      "relevance": 0.57267,
-      "count": 4
+      "relevance": 0.572954,
+      "count": 2
     },
     {
       "text": "caso tal",
-      "relevance": 0.570054,
-      "count": 2
+      "relevance": 0.570327,
+      "count": 1
     },
     {
       "text": "grupo de personas",
-      "relevance": 0.564085,
-      "count": 2
+      "relevance": 0.564336,
+      "count": 1
     },
     {
       "text": "Santiago de Cali",
-      "relevance": 0.557826,
-      "count": 2
+      "relevance": 0.558053,
+      "count": 1
     },
     {
       "text": "estudios vigente",
-      "relevance": 0.557483,
-      "count": 2
+      "relevance": 0.557709,
+      "count": 1
     },
     {
       "text": "asignaturas constitutivas del Programa",
-      "relevance": 0.551156,
-      "count": 2
+      "relevance": 0.551357,
+      "count": 1
     },
     {
       "text": "rendimiento acad\u00e9mico",
-      "relevance": 0.540118,
-      "count": 2
+      "relevance": 0.540276,
+      "count": 1
     },
     {
       "text": "solicitudes recibidas",
-      "relevance": 0.534182,
-      "count": 2
+      "relevance": 0.534317,
+      "count": 1
     },
     {
       "text": "respectiva facultad",
-      "relevance": 0.532903,
-      "count": 2
+      "relevance": 0.533033,
+      "count": 1
     },
     {
       "text": "condicion de estudiante regular",
-      "relevance": 0.530686,
-      "count": 2
+      "relevance": 0.530807,
+      "count": 1
     },
     {
       "text": "Alternativa de Grado",
-      "relevance": 0.530184,
-      "count": 6
+      "relevance": 0.530303,
+      "count": 3
     },
     {
       "text": "dias del mes de Mayo",
-      "relevance": 0.530107,
-      "count": 2
+      "relevance": 0.530226,
+      "count": 1
     },
     {
       "text": "informe acad\u00e9mico",
-      "relevance": 0.528972,
-      "count": 2
+      "relevance": 0.529086,
+      "count": 1
     },
     {
       "text": "Sal6n de reuniones",
-      "relevance": 0.528771,
-      "count": 2
+      "relevance": 0.528885,
+      "count": 1
     },
     {
       "text": "caracteristicas del Informe Acad\u00e9mico",
-      "relevance": 0.525809,
-      "count": 2
+      "relevance": 0.525911,
+      "count": 1
     },
     {
       "text": "plazo maximo",
-      "relevance": 0.524942,
-      "count": 2
+      "relevance": 0.52504,
+      "count": 1
     },
     {
       "text": "momento de su retiro de la Universidad",
-      "relevance": 0.523733,
-      "count": 2
+      "relevance": 0.523827,
+      "count": 1
     },
     {
       "text": "homologaciones respectivas",
-      "relevance": 0.517872,
-      "count": 2
+      "relevance": 0.517942,
+      "count": 1
     },
     {
       "text": "Direcci6n",
-      "relevance": 0.515887,
-      "count": 2
+      "relevance": 0.51595,
+      "count": 1
     },
     {
       "text": "Comit\u00e9 del Programa Acad\u00e9mico",
-      "relevance": 0.497825,
-      "count": 2
+      "relevance": 0.497817,
+      "count": 1
     },
     {
       "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.496183,
-      "count": 2
+      "relevance": 0.496168,
+      "count": 1
     },
     {
       "text": "programas acad\u00e9micos de pregrado de la Universidad",
-      "relevance": 0.495191,
-      "count": 2
+      "relevance": 0.495172,
+      "count": 1
     }
   ]
 }

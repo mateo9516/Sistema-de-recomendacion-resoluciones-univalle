@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6242,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "alta calidad",
+      "relevance": 0.686258,
+      "count": 1
+    },
+    {
+      "text": "CENTRO DE EXCELENCIA",
+      "relevance": 0.656608,
+      "count": 12
+    },
+    {
+      "text": "Investigacion de excelencia",
+      "relevance": 0.635572,
+      "count": 2
+    },
+    {
+      "text": "Materiales avanzados",
+      "relevance": 0.623943,
+      "count": 1
+    },
+    {
+      "text": "Nuevos Materiales",
+      "relevance": 0.616343,
+      "count": 10
+    },
+    {
+      "text": "Universidades estatales",
+      "relevance": 0.584192,
+      "count": 2
+    },
+    {
+      "text": "recursos humanos",
+      "relevance": 0.578155,
+      "count": 1
+    },
+    {
+      "text": "diferentes laboratorios",
+      "relevance": 0.570421,
+      "count": 1
+    },
+    {
+      "text": "union temporal",
+      "relevance": 0.564491,
+      "count": 5
+    },
+    {
+      "text": "desarrollo de programas",
+      "relevance": 0.563797,
+      "count": 1
+    },
+    {
+      "text": "uni6n temporal",
+      "relevance": 0.560994,
+      "count": 1
+    },
+    {
+      "text": "objetivos generales",
+      "relevance": 0.556504,
+      "count": 1
+    },
+    {
+      "text": "transferencia de la tecnologia",
+      "relevance": 0.556174,
+      "count": 1
+    },
+    {
+      "text": "Recursos financieros",
+      "relevance": 0.5505,
+      "count": 2
+    },
+    {
+      "text": "Universidad del Valle constituy6",
+      "relevance": 0.55037,
+      "count": 1
+    },
+    {
+      "text": "creacion de Centros",
+      "relevance": 0.548875,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ciencias",
+      "relevance": 0.545804,
+      "count": 1
+    },
+    {
+      "text": "punto de vista cientifico",
+      "relevance": 0.544612,
+      "count": 1
+    },
+    {
+      "text": "marco de los Centros",
+      "relevance": 0.538289,
+      "count": 1
+    },
+    {
+      "text": "Investigacion de caracter multidisciplinario",
+      "relevance": 0.536087,
+      "count": 1
+    },
+    {
+      "text": "manera conjunta",
+      "relevance": 0.535907,
+      "count": 2
+    },
+    {
+      "text": "diferentes medios",
+      "relevance": 0.531545,
+      "count": 1
+    },
+    {
+      "text": "escala industrial",
+      "relevance": 0.528222,
+      "count": 1
+    },
+    {
+      "text": "instituciones Universitarias",
+      "relevance": 0.524351,
+      "count": 1
+    },
+    {
+      "text": "herramientas avanzadas",
+      "relevance": 0.524263,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.522066,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.518705,
+      "count": 3
+    },
+    {
+      "text": "Convocatoria Nacional",
+      "relevance": 0.51791,
+      "count": 2
+    },
+    {
+      "text": "Ciencias de la Universidad del Valle",
+      "relevance": 0.517317,
+      "count": 1
+    },
+    {
+      "text": "marcos legales",
+      "relevance": 0.517071,
+      "count": 1
+    }
+  ]
+}

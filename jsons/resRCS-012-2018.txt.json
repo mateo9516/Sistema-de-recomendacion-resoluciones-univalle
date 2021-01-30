@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8700,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Plan de Becas",
+      "relevance": 0.659408,
+      "count": 3
+    },
+    {
+      "text": "condiciones acad\u00e9micas",
+      "relevance": 0.578769,
+      "count": 1
+    },
+    {
+      "text": "tercer semestre",
+      "relevance": 0.571713,
+      "count": 1
+    },
+    {
+      "text": "Plan de Becas especiales",
+      "relevance": 0.567914,
+      "count": 1
+    },
+    {
+      "text": "permanencia de los estudiantes",
+      "relevance": 0.566271,
+      "count": 1
+    },
+    {
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.562369,
+      "count": 1
+    },
+    {
+      "text": "Alfonso Ocampo Londofo",
+      "relevance": 0.562064,
+      "count": 2
+    },
+    {
+      "text": "Alfonso Ocampo Londofio",
+      "relevance": 0.557125,
+      "count": 1
+    },
+    {
+      "text": "fotocopias del documento",
+      "relevance": 0.556991,
+      "count": 1
+    },
+    {
+      "text": "solicitud escrita",
+      "relevance": 0.552772,
+      "count": 1
+    },
+    {
+      "text": "\u00e9xito acad\u00e9mico",
+      "relevance": 0.544554,
+      "count": 3
+    },
+    {
+      "text": "pago de la matricula financiera",
+      "relevance": 0.540156,
+      "count": 1
+    },
+    {
+      "text": "recibo de pago",
+      "relevance": 0.53751,
+      "count": 1
+    },
+    {
+      "text": "origen nacional",
+      "relevance": 0.534353,
+      "count": 1
+    },
+    {
+      "text": "nivel acad\u00e9mico",
+      "relevance": 0.533073,
+      "count": 1
+    },
+    {
+      "text": "disponibilidad financiera",
+      "relevance": 0.531481,
+      "count": 1
+    },
+    {
+      "text": "promedio de notas",
+      "relevance": 0.528059,
+      "count": 1
+    },
+    {
+      "text": "estudiantes MUJERES",
+      "relevance": 0.527795,
+      "count": 1
+    },
+    {
+      "text": "semestre anterior",
+      "relevance": 0.527408,
+      "count": 1
+    },
+    {
+      "text": "trato de las autoridades",
+      "relevance": 0.526915,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 de Asignaciones",
+      "relevance": 0.526636,
+      "count": 3
+    },
+    {
+      "text": "rendimiento acad\u00e9mico",
+      "relevance": 0.523759,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.523675,
+      "count": 1
+    },
+    {
+      "text": "Plan Programatico",
+      "relevance": 0.522891,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.522714,
+      "count": 5
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.522212,
+      "count": 1
+    },
+    {
+      "text": "solicitudes de becas",
+      "relevance": 0.521935,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento del desarrollo humano",
+      "relevance": 0.521791,
+      "count": 1
+    },
+    {
+      "text": "documento de consentimiento",
+      "relevance": 0.521377,
+      "count": 1
+    },
+    {
+      "text": "graduacion de estudiantes afrocolombianas",
+      "relevance": 0.519144,
+      "count": 1
+    }
+  ]
+}

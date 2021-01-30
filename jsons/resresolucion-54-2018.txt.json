@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3417,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.9189,
+      "count": 6
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.736384,
+      "count": 2
+    },
+    {
+      "text": "respectivo Comit\u00e9 de Posgrado",
+      "relevance": 0.611092,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico ESPECIALIZACION",
+      "relevance": 0.610329,
+      "count": 3
+    },
+    {
+      "text": "Consejo de la Facultad de Ingenieria",
+      "relevance": 0.609967,
+      "count": 1
+    },
+    {
+      "text": "Salon de Reuniones de Rectoria",
+      "relevance": 0.593545,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.580454,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.560406,
+      "count": 1
+    },
+    {
+      "text": "cupos minimo",
+      "relevance": 0.560283,
+      "count": 4
+    },
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.559314,
+      "count": 2
+    },
+    {
+      "text": "aprobacion del cambio de periodicidad",
+      "relevance": 0.544398,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.541212,
+      "count": 1
+    },
+    {
+      "text": "ciudad de Cali-Valle",
+      "relevance": 0.527039,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.525488,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.524198,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9 Central de Curriculo",
+      "relevance": 0.523474,
+      "count": 1
+    },
+    {
+      "text": "Sede San Fernando",
+      "relevance": 0.521539,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.52001,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ingenieria Civil",
+      "relevance": 0.517022,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.515383,
+      "count": 1
+    },
+    {
+      "text": "aprobacio\u00e9n del cambio de periodicidad",
+      "relevance": 0.513857,
+      "count": 1
+    },
+    {
+      "text": "sesi6n",
+      "relevance": 0.513566,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Ingenieria",
+      "relevance": 0.512523,
+      "count": 1
+    },
+    {
+      "text": "ajuste del curriculo",
+      "relevance": 0.511716,
+      "count": 1
+    },
+    {
+      "text": "funciones delegadas",
+      "relevance": 0.509323,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.501847,
+      "count": 2
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.501383,
+      "count": 1
+    },
+    {
+      "text": "programas de posgrado",
+      "relevance": 0.496721,
+      "count": 1
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.494155,
+      "count": 1
+    },
+    {
+      "text": "metodologia presencial",
+      "relevance": 0.493876,
+      "count": 1
+    }
+  ]
+}

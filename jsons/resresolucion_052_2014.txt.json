@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Control Interno",
+      "relevance": 0.667141,
+      "count": 26
+    },
+    {
+      "text": "cumplimiento de sus objetivos",
+      "relevance": 0.603767,
+      "count": 2
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.598179,
+      "count": 32
+    },
+    {
+      "text": "ejecucion de los procesos",
+      "relevance": 0.576965,
+      "count": 1
+    },
+    {
+      "text": "cumplimiento del Articulo",
+      "relevance": 0.562777,
+      "count": 1
+    },
+    {
+      "text": "Modelo Estandar",
+      "relevance": 0.558872,
+      "count": 4
+    },
+    {
+      "text": "responsabilidad del Control Interno",
+      "relevance": 0.555092,
+      "count": 1
+    },
+    {
+      "text": "Presidencia de la Republica",
+      "relevance": 0.551705,
+      "count": 4
+    },
+    {
+      "text": "mejoramiento continuo",
+      "relevance": 0.54734,
+      "count": 2
+    },
+    {
+      "text": "Ley N",
+      "relevance": 0.546255,
+      "count": 2
+    },
+    {
+      "text": "fluidez de la informacion",
+      "relevance": 0.545994,
+      "count": 1
+    },
+    {
+      "text": "Resolucion No",
+      "relevance": 0.542971,
+      "count": 1
+    },
+    {
+      "text": "posibles riesgos",
+      "relevance": 0.541532,
+      "count": 1
+    },
+    {
+      "text": "naturaleza de sus funciones",
+      "relevance": 0.535578,
+      "count": 1
+    },
+    {
+      "text": "COMPONENTE TALENTO HUMANO",
+      "relevance": 0.534718,
+      "count": 3
+    },
+    {
+      "text": "gestion de la organizaci6n",
+      "relevance": 0.532738,
+      "count": 1
+    },
+    {
+      "text": "OBJETIVOS ESPECIiFICOS DEL MODELO",
+      "relevance": 0.531247,
+      "count": 1
+    },
+    {
+      "text": "manera oportuna",
+      "relevance": 0.530866,
+      "count": 1
+    },
+    {
+      "text": "Universidad Creo",
+      "relevance": 0.529406,
+      "count": 1
+    },
+    {
+      "text": "fortalecimiento continuo del Modelo",
+      "relevance": 0.528802,
+      "count": 5
+    },
+    {
+      "text": "obligatorio cumplimiento",
+      "relevance": 0.528739,
+      "count": 1
+    },
+    {
+      "text": "coordinacion de las acciones",
+      "relevance": 0.527818,
+      "count": 1
+    },
+    {
+      "text": "planes de mejoramiento",
+      "relevance": 0.525723,
+      "count": 3
+    },
+    {
+      "text": "objetivos institucionales",
+      "relevance": 0.52516,
+      "count": 7
+    },
+    {
+      "text": "elementos necesarios",
+      "relevance": 0.525041,
+      "count": 1
+    },
+    {
+      "text": "Servidor Publico",
+      "relevance": 0.523856,
+      "count": 1
+    },
+    {
+      "text": "regional segun",
+      "relevance": 0.52309,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento continuo de la administraci6",
+      "relevance": 0.522333,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.522197,
+      "count": 29
+    },
+    {
+      "text": "COMPONENTE DIRECCIONAMIENTO ESTRATEGICO",
+      "relevance": 0.521916,
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

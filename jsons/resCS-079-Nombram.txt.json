@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2492,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "nombramientos provisionales",
+      "relevance": 0.8447,
+      "count": 2
+    },
+    {
+      "text": "funcionarios vinculados",
+      "relevance": 0.78804,
+      "count": 1
+    },
+    {
+      "text": "nombramientos provisionales de los funcionarios",
+      "relevance": 0.727545,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.609484,
+      "count": 1
+    },
+    {
+      "text": "Cargos de Empleados Publicos",
+      "relevance": 0.599635,
+      "count": 1
+    },
+    {
+      "text": "nombramiento provisional",
+      "relevance": 0.598318,
+      "count": 1
+    },
+    {
+      "text": "actos administrativos",
+      "relevance": 0.563916,
+      "count": 1
+    },
+    {
+      "text": "Febrero del ano",
+      "relevance": 0.563846,
+      "count": 1
+    },
+    {
+      "text": "vacantes existentes",
+      "relevance": 0.55288,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.53216,
+      "count": 1
+    },
+    {
+      "text": "servicio de la Instituci\u00e9n",
+      "relevance": 0.531295,
+      "count": 1
+    },
+    {
+      "text": "Docentes de la Universidad",
+      "relevance": 0.529422,
+      "count": 1
+    },
+    {
+      "text": "concursos correspondientes",
+      "relevance": 0.529247,
+      "count": 1
+    },
+    {
+      "text": "proceso de concursos internos",
+      "relevance": 0.513864,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.50801,
+      "count": 1
+    },
+    {
+      "text": "servicio de la Universidad del Valle",
+      "relevance": 0.505072,
+      "count": 1
+    },
+    {
+      "text": "Sal\u00e9n de Reuniones del Despacho",
+      "relevance": 0.499628,
+      "count": 1
+    },
+    {
+      "text": "Febrero del ario",
+      "relevance": 0.49864,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.498393,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion",
+      "relevance": 0.494467,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.492914,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.487801,
+      "count": 1
+    },
+    {
+      "text": "Empleados Publicos",
+      "relevance": 0.480523,
+      "count": 2
+    },
+    {
+      "text": "Rector de la Universidad",
+      "relevance": 0.478562,
+      "count": 1
+    },
+    {
+      "text": "Valle del Cauca",
+      "relevance": 0.478393,
+      "count": 1
+    },
+    {
+      "text": "Resoluciones No",
+      "relevance": 0.475468,
+      "count": 1
+    },
+    {
+      "text": "Valle",
+      "relevance": 0.472231,
+      "count": 2
+    },
+    {
+      "text": "Planta Unica de Cargos de los Empleados Publicos",
+      "relevance": 0.465959,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.465937,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.46413,
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2370,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "reconocimiento institucional",
+      "relevance": 0.726303,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.663909,
+      "count": 2
+    },
+    {
+      "text": "importante cargo",
+      "relevance": 0.58838,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.585912,
+      "count": 1
+    },
+    {
+      "text": "egresado de nuestra Universidad",
+      "relevance": 0.582005,
+      "count": 1
+    },
+    {
+      "text": "mocion de felicitacion",
+      "relevance": 0.575473,
+      "count": 2
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.571052,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.564673,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.563049,
+      "count": 2
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Maestria",
+      "relevance": 0.53443,
+      "count": 1
+    },
+    {
+      "text": "Secretario de Infraestructura",
+      "relevance": 0.533016,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.530975,
+      "count": 4
+    },
+    {
+      "text": "ejercicio de los cargos",
+      "relevance": 0.529069,
+      "count": 1
+    },
+    {
+      "text": "amplio sentido de pertenencia",
+      "relevance": 0.527064,
+      "count": 1
+    },
+    {
+      "text": "sesi6n ordinaria",
+      "relevance": 0.525996,
+      "count": 1
+    },
+    {
+      "text": "prestigio de la Universidad del Valle",
+      "relevance": 0.524743,
+      "count": 1
+    },
+    {
+      "text": "causas ambientales",
+      "relevance": 0.520896,
+      "count": 1
+    },
+    {
+      "text": "fuente de orgullo",
+      "relevance": 0.516083,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.515561,
+      "count": 1
+    },
+    {
+      "text": "instituci6n",
+      "relevance": 0.508983,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.506444,
+      "count": 1
+    },
+    {
+      "text": "moci\u00e9n de felicitacion",
+      "relevance": 0.505684,
+      "count": 1
+    },
+    {
+      "text": "desempeno profesional",
+      "relevance": 0.505425,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.502213,
+      "count": 1
+    },
+    {
+      "text": "Ingeniero Gustavo Adolfo Jaramillo Velasquez",
+      "relevance": 0.501996,
+      "count": 1
+    },
+    {
+      "text": "Gerente de Metrocali",
+      "relevance": 0.499567,
+      "count": 1
+    },
+    {
+      "text": "literal q",
+      "relevance": 0.493761,
+      "count": 1
+    },
+    {
+      "text": "Cristina Torres",
+      "relevance": 0.493761,
+      "count": 1
+    },
+    {
+      "text": "Gerente de las Empresas Municipales de Cali",
+      "relevance": 0.492585,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico de Ingenieria Civil",
+      "relevance": 0.492504,
+      "count": 1
+    }
+  ]
+}

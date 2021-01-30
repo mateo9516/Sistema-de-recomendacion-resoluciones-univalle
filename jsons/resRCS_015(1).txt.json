@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3236,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.724602,
+      "count": 2
+    },
+    {
+      "text": "instituciones universitarias",
+      "relevance": 0.679694,
+      "count": 1
+    },
+    {
+      "text": "CONSERVACION DE EDIFICACIONES",
+      "relevance": 0.653234,
+      "count": 4
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.643673,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.579689,
+      "count": 2
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.559814,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico aprob6",
+      "relevance": 0.559013,
+      "count": 1
+    },
+    {
+      "text": "area del programa acad\u00e9mico",
+      "relevance": 0.558948,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de competencias",
+      "relevance": 0.55245,
+      "count": 1
+    },
+    {
+      "text": "normas vigentes",
+      "relevance": 0.546745,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.540079,
+      "count": 1
+    },
+    {
+      "text": "fecha de aprobacion",
+      "relevance": 0.539423,
+      "count": 1
+    },
+    {
+      "text": "programas de estudio",
+      "relevance": 0.538894,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.528282,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del entorno",
+      "relevance": 0.524968,
+      "count": 1
+    },
+    {
+      "text": "diferentes disciplinas interesados",
+      "relevance": 0.515786,
+      "count": 1
+    },
+    {
+      "text": "campo del mantenimiento",
+      "relevance": 0.510468,
+      "count": 1
+    },
+    {
+      "text": "ausencia de programas",
+      "relevance": 0.509817,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.507554,
+      "count": 3
+    },
+    {
+      "text": "parametros de calidad",
+      "relevance": 0.507414,
+      "count": 1
+    },
+    {
+      "text": "preservacion  fisico del espacio",
+      "relevance": 0.506905,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.504738,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del Departamento",
+      "relevance": 0.500327,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.498948,
+      "count": 1
+    },
+    {
+      "text": "programas de posgrado.UNIVERSIDAD",
+      "relevance": 0.497977,
+      "count": 1
+    },
+    {
+      "text": "desempeno laboral",
+      "relevance": 0.497517,
+      "count": 1
+    },
+    {
+      "text": "suroccidente colombiano",
+      "relevance": 0.497517,
+      "count": 1
+    },
+    {
+      "text": "Facultad de Artes Integradas",
+      "relevance": 0.496072,
+      "count": 2
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.495245,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.494143,
+      "count": 1
+    }
+  ]
+}

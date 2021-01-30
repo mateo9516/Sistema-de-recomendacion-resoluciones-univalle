@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4590,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "requisitos legales",
+      "relevance": 0.577686,
+      "count": 1
+    },
+    {
+      "text": "Plan Maestro",
+      "relevance": 0.57715,
+      "count": 1
+    },
+    {
+      "text": "Desarrollo Institucional",
+      "relevance": 0.57491,
+      "count": 1
+    },
+    {
+      "text": "Oficina de Planeacion",
+      "relevance": 0.567208,
+      "count": 1
+    },
+    {
+      "text": "diseno de salones",
+      "relevance": 0.566757,
+      "count": 1
+    },
+    {
+      "text": "siguiente justificacidn",
+      "relevance": 0.561991,
+      "count": 1
+    },
+    {
+      "text": "necesidades de espacios",
+      "relevance": 0.56096,
+      "count": 1
+    },
+    {
+      "text": "titulo bienes inmuebles",
+      "relevance": 0.560577,
+      "count": 1
+    },
+    {
+      "text": "atribuciones conferidas",
+      "relevance": 0.558495,
+      "count": 1
+    },
+    {
+      "text": "Servicios Varios",
+      "relevance": 0.556325,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.545784,
+      "count": 4
+    },
+    {
+      "text": "compra de un predio",
+      "relevance": 0.539417,
+      "count": 1
+    },
+    {
+      "text": "Santa Mariana",
+      "relevance": 0.537551,
+      "count": 1
+    },
+    {
+      "text": "adecuacion de un edificio",
+      "relevance": 0.533631,
+      "count": 1
+    },
+    {
+      "text": "inspeccion de las instalaciones",
+      "relevance": 0.531885,
+      "count": 1
+    },
+    {
+      "text": "Planeacion fisica",
+      "relevance": 0.526937,
+      "count": 1
+    },
+    {
+      "text": "nomenclatura urbana actual",
+      "relevance": 0.525651,
+      "count": 1
+    },
+    {
+      "text": "mediano plazo",
+      "relevance": 0.523746,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de esta obra",
+      "relevance": 0.522502,
+      "count": 1
+    },
+    {
+      "text": "corto plazo",
+      "relevance": 0.522049,
+      "count": 2
+    },
+    {
+      "text": "espacios adecuados",
+      "relevance": 0.517332,
+      "count": 1
+    },
+    {
+      "text": "transferencia de la propiedad",
+      "relevance": 0.516246,
+      "count": 1
+    },
+    {
+      "text": "respectiva Escritura Publica",
+      "relevance": 0.516217,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.515684,
+      "count": 1
+    },
+    {
+      "text": "Notarial de Cali",
+      "relevance": 0.51387,
+      "count": 1
+    },
+    {
+      "text": "Jefe de la Oficina",
+      "relevance": 0.512144,
+      "count": 1
+    },
+    {
+      "text": "Escritura Publica No",
+      "relevance": 0.512039,
+      "count": 1
+    },
+    {
+      "text": "situacion",
+      "relevance": 0.510942,
+      "count": 2
+    },
+    {
+      "text": "centimetros cuadrados",
+      "relevance": 0.510251,
+      "count": 1
+    },
+    {
+      "text": "Notaria Tercera",
+      "relevance": 0.510251,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3899,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.693263,
+      "count": 3
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.686082,
+      "count": 1
+    },
+    {
+      "text": "representantes profesorales principales",
+      "relevance": 0.6478,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de la actividad gremial",
+      "relevance": 0.643383,
+      "count": 1
+    },
+    {
+      "text": "temas tratados",
+      "relevance": 0.595612,
+      "count": 1
+    },
+    {
+      "text": "organizaciones de empleados",
+      "relevance": 0.59512,
+      "count": 1
+    },
+    {
+      "text": "Consejos de Facultad",
+      "relevance": 0.590074,
+      "count": 1
+    },
+    {
+      "text": "calculo de horas de los docentes",
+      "relevance": 0.574868,
+      "count": 1
+    },
+    {
+      "text": "Junta Directiva",
+      "relevance": 0.566445,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.560709,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de las actividades",
+      "relevance": 0.553692,
+      "count": 2
+    },
+    {
+      "text": "profesores integrantes",
+      "relevance": 0.550115,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo Colectivo suscrita",
+      "relevance": 0.549384,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.540582,
+      "count": 1
+    },
+    {
+      "text": "horas",
+      "relevance": 0.537608,
+      "count": 10
+    },
+    {
+      "text": "Asociaci\u00e9n Sindical",
+      "relevance": 0.534383,
+      "count": 1
+    },
+    {
+      "text": "actividad sindical",
+      "relevance": 0.533438,
+      "count": 1
+    },
+    {
+      "text": "representantes principales",
+      "relevance": 0.533429,
+      "count": 1
+    },
+    {
+      "text": "ejercicio de la actividad sindical",
+      "relevance": 0.523211,
+      "count": 1
+    },
+    {
+      "text": "Instituto Acad\u00e9mico",
+      "relevance": 0.522696,
+      "count": 1
+    },
+    {
+      "text": "servicio de la Instituci\u00e9n",
+      "relevance": 0.521041,
+      "count": 1
+    },
+    {
+      "text": "horas del total",
+      "relevance": 0.519534,
+      "count": 1
+    },
+    {
+      "text": "tramites de ley",
+      "relevance": 0.515484,
+      "count": 1
+    },
+    {
+      "text": "cuerpos colegiados de la Universidad",
+      "relevance": 0.513149,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de marzo",
+      "relevance": 0.511724,
+      "count": 1
+    },
+    {
+      "text": "Secretario General",
+      "relevance": 0.505907,
+      "count": 1
+    },
+    {
+      "text": "acuerdo suscrito",
+      "relevance": 0.504778,
+      "count": 1
+    },
+    {
+      "text": "total de las actividades acad\u00e9micas asignable",
+      "relevance": 0.504384,
+      "count": 1
+    },
+    {
+      "text": "ASPU Seccional Universidad del Valle",
+      "relevance": 0.503055,
+      "count": 1
+    },
+    {
+      "text": "aprobatoria del Convenio",
+      "relevance": 0.50189,
+      "count": 1
+    }
+  ]
+}

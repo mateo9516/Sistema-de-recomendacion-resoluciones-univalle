@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 17346,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.622307,
+      "count": 1
+    },
+    {
+      "text": "recurso del valor del contrato",
+      "relevance": 0.61029,
+      "count": 1
+    },
+    {
+      "text": "Vigencias Futuras",
+      "relevance": 0.605631,
+      "count": 3
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.60488,
+      "count": 8
+    },
+    {
+      "text": "ejecuci\u00e9n de la obra",
+      "relevance": 0.569476,
+      "count": 1
+    },
+    {
+      "text": "proyecto Edificio de Biblioteca",
+      "relevance": 0.550971,
+      "count": 1
+    },
+    {
+      "text": "estudios previos",
+      "relevance": 0.550723,
+      "count": 1
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.550508,
+      "count": 1
+    },
+    {
+      "text": "previa autorizacion",
+      "relevance": 0.550433,
+      "count": 1
+    },
+    {
+      "text": "elaboracion del proyecto arquitectonico",
+      "relevance": 0.548184,
+      "count": 1
+    },
+    {
+      "text": "Interventoria t\u00e9cnica",
+      "relevance": 0.547866,
+      "count": 2
+    },
+    {
+      "text": "Valor total del proyecto",
+      "relevance": 0.547803,
+      "count": 6
+    },
+    {
+      "text": "proyectos de importancia estrat\u00e9gica",
+      "relevance": 0.547646,
+      "count": 1
+    },
+    {
+      "text": "estudios t\u00e9cnicos",
+      "relevance": 0.547475,
+      "count": 4
+    },
+    {
+      "text": "saldos iniciales",
+      "relevance": 0.544906,
+      "count": 1
+    },
+    {
+      "text": "equipos de aire acondicionado",
+      "relevance": 0.540393,
+      "count": 1
+    },
+    {
+      "text": "recepcion de los bienes",
+      "relevance": 0.537233,
+      "count": 1
+    },
+    {
+      "text": "tiempo de una partida",
+      "relevance": 0.537189,
+      "count": 1
+    },
+    {
+      "text": "recibo de obras",
+      "relevance": 0.537011,
+      "count": 4
+    },
+    {
+      "text": "entidades territoriales",
+      "relevance": 0.536662,
+      "count": 2
+    },
+    {
+      "text": "instalacion de aire acondicionado",
+      "relevance": 0.535586,
+      "count": 2
+    },
+    {
+      "text": "Estatuto Organico del Presupuesto",
+      "relevance": 0.52939,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de vigencias futuras",
+      "relevance": 0.528856,
+      "count": 1
+    },
+    {
+      "text": "corporacion administrativa",
+      "relevance": 0.527795,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.527061,
+      "count": 1
+    },
+    {
+      "text": "especificaciones t\u00e9cnicas",
+      "relevance": 0.525638,
+      "count": 2
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.523819,
+      "count": 6
+    },
+    {
+      "text": "recursos del impuesto",
+      "relevance": 0.523324,
+      "count": 1
+    },
+    {
+      "text": "Concejos Municipales",
+      "relevance": 0.523201,
+      "count": 1
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.523019,
+      "count": 1
+    }
+  ]
+}

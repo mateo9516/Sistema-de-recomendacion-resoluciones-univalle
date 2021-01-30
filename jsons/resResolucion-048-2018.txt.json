@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3377,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "PROCESO DE MATRICULA",
+      "relevance": 0.791401,
+      "count": 3
+    },
+    {
+      "text": "DESARROLLO del periodo acad\u00e9mico",
+      "relevance": 0.707567,
+      "count": 1
+    },
+    {
+      "text": "Programas Acad\u00e9micos de pregrado",
+      "relevance": 0.613357,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.603151,
+      "count": 1
+    },
+    {
+      "text": "siguiente Calendario Acad\u00e9mico",
+      "relevance": 0.597644,
+      "count": 1
+    },
+    {
+      "text": "Idioma Extranjero",
+      "relevance": 0.593636,
+      "count": 2
+    },
+    {
+      "text": "Asignaturas Electivas",
+      "relevance": 0.573059,
+      "count": 1
+    },
+    {
+      "text": "documentos digitalizados",
+      "relevance": 0.567978,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.564405,
+      "count": 1
+    },
+    {
+      "text": "Programa Acad\u00e9mico",
+      "relevance": 0.557806,
+      "count": 2
+    },
+    {
+      "text": "Sede Cali",
+      "relevance": 0.556133,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.553471,
+      "count": 3
+    },
+    {
+      "text": "Cancelaci\u00e9n de Asignaturas",
+      "relevance": 0.550312,
+      "count": 1
+    },
+    {
+      "text": "Registro Acad\u00e9mico",
+      "relevance": 0.548038,
+      "count": 1
+    },
+    {
+      "text": "Sede de San Fernando",
+      "relevance": 0.546219,
+      "count": 1
+    },
+    {
+      "text": "Periodo Acad\u00e9mico AGOSTO",
+      "relevance": 0.531455,
+      "count": 1
+    },
+    {
+      "text": "AGOSTO-DICIEMBRE",
+      "relevance": 0.525184,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.521791,
+      "count": 1
+    },
+    {
+      "text": "calificaciones de validacion",
+      "relevance": 0.521437,
+      "count": 1
+    },
+    {
+      "text": "ADMITIDOS POR TRANSFERENCIAUNIVERSIDAD",
+      "relevance": 0.520196,
+      "count": 1
+    },
+    {
+      "text": "Asignaturas de Trabajo de Grado",
+      "relevance": 0.517218,
+      "count": 1
+    },
+    {
+      "text": "Ciencias del Lenguaje",
+      "relevance": 0.513951,
+      "count": 1
+    },
+    {
+      "text": "dias de mayo",
+      "relevance": 0.509241,
+      "count": 1
+    },
+    {
+      "text": "Sede de Cali",
+      "relevance": 0.506818,
+      "count": 1
+    },
+    {
+      "text": "Inicio de clases",
+      "relevance": 0.504194,
+      "count": 1
+    },
+    {
+      "text": "parte de la Escuela",
+      "relevance": 0.501123,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.499633,
+      "count": 1
+    },
+    {
+      "text": "Examenes de Proficiencia",
+      "relevance": 0.496925,
+      "count": 1
+    },
+    {
+      "text": "Asignaturas de Practica",
+      "relevance": 0.496126,
+      "count": 1
+    },
+    {
+      "text": "Calendario",
+      "relevance": 0.49554,
+      "count": 1
+    }
+  ]
+}

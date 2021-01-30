@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6379,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.640268,
+      "count": 4
+    },
+    {
+      "text": "facultades legales",
+      "relevance": 0.583326,
+      "count": 1
+    },
+    {
+      "text": "LENGUAS EXTRANJERAS",
+      "relevance": 0.580708,
+      "count": 12
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.568552,
+      "count": 4
+    },
+    {
+      "text": "Consejo de la Facultad de Humanidades",
+      "relevance": 0.562405,
+      "count": 1
+    },
+    {
+      "text": "Decreto Unico Reglamentario",
+      "relevance": 0.553523,
+      "count": 1
+    },
+    {
+      "text": "Sector Educacion",
+      "relevance": 0.551615,
+      "count": 2
+    },
+    {
+      "text": "Lenguas Extranjeras Ingl\u00e9s",
+      "relevance": 0.548712,
+      "count": 1
+    },
+    {
+      "text": "curriculo del Programa Acad\u00e9mico",
+      "relevance": 0.544764,
+      "count": 1
+    },
+    {
+      "text": "alta calidad",
+      "relevance": 0.543495,
+      "count": 1
+    },
+    {
+      "text": "Escuela de Ciencias del Lenguaje",
+      "relevance": 0.542357,
+      "count": 1
+    },
+    {
+      "text": "programas de licenciatura",
+      "relevance": 0.539844,
+      "count": 2
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.539208,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos de educacion superior",
+      "relevance": 0.539007,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9micos de licenciatura",
+      "relevance": 0.538567,
+      "count": 1
+    },
+    {
+      "text": "Lenguas Modernas",
+      "relevance": 0.534602,
+      "count": 1
+    },
+    {
+      "text": "Consejo Acad\u00e9mico",
+      "relevance": 0.532051,
+      "count": 3
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.531369,
+      "count": 6
+    },
+    {
+      "text": "denominacion del Programa Acad\u00e9mico LICENCIATURA",
+      "relevance": 0.530411,
+      "count": 2
+    },
+    {
+      "text": "parte",
+      "relevance": 0.528936,
+      "count": 2
+    },
+    {
+      "text": "programas acad\u00e9micos de licenciatura",
+      "relevance": 0.528762,
+      "count": 1
+    },
+    {
+      "text": "cohortes de egresados",
+      "relevance": 0.528227,
+      "count": 1
+    },
+    {
+      "text": "LENGUAS EXTRANJERAS INGLES-FRANCES",
+      "relevance": 0.526516,
+      "count": 1
+    },
+    {
+      "text": "renovacion del registro",
+      "relevance": 0.52617,
+      "count": 1
+    },
+    {
+      "text": "nuevo Pais",
+      "relevance": 0.525926,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.525085,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.524224,
+      "count": 1
+    },
+    {
+      "text": "condiciones de calidad",
+      "relevance": 0.523732,
+      "count": 2
+    },
+    {
+      "text": "Politica Curricular",
+      "relevance": 0.516877,
+      "count": 1
+    },
+    {
+      "text": "junio de afo",
+      "relevance": 0.516361,
+      "count": 1
+    }
+  ]
+}

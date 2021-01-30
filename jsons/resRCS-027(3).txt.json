@@ -1,0 +1,105 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 812,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Senor Gobernador",
+      "relevance": 0.736803,
+      "count": 1
+    },
+    {
+      "text": "uso de las atribuciones",
+      "relevance": 0.687218,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.650381,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del Despacho",
+      "relevance": 0.570764,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.567192,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.562243,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.488222,
+      "count": 2
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.457012,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.45097,
+      "count": 1
+    },
+    {
+      "text": "Representante",
+      "relevance": 0.439454,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.435791,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.433256,
+      "count": 1
+    },
+    {
+      "text": "Abril",
+      "relevance": 0.427079,
+      "count": 1
+    },
+    {
+      "text": "designacion",
+      "relevance": 0.427079,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo",
+      "relevance": 0.427079,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.427079,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.427079,
+      "count": 1
+    },
+    {
+      "text": "Presidente",
+      "relevance": 0.427079,
+      "count": 2
+    },
+    {
+      "text": "Republica",
+      "relevance": 0.427079,
+      "count": 1
+    }
+  ]
+}

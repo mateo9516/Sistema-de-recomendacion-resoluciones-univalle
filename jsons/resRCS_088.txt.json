@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 10592,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.648414,
+      "count": 4
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.582001,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.576634,
+      "count": 1
+    },
+    {
+      "text": "entidades territoriales",
+      "relevance": 0.560396,
+      "count": 2
+    },
+    {
+      "text": "Alterno de Agua",
+      "relevance": 0.558937,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Educaci\u00e9n Nacional",
+      "relevance": 0.5535,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.55203,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de vigencias futuras",
+      "relevance": 0.546436,
+      "count": 1
+    },
+    {
+      "text": "recibo de obras",
+      "relevance": 0.542384,
+      "count": 3
+    },
+    {
+      "text": "tal efecto",
+      "relevance": 0.540504,
+      "count": 2
+    },
+    {
+      "text": "Acceso Norte",
+      "relevance": 0.539759,
+      "count": 1
+    },
+    {
+      "text": "fecha posterior",
+      "relevance": 0.539448,
+      "count": 2
+    },
+    {
+      "text": "aulas de clase",
+      "relevance": 0.534853,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Hacienda",
+      "relevance": 0.533199,
+      "count": 3
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.532148,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico de presupuesto",
+      "relevance": 0.530773,
+      "count": 1
+    },
+    {
+      "text": "caso de la Nacion",
+      "relevance": 0.530158,
+      "count": 1
+    },
+    {
+      "text": "autorizaci\u00e9n correspondiente",
+      "relevance": 0.528466,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.52676,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.525347,
+      "count": 6
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.524688,
+      "count": 1
+    },
+    {
+      "text": "desarrollo del principio de la legalidad",
+      "relevance": 0.524266,
+      "count": 1
+    },
+    {
+      "text": "recurso del valor del contrato",
+      "relevance": 0.523026,
+      "count": 1
+    },
+    {
+      "text": "unidades ejecutoras",
+      "relevance": 0.521767,
+      "count": 1
+    },
+    {
+      "text": "presupuestos de vigencias futuras",
+      "relevance": 0.52138,
+      "count": 2
+    },
+    {
+      "text": "caso de las entidades territoriales",
+      "relevance": 0.520815,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.520643,
+      "count": 1
+    },
+    {
+      "text": "sefior Rector",
+      "relevance": 0.519841,
+      "count": 1
+    },
+    {
+      "text": "recepcidn de los bienes",
+      "relevance": 0.519641,
+      "count": 1
+    },
+    {
+      "text": "asuncion del compromiso",
+      "relevance": 0.519504,
+      "count": 1
+    }
+  ]
+}

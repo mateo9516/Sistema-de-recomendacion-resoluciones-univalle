@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5627,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "vigencia del afio",
+      "relevance": 0.630219,
+      "count": 4
+    },
+    {
+      "text": "Gobierno Nacional",
+      "relevance": 0.628627,
+      "count": 2
+    },
+    {
+      "text": "valor del punto salarial",
+      "relevance": 0.614943,
+      "count": 5
+    },
+    {
+      "text": "concepto de Hora Catedra",
+      "relevance": 0.581835,
+      "count": 3
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.578331,
+      "count": 2
+    },
+    {
+      "text": "asignacion acad\u00e9mica de los Profesores",
+      "relevance": 0.576686,
+      "count": 1
+    },
+    {
+      "text": "aspectos pertinentes",
+      "relevance": 0.575862,
+      "count": 1
+    },
+    {
+      "text": "docencia directa",
+      "relevance": 0.564798,
+      "count": 4
+    },
+    {
+      "text": "trav\u00e9s de los Fondos Especiales",
+      "relevance": 0.561636,
+      "count": 2
+    },
+    {
+      "text": "misma proporcion",
+      "relevance": 0.555203,
+      "count": 1
+    },
+    {
+      "text": "programas de Pregrado",
+      "relevance": 0.554391,
+      "count": 3
+    },
+    {
+      "text": "Sedes de Cali",
+      "relevance": 0.552812,
+      "count": 1
+    },
+    {
+      "text": "Rectoria de la Universidad",
+      "relevance": 0.545531,
+      "count": 1
+    },
+    {
+      "text": "Oficiales del Orden Nacional",
+      "relevance": 0.540939,
+      "count": 1
+    },
+    {
+      "text": "categoria del Profesor",
+      "relevance": 0.540404,
+      "count": 2
+    },
+    {
+      "text": "dias del mes de Mayo",
+      "relevance": 0.538291,
+      "count": 1
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.535998,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.530951,
+      "count": 3
+    },
+    {
+      "text": "modalidad de Hora Catedra",
+      "relevance": 0.529203,
+      "count": 1
+    },
+    {
+      "text": "Fondos Comunes",
+      "relevance": 0.527169,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.522456,
+      "count": 1
+    },
+    {
+      "text": "Extension de la Universidad",
+      "relevance": 0.520577,
+      "count": 2
+    },
+    {
+      "text": "articulos precedentes",
+      "relevance": 0.517683,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.515394,
+      "count": 1
+    },
+    {
+      "text": "asignacion de actividades",
+      "relevance": 0.514585,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del Despacho",
+      "relevance": 0.514377,
+      "count": 1
+    },
+    {
+      "text": "pago de la Hora Catedra",
+      "relevance": 0.512359,
+      "count": 1
+    },
+    {
+      "text": "funcionarios de la Universidad",
+      "relevance": 0.511518,
+      "count": 1
+    },
+    {
+      "text": "respectiva Unidad Acad\u00e9mica",
+      "relevance": 0.510262,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen salarial",
+      "relevance": 0.509641,
+      "count": 1
+    }
+  ]
+}

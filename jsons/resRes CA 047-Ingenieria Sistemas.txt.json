@@ -1,160 +1,160 @@
 {
   "usage": {
-    "text_units": 4,
-    "text_characters": 37994,
+    "text_units": 2,
+    "text_characters": 18997,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "asignatura Lectura",
-      "relevance": 0.587371,
-      "count": 2
+      "relevance": 0.587349,
+      "count": 1
     },
     {
       "text": "ciclo basico",
-      "relevance": 0.552901,
-      "count": 6
+      "relevance": 0.552952,
+      "count": 3
     },
     {
       "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.546263,
-      "count": 34
+      "relevance": 0.546318,
+      "count": 17
     },
     {
       "text": "titulo de Ingeniero de Sistemas",
-      "relevance": 0.546199,
-      "count": 2
+      "relevance": 0.546257,
+      "count": 1
     },
     {
       "text": "desarrollo de la sociedad",
-      "relevance": 0.546101,
-      "count": 2
+      "relevance": 0.546166,
+      "count": 1
     },
     {
       "text": "problemas reales",
-      "relevance": 0.545836,
-      "count": 2
+      "relevance": 0.545891,
+      "count": 1
     },
     {
       "text": "estudiantes anuales",
-      "relevance": 0.541486,
-      "count": 4
+      "relevance": 0.541543,
+      "count": 2
     },
     {
       "text": "asignaturas de manera integral",
-      "relevance": 0.540457,
-      "count": 2
+      "relevance": 0.540446,
+      "count": 1
     },
     {
       "text": "Estatuto General",
-      "relevance": 0.539744,
-      "count": 2
+      "relevance": 0.539532,
+      "count": 1
     },
     {
       "text": "forma oral",
-      "relevance": 0.539052,
-      "count": 2
+      "relevance": 0.539061,
+      "count": 1
     },
     {
       "text": "discapacidad auditiva",
-      "relevance": 0.53687,
-      "count": 2
+      "relevance": 0.536923,
+      "count": 1
     },
     {
       "text": "Ciclo de Namero de Porcentaje",
-      "relevance": 0.536087,
-      "count": 2
-    },
-    {
-      "text": "siguientes Aambitos",
-      "relevance": 0.534324,
-      "count": 2
+      "relevance": 0.536129,
+      "count": 1
     },
     {
       "text": "facultades legales",
-      "relevance": 0.534323,
-      "count": 2
+      "relevance": 0.534371,
+      "count": 1
+    },
+    {
+      "text": "siguientes Aambitos",
+      "relevance": 0.534365,
+      "count": 1
     },
     {
       "text": "nivel local",
-      "relevance": 0.533623,
-      "count": 2
-    },
-    {
-      "text": "formacion cientifica",
-      "relevance": 0.530748,
-      "count": 2
+      "relevance": 0.533663,
+      "count": 1
     },
     {
       "text": "Programa Acad\u00e9mico de Ingenieria de Sistemas",
-      "relevance": 0.530155,
-      "count": 8
+      "relevance": 0.530196,
+      "count": 4
+    },
+    {
+      "text": "formacion cientifica",
+      "relevance": 0.530126,
+      "count": 1
     },
     {
       "text": "Nimero de cr\u00e9ditos Porcentaje",
-      "relevance": 0.528979,
-      "count": 2
+      "relevance": 0.529013,
+      "count": 1
     },
     {
       "text": "Consejo de la Facultad de Ingenieria",
-      "relevance": 0.528736,
-      "count": 4
+      "relevance": 0.528776,
+      "count": 2
     },
     {
       "text": "Ingenieria de Sistemas",
-      "relevance": 0.527853,
-      "count": 8
-    },
-    {
-      "text": "componentes de la Formaci6",
-      "relevance": 0.527687,
-      "count": 2
-    },
-    {
-      "text": "parte del sello institucional",
-      "relevance": 0.52723,
-      "count": 2
-    },
-    {
-      "text": "ciclo profesional",
-      "relevance": 0.527167,
-      "count": 12
-    },
-    {
-      "text": "actividades extracurriculares",
-      "relevance": 0.526648,
-      "count": 2
-    },
-    {
-      "text": "Politica Curricular",
-      "relevance": 0.526216,
-      "count": 2
-    },
-    {
-      "text": "literal b",
-      "relevance": 0.523954,
-      "count": 2
-    },
-    {
-      "text": "Seminario de trabajo",
-      "relevance": 0.522302,
+      "relevance": 0.527891,
       "count": 4
     },
     {
+      "text": "componentes de la Formaci6",
+      "relevance": 0.527672,
+      "count": 1
+    },
+    {
+      "text": "parte del sello institucional",
+      "relevance": 0.527265,
+      "count": 1
+    },
+    {
+      "text": "ciclo profesional",
+      "relevance": 0.527194,
+      "count": 6
+    },
+    {
+      "text": "actividades extracurriculares",
+      "relevance": 0.526688,
+      "count": 1
+    },
+    {
+      "text": "Politica Curricular",
+      "relevance": 0.526253,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.523985,
+      "count": 1
+    },
+    {
+      "text": "Seminario de trabajo",
+      "relevance": 0.522338,
+      "count": 2
+    },
+    {
       "text": "Desarrollo de software",
-      "relevance": 0.522123,
-      "count": 10
+      "relevance": 0.522158,
+      "count": 5
     },
     {
       "text": "siguientes cargos",
-      "relevance": 0.521597,
-      "count": 2
+      "relevance": 0.521619,
+      "count": 1
     },
     {
       "text": "calidad del programa",
-      "relevance": 0.521538,
-      "count": 2
+      "relevance": 0.521571,
+      "count": 1
     }
   ]
 }

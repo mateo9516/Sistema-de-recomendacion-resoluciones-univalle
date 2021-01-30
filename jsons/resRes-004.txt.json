@@ -1,159 +1,159 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 3095,
+    "text_characters": 3278,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "marco de intercambios estudiantiles",
-      "relevance": 0.68227,
+      "text": "egresados de la Universidad del Valle",
+      "relevance": 0.633305,
       "count": 1
     },
     {
-      "text": "ejercicio de las actividades",
-      "relevance": 0.661991,
+      "text": "Plan Estrat\u00e9gico de Desarrollo",
+      "relevance": 0.617377,
       "count": 1
     },
     {
-      "text": "estudiante podra",
-      "relevance": 0.624634,
+      "text": "Universidad del Valle",
+      "relevance": 0.578636,
+      "count": 4
+    },
+    {
+      "text": "responsabilidad de la Oficina de Direccion",
+      "relevance": 0.576647,
       "count": 1
     },
     {
-      "text": "busqueda de estos propodsitos",
-      "relevance": 0.600824,
+      "text": "parte activa",
+      "relevance": 0.562676,
       "count": 1
     },
     {
-      "text": "parte del jefe inmediato",
-      "relevance": 0.595243,
+      "text": "busqueda de fines acad\u00e9micos",
+      "relevance": 0.561222,
       "count": 1
     },
     {
-      "text": "apoyo personal",
-      "relevance": 0.590634,
+      "text": "conocimientos habilidades",
+      "relevance": 0.560457,
       "count": 1
     },
     {
-      "text": "Monitorias Estudiantiles",
-      "relevance": 0.57525,
+      "text": "Consejo Superior",
+      "relevance": 0.552639,
+      "count": 2
+    },
+    {
+      "text": "creacion del Programa Institucional de Egresados",
+      "relevance": 0.551833,
       "count": 1
     },
     {
-      "text": "disminucion de la deserci6",
-      "relevance": 0.564109,
-      "count": 1
-    },
-    {
-      "text": "presente Resolucion",
-      "relevance": 0.551988,
-      "count": 1
-    },
-    {
-      "text": "literal i",
-      "relevance": 0.550381,
-      "count": 1
-    },
-    {
-      "text": "uso de sus atribuciones",
-      "relevance": 0.549349,
+      "text": "funcion de la Direcci\u00e9n de Extensi\u00e9n",
+      "relevance": 0.550179,
       "count": 1
     },
     {
       "text": "Santiago de Cali",
-      "relevance": 0.548104,
+      "relevance": 0.547748,
       "count": 1
     },
     {
-      "text": "estudiantes de otras instituciones",
-      "relevance": 0.547133,
+      "text": "trav\u00e9s de una relacion organica",
+      "relevance": 0.537153,
       "count": 1
     },
     {
-      "text": "factor importante",
-      "relevance": 0.545255,
+      "text": "proyectos de inter\u00e9s",
+      "relevance": 0.535943,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.537224,
-      "count": 4
-    },
-    {
-      "text": "intercambio  estudiantil",
-      "relevance": 0.528639,
+      "text": "relaciOn institucional",
+      "relevance": 0.535385,
       "count": 1
     },
     {
-      "text": "entrenamiento especial",
-      "relevance": 0.524992,
+      "text": "lineas de accion",
+      "relevance": 0.535274,
       "count": 1
     },
     {
-      "text": "dias del mes de febrero",
-      "relevance": 0.519507,
+      "text": "relaciones Universidad",
+      "relevance": 0.533969,
       "count": 1
     },
     {
-      "text": "estudiante podrd",
-      "relevance": 0.517505,
-      "count": 1
-    },
-    {
-      "text": "salon de reuniones del despacho",
-      "relevance": 0.515546,
-      "count": 1
-    },
-    {
-      "text": "misma modalidad",
-      "relevance": 0.51413,
-      "count": 1
-    },
-    {
-      "text": "estudiantes de otras universidades",
-      "relevance": 0.510055,
-      "count": 1
-    },
-    {
-      "text": "beneficiario de una monitoria",
-      "relevance": 0.510011,
-      "count": 1
-    },
-    {
-      "text": "reglamentacion vigente",
-      "relevance": 0.50787,
-      "count": 1
-    },
-    {
-      "text": "siguiente manera",
-      "relevance": 0.50498,
+      "text": "Programa Institucional de Egresados",
+      "relevance": 0.532104,
       "count": 2
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.503893,
+      "text": "permanente de la Universidad",
+      "relevance": 0.518258,
       "count": 1
     },
     {
-      "text": "politica interinstitucional",
-      "relevance": 0.503677,
+      "text": "Como Programa Institucional",
+      "relevance": 0.517662,
       "count": 1
     },
     {
-      "text": "monitorias especiales",
-      "relevance": 0.498032,
+      "text": "objetivos del Programa de Egresados",
+      "relevance": 0.516869,
       "count": 1
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.497851,
+      "text": "comunicacion permanente",
+      "relevance": 0.516012,
       "count": 1
     },
     {
-      "text": "estudiantes discapacitados",
-      "relevance": 0.497823,
+      "text": "actividades generales",
+      "relevance": 0.515159,
+      "count": 1
+    },
+    {
+      "text": "parte de una estrategia institucional",
+      "relevance": 0.513551,
+      "count": 1
+    },
+    {
+      "text": "relaciones de integraci6",
+      "relevance": 0.511108,
+      "count": 1
+    },
+    {
+      "text": "actividades conjuntas",
+      "relevance": 0.505749,
+      "count": 1
+    },
+    {
+      "text": "materia de egresados",
+      "relevance": 0.504266,
+      "count": 1
+    },
+    {
+      "text": "ente administrativo",
+      "relevance": 0.502356,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.501774,
+      "count": 1
+    },
+    {
+      "text": "recurso valioso",
+      "relevance": 0.500996,
+      "count": 1
+    },
+    {
+      "text": "Extensi6n",
+      "relevance": 0.500845,
       "count": 1
     }
   ]

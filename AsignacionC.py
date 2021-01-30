@@ -33,7 +33,7 @@ with os.scandir(ejemplo_dir) as ficheros:
 
 #########################################################################
 #Abro txt
-Archivo = open('Categorias.txt','w')
+Archivo = open('Categorias.txt','w',encoding='utf-8')
 #########################################################################
 
 #########################################################################
@@ -55,6 +55,7 @@ with os.scandir(ejemplo_dir) as ficheros:
 #########################################################################
             
 #########################################################################
+
 #Concateno palabras con relavancia mayor a 0.5
             PalabrasC = ""
             for keyw in response['keywords']:

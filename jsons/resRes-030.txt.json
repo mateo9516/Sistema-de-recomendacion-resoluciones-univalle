@@ -1,0 +1,163 @@
+{
+  "usage": {
+    "text_units": 5,
+    "text_characters": 50000,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "REGLAMENTO DE ARCHIVO",
+      "relevance": 0.683589,
+      "count": 28
+    },
+    {
+      "text": "control de sus archivos",
+      "relevance": 0.591886,
+      "count": 1
+    },
+    {
+      "text": "Retencion Documental",
+      "relevance": 0.563893,
+      "count": 3
+    },
+    {
+      "text": "adecuado manejo de los documentos",
+      "relevance": 0.561625,
+      "count": 1
+    },
+    {
+      "text": "administracion de sus archivos",
+      "relevance": 0.560242,
+      "count": 1
+    },
+    {
+      "text": "principios generales",
+      "relevance": 0.558543,
+      "count": 1
+    },
+    {
+      "text": "conservacion de los archivos estatales",
+      "relevance": 0.556456,
+      "count": 1
+    },
+    {
+      "text": "direcci6n",
+      "relevance": 0.549053,
+      "count": 1
+    },
+    {
+      "text": "adopcion de un Reglamento de Archivo",
+      "relevance": 0.546505,
+      "count": 1
+    },
+    {
+      "text": "preservacion del Patrimonio Documental",
+      "relevance": 0.546191,
+      "count": 1
+    },
+    {
+      "text": "responsabilidad de la Universidad",
+      "relevance": 0.5415,
+      "count": 1
+    },
+    {
+      "text": "Vicerrectoria Administrativa",
+      "relevance": 0.539521,
+      "count": 3
+    },
+    {
+      "text": "procesos administrativos",
+      "relevance": 0.538161,
+      "count": 1
+    },
+    {
+      "text": "caso de ingreso",
+      "relevance": 0.5378,
+      "count": 1
+    },
+    {
+      "text": "unidades de conservacion",
+      "relevance": 0.534675,
+      "count": 4
+    },
+    {
+      "text": "minimo areas de consulta",
+      "relevance": 0.534631,
+      "count": 1
+    },
+    {
+      "text": "documentos",
+      "relevance": 0.533421,
+      "count": 42
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.533291,
+      "count": 6
+    },
+    {
+      "text": "conjunto del Sistema de Archivo",
+      "relevance": 0.532648,
+      "count": 1
+    },
+    {
+      "text": "Secci\u00e9n de Gestion Documental",
+      "relevance": 0.530042,
+      "count": 3
+    },
+    {
+      "text": "Sistema de Archivo",
+      "relevance": 0.526152,
+      "count": 4
+    },
+    {
+      "text": "Sedes Regionales",
+      "relevance": 0.525697,
+      "count": 4
+    },
+    {
+      "text": "REGLAMENTO DE ARCHIVO DE LA UNIVERSIDAD",
+      "relevance": 0.524341,
+      "count": 1
+    },
+    {
+      "text": "custodia de los documentos",
+      "relevance": 0.52421,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.523982,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de la Seccion de Gesti6n Documental",
+      "relevance": 0.523595,
+      "count": 1
+    },
+    {
+      "text": "principios de procedencia",
+      "relevance": 0.523021,
+      "count": 1
+    },
+    {
+      "text": "diferentes archivos de gestion",
+      "relevance": 0.521159,
+      "count": 1
+    },
+    {
+      "text": "productor podra",
+      "relevance": 0.520668,
+      "count": 1
+    },
+    {
+      "text": "Patrimonio Documental de la Institucion",
+      "relevance": 0.520521,
+      "count": 2
+    }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
+  ]
+}

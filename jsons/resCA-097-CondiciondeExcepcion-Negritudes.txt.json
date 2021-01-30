@@ -1,160 +1,160 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 13240,
+    "text_units": 1,
+    "text_characters": 6620,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
       "text": "numero mayor de aspirantes",
-      "relevance": 0.748238,
-      "count": 2
+      "relevance": 0.748741,
+      "count": 1
     },
     {
       "text": "numero de cupos",
-      "relevance": 0.608188,
-      "count": 2
+      "relevance": 0.608469,
+      "count": 1
     },
     {
       "text": "condicid\u00e9n de excepcion",
-      "relevance": 0.589879,
-      "count": 2
+      "relevance": 0.590121,
+      "count": 1
     },
     {
       "text": "Programa Acad\u00e9mico",
-      "relevance": 0.58761,
-      "count": 8
+      "relevance": 0.587806,
+      "count": 4
     },
     {
       "text": "Examen de Estado",
-      "relevance": 0.585786,
-      "count": 2
+      "relevance": 0.58602,
+      "count": 1
     },
     {
       "text": "periodo acad\u00e9mico",
-      "relevance": 0.571739,
-      "count": 2
+      "relevance": 0.571943,
+      "count": 1
     },
     {
       "text": "resultados del Examen de Estado",
-      "relevance": 0.563492,
-      "count": 2
+      "relevance": 0.563678,
+      "count": 1
     },
     {
       "text": "familias de ascendencia afrocolombiana",
-      "relevance": 0.547548,
-      "count": 2
+      "relevance": 0.547699,
+      "count": 1
     },
     {
       "text": "Comunidad Negra",
-      "relevance": 0.545951,
-      "count": 2
+      "relevance": 0.546056,
+      "count": 1
     },
     {
       "text": "representante legal",
-      "relevance": 0.54381,
-      "count": 2
+      "relevance": 0.543909,
+      "count": 1
     },
     {
       "text": "origen nacional",
-      "relevance": 0.542589,
-      "count": 2
+      "relevance": 0.542685,
+      "count": 1
     },
     {
       "text": "razones de sexo",
-      "relevance": 0.542372,
-      "count": 2
+      "relevance": 0.542511,
+      "count": 1
     },
     {
       "text": "cuencas de los rios Atrato",
-      "relevance": 0.541619,
-      "count": 2
+      "relevance": 0.541756,
+      "count": 1
     },
     {
       "text": "Constitucion Politica de Colombia",
-      "relevance": 0.538879,
-      "count": 2
-    },
-    {
-      "text": "Secretario de Educaci\u00e9n Municipal",
-      "relevance": 0.538397,
-      "count": 2
+      "relevance": 0.539011,
+      "count": 1
     },
     {
       "text": "Raizales de San Andr\u00e9s",
-      "relevance": 0.532711,
-      "count": 2
+      "relevance": 0.532828,
+      "count": 1
     },
     {
       "text": "diversidad \u00e9tnica",
-      "relevance": 0.532541,
-      "count": 2
+      "relevance": 0.532615,
+      "count": 1
+    },
+    {
+      "text": "Secretario de Educaci\u00e9n Municipal",
+      "relevance": 0.531539,
+      "count": 1
     },
     {
       "text": "Trabajo de Grado",
-      "relevance": 0.529801,
-      "count": 2
+      "relevance": 0.529912,
+      "count": 1
     },
     {
       "text": "Zonas rurales",
-      "relevance": 0.529676,
-      "count": 2
+      "relevance": 0.529744,
+      "count": 1
     },
     {
       "text": "corte inicial",
-      "relevance": 0.52524,
-      "count": 2
+      "relevance": 0.52534,
+      "count": 1
     },
     {
       "text": "Examen de Estado anteriores",
-      "relevance": 0.524576,
-      "count": 2
+      "relevance": 0.524675,
+      "count": 1
     },
     {
       "text": "identidad cultural",
-      "relevance": 0.524409,
-      "count": 2
+      "relevance": 0.524464,
+      "count": 1
     },
     {
       "text": "demas regiones",
-      "relevance": 0.523781,
-      "count": 2
+      "relevance": 0.523879,
+      "count": 1
     },
     {
       "text": "Nacion Colombiana",
-      "relevance": 0.523232,
-      "count": 2
+      "relevance": 0.523329,
+      "count": 1
     },
     {
       "text": "Programas Acad\u00e9micos",
-      "relevance": 0.523004,
-      "count": 2
+      "relevance": 0.523056,
+      "count": 1
     },
     {
       "text": "cupos reservados",
-      "relevance": 0.521515,
-      "count": 2
+      "relevance": 0.521607,
+      "count": 1
     },
     {
       "text": "Condici\u00e9n de Excepci\u00e9n",
-      "relevance": 0.520997,
-      "count": 2
+      "relevance": 0.521088,
+      "count": 1
     },
     {
       "text": "misma Condici\u00e9n",
-      "relevance": 0.520501,
-      "count": 2
+      "relevance": 0.520591,
+      "count": 1
     },
     {
       "text": "primeros inscritos",
-      "relevance": 0.519933,
-      "count": 2
+      "relevance": 0.520021,
+      "count": 1
     },
     {
       "text": "titulo de bachiller",
-      "relevance": 0.519915,
-      "count": 2
+      "relevance": 0.520004,
+      "count": 1
     }
   ]
 }

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 2391,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Ministerio de Educacion Nacional",
+      "relevance": 0.727066,
+      "count": 2
+    },
+    {
+      "text": "denominacion del programa acad\u00e9mico",
+      "relevance": 0.679216,
+      "count": 1
+    },
+    {
+      "text": "Sistemas de Informacion",
+      "relevance": 0.656231,
+      "count": 3
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.61449,
+      "count": 1
+    },
+    {
+      "text": "parte del Ministerio",
+      "relevance": 0.593123,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.583822,
+      "count": 1
+    },
+    {
+      "text": "Desarrollo de Software",
+      "relevance": 0.568773,
+      "count": 3
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.567978,
+      "count": 2
+    },
+    {
+      "text": "Consejo de Facultad de Ingenieria",
+      "relevance": 0.56623,
+      "count": 1
+    },
+    {
+      "text": "reuniones del Despacho de la Gobernadora",
+      "relevance": 0.559916,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rminos de nuevos conocimientos",
+      "relevance": 0.556274,
+      "count": 1
+    },
+    {
+      "text": "Educacion Superior",
+      "relevance": 0.547652,
+      "count": 2
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.544334,
+      "count": 2
+    },
+    {
+      "text": "curriculos de sus programas acad\u00e9micos",
+      "relevance": 0.541549,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.533022,
+      "count": 1
+    },
+    {
+      "text": "presente Resolucion",
+      "relevance": 0.527948,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.522974,
+      "count": 1
+    },
+    {
+      "text": "Computacion de la Facultad de Ingenieria",
+      "relevance": 0.516617,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.514981,
+      "count": 1
+    },
+    {
+      "text": "cambio de denominacion",
+      "relevance": 0.510393,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.501353,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.495781,
+      "count": 1
+    },
+    {
+      "text": "mismas ofertas",
+      "relevance": 0.495781,
+      "count": 1
+    },
+    {
+      "text": "aprobacion",
+      "relevance": 0.489986,
+      "count": 1
+    },
+    {
+      "text": "servicio publico",
+      "relevance": 0.487913,
+      "count": 1
+    },
+    {
+      "text": "revision permanente",
+      "relevance": 0.486353,
+      "count": 1
+    },
+    {
+      "text": "Tecnologia",
+      "relevance": 0.486172,
+      "count": 5
+    },
+    {
+      "text": "Escuela de Ingenieria",
+      "relevance": 0.484945,
+      "count": 1
+    },
+    {
+      "text": "condiciones de calidad",
+      "relevance": 0.484378,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.483458,
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3883,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.625953,
+      "count": 1
+    },
+    {
+      "text": "Consejo Superior",
+      "relevance": 0.617577,
+      "count": 3
+    },
+    {
+      "text": "cargos de Vicedecanos",
+      "relevance": 0.615162,
+      "count": 1
+    },
+    {
+      "text": "Profesor Asistente",
+      "relevance": 0.60743,
+      "count": 3
+    },
+    {
+      "text": "Directores de Escuela",
+      "relevance": 0.604372,
+      "count": 1
+    },
+    {
+      "text": "Directores de Institutos Acad\u00e9micos",
+      "relevance": 0.576953,
+      "count": 2
+    },
+    {
+      "text": "cargos acad\u00e9mico",
+      "relevance": 0.572055,
+      "count": 2
+    },
+    {
+      "text": "literales b",
+      "relevance": 0.568224,
+      "count": 1
+    },
+    {
+      "text": "Decanos de Facultad",
+      "relevance": 0.566205,
+      "count": 1
+    },
+    {
+      "text": "facultades especiales",
+      "relevance": 0.564728,
+      "count": 1
+    },
+    {
+      "text": "Profesor Auxiliar",
+      "relevance": 0.560474,
+      "count": 2
+    },
+    {
+      "text": "uso de sus atribuciones legales",
+      "relevance": 0.560045,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.558897,
+      "count": 1
+    },
+    {
+      "text": "manera excepcional",
+      "relevance": 0.549762,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.549585,
+      "count": 1
+    },
+    {
+      "text": "ausencia de los titulares de los cargos",
+      "relevance": 0.536464,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.534006,
+      "count": 2
+    },
+    {
+      "text": "cargos acad\u00e9mico-administrativos",
+      "relevance": 0.532991,
+      "count": 3
+    },
+    {
+      "text": "dedicacion acad\u00e9mica",
+      "relevance": 0.531972,
+      "count": 1
+    },
+    {
+      "text": "Comit\u00e9s de Departamento",
+      "relevance": 0.531617,
+      "count": 1
+    },
+    {
+      "text": "designacion de profesores",
+      "relevance": 0.53088,
+      "count": 1
+    },
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.528683,
+      "count": 1
+    },
+    {
+      "text": "profesores de tiempo completo",
+      "relevance": 0.527342,
+      "count": 1
+    },
+    {
+      "text": "Directores de Programa Acad\u00e9mico de Pregrado",
+      "relevance": 0.526915,
+      "count": 1
+    },
+    {
+      "text": "Reuniones del Despacho de la Gobernadora",
+      "relevance": 0.526215,
+      "count": 1
+    },
+    {
+      "text": "actividad administrativa",
+      "relevance": 0.518539,
+      "count": 1
+    },
+    {
+      "text": "Directores de Institutos",
+      "relevance": 0.517465,
+      "count": 1
+    },
+    {
+      "text": "necesidad del servicio",
+      "relevance": 0.516353,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s de diferentes Resoluciones",
+      "relevance": 0.514691,
+      "count": 1
+    },
+    {
+      "text": "Consejos de Escuela",
+      "relevance": 0.513032,
+      "count": 1
+    }
+  ]
+}

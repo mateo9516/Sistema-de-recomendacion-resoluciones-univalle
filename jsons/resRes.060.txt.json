@@ -1,0 +1,135 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 838,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "Santiago de Cali",
+      "relevance": 0.710221,
+      "count": 1
+    },
+    {
+      "text": "Comisiones de Servicio",
+      "relevance": 0.698486,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de octubre",
+      "relevance": 0.601531,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.558997,
+      "count": 1
+    },
+    {
+      "text": "Paragrafo del Articulo",
+      "relevance": 0.550031,
+      "count": 1
+    },
+    {
+      "text": "RESOLUCION No",
+      "relevance": 0.539309,
+      "count": 1
+    },
+    {
+      "text": "Acuerdo No",
+      "relevance": 0.525058,
+      "count": 2
+    },
+    {
+      "text": "Valle del Cauca",
+      "relevance": 0.521623,
+      "count": 1
+    },
+    {
+      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
+      "relevance": 0.519057,
+      "count": 1
+    },
+    {
+      "text": "Personal Administrativo de la Universidad del Valle",
+      "relevance": 0.509554,
+      "count": 1
+    },
+    {
+      "text": "Gobernador",
+      "relevance": 0.488052,
+      "count": 1
+    },
+    {
+      "text": "Sal6n de Reuniones del Despacho",
+      "relevance": 0.476278,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.474532,
+      "count": 1
+    },
+    {
+      "text": "exterior",
+      "relevance": 0.458376,
+      "count": 1
+    },
+    {
+      "text": "Universidad",
+      "relevance": 0.458041,
+      "count": 1
+    },
+    {
+      "text": "UNICO",
+      "relevance": 0.456052,
+      "count": 1
+    },
+    {
+      "text": "Rector",
+      "relevance": 0.440218,
+      "count": 1
+    },
+    {
+      "text": "Octubre",
+      "relevance": 0.436884,
+      "count": 1
+    },
+    {
+      "text": "delegacion",
+      "relevance": 0.436884,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.436884,
+      "count": 1
+    },
+    {
+      "text": "otorgamiento",
+      "relevance": 0.436884,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.436884,
+      "count": 1
+    },
+    {
+      "text": "Presidente",
+      "relevance": 0.436884,
+      "count": 1
+    },
+    {
+      "text": "Departamento",
+      "relevance": 0.436884,
+      "count": 1
+    },
+    {
+      "text": "Estatuto",
+      "relevance": 0.432383,
+      "count": 1
+    }
+  ]
+}

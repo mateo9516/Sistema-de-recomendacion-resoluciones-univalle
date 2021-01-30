@@ -1,0 +1,160 @@
+{
+  "usage": {
+    "text_units": 2,
+    "text_characters": 11335,
+    "features": 1
+  },
+  "language": "es",
+  "keywords": [
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.594542,
+      "count": 1
+    },
+    {
+      "text": "vigencias futuras",
+      "relevance": 0.590347,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.577499,
+      "count": 1
+    },
+    {
+      "text": "entidades territoriales",
+      "relevance": 0.551398,
+      "count": 3
+    },
+    {
+      "text": "responsabilidad civil",
+      "relevance": 0.54672,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de la obra",
+      "relevance": 0.543926,
+      "count": 1
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.541353,
+      "count": 1
+    },
+    {
+      "text": "diferentes personas",
+      "relevance": 0.537976,
+      "count": 1
+    },
+    {
+      "text": "recurso del valor del contrato",
+      "relevance": 0.536592,
+      "count": 1
+    },
+    {
+      "text": "vencimiento del periodo de transicion",
+      "relevance": 0.535476,
+      "count": 1
+    },
+    {
+      "text": "Estatuto General",
+      "relevance": 0.535273,
+      "count": 1
+    },
+    {
+      "text": "Educacion Nacional",
+      "relevance": 0.535059,
+      "count": 1
+    },
+    {
+      "text": "caso de la Naci\u00e9n",
+      "relevance": 0.533368,
+      "count": 1
+    },
+    {
+      "text": "tal efecto",
+      "relevance": 0.531711,
+      "count": 2
+    },
+    {
+      "text": "responsabilidades de orden fiscal",
+      "relevance": 0.53033,
+      "count": 1
+    },
+    {
+      "text": "paragrafo transitorio del articulo",
+      "relevance": 0.529114,
+      "count": 1
+    },
+    {
+      "text": "provision de bienes",
+      "relevance": 0.524677,
+      "count": 2
+    },
+    {
+      "text": "logro de estos fines",
+      "relevance": 0.524555,
+      "count": 1
+    },
+    {
+      "text": "Ministerio de Hacienda",
+      "relevance": 0.524459,
+      "count": 3
+    },
+    {
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.524421,
+      "count": 1
+    },
+    {
+      "text": "mecanismo de vigencias futuras",
+      "relevance": 0.524188,
+      "count": 1
+    },
+    {
+      "text": "Cr\u00e9dito Publico",
+      "relevance": 0.523917,
+      "count": 2
+    },
+    {
+      "text": "tomadora de la poliza",
+      "relevance": 0.523136,
+      "count": 1
+    },
+    {
+      "text": "Apoyo Fiscal",
+      "relevance": 0.521682,
+      "count": 1
+    },
+    {
+      "text": "Contratacion Directa",
+      "relevance": 0.519537,
+      "count": 1
+    },
+    {
+      "text": "Universidad del Valle",
+      "relevance": 0.518906,
+      "count": 1
+    },
+    {
+      "text": "principio de la legalidad del gasto",
+      "relevance": 0.518773,
+      "count": 1
+    },
+    {
+      "text": "Asamblea Departamental del Valle",
+      "relevance": 0.518645,
+      "count": 1
+    },
+    {
+      "text": "DOCUMENTO ORIGINAL",
+      "relevance": 0.518383,
+      "count": 1
+    },
+    {
+      "text": "Decreto Nacional",
+      "relevance": 0.518229,
+      "count": 1
+    }
+  ]
+}
