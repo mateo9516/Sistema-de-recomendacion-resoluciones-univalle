@@ -7,154 +7,254 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Regional del Valle",
-      "relevance": 0.72488,
-      "count": 1
-    },
-    {
-      "text": "valor de la deuda de la Universidad",
-      "relevance": 0.626909,
-      "count": 1
-    },
-    {
-      "text": "concepto de Matricula Financiera",
-      "relevance": 0.623189,
+      "text": "valor de la deuda de la universidad",
+      "relevance": 0.64005,
       "count": 1
     },
     {
       "text": "planes acad\u00e9micos de pregrado",
-      "relevance": 0.622838,
+      "relevance": 0.628917,
       "count": 1
-    },
-    {
-      "text": "Servicio Nacional",
-      "relevance": 0.599487,
-      "count": 4
     },
     {
       "text": "siguientes valores",
-      "relevance": 0.596524,
+      "relevance": 0.602801,
       "count": 1
     },
     {
-      "text": "marco de un Acuerdo Interinstitucional",
-      "relevance": 0.585448,
+      "text": "marco de un acuerdo interinstitucional",
+      "relevance": 0.596719,
       "count": 1
     },
     {
       "text": "considerando anterior",
-      "relevance": 0.571899,
+      "relevance": 0.590691,
       "count": 1
+    },
+    {
+      "text": "servicio nacional",
+      "relevance": 0.577646,
+      "count": 4
     },
     {
       "text": "semestre acad\u00e9mico",
-      "relevance": 0.554886,
+      "relevance": 0.560371,
       "count": 2
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.542989,
+      "text": "mismos valores",
+      "relevance": 0.547209,
       "count": 1
     },
     {
-      "text": "mismos valores",
-      "relevance": 0.541374,
+      "text": "virtud de lo anterior",
+      "relevance": 0.544219,
       "count": 1
     },
     {
       "text": "concepto de aportes parafiscales",
-      "relevance": 0.538091,
+      "relevance": 0.543948,
       "count": 3
     },
     {
-      "text": "Programas Acad\u00e9micos",
-      "relevance": 0.535788,
+      "text": "consejo superior",
+      "relevance": 0.541581,
       "count": 1
     },
     {
-      "text": "Universidades Publicas",
-      "relevance": 0.533455,
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.537331,
+      "count": 1
+    },
+    {
+      "text": "anteriores acuerdos suscritos",
+      "relevance": 0.53435,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.533062,
+      "count": 3
+    },
+    {
+      "text": "acuerdo interinstitucional",
+      "relevance": 0.529036,
       "count": 2
     },
     {
-      "text": "virtud de lo anterior",
-      "relevance": 0.530803,
-      "count": 1
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.526207,
-      "count": 4
-    },
-    {
-      "text": "vigencia de la Ley",
-      "relevance": 0.524928,
-      "count": 1
-    },
-    {
-      "text": "anteriores Acuerdos suscritos",
-      "relevance": 0.524541,
-      "count": 1
-    },
-    {
-      "text": "Acuerdo Interinstitucional",
-      "relevance": 0.523213,
-      "count": 2
-    },
-    {
-      "text": "valor sera",
-      "relevance": 0.522832,
-      "count": 1
-    },
-    {
-      "text": "Sedes Regionales",
-      "relevance": 0.52245,
+      "text": "sedes regionales",
+      "relevance": 0.52846,
       "count": 1
     },
     {
       "text": "personal de beneficiarios",
-      "relevance": 0.51913,
+      "relevance": 0.527626,
       "count": 1
     },
     {
-      "text": "Valle venia",
-      "relevance": 0.518101,
+      "text": "valor sera",
+      "relevance": 0.526848,
       "count": 1
     },
     {
-      "text": "necesidades del SENA",
-      "relevance": 0.517375,
+      "text": "universidad del valle asignaria",
+      "relevance": 0.525238,
       "count": 1
     },
     {
-      "text": "Programas de Capacitaci\u00e9n",
-      "relevance": 0.516466,
-      "count": 1
-    },
-    {
-      "text": "Pregrado presencial",
-      "relevance": 0.514718,
-      "count": 1
+      "text": "valle",
+      "relevance": 0.52424,
+      "count": 5
     },
     {
       "text": "requisitos reglamentarios",
-      "relevance": 0.513745,
+      "relevance": 0.520539,
       "count": 1
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.513453,
+      "text": "necesidades del sena",
+      "relevance": 0.519836,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.510579,
+      "text": "financiera de los diferentes programas",
+      "relevance": 0.519808,
       "count": 1
     },
     {
-      "text": "SENA cupos",
-      "relevance": 0.510135,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519489,
       "count": 1
+    },
+    {
+      "text": "valle venia",
+      "relevance": 0.519346,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.519191,
+      "count": 3
+    },
+    {
+      "text": "pregrado presencial",
+      "relevance": 0.514965,
+      "count": 1
+    },
+    {
+      "text": "sena cupos",
+      "relevance": 0.514267,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.514056,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.513349,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.511599,
+      "count": 1
+    },
+    {
+      "text": "matriculas de pregrado",
+      "relevance": 0.51148,
+      "count": 1
+    },
+    {
+      "text": "extensidn previo",
+      "relevance": 0.509709,
+      "count": 1
+    },
+    {
+      "text": "vigencia de la ley",
+      "relevance": 0.508252,
+      "count": 1
+    },
+    {
+      "text": "servicio nacional de aprendizaje",
+      "relevance": 0.507558,
+      "count": 3
+    },
+    {
+      "text": "beneficiarios del acuerdo interinstitucional",
+      "relevance": 0.504907,
+      "count": 1
+    },
+    {
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.500972,
+      "count": 1
+    },
+    {
+      "text": "concepto de beca",
+      "relevance": 0.499623,
+      "count": 1
+    },
+    {
+      "text": "tarifas fijadas",
+      "relevance": 0.499198,
+      "count": 1
+    },
+    {
+      "text": "concepto",
+      "relevance": 0.498895,
+      "count": 4
+    },
+    {
+      "text": "financiera de la universidad",
+      "relevance": 0.495442,
+      "count": 1
+    },
+    {
+      "text": "aprendizaje",
+      "relevance": 0.495313,
+      "count": 4
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.493883,
+      "count": 1
+    },
+    {
+      "text": "valle del cauca",
+      "relevance": 0.492996,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.492406,
+      "count": 1
+    },
+    {
+      "text": "tarifas correspondientes",
+      "relevance": 0.492006,
+      "count": 1
+    },
+    {
+      "text": "salarios",
+      "relevance": 0.491786,
+      "count": 5
+    },
+    {
+      "text": "postgrado",
+      "relevance": 0.487532,
+      "count": 1
+    },
+    {
+      "text": "deudas",
+      "relevance": 0.48675,
+      "count": 1
+    },
+    {
+      "text": "sena",
+      "relevance": 0.485279,
+      "count": 3
     }
   ]
 }

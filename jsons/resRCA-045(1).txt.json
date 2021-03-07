@@ -7,153 +7,253 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Programas Acad\u00e9micos de Pregrado",
-      "relevance": 0.654641,
-      "count": 4
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.648784,
+      "count": 3
     },
     {
-      "text": "Reglamento de Inscripci6n",
-      "relevance": 0.56228,
+      "text": "reglamento de inscripci6n",
+      "relevance": 0.568419,
       "count": 1
     },
     {
-      "text": "Examen de Estado",
-      "relevance": 0.547963,
-      "count": 11
-    },
-    {
-      "text": "pagina web de Admisiones",
-      "relevance": 0.545977,
+      "text": "pagina web de admisiones",
+      "relevance": 0.54662,
       "count": 2
     },
     {
+      "text": "examen de estado",
+      "relevance": 0.541563,
+      "count": 11
+    },
+    {
       "text": "aspirante",
-      "relevance": 0.535661,
-      "count": 57
+      "relevance": 0.536008,
+      "count": 58
+    },
+    {
+      "text": "admisi6n",
+      "relevance": 0.533786,
+      "count": 1
     },
     {
       "text": "requisitos establecidos",
-      "relevance": 0.534323,
+      "relevance": 0.533645,
       "count": 3
     },
     {
       "text": "correo electr\u00e9nico del aspirante",
-      "relevance": 0.532805,
+      "relevance": 0.533356,
       "count": 1
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.532072,
-      "count": 33
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.531383,
+      "text": "universidad del valle",
+      "relevance": 0.532191,
       "count": 10
     },
     {
-      "text": "Admisi6n",
-      "relevance": 0.530965,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.5318,
+      "count": 34
+    },
+    {
+      "text": "condiciones de excepcidn",
+      "relevance": 0.529516,
       "count": 1
     },
     {
-      "text": "Area de Admisiones",
-      "relevance": 0.529899,
-      "count": 8
+      "text": "area de admisiones",
+      "relevance": 0.528073,
+      "count": 6
     },
     {
-      "text": "Condiciones de Excepcidn",
-      "relevance": 0.527635,
+      "text": "documentos de las condiciones de excepcion",
+      "relevance": 0.52794,
       "count": 1
     },
     {
-      "text": "Programa Acad\u00e9mico de Pregrado",
-      "relevance": 0.527414,
-      "count": 2
-    },
-    {
-      "text": "sitio Web de la Universidad",
-      "relevance": 0.526287,
+      "text": "sitio web de la universidad",
+      "relevance": 0.526597,
       "count": 1
     },
     {
       "text": "tel\u00e9fono fijo",
-      "relevance": 0.525393,
+      "relevance": 0.525763,
       "count": 2
     },
     {
-      "text": "documentos de las condiciones de excepcion",
-      "relevance": 0.525275,
-      "count": 1
-    },
-    {
-      "text": "POBLACION DESPLAZADA",
-      "relevance": 0.522669,
+      "text": "programa acad\u00e9mico de pregrado",
+      "relevance": 0.525565,
       "count": 2
     },
     {
       "text": "documentacion adicional",
-      "relevance": 0.522322,
-      "count": 3
-    },
-    {
-      "text": "Educacion Superior",
-      "relevance": 0.52203,
+      "relevance": 0.523322,
       "count": 3
     },
     {
       "text": "valor de la inscripci6n",
-      "relevance": 0.522026,
+      "relevance": 0.523225,
       "count": 1
     },
     {
-      "text": "correo electronico de la Comunidad",
-      "relevance": 0.521674,
+      "text": "correo electronico de la comunidad",
+      "relevance": 0.521844,
       "count": 1
     },
     {
-      "text": "Representante legal",
-      "relevance": 0.521547,
+      "text": "representante legal",
+      "relevance": 0.521843,
       "count": 2
     },
     {
-      "text": "Siun aspirante",
-      "relevance": 0.521278,
-      "count": 1
-    },
-    {
-      "text": "Certificado de vecindad",
-      "relevance": 0.520851,
-      "count": 1
-    },
-    {
-      "text": "Reglamento de Inscripci\u00e9n",
-      "relevance": 0.520793,
-      "count": 1
+      "text": "educacion superior",
+      "relevance": 0.521129,
+      "count": 3
     },
     {
       "text": "clave de acceso",
-      "relevance": 0.519966,
+      "relevance": 0.520569,
       "count": 7
     },
     {
-      "text": "diferentes Programas Acad\u00e9micos",
-      "relevance": 0.519541,
-      "count": 1
-    },
-    {
-      "text": "Derechos de Inscripci6",
-      "relevance": 0.518622,
-      "count": 2
-    },
-    {
-      "text": "primera actualizacion del Reglamento",
-      "relevance": 0.51861,
+      "text": "primera actualizacion del reglamento",
+      "relevance": 0.519637,
       "count": 1
     },
     {
       "text": "condicion de bachiller",
-      "relevance": 0.51791,
+      "relevance": 0.519382,
+      "count": 1
+    },
+    {
+      "text": "derechos de inscripci6",
+      "relevance": 0.518757,
+      "count": 2
+    },
+    {
+      "text": "diferentes programas acad\u00e9micos",
+      "relevance": 0.518538,
+      "count": 1
+    },
+    {
+      "text": "presente reglamento",
+      "relevance": 0.518511,
+      "count": 3
+    },
+    {
+      "text": "entidad financiera",
+      "relevance": 0.517823,
+      "count": 1
+    },
+    {
+      "text": "periodo acad\u00e9mico",
+      "relevance": 0.517605,
+      "count": 4
+    },
+    {
+      "text": "corte de admitidos",
+      "relevance": 0.517398,
+      "count": 1
+    },
+    {
+      "text": "mayor nota",
+      "relevance": 0.517075,
+      "count": 3
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.516384,
+      "count": 3
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.516115,
+      "count": 34
+    },
+    {
+      "text": "aspectos acad\u00e9micos",
+      "relevance": 0.516081,
+      "count": 1
+    },
+    {
+      "text": "siguiente reglamento",
+      "relevance": 0.515307,
+      "count": 1
+    },
+    {
+      "text": "aspirantes",
+      "relevance": 0.515071,
+      "count": 30
+    },
+    {
+      "text": "cupos",
+      "relevance": 0.514983,
+      "count": 11
+    },
+    {
+      "text": "educacion media",
+      "relevance": 0.514751,
+      "count": 5
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.514406,
+      "count": 15
+    },
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.513818,
+      "count": 14
+    },
+    {
+      "text": "correo electr\u00e9nico activo",
+      "relevance": 0.513021,
+      "count": 2
+    },
+    {
+      "text": "entidad competente",
+      "relevance": 0.512961,
+      "count": 1
+    },
+    {
+      "text": "proceso de inscripcion",
+      "relevance": 0.512914,
+      "count": 1
+    },
+    {
+      "text": "vinculo laboral",
+      "relevance": 0.512912,
+      "count": 4
+    },
+    {
+      "text": "poblacion desplazada",
+      "relevance": 0.512652,
+      "count": 2
+    },
+    {
+      "text": "presente empate",
+      "relevance": 0.512398,
+      "count": 1
+    },
+    {
+      "text": "autoridad tradicional",
+      "relevance": 0.511945,
+      "count": 2
+    },
+    {
+      "text": "ejercicio de la igualdad de oportunidades",
+      "relevance": 0.511939,
+      "count": 1
+    },
+    {
+      "text": "cupos ofrecidos",
+      "relevance": 0.511872,
+      "count": 1
+    },
+    {
+      "text": "resultados del examen de estado",
+      "relevance": 0.511778,
       "count": 1
     }
   ],

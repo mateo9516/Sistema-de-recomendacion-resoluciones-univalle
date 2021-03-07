@@ -7,153 +7,168 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Consejo Superior",
-      "relevance": 0.731518,
+      "text": "consejo superior",
+      "relevance": 0.749114,
       "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.726774,
+      "count": 1
     },
     {
       "text": "uso de sus atribuciones",
-      "relevance": 0.717629,
+      "relevance": 0.672522,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.676221,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.619034,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.627018,
       "count": 2
-    },
-    {
-      "text": "Acuerdo No",
-      "relevance": 0.610607,
-      "count": 2
-    },
-    {
-      "text": "Consejo Acad\u00e9mico de la Universidad",
-      "relevance": 0.594941,
-      "count": 1
     },
     {
       "text": "dias del mes de febrero",
-      "relevance": 0.573422,
+      "relevance": 0.621272,
       "count": 1
     },
     {
-      "text": "Informaci6n",
-      "relevance": 0.565867,
+      "text": "consejo acad\u00e9mico de la universidad",
+      "relevance": 0.616191,
       "count": 1
     },
     {
-      "text": "salon del Consejo Acad\u00e9mico",
-      "relevance": 0.547747,
+      "text": "salon del consejo acad\u00e9mico",
+      "relevance": 0.58029,
       "count": 1
     },
     {
-      "text": "Representante Profesoral",
-      "relevance": 0.547209,
+      "text": "representante profesoral",
+      "relevance": 0.569695,
       "count": 1
     },
     {
-      "text": "Comit\u00e9 de Comunicaciones",
-      "relevance": 0.542287,
+      "text": "comit\u00e9 de comunicaciones",
+      "relevance": 0.56442,
       "count": 4
     },
     {
-      "text": "Decano de la Facultad de Humanidades",
-      "relevance": 0.530964,
+      "text": "decano de la facultad de humanidades",
+      "relevance": 0.552266,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.529751,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.525408,
       "count": 1
     },
     {
       "text": "sesi6n del pasado",
-      "relevance": 0.512651,
+      "relevance": 0.520966,
       "count": 1
     },
     {
-      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.508747,
+      "text": "lopez pulecio",
+      "relevance": 0.504569,
       "count": 1
     },
     {
-      "text": "RESUELV E",
-      "relevance": 0.506034,
+      "text": "representante estudiantil",
+      "relevance": 0.501064,
       "count": 1
     },
     {
-      "text": "Representante Estudiantil",
-      "relevance": 0.483529,
+      "text": "rector de la universidad",
+      "relevance": 0.481992,
       "count": 1
     },
     {
-      "text": "Rector de la Universidad",
-      "relevance": 0.463583,
+      "text": "decano de la facultad de artes integradas",
+      "relevance": 0.476465,
       "count": 1
     },
     {
-      "text": "Decano de la Facultad de Artes Integradas",
-      "relevance": 0.46086,
-      "count": 1
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.450157,
+      "text": "universidad del valle",
+      "relevance": 0.465778,
       "count": 2
     },
     {
-      "text": "Febrero",
-      "relevance": 0.447732,
+      "text": "febrero",
+      "relevance": 0.464257,
       "count": 4
     },
     {
-      "text": "Universidad",
-      "relevance": 0.419443,
+      "text": "resolucion",
+      "relevance": 0.433576,
       "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.432134,
+      "count": 1
+    },
+    {
+      "text": "acuerdo",
+      "relevance": 0.429013,
+      "count": 2
     },
     {
       "text": "design6",
-      "relevance": 0.414421,
+      "relevance": 0.425896,
       "count": 1
     },
     {
-      "text": "Comunicaci\u00e9n",
-      "relevance": 0.409657,
+      "text": "6n",
+      "relevance": 0.423728,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.421353,
       "count": 1
     },
     {
       "text": "miembros",
-      "relevance": 0.408796,
+      "relevance": 0.419761,
       "count": 1
     },
     {
-      "text": "Politicas",
-      "relevance": 0.408068,
+      "text": "politicas",
+      "relevance": 0.418966,
       "count": 1
     },
     {
-      "text": "Estrategias",
-      "relevance": 0.405884,
+      "text": "estrategias",
+      "relevance": 0.416584,
       "count": 1
     },
     {
       "text": "integrantes",
-      "relevance": 0.405884,
+      "relevance": 0.416584,
       "count": 1
     },
     {
       "text": "politica",
-      "relevance": 0.405884,
+      "relevance": 0.416584,
       "count": 1
     },
     {
-      "text": "Presidente",
-      "relevance": 0.405884,
+      "text": "presidente",
+      "relevance": 0.416584,
       "count": 1
     },
     {
-      "text": "8UNIVERSIDAD",
-      "relevance": 0.399029,
+      "text": "rector",
+      "relevance": 0.412608,
+      "count": 1
+    },
+    {
+      "text": "8universidad",
+      "relevance": 0.409212,
       "count": 1
     }
   ]

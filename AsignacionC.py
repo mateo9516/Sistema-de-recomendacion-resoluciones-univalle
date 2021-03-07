@@ -6,7 +6,19 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 from ibm_watson.natural_language_understanding_v1 import Features, EntitiesOptions, KeywordsOptions
 #este se ejecuta de cuarto
 #########################################################################
+### esto se agrego el dia 6 de marzo con el objetivo de buscar reducir el ruido en el watson
+def depurador(texto):
+    diccionario = ["-","_","°",")","(","%","—","consejo", "academico", "universidad", "superior", "santiago de cali", "superior","valle","resolucion","no","literal","paragrafo","reeoluciin"]
+    
+    texto = texto.lower()
 
+    for d in diccionario:
+        texto.replace(d,"")
+
+    return texto    
+
+
+###
 #########################################################################
 #Enlace con el servicio
 authenticator = IAMAuthenticator('gcZmVQqg0TlzEh03qurbQAYxqE-rxgJ52K3j6HowVGX-')
@@ -48,9 +60,10 @@ with os.scandir(ejemplo_dir) as ficheros:
 #########################################################################+
 #Uso de IBM
             texto = f.read()
+            texto = depurador(texto)
             response = natural_language_understanding.analyze(
             text=texto,
-            features=Features(keywords=KeywordsOptions(sentiment=False,emotion=False,limit=30)),
+            features=Features(keywords=KeywordsOptions(sentiment=False,emotion=False,limit=50)),
             language='es').get_result()
 #########################################################################
             

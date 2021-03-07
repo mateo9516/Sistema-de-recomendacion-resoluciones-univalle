@@ -7,154 +7,254 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Calendario Acad\u00e9mico",
-      "relevance": 0.724671,
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.729082,
       "count": 2
     },
     {
-      "text": "Registro de solicitudes",
-      "relevance": 0.680581,
-      "count": 3
-    },
-    {
-      "text": "parte de los Secretarios Entre",
-      "relevance": 0.667602,
-      "count": 1
+      "text": "sedes regionales",
+      "relevance": 0.695741,
+      "count": 2
     },
     {
       "text": "solicitudes via",
-      "relevance": 0.666478,
+      "relevance": 0.676421,
       "count": 2
     },
     {
-      "text": "Sedes Regionales",
-      "relevance": 0.663871,
-      "count": 2
+      "text": "parte de los secretarios",
+      "relevance": 0.665822,
+      "count": 1
     },
     {
       "text": "programas acad\u00e9micos",
-      "relevance": 0.651109,
+      "relevance": 0.654395,
       "count": 3
     },
     {
-      "text": "Revision de las solicitudes",
-      "relevance": 0.650144,
-      "count": 1
+      "text": "registro de solicitudes",
+      "relevance": 0.637357,
+      "count": 3
     },
     {
-      "text": "Sede Regional",
-      "relevance": 0.638202,
+      "text": "cambio de sede",
+      "relevance": 0.592886,
+      "count": 5
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.585629,
+      "count": 4
+    },
+    {
+      "text": "sede regional",
+      "relevance": 0.571219,
       "count": 2
     },
     {
-      "text": "Publicaci6\u00e9n de resultados",
-      "relevance": 0.612595,
+      "text": "procesos de reingreso",
+      "relevance": 0.567992,
       "count": 1
     },
     {
-      "text": "Cambio de Sede",
-      "relevance": 0.595195,
+      "text": "parte de los directores de programa",
+      "relevance": 0.561323,
       "count": 4
     },
     {
-      "text": "procesos de Reingreso",
-      "relevance": 0.585361,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.581887,
-      "count": 4
-    },
-    {
-      "text": "parte de los Directores de Programa",
-      "relevance": 0.558222,
-      "count": 1
-    },
-    {
-      "text": "DOCUMENTO ORIGINAL",
-      "relevance": 0.543053,
+      "text": "primer semestre",
+      "relevance": 0.555288,
       "count": 1
     },
     {
       "text": "docentes de apoyo",
-      "relevance": 0.543004,
+      "relevance": 0.55312,
       "count": 5
-    },
-    {
-      "text": "acad\u00e9micos de PREGRADO",
-      "relevance": 0.539574,
-      "count": 1
     },
     {
       "text": "carga de documentos via",
-      "relevance": 0.535978,
+      "relevance": 0.548669,
       "count": 3
-    },
-    {
-      "text": "Sede Cali",
-      "relevance": 0.527664,
-      "count": 2
-    },
-    {
-      "text": "parte de los estudiantes",
-      "relevance": 0.522558,
-      "count": 1
-    },
-    {
-      "text": "Descarga de recibos",
-      "relevance": 0.518697,
-      "count": 3
-    },
-    {
-      "text": "SEMESTRES SUPERIORES",
-      "relevance": 0.515556,
-      "count": 1
-    },
-    {
-      "text": "SEDE",
-      "relevance": 0.50622,
-      "count": 3
-    },
-    {
-      "text": "parte de los Secretarios Acad\u00e9micos",
-      "relevance": 0.505058,
-      "count": 2
     },
     {
       "text": "primer periodo",
-      "relevance": 0.500149,
+      "relevance": 0.547724,
       "count": 2
     },
     {
-      "text": "SRA de las decisiones",
-      "relevance": 0.499326,
-      "count": 5
+      "text": "documento original",
+      "relevance": 0.547286,
+      "count": 1
     },
     {
-      "text": "REINGRESO",
-      "relevance": 0.498501,
-      "count": 7
+      "text": "acad\u00e9micos de pregrado",
+      "relevance": 0.544006,
+      "count": 1
     },
     {
-      "text": "parte de los Directores",
-      "relevance": 0.497772,
+      "text": "sede cali",
+      "relevance": 0.528597,
+      "count": 2
+    },
+    {
+      "text": "proceso de reingreso",
+      "relevance": 0.522909,
+      "count": 1
+    },
+    {
+      "text": "6\u00e9n de resultados",
+      "relevance": 0.520193,
+      "count": 2
+    },
+    {
+      "text": "semestres superiores",
+      "relevance": 0.516419,
+      "count": 1
+    },
+    {
+      "text": "6n de resultados",
+      "relevance": 0.512214,
       "count": 3
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.496859,
+      "text": "sra de las decisiones",
+      "relevance": 0.508476,
+      "count": 5
+    },
+    {
+      "text": "jose echeverry",
+      "relevance": 0.508476,
+      "count": 1
+    },
+    {
+      "text": "parte de los secretarios acad\u00e9micos",
+      "relevance": 0.508333,
+      "count": 2
+    },
+    {
+      "text": "sede",
+      "relevance": 0.507221,
+      "count": 3
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.502614,
       "count": 1
     },
     {
       "text": "dias del mes de abril",
-      "relevance": 0.486002,
+      "relevance": 0.493825,
       "count": 1
     },
     {
-      "text": "pagina web del Area",
-      "relevance": 0.484469,
+      "text": "pagina web del area",
+      "relevance": 0.492146,
       "count": 3
+    },
+    {
+      "text": "reingreso",
+      "relevance": 0.491256,
+      "count": 7
+    },
+    {
+      "text": "envio de la relacion",
+      "relevance": 0.490468,
+      "count": 1
+    },
+    {
+      "text": "coordinacio\u00e9n acad\u00e9mica",
+      "relevance": 0.488682,
+      "count": 1
+    },
+    {
+      "text": "cambio",
+      "relevance": 0.484724,
+      "count": 2
+    },
+    {
+      "text": "procesos",
+      "relevance": 0.480684,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.478464,
+      "count": 1
+    },
+    {
+      "text": "sitio web del area",
+      "relevance": 0.476017,
+      "count": 1
+    },
+    {
+      "text": "sede de las solicitudes",
+      "relevance": 0.469438,
+      "count": 1
+    },
+    {
+      "text": "traslado",
+      "relevance": 0.469434,
+      "count": 6
+    },
+    {
+      "text": "equivalencias",
+      "relevance": 0.467537,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.466597,
+      "count": 1
+    },
+    {
+      "text": "solicitudes",
+      "relevance": 0.466239,
+      "count": 5
+    },
+    {
+      "text": "parte de los estudiantes de la sede cali",
+      "relevance": 0.466205,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.465388,
+      "count": 1
+    },
+    {
+      "text": "web del area",
+      "relevance": 0.459642,
+      "count": 1
+    },
+    {
+      "text": "sedes",
+      "relevance": 0.458559,
+      "count": 2
+    },
+    {
+      "text": "parte de los estudiantes de la sede regional",
+      "relevance": 0.456976,
+      "count": 2
+    },
+    {
+      "text": "parte",
+      "relevance": 0.456577,
+      "count": 2
+    },
+    {
+      "text": "informacion",
+      "relevance": 0.455573,
+      "count": 5
+    },
+    {
+      "text": "acad\u00e9micos",
+      "relevance": 0.451956,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.451089,
+      "count": 1
     }
   ]
 }

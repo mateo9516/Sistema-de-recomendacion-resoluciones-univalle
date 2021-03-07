@@ -1,159 +1,259 @@
 {
   "usage": {
-    "text_units": 3,
-    "text_characters": 20041,
+    "text_units": 1,
+    "text_characters": 2978,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.640452,
-      "count": 3
-    },
-    {
-      "text": "actividades propias de la Universidad",
-      "relevance": 0.599744,
+      "text": "nivel nacional",
+      "relevance": 0.735362,
       "count": 1
     },
     {
-      "text": "estudiantes regulares de pregrado",
-      "relevance": 0.564858,
+      "text": "apoyo del grupo de seguimiento",
+      "relevance": 0.641363,
       "count": 1
     },
     {
-      "text": "buen desempeijio acad\u00e9mico",
-      "relevance": 0.561199,
-      "count": 1
-    },
-    {
-      "text": "otorgamiento de Monitorias",
-      "relevance": 0.555981,
-      "count": 1
-    },
-    {
-      "text": "monitor podra",
-      "relevance": 0.545635,
-      "count": 1
-    },
-    {
-      "text": "caso de Monitorias de Docencia",
-      "relevance": 0.540541,
-      "count": 1
-    },
-    {
-      "text": "solicitud de monitoria",
-      "relevance": 0.539724,
-      "count": 1
-    },
-    {
-      "text": "otorgamiento de las Monitorias",
-      "relevance": 0.538331,
-      "count": 1
-    },
-    {
-      "text": "Programas Acad\u00e9micos de Pregrado",
-      "relevance": 0.535376,
-      "count": 4
-    },
-    {
-      "text": "entrenamiento previo especial",
-      "relevance": 0.53332,
-      "count": 1
-    },
-    {
-      "text": "cargo del profesor investigador",
-      "relevance": 0.532648,
-      "count": 1
-    },
-    {
-      "text": "Director de Instituto Acad\u00e9mico",
-      "relevance": 0.530648,
-      "count": 1
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.53054,
-      "count": 5
-    },
-    {
-      "text": "DEFINICION DE MONITORIAS",
-      "relevance": 0.529254,
-      "count": 1
-    },
-    {
-      "text": "Unidad Acad\u00e9mica",
-      "relevance": 0.528373,
-      "count": 3
-    },
-    {
-      "text": "Monitorias",
-      "relevance": 0.527867,
-      "count": 12
-    },
-    {
-      "text": "periodos acad\u00e9micos",
-      "relevance": 0.527632,
-      "count": 1
-    },
-    {
-      "text": "casos excepcionales",
-      "relevance": 0.527522,
+      "text": "ciencias sociales",
+      "relevance": 0.637168,
       "count": 2
     },
     {
-      "text": "caso de Monitorias Administrativas",
-      "relevance": 0.527469,
+      "text": "consejo superior",
+      "relevance": 0.608609,
       "count": 1
     },
     {
-      "text": "estudiantes de pregrado",
-      "relevance": 0.527422,
+      "text": "respectivo consejo superior",
+      "relevance": 0.576387,
       "count": 1
     },
     {
-      "text": "actividades del area docente",
-      "relevance": 0.525388,
+      "text": "universidad del valle",
+      "relevance": 0.572051,
+      "count": 2
+    },
+    {
+      "text": "productividad de tal manera",
+      "relevance": 0.569779,
       "count": 1
     },
     {
-      "text": "MODALIDADES DE LAS MONITORIAS",
-      "relevance": 0.524655,
+      "text": "ano calendario",
+      "relevance": 0.551507,
       "count": 1
     },
     {
-      "text": "autorizacion del Consejo de Facultad",
-      "relevance": 0.523788,
+      "text": "sistema de evaluacidn periddica",
+      "relevance": 0.549882,
       "count": 1
     },
     {
-      "text": "colaboracion necesaria",
-      "relevance": 0.523407,
+      "text": "estatuto general",
+      "relevance": 0.546423,
       "count": 1
     },
     {
-      "text": "desarrollo de su formacion integral",
-      "relevance": 0.521606,
+      "text": "productividad individual del docente",
+      "relevance": 0.541634,
       "count": 1
     },
     {
-      "text": "caso de las Monitorias Especiales",
-      "relevance": 0.521071,
+      "text": "evaluaci\u00e9n periddica de productividad",
+      "relevance": 0.533483,
       "count": 1
     },
     {
-      "text": "estudiantes regulares",
-      "relevance": 0.5194,
-      "count": 4
+      "text": "ciencias de la administraci\u00e9n",
+      "relevance": 0.533051,
+      "count": 1
     },
     {
-      "text": "estudiantes",
-      "relevance": 0.51932,
-      "count": 7
+      "text": "artes integradas",
+      "relevance": 0.530275,
+      "count": 2
     },
     {
-      "text": "formulario de Solicitud de Monitoria",
-      "relevance": 0.519079,
+      "text": "santiago de cali",
+      "relevance": 0.529154,
+      "count": 1
+    },
+    {
+      "text": "sistema de evaluacion periddica de productividad",
+      "relevance": 0.526372,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.522593,
+      "count": 1
+    },
+    {
+      "text": "diferentes productos",
+      "relevance": 0.52089,
+      "count": 1
+    },
+    {
+      "text": "seguimiento",
+      "relevance": 0.516072,
+      "count": 2
+    },
+    {
+      "text": "comit\u00e9 de credenciales",
+      "relevance": 0.513031,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.510806,
+      "count": 1
+    },
+    {
+      "text": "redisefio del sistema nacional del informacidn",
+      "relevance": 0.508688,
+      "count": 1
+    },
+    {
+      "text": "decretos reglamentarios",
+      "relevance": 0.507399,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones del despacho",
+      "relevance": 0.506988,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.50526,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.503678,
+      "count": 2
+    },
+    {
+      "text": "reconocimientos salariales",
+      "relevance": 0.502982,
+      "count": 1
+    },
+    {
+      "text": "pares externos",
+      "relevance": 0.502158,
+      "count": 1
+    },
+    {
+      "text": "siguiente agrupacion",
+      "relevance": 0.498928,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.498928,
+      "count": 1
+    },
+    {
+      "text": "estructura acad\u00e9mica",
+      "relevance": 0.497925,
+      "count": 1
+    },
+    {
+      "text": "informacion",
+      "relevance": 0.497051,
+      "count": 1
+    },
+    {
+      "text": "informe final",
+      "relevance": 0.495611,
+      "count": 1
+    },
+    {
+      "text": "r\u00e9gimen salarial",
+      "relevance": 0.491164,
+      "count": 1
+    },
+    {
+      "text": "productos acad\u00e9micos",
+      "relevance": 0.487592,
+      "count": 1
+    },
+    {
+      "text": "criterios",
+      "relevance": 0.486446,
+      "count": 2
+    },
+    {
+      "text": "grupo",
+      "relevance": 0.485933,
+      "count": 2
+    },
+    {
+      "text": "funciones",
+      "relevance": 0.483229,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.481259,
+      "count": 2
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.480943,
+      "count": 3
+    },
+    {
+      "text": "efectos",
+      "relevance": 0.48041,
+      "count": 1
+    },
+    {
+      "text": "ingenieria",
+      "relevance": 0.480181,
+      "count": 2
+    },
+    {
+      "text": "decreto",
+      "relevance": 0.479941,
+      "count": 3
+    },
+    {
+      "text": "educacion",
+      "relevance": 0.476995,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.476912,
+      "count": 1
+    },
+    {
+      "text": "psicologia",
+      "relevance": 0.476478,
+      "count": 2
+    },
+    {
+      "text": "esquema",
+      "relevance": 0.475401,
+      "count": 2
+    },
+    {
+      "text": "econ\u00e9micas",
+      "relevance": 0.473939,
+      "count": 2
+    },
+    {
+      "text": "ciencias",
+      "relevance": 0.473365,
+      "count": 3
+    },
+    {
+      "text": "ano",
+      "relevance": 0.473026,
       "count": 1
     }
   ]

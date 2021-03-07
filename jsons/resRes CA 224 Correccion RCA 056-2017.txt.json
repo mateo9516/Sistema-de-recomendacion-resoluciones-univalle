@@ -7,153 +7,218 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Lenguas Extranjeras",
-      "relevance": 0.780408,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.740552,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.748632,
       "count": 4
     },
     {
       "text": "virtud de lo anterior",
-      "relevance": 0.681124,
+      "relevance": 0.704181,
       "count": 1
     },
     {
-      "text": "Ingl\u00e9s-Franc\u00e9s",
-      "relevance": 0.638707,
+      "text": "lenguas extranjeras",
+      "relevance": 0.666856,
       "count": 1
     },
     {
       "text": "facultades legales",
-      "relevance": 0.636891,
+      "relevance": 0.642873,
       "count": 1
     },
     {
-      "text": "asignatura G\u00e9neros",
-      "relevance": 0.607038,
-      "count": 1
-    },
-    {
-      "text": "DOCUMENTO ORIGINAL",
-      "relevance": 0.600528,
-      "count": 1
+      "text": "parte del componente de saberes",
+      "relevance": 0.621687,
+      "count": 2
     },
     {
       "text": "fecha de aprobacion",
-      "relevance": 0.574347,
+      "relevance": 0.620829,
+      "count": 1
+    },
+    {
+      "text": "asignatura g\u00e9neros",
+      "relevance": 0.615654,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.603734,
+      "count": 1
+    },
+    {
+      "text": "ingl\u00e9s-franc\u00e9s",
+      "relevance": 0.56689,
       "count": 1
     },
     {
       "text": "error de forma",
-      "relevance": 0.554608,
+      "relevance": 0.551915,
       "count": 2
     },
     {
-      "text": "parte del componente de SABERES",
-      "relevance": 0.542571,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.54179,
-      "count": 1
-    },
-    {
-      "text": "G\u00e9neros Discursivos Escritos",
-      "relevance": 0.541521,
+      "text": "santiago de cali",
+      "relevance": 0.545021,
       "count": 1
     },
     {
       "text": "denominacion del programa acad\u00e9mico",
-      "relevance": 0.54105,
+      "relevance": 0.542792,
       "count": 1
     },
     {
-      "text": "G\u00e9neros Discursivos",
-      "relevance": 0.519818,
+      "text": "jose echeverry",
+      "relevance": 0.508246,
       "count": 1
     },
     {
-      "text": "Resolucion No",
-      "relevance": 0.510449,
+      "text": "g\u00e9neros discursivos",
+      "relevance": 0.504936,
       "count": 2
     },
     {
-      "text": "presente Resolucion",
-      "relevance": 0.504184,
+      "text": "presente resolucion",
+      "relevance": 0.502626,
       "count": 1
     },
     {
       "text": "dias del mes de noviembre",
-      "relevance": 0.497187,
+      "relevance": 0.498975,
+      "count": 1
+    },
+    {
+      "text": "asignatura g\u00e9neros discursivos",
+      "relevance": 0.497443,
       "count": 1
     },
     {
       "text": "literal b",
-      "relevance": 0.494993,
+      "relevance": 0.496709,
       "count": 1
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.48939,
+      "text": "estatuto general",
+      "relevance": 0.490922,
       "count": 1
     },
     {
       "text": "error de digitacion",
-      "relevance": 0.486988,
+      "relevance": 0.487351,
       "count": 1
     },
     {
-      "text": "Licenciatura",
-      "relevance": 0.477393,
-      "count": 2
-    },
-    {
-      "text": "Resoluci\u00e9n No",
-      "relevance": 0.470608,
-      "count": 1
-    },
-    {
-      "text": "L.E. del componente de SABERES ESPECIFICOS",
-      "relevance": 0.470437,
+      "text": "componente de saberes",
+      "relevance": 0.472984,
       "count": 1
     },
     {
       "text": "mayo",
-      "relevance": 0.466674,
+      "relevance": 0.467765,
       "count": 5
     },
     {
-      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.463701,
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.465417,
       "count": 1
     },
     {
-      "text": "Escritos",
-      "relevance": 0.452881,
+      "text": "estructura",
+      "relevance": 0.462726,
+      "count": 1
+    },
+    {
+      "text": "licenciatura",
+      "relevance": 0.4595,
+      "count": 2
+    },
+    {
+      "text": "asignatura",
+      "relevance": 0.446857,
+      "count": 1
+    },
+    {
+      "text": "lenguas",
+      "relevance": 0.443426,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.442871,
       "count": 3
     },
     {
-      "text": "parte del componente de SABERES ESPECIFICOS",
-      "relevance": 0.451436,
+      "text": "escritos",
+      "relevance": 0.44266,
+      "count": 5
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.442171,
       "count": 1
     },
     {
-      "text": "Franc\u00e9s",
-      "relevance": 0.446815,
+      "text": "enfasis",
+      "relevance": 0.441213,
+      "count": 1
+    },
+    {
+      "text": "ingl\u00e9s",
+      "relevance": 0.439829,
+      "count": 1
+    },
+    {
+      "text": "franc\u00e9s",
+      "relevance": 0.439753,
       "count": 6
     },
     {
-      "text": "Ingl\u00e9s",
-      "relevance": 0.443861,
+      "text": "parte",
+      "relevance": 0.439731,
       "count": 1
     },
     {
-      "text": "Enfasis",
-      "relevance": 0.443196,
+      "text": "medio",
+      "relevance": 0.438603,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.437133,
+      "count": 1
+    },
+    {
+      "text": "definio",
+      "relevance": 0.437133,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.437133,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.437133,
+      "count": 1
+    },
+    {
+      "text": "citada",
+      "relevance": 0.437133,
+      "count": 1
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.437133,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.437133,
+      "count": 1
+    },
+    {
+      "text": "g\u00e9neros",
+      "relevance": 0.435649,
       "count": 1
     }
   ]

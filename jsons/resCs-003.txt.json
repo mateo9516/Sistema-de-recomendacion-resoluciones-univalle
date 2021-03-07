@@ -7,153 +7,253 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Programas de Posgrado",
-      "relevance": 0.879203,
+      "text": "programas de posgrado",
+      "relevance": 0.86929,
       "count": 3
     },
     {
       "text": "cargos acad\u00e9mico",
-      "relevance": 0.785269,
+      "relevance": 0.791829,
       "count": 2
     },
     {
-      "text": "Director de la Escuela",
-      "relevance": 0.753842,
+      "text": "director de la escuela",
+      "relevance": 0.762308,
       "count": 2
     },
     {
-      "text": "Programa de Posgrado",
-      "relevance": 0.718715,
-      "count": 10
-    },
-    {
-      "text": "Director del Programa de Posgrado",
-      "relevance": 0.653279,
-      "count": 4
-    },
-    {
-      "text": "servicios acad\u00e9micos",
-      "relevance": 0.638099,
-      "count": 1
-    },
-    {
-      "text": "Consejo de Facultad",
-      "relevance": 0.596733,
-      "count": 2
-    },
-    {
-      "text": "Programas Acad\u00e9micos",
-      "relevance": 0.595325,
-      "count": 2
-    },
-    {
-      "text": "cargo de Director",
-      "relevance": 0.577288,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.564088,
-      "count": 1
-    },
-    {
-      "text": "Vicedecano de Investigaci\u00e9n",
-      "relevance": 0.555432,
-      "count": 2
-    },
-    {
-      "text": "designaci6n de un Director",
-      "relevance": 0.551995,
-      "count": 1
-    },
-    {
-      "text": "presente Resoluci\u00e9n",
-      "relevance": 0.544839,
-      "count": 1
-    },
-    {
-      "text": "trav\u00e9s del Consejo de Facultad",
-      "relevance": 0.544447,
-      "count": 1
-    },
-    {
-      "text": "gesti\u00e9n de los Programas Acad\u00e9micos",
-      "relevance": 0.542032,
-      "count": 1
-    },
-    {
-      "text": "Institutos Acad\u00e9micos",
-      "relevance": 0.541547,
+      "text": "programa de posgrado",
+      "relevance": 0.709309,
       "count": 6
     },
     {
+      "text": "director del programa de posgrado",
+      "relevance": 0.655213,
+      "count": 7
+    },
+    {
+      "text": "servicios acad\u00e9micos",
+      "relevance": 0.642354,
+      "count": 1
+    },
+    {
+      "text": "consejo de facultad",
+      "relevance": 0.599281,
+      "count": 2
+    },
+    {
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.588592,
+      "count": 2
+    },
+    {
+      "text": "cargo de director",
+      "relevance": 0.580755,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.566147,
+      "count": 1
+    },
+    {
+      "text": "designaci6n de un director",
+      "relevance": 0.554797,
+      "count": 1
+    },
+    {
       "text": "nueva estructura",
-      "relevance": 0.539955,
+      "relevance": 0.551056,
+      "count": 1
+    },
+    {
+      "text": "trav\u00e9s del consejo de facultad",
+      "relevance": 0.54596,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.544587,
+      "count": 6
+    },
+    {
+      "text": "forma consecutiva",
+      "relevance": 0.539026,
       "count": 1
     },
     {
       "text": "unidad acad\u00e9mica",
-      "relevance": 0.536853,
+      "relevance": 0.538486,
       "count": 1
     },
     {
-      "text": "forma consecutiva",
-      "relevance": 0.535207,
+      "text": "gesti\u00e9n de los programas acad\u00e9micos",
+      "relevance": 0.537507,
       "count": 1
     },
     {
-      "text": "Coordinadores Acad\u00e9micos",
-      "relevance": 0.532105,
+      "text": "acad\u00e9micos de posgrado de la escuela",
+      "relevance": 0.534311,
       "count": 1
     },
     {
-      "text": "Planta Unica de Cargos",
-      "relevance": 0.531245,
+      "text": "respectivo consejo de facultad",
+      "relevance": 0.534304,
+      "count": 1
+    },
+    {
+      "text": "coordinadores acad\u00e9micos",
+      "relevance": 0.533073,
       "count": 1
     },
     {
       "text": "estudiantes matriculados",
-      "relevance": 0.528571,
+      "relevance": 0.529392,
       "count": 1
-    },
-    {
-      "text": "respectivo Consejo de Facultad",
-      "relevance": 0.528234,
-      "count": 1
-    },
-    {
-      "text": "Estatuto General",
-      "relevance": 0.526573,
-      "count": 2
     },
     {
       "text": "plena vigencia",
-      "relevance": 0.525685,
+      "relevance": 0.526743,
       "count": 1
     },
     {
-      "text": "Programas Acad\u00e9micos de Posgrado afines",
-      "relevance": 0.519888,
+      "text": "estatuto general",
+      "relevance": 0.524504,
+      "count": 2
+    },
+    {
+      "text": "busqueda de la excelencia de la instituci\u00e9n",
+      "relevance": 0.520993,
       "count": 1
     },
     {
-      "text": "Unidades Acad\u00e9micas",
-      "relevance": 0.518118,
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.519272,
       "count": 1
     },
     {
-      "text": "busqueda de la excelencia de la Instituci\u00e9n",
-      "relevance": 0.517933,
+      "text": "programas acad\u00e9micos de posgrado afines",
+      "relevance": 0.517931,
       "count": 1
     },
     {
-      "text": "Director Acad\u00e9mico",
-      "relevance": 0.516977,
+      "text": "sola vez",
+      "relevance": 0.517219,
       "count": 1
     },
     {
-      "text": "Vicedecanatura de Investigaciones",
-      "relevance": 0.515555,
+      "text": "director acad\u00e9mico",
+      "relevance": 0.516591,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 asesor del director",
+      "relevance": 0.515954,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.514821,
+      "count": 2
+    },
+    {
+      "text": "manejo de los recursos",
+      "relevance": 0.514657,
+      "count": 1
+    },
+    {
+      "text": "vicedecano de investigaci6n",
+      "relevance": 0.513883,
+      "count": 1
+    },
+    {
+      "text": "caso anterior",
+      "relevance": 0.513314,
+      "count": 1
+    },
+    {
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.513292,
+      "count": 2
+    },
+    {
+      "text": "direcci\u00e9n general de posgrado",
+      "relevance": 0.512227,
+      "count": 2
+    },
+    {
+      "text": "vicedecanatura de investigaciones",
+      "relevance": 0.51134,
+      "count": 1
+    },
+    {
+      "text": "director de nuevas tecnologias",
+      "relevance": 0.510216,
+      "count": 1
+    },
+    {
+      "text": "posgrado sera",
+      "relevance": 0.510163,
+      "count": 2
+    },
+    {
+      "text": "programas acad\u00e9micos afines",
+      "relevance": 0.509868,
+      "count": 1
+    },
+    {
+      "text": "reorganizaci6n",
+      "relevance": 0.509293,
+      "count": 1
+    },
+    {
+      "text": "administraci6n acad\u00e9mica",
+      "relevance": 0.50885,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.508362,
+      "count": 1
+    },
+    {
+      "text": "sector salud",
+      "relevance": 0.508244,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.507901,
+      "count": 1
+    },
+    {
+      "text": "director del doctorado del instituto",
+      "relevance": 0.507523,
+      "count": 1
+    },
+    {
+      "text": "recomendaciones del proyecto",
+      "relevance": 0.506936,
+      "count": 1
+    },
+    {
+      "text": "director de instituto acad\u00e9mico",
+      "relevance": 0.50634,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.506294,
+      "count": 1
+    },
+    {
+      "text": "areas clinicas",
+      "relevance": 0.506035,
+      "count": 1
+    },
+    {
+      "text": "representante de los estudiantes",
+      "relevance": 0.504299,
       "count": 1
     }
   ]

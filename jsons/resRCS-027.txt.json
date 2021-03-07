@@ -1,159 +1,259 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 5636,
+    "text_characters": 7557,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "FACULTAD DE CIENCIAS NATURALES",
-      "relevance": 0.576066,
-      "count": 1
-    },
-    {
-      "text": "Oficina de Control Interno",
-      "relevance": 0.56814,
-      "count": 1
-    },
-    {
-      "text": "Orden de Servicios Distinguidos",
-      "relevance": 0.558815,
-      "count": 4
-    },
-    {
-      "text": "uso de sus atribuciones legales",
-      "relevance": 0.548127,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.53224,
-      "count": 7
-    },
-    {
-      "text": "RESOLUCION No",
-      "relevance": 0.530411,
-      "count": 1
-    },
-    {
-      "text": "FACULTAD DE CIENCIAS",
-      "relevance": 0.529809,
-      "count": 1
-    },
-    {
-      "text": "Oficina de Informatica",
-      "relevance": 0.527295,
-      "count": 1
-    },
-    {
-      "text": "recomendaciones del Comit\u00e9 Evaluador",
-      "relevance": 0.525943,
-      "count": 1
-    },
-    {
-      "text": "Desarrollo Institucional",
-      "relevance": 0.525662,
-      "count": 1
-    },
-    {
-      "text": "Resoluci\u00e9n No",
-      "relevance": 0.524315,
-      "count": 1
-    },
-    {
-      "text": "Recursos Humanos",
-      "relevance": 0.518712,
-      "count": 1
-    },
-    {
-      "text": "Ceremonia Acad\u00e9mica",
-      "relevance": 0.517402,
-      "count": 1
-    },
-    {
-      "text": "fortalecimiento del cumplimiento de la mision",
-      "relevance": 0.515644,
-      "count": 1
-    },
-    {
-      "text": "CIENCIAS SOCIALES",
-      "relevance": 0.514631,
-      "count": 1
-    },
-    {
-      "text": "Calidad Acad\u00e9mica",
-      "relevance": 0.513909,
-      "count": 1
-    },
-    {
-      "text": "revision del cumplimiento de los requisitos",
-      "relevance": 0.513229,
-      "count": 1
-    },
-    {
-      "text": "Servicios Distinguidos",
-      "relevance": 0.512667,
-      "count": 1
-    },
-    {
-      "text": "Ruth Marlene Chaparro",
-      "relevance": 0.510898,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.510374,
-      "count": 1
-    },
-    {
-      "text": "Nota de Estilo",
-      "relevance": 0.51012,
+      "text": "politica institucional de investigaciones",
+      "relevance": 0.637662,
       "count": 2
     },
     {
-      "text": "Adriana Bravo",
-      "relevance": 0.509187,
+      "text": "desarrollo productivo",
+      "relevance": 0.627519,
       "count": 1
     },
     {
-      "text": "Victoria Salas",
-      "relevance": 0.50428,
+      "text": "actividades de ciencia",
+      "relevance": 0.615988,
       "count": 1
     },
     {
-      "text": "Rolando Posada Mosquera",
-      "relevance": 0.503043,
+      "text": "ley de ciencia",
+      "relevance": 0.589145,
       "count": 1
     },
     {
-      "text": "junio de 2015.UNIVERSIDAD",
-      "relevance": 0.503022,
+      "text": "sistema nacional de ciencia",
+      "relevance": 0.58378,
+      "count": 3
+    },
+    {
+      "text": "objetivo general",
+      "relevance": 0.583569,
+      "count": 3
+    },
+    {
+      "text": "produccion intelectual",
+      "relevance": 0.571859,
+      "count": 2
+    },
+    {
+      "text": "documento anexo",
+      "relevance": 0.567676,
       "count": 1
     },
     {
-      "text": "Ceremonia Solemne",
-      "relevance": 0.501128,
+      "text": "alto impacto",
+      "relevance": 0.565169,
       "count": 1
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.499937,
+      "text": "actividad artistica",
+      "relevance": 0.564653,
       "count": 1
     },
     {
-      "text": "Registro Acad\u00e9mico",
-      "relevance": 0.499471,
+      "text": "transformaci\u00e9n social",
+      "relevance": 0.561834,
       "count": 1
     },
     {
-      "text": "ARTES INTEGRADAS",
-      "relevance": 0.49923,
+      "text": "consejo superior de junio",
+      "relevance": 0.55902,
       "count": 1
     },
     {
-      "text": "Salon de Reuniones",
-      "relevance": 0.499189,
+      "text": "responsabilidad social",
+      "relevance": 0.549807,
+      "count": 1
+    },
+    {
+      "text": "sistema general de regalias",
+      "relevance": 0.549524,
+      "count": 1
+    },
+    {
+      "text": "elevado valor agregado",
+      "relevance": 0.547428,
+      "count": 1
+    },
+    {
+      "text": "formacion de talentos",
+      "relevance": 0.541074,
+      "count": 1
+    },
+    {
+      "text": "desarrollo tecnoldgico",
+      "relevance": 0.540204,
+      "count": 2
+    },
+    {
+      "text": "largo plazo",
+      "relevance": 0.53788,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.537655,
+      "count": 1
+    },
+    {
+      "text": "nuevos conocimientos",
+      "relevance": 0.535355,
+      "count": 1
+    },
+    {
+      "text": "documento base",
+      "relevance": 0.53206,
+      "count": 1
+    },
+    {
+      "text": "expresiones culturales",
+      "relevance": 0.5303,
+      "count": 1
+    },
+    {
+      "text": "construcci\u00e9n de una agenda",
+      "relevance": 0.529258,
+      "count": 1
+    },
+    {
+      "text": "propiedad intelectual",
+      "relevance": 0.529146,
+      "count": 1
+    },
+    {
+      "text": "nueva industria nacional",
+      "relevance": 0.529074,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico aprobo",
+      "relevance": 0.528275,
+      "count": 1
+    },
+    {
+      "text": "acto legislativo",
+      "relevance": 0.528224,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.527715,
+      "count": 3
+    },
+    {
+      "text": "artistica de los profesores",
+      "relevance": 0.526941,
+      "count": 1
+    },
+    {
+      "text": "actividades de investigacion",
+      "relevance": 0.525867,
+      "count": 1
+    },
+    {
+      "text": "objetivo central",
+      "relevance": 0.525326,
+      "count": 1
+    },
+    {
+      "text": "transformacion social",
+      "relevance": 0.519316,
+      "count": 1
+    },
+    {
+      "text": "estandares de alta calidad",
+      "relevance": 0.519214,
+      "count": 1
+    },
+    {
+      "text": "plan estrat\u00e9gico de desarrollo",
+      "relevance": 0.519145,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.518537,
+      "count": 8
+    },
+    {
+      "text": "capacidades de investigacidn",
+      "relevance": 0.517017,
+      "count": 1
+    },
+    {
+      "text": "grandes objetivos",
+      "relevance": 0.515785,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de sectores",
+      "relevance": 0.515202,
+      "count": 1
+    },
+    {
+      "text": "acciones del estado",
+      "relevance": 0.51519,
+      "count": 1
+    },
+    {
+      "text": "apropiacion social del conocimiento",
+      "relevance": 0.513997,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.513604,
+      "count": 1
+    },
+    {
+      "text": "talento investigativo",
+      "relevance": 0.512877,
+      "count": 1
+    },
+    {
+      "text": "creaci6n artistica",
+      "relevance": 0.512784,
+      "count": 2
+    },
+    {
+      "text": "sistema de investigacion de la universidad",
+      "relevance": 0.512704,
+      "count": 1
+    },
+    {
+      "text": "ciencias exactas",
+      "relevance": 0.512663,
+      "count": 1
+    },
+    {
+      "text": "pardmetros de calidad",
+      "relevance": 0.5126,
+      "count": 1
+    },
+    {
+      "text": "principios \u00e9ticos",
+      "relevance": 0.511544,
+      "count": 1
+    },
+    {
+      "text": "formaci\u00e9n de talento humano",
+      "relevance": 0.508616,
+      "count": 1
+    },
+    {
+      "text": "resultados de investigacidn",
+      "relevance": 0.508207,
+      "count": 1
+    },
+    {
+      "text": "materia del desarrollo del conocimiento cientifico",
+      "relevance": 0.50798,
       "count": 1
     }
   ]

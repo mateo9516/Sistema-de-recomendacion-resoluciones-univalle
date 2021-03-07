@@ -8,152 +8,252 @@
   "keywords": [
     {
       "text": "puntaje minimo de preseleccion",
-      "relevance": 0.634046,
+      "relevance": 0.637902,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.603498,
+      "text": "consejo superior",
+      "relevance": 0.598394,
       "count": 2
     },
     {
-      "text": "Resolucion No",
-      "relevance": 0.598397,
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.591527,
       "count": 1
     },
     {
-      "text": "Institutos Acad\u00e9micos",
-      "relevance": 0.586653,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.569814,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.56995,
       "count": 11
     },
     {
-      "text": "z Experiencia",
-      "relevance": 0.565399,
-      "count": 1
+      "text": "experiencia profesional",
+      "relevance": 0.56764,
+      "count": 4
     },
     {
       "text": "publicacion impresa",
-      "relevance": 0.564897,
+      "relevance": 0.565478,
       "count": 1
     },
     {
       "text": "puntaje minimo",
-      "relevance": 0.561073,
+      "relevance": 0.563134,
       "count": 4
     },
     {
-      "text": "base del maximo numero",
-      "relevance": 0.559602,
-      "count": 1
-    },
-    {
       "text": "tipo de presentaciones",
-      "relevance": 0.558332,
-      "count": 1
-    },
-    {
-      "text": "Acuerdo No",
-      "relevance": 0.557558,
+      "relevance": 0.55837,
       "count": 1
     },
     {
       "text": "siguiente relacion",
-      "relevance": 0.555022,
+      "relevance": 0.557313,
       "count": 2
     },
     {
-      "text": "caso de aspirantes",
-      "relevance": 0.552881,
+      "text": "base del maximo numero",
+      "relevance": 0.557045,
       "count": 1
     },
     {
-      "text": "especificidades de las diferentes Facultades",
-      "relevance": 0.549478,
+      "text": "caso de aspirantes",
+      "relevance": 0.554593,
       "count": 1
     },
     {
       "text": "criterios de seleccidn",
-      "relevance": 0.548555,
+      "relevance": 0.550848,
       "count": 1
     },
     {
       "text": "literales g",
-      "relevance": 0.547996,
+      "relevance": 0.549813,
       "count": 1
     },
     {
       "text": "evaluacion de los aspirantes",
-      "relevance": 0.546345,
+      "relevance": 0.548007,
+      "count": 1
+    },
+    {
+      "text": "propuesta completa de un curso",
+      "relevance": 0.546373,
+      "count": 1
+    },
+    {
+      "text": "especificidades de las diferentes facultades",
+      "relevance": 0.542975,
       "count": 1
     },
     {
       "text": "tipo de publicacion",
-      "relevance": 0.538976,
+      "relevance": 0.539187,
       "count": 1
     },
     {
       "text": "posgrado obtenido",
-      "relevance": 0.537808,
+      "relevance": 0.538492,
       "count": 1
     },
     {
       "text": "siguientes conceptos",
-      "relevance": 0.534302,
+      "relevance": 0.535377,
       "count": 1
     },
     {
       "text": "solicitudes de los candidatos",
-      "relevance": 0.53287,
+      "relevance": 0.534809,
       "count": 1
     },
     {
-      "text": "caso de las Licenciaturas",
-      "relevance": 0.531583,
+      "text": "caso de las licenciaturas",
+      "relevance": 0.532807,
       "count": 1
     },
     {
-      "text": "Experiencia profesional",
-      "relevance": 0.531004,
-      "count": 3
-    },
-    {
-      "text": "Hoja de Vida",
-      "relevance": 0.53092,
+      "text": "hoja de vida",
+      "relevance": 0.532275,
       "count": 3
     },
     {
       "text": "cargos de profesores de tiempo",
-      "relevance": 0.5294,
+      "relevance": 0.53167,
       "count": 1
     },
     {
       "text": "puntaje determinado",
-      "relevance": 0.527678,
+      "relevance": 0.528513,
       "count": 1
     },
     {
-      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.52472,
+      "text": "investigacion posdoctoral certificada",
+      "relevance": 0.525429,
       "count": 1
     },
     {
-      "text": "Escuela de Medicina",
-      "relevance": 0.524413,
+      "text": "evaluacion de las pruebas acad\u00e9micas",
+      "relevance": 0.525268,
       "count": 1
     },
     {
       "text": "exposiciones individuales",
-      "relevance": 0.524248,
+      "relevance": 0.525112,
       "count": 1
     },
     {
-      "text": "Investigacion posdoctoral certificada",
-      "relevance": 0.524005,
+      "text": "escuela de medicina",
+      "relevance": 0.524512,
+      "count": 1
+    },
+    {
+      "text": "perfil acad\u00e9mico",
+      "relevance": 0.523797,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.523361,
+      "count": 1
+    },
+    {
+      "text": "efectos de asignacion",
+      "relevance": 0.522265,
+      "count": 1
+    },
+    {
+      "text": "propuesta de investigacion",
+      "relevance": 0.52154,
+      "count": 2
+    },
+    {
+      "text": "direccion de tesis de maestria",
+      "relevance": 0.520761,
+      "count": 1
+    },
+    {
+      "text": "maximo tope",
+      "relevance": 0.520166,
+      "count": 5
+    },
+    {
+      "text": "perfil general",
+      "relevance": 0.519634,
+      "count": 2
+    },
+    {
+      "text": "formacion pedagogica certificadas",
+      "relevance": 0.519513,
+      "count": 1
+    },
+    {
+      "text": "mitad del puntaje",
+      "relevance": 0.519225,
+      "count": 1
+    },
+    {
+      "text": "puntos alcanzable",
+      "relevance": 0.519101,
+      "count": 1
+    },
+    {
+      "text": "premios internacionales",
+      "relevance": 0.518641,
+      "count": 1
+    },
+    {
+      "text": "experiencia docente universitaria",
+      "relevance": 0.517826,
+      "count": 1
+    },
+    {
+      "text": "docentes de tiempo completo",
+      "relevance": 0.517808,
+      "count": 1
+    },
+    {
+      "text": "institucion educativa",
+      "relevance": 0.517126,
+      "count": 1
+    },
+    {
+      "text": "produccion audiovisual",
+      "relevance": 0.516958,
+      "count": 1
+    },
+    {
+      "text": "titulo de pregrado",
+      "relevance": 0.516916,
+      "count": 1
+    },
+    {
+      "text": "presente articulo",
+      "relevance": 0.516614,
+      "count": 1
+    },
+    {
+      "text": "evaluacion de m\u00e9ritos de cada facultad",
+      "relevance": 0.516457,
+      "count": 1
+    },
+    {
+      "text": "nivel nacional",
+      "relevance": 0.515764,
+      "count": 1
+    },
+    {
+      "text": "estudio de la hoja de vida",
+      "relevance": 0.515209,
+      "count": 2
+    },
+    {
+      "text": "caso de empate",
+      "relevance": 0.514508,
+      "count": 1
+    },
+    {
+      "text": "casos de exposiciones",
+      "relevance": 0.514468,
       "count": 1
     }
   ]

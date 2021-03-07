@@ -1,159 +1,254 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 12013,
+    "text_units": 1,
+    "text_characters": 1776,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "estrategia acad\u00e9mica integral",
-      "relevance": 0.601571,
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.775664,
       "count": 1
     },
     {
-      "text": "distintos programas acad\u00e9micos",
-      "relevance": 0.567352,
+      "text": "atribuciones legales",
+      "relevance": 0.67531,
       "count": 1
     },
     {
-      "text": "Plan de Nivelaci\u00e9n Acad\u00e9mica Talentos",
-      "relevance": 0.560966,
-      "count": 5
-    },
-    {
-      "text": "temas de gestion social",
-      "relevance": 0.554012,
+      "text": "plan de estudios conducente",
+      "relevance": 0.629401,
       "count": 1
     },
     {
-      "text": "Ciencias Naturales",
-      "relevance": 0.553944,
+      "text": "consejo directivo",
+      "relevance": 0.621863,
       "count": 1
     },
     {
-      "text": "objetivos de nivelacidn acad\u00e9mica",
-      "relevance": 0.549232,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.614786,
       "count": 1
     },
     {
-      "text": "lista de documentos",
-      "relevance": 0.542314,
+      "text": "estatuto general",
+      "relevance": 0.606504,
       "count": 1
     },
     {
-      "text": "Gobierno Nacional",
-      "relevance": 0.540971,
+      "text": "titulo acad\u00e9mico",
+      "relevance": 0.605017,
+      "count": 1
+    },
+    {
+      "text": "luis alberto herrera",
+      "relevance": 0.597119,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.587749,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.564086,
+      "count": 1
+    },
+    {
+      "text": "cirugia general",
+      "relevance": 0.553197,
+      "count": 3
+    },
+    {
+      "text": "programa acad\u00e9mico de especialidad",
+      "relevance": 0.541765,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.540783,
+      "count": 1
+    },
+    {
+      "text": "solicitud de registro calificado",
+      "relevance": 0.525026,
+      "count": 1
+    },
+    {
+      "text": "escuela de medicina de la facultad",
+      "relevance": 0.525026,
+      "count": 1
+    },
+    {
+      "text": "acad\u00e9mico de especializacion",
+      "relevance": 0.517747,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.513295,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.512868,
+      "count": 1
+    },
+    {
+      "text": "programas de acuerdo",
+      "relevance": 0.506342,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.506313,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.49912,
+      "count": 1
+    },
+    {
+      "text": "titulo de especialista",
+      "relevance": 0.498975,
+      "count": 1
+    },
+    {
+      "text": "dia de marzo",
+      "relevance": 0.497135,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.469727,
+      "count": 1
+    },
+    {
+      "text": "salud",
+      "relevance": 0.468083,
+      "count": 1
+    },
+    {
+      "text": "unico",
+      "relevance": 0.457006,
+      "count": 1
+    },
+    {
+      "text": "ministerio",
+      "relevance": 0.455017,
+      "count": 1
+    },
+    {
+      "text": "adscrito",
+      "relevance": 0.454814,
+      "count": 1
+    },
+    {
+      "text": "modificd",
+      "relevance": 0.451916,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rmino",
+      "relevance": 0.451916,
+      "count": 1
+    },
+    {
+      "text": "especialista",
+      "relevance": 0.451439,
+      "count": 1
+    },
+    {
+      "text": "denominacion",
+      "relevance": 0.451038,
       "count": 2
     },
     {
-      "text": "Comit\u00e9 de Apoyo Pedagogico",
-      "relevance": 0.538154,
+      "text": "ajustes",
+      "relevance": 0.449779,
       "count": 1
     },
     {
-      "text": "siguiente manera",
-      "relevance": 0.536864,
+      "text": "especialidad",
+      "relevance": 0.448535,
       "count": 1
     },
     {
-      "text": "creacion de un plan de nivelacion",
-      "relevance": 0.534824,
+      "text": "marzo",
+      "relevance": 0.445223,
       "count": 1
     },
     {
-      "text": "Vicerrectoria Acad\u00e9mica",
-      "relevance": 0.532195,
+      "text": "adscripcion",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "gene",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "resoluci6",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.445223,
       "count": 2
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.531724,
+      "text": "enero",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "actualiz6",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.445223,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.444988,
       "count": 2
     },
     {
-      "text": "Plan de Nivelaci6",
-      "relevance": 0.53082,
-      "count": 5
-    },
-    {
-      "text": "actividades del programa",
-      "relevance": 0.529825,
-      "count": 1
-    },
-    {
-      "text": "calidad de la educaci\u00e9n superior",
-      "relevance": 0.527918,
-      "count": 1
-    },
-    {
-      "text": "Ciencias sociales",
-      "relevance": 0.527382,
-      "count": 1
-    },
-    {
-      "text": "inclusi6n",
-      "relevance": 0.526634,
-      "count": 1
-    },
-    {
-      "text": "Director de Extension",
-      "relevance": 0.526633,
-      "count": 1
-    },
-    {
-      "text": "Coordinador Acad\u00e9mico",
-      "relevance": 0.525624,
-      "count": 1
-    },
-    {
-      "text": "trav\u00e9s de la ejecuci\u00e9dn del Plan",
-      "relevance": 0.525577,
-      "count": 1
-    },
-    {
-      "text": "rasgos culturales",
-      "relevance": 0.525057,
-      "count": 1
-    },
-    {
-      "text": "Acad\u00e9mica Talentos",
-      "relevance": 0.524291,
-      "count": 6
-    },
-    {
-      "text": "Direcci\u00e9n General del El Plan",
-      "relevance": 0.524256,
-      "count": 1
-    },
-    {
-      "text": "Educaci\u00e9n Continua",
-      "relevance": 0.524032,
-      "count": 2
-    },
-    {
-      "text": "Acad\u00e9mica Talentos Pilos",
-      "relevance": 0.523086,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.522599,
-      "count": 7
-    },
-    {
-      "text": "Pilos tendra",
-      "relevance": 0.522296,
-      "count": 1
-    },
-    {
-      "text": "estructuracioOn de ciclos",
-      "relevance": 0.521654,
-      "count": 1
-    },
-    {
-      "text": "mecanismos apropiados",
-      "relevance": 0.519773,
+      "text": "especializacion",
+      "relevance": 0.443254,
       "count": 1
     }
   ]

@@ -1,159 +1,259 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 4369,
+    "text_characters": 1957,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "cierre de la vigencia fiscal",
-      "relevance": 0.671028,
+      "text": "docentes de la universidad del valle",
+      "relevance": 0.638239,
       "count": 1
     },
     {
-      "text": "Asamblea Departamental del Valle",
-      "relevance": 0.628434,
-      "count": 1
-    },
-    {
-      "text": "r\u00e9gimen especial",
-      "relevance": 0.617585,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.599095,
+      "text": "profesores universitarios",
+      "relevance": 0.615661,
       "count": 2
     },
     {
-      "text": "figura de la vigencia futura",
-      "relevance": 0.585196,
+      "text": "diciembre del ano",
+      "relevance": 0.613565,
       "count": 1
     },
     {
-      "text": "fecha posterior",
-      "relevance": 0.581834,
+      "text": "organizacion sindical",
+      "relevance": 0.605029,
+      "count": 1
+    },
+    {
+      "text": "senor gobernador",
+      "relevance": 0.576901,
+      "count": 1
+    },
+    {
+      "text": "acuerdos suscritos",
+      "relevance": 0.575432,
+      "count": 1
+    },
+    {
+      "text": "acta de concertacion",
+      "relevance": 0.564086,
+      "count": 1
+    },
+    {
+      "text": "temas tratados",
+      "relevance": 0.559464,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.544437,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.54056,
+      "count": 1
+    },
+    {
+      "text": "tramites de ley",
+      "relevance": 0.525233,
+      "count": 1
+    },
+    {
+      "text": "division de recursos humanos",
+      "relevance": 0.518262,
+      "count": 1
+    },
+    {
+      "text": "peticiones respetuosas",
+      "relevance": 0.512555,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.510363,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.507972,
+      "count": 1
+    },
+    {
+      "text": "dia del mes de marzo",
+      "relevance": 0.507234,
+      "count": 1
+    },
+    {
+      "text": "acta final de concertacion",
+      "relevance": 0.506497,
+      "count": 1
+    },
+    {
+      "text": "folios",
+      "relevance": 0.505365,
+      "count": 1
+    },
+    {
+      "text": "anos",
+      "relevance": 0.504289,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.504061,
+      "count": 1
+    },
+    {
+      "text": "servicio de la institucion",
+      "relevance": 0.503774,
+      "count": 1
+    },
+    {
+      "text": "acuerdos establecidos",
+      "relevance": 0.500464,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.499367,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.49165,
       "count": 2
     },
     {
-      "text": "Senor Rector",
-      "relevance": 0.576703,
+      "text": "empleados",
+      "relevance": 0.489573,
+      "count": 3
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.485813,
       "count": 1
     },
     {
-      "text": "Sisterna General de Regalias",
-      "relevance": 0.571088,
+      "text": "parte constitutiva de la presente resolucion",
+      "relevance": 0.485624,
       "count": 1
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.565391,
+      "text": "copia",
+      "relevance": 0.482864,
       "count": 1
     },
     {
-      "text": "Saldn de Reuniones del Despacho",
-      "relevance": 0.559496,
+      "text": "fecha",
+      "relevance": 0.481224,
       "count": 1
     },
     {
-      "text": "recibo de bienes",
-      "relevance": 0.558128,
+      "text": "referentes",
+      "relevance": 0.480649,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.479016,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.475181,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.474857,
       "count": 2
     },
     {
-      "text": "Plan de Inversiones de la Universidad",
-      "relevance": 0.557794,
+      "text": "reconocimientos",
+      "relevance": 0.472369,
       "count": 1
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.555038,
+      "text": "partes",
+      "relevance": 0.470393,
       "count": 1
     },
     {
-      "text": "pdgina web de la universidad",
-      "relevance": 0.551552,
-      "count": 1
-    },
-    {
-      "text": "vigencias siguientes",
-      "relevance": 0.551219,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior aprob6",
-      "relevance": 0.54176,
-      "count": 1
-    },
-    {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.538426,
+      "text": "docentes",
+      "relevance": 0.46897,
       "count": 2
     },
     {
-      "text": "ordenador del gasto",
-      "relevance": 0.537914,
+      "text": "contenidos",
+      "relevance": 0.466711,
       "count": 1
     },
     {
-      "text": "autorizaci\u00e9n de vigencias futuras",
-      "relevance": 0.53687,
+      "text": "2o0",
+      "relevance": 0.465051,
       "count": 1
     },
     {
-      "text": "recursos del Fondo",
-      "relevance": 0.527003,
+      "text": "original",
+      "relevance": 0.46495,
       "count": 1
     },
     {
-      "text": "Plan de Inversiones de la vigencia",
-      "relevance": 0.525007,
+      "text": "acuerdos",
+      "relevance": 0.464703,
       "count": 1
     },
     {
-      "text": "literal k",
-      "relevance": 0.524636,
+      "text": "acta",
+      "relevance": 0.462847,
       "count": 1
     },
     {
-      "text": "Construcci\u00e9n de la Etapa",
-      "relevance": 0.523921,
-      "count": 2
-    },
-    {
-      "text": "ente universitario",
-      "relevance": 0.523296,
+      "text": "vigencia",
+      "relevance": 0.461437,
       "count": 1
     },
     {
-      "text": "Universidades PUblicas",
-      "relevance": 0.520007,
+      "text": "disposiciones",
+      "relevance": 0.459763,
       "count": 1
     },
     {
-      "text": "obras de Construcci\u00e9n de la Etapa",
-      "relevance": 0.515362,
+      "text": "comisiones",
+      "relevance": 0.459386,
       "count": 1
     },
     {
-      "text": "estatuto orgdnico de presupuesto",
-      "relevance": 0.515176,
+      "text": "marzo",
+      "relevance": 0.458257,
       "count": 1
     },
     {
-      "text": "pago de los compromisos",
-      "relevance": 0.513055,
+      "text": "personal",
+      "relevance": 0.458257,
       "count": 1
     },
     {
-      "text": "Licitaci\u00e9n PUblica",
-      "relevance": 0.511871,
-      "count": 2
+      "text": "uso",
+      "relevance": 0.458257,
+      "count": 1
     },
     {
-      "text": "recepcid\u00e9n de bienes",
-      "relevance": 0.510213,
+      "text": "solicitudes",
+      "relevance": 0.458257,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.458257,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.458257,
       "count": 1
     }
   ]

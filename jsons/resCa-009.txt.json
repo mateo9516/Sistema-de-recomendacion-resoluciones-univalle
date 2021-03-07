@@ -1,160 +1,260 @@
 {
   "usage": {
-    "text_units": 1,
-    "text_characters": 5630,
+    "text_units": 2,
+    "text_characters": 11260,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Entrega de sobres",
-      "relevance": 0.665108,
-      "count": 1
-    },
-    {
-      "text": "Programas Acad\u00e9micos de Pregrado",
-      "relevance": 0.662155,
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.643194,
       "count": 2
     },
     {
-      "text": "Direcci\u00e9dn del Programa Acad\u00e9mico",
-      "relevance": 0.652256,
-      "count": 1
-    },
-    {
-      "text": "Calendario Acad\u00e9mico",
-      "relevance": 0.634698,
-      "count": 1
-    },
-    {
-      "text": "Examen M\u00e9dico",
-      "relevance": 0.619045,
-      "count": 1
-    },
-    {
-      "text": "Entrega de solicitudes",
-      "relevance": 0.582132,
-      "count": 3
-    },
-    {
-      "text": "Area de Admisiones",
-      "relevance": 0.573,
-      "count": 1
-    },
-    {
-      "text": "Programa de Inducci6n",
-      "relevance": 0.561141,
-      "count": 1
-    },
-    {
-      "text": "Escuela de Ciencias",
-      "relevance": 0.560247,
-      "count": 1
-    },
-    {
-      "text": "Venta de Formularios",
-      "relevance": 0.559208,
+      "text": "proceso de admision",
+      "relevance": 0.631105,
       "count": 2
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.549373,
-      "count": 1
-    },
-    {
-      "text": "Proceso de TRASLADO",
-      "relevance": 0.547409,
-      "count": 1
-    },
-    {
-      "text": "dias del mes de Febrero",
-      "relevance": 0.544844,
-      "count": 1
-    },
-    {
-      "text": "Primer Llamado Adicional",
-      "relevance": 0.544446,
-      "count": 1
-    },
-    {
-      "text": "Programa Acad\u00e9mico",
-      "relevance": 0.544424,
-      "count": 1
-    },
-    {
-      "text": "Derechos Econ\u00e9micos",
-      "relevance": 0.543797,
-      "count": 1
-    },
-    {
-      "text": "Area de Registro",
-      "relevance": 0.542438,
+      "text": "examen m\u00e9dico",
+      "relevance": 0.625282,
       "count": 2
     },
     {
-      "text": "siguiente calendario Acad\u00e9mico",
-      "relevance": 0.540686,
-      "count": 1
+      "text": "programas acad\u00e9micos",
+      "relevance": 0.617344,
+      "count": 2
     },
     {
-      "text": "Inscripciones Ordinarias",
-      "relevance": 0.53676,
-      "count": 1
+      "text": "area de admisiones",
+      "relevance": 0.579014,
+      "count": 2
     },
     {
-      "text": "Area de Admisiones de las decisiones",
-      "relevance": 0.523603,
-      "count": 1
+      "text": "escuela de ciencias",
+      "relevance": 0.565339,
+      "count": 2
     },
     {
-      "text": "Llamados Adicionales",
-      "relevance": 0.521141,
-      "count": 1
+      "text": "venta de formularios",
+      "relevance": 0.564348,
+      "count": 4
+    },
+    {
+      "text": "proceso de traslado",
+      "relevance": 0.556181,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.55389,
+      "count": 2
+    },
+    {
+      "text": "ei segundo",
+      "relevance": 0.550783,
+      "count": 2
+    },
+    {
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.550448,
+      "count": 4
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.549137,
+      "count": 2
+    },
+    {
+      "text": "primer semestre",
+      "relevance": 0.548179,
+      "count": 6
+    },
+    {
+      "text": "area de registro",
+      "relevance": 0.547132,
+      "count": 4
+    },
+    {
+      "text": "idioma extranjero",
+      "relevance": 0.546005,
+      "count": 4
+    },
+    {
+      "text": "siguiente calendario acad\u00e9mico",
+      "relevance": 0.545131,
+      "count": 2
+    },
+    {
+      "text": "inducci6n",
+      "relevance": 0.544986,
+      "count": 2
+    },
+    {
+      "text": "inscripciones ordinarias",
+      "relevance": 0.540956,
+      "count": 2
+    },
+    {
+      "text": "examen de clasificacion",
+      "relevance": 0.539989,
+      "count": 2
     },
     {
       "text": "sobres de admisi6",
-      "relevance": 0.519668,
-      "count": 1
-    },
-    {
-      "text": "Primer semestre",
-      "relevance": 0.519232,
+      "relevance": 0.532001,
       "count": 2
     },
     {
-      "text": "parte de la Escuela",
-      "relevance": 0.517907,
-      "count": 1
-    },
-    {
-      "text": "Ciencias del Lenguaje de los Examenes",
-      "relevance": 0.515851,
-      "count": 1
-    },
-    {
-      "text": "periodo Agosto",
-      "relevance": 0.514796,
+      "text": "llamados adicionales",
+      "relevance": 0.530577,
       "count": 2
     },
     {
-      "text": "Asignaturas Electivas",
-      "relevance": 0.511932,
+      "text": "area de admisiones de las decisiones",
+      "relevance": 0.527527,
       "count": 2
     },
     {
-      "text": "Inscripciones Extemporaneas",
-      "relevance": 0.509214,
+      "text": "secretario generaluniversidad",
+      "relevance": 0.5267,
       "count": 1
     },
     {
-      "text": "Segundo Llamado",
-      "relevance": 0.508495,
+      "text": "vicerrectoria de bienestar",
+      "relevance": 0.524491,
       "count": 2
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.506797,
+      "text": "asignaturas electivas",
+      "relevance": 0.524491,
+      "count": 2
+    },
+    {
+      "text": "acad\u00e9mica de oficio",
+      "relevance": 0.522436,
+      "count": 4
+    },
+    {
+      "text": "parte de la escuela",
+      "relevance": 0.521171,
+      "count": 2
+    },
+    {
+      "text": "ciencias del lenguaje de los examenes",
+      "relevance": 0.519112,
+      "count": 2
+    },
+    {
+      "text": "periodo agosto",
+      "relevance": 0.51789,
+      "count": 4
+    },
+    {
+      "text": "resultados de admision",
+      "relevance": 0.517211,
+      "count": 2
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.51491,
+      "count": 2
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.509949,
+      "count": 2
+    },
+    {
+      "text": "inducci6\u00e9n",
+      "relevance": 0.507996,
+      "count": 2
+    },
+    {
+      "text": "finalizacion del periodo",
+      "relevance": 0.507664,
+      "count": 2
+    },
+    {
+      "text": "al5 de septiembre",
+      "relevance": 0.505279,
+      "count": 2
+    },
+    {
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.504795,
+      "count": 4
+    },
+    {
+      "text": "estudiantes de primer semestre",
+      "relevance": 0.502278,
+      "count": 2
+    },
+    {
+      "text": "semestres superiores",
+      "relevance": 0.497037,
+      "count": 2
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.496017,
       "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.495366,
+      "count": 2
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.493629,
+      "count": 2
+    },
+    {
+      "text": "documentos",
+      "relevance": 0.493535,
+      "count": 8
+    },
+    {
+      "text": "sal\u00e9n de sesiones del consejo acad\u00e9mico",
+      "relevance": 0.492173,
+      "count": 2
+    },
+    {
+      "text": "6n de solicitudes",
+      "relevance": 0.492029,
+      "count": 2
+    },
+    {
+      "text": "area de registro acad\u00e9mico",
+      "relevance": 0.490494,
+      "count": 2
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.489356,
+      "count": 2
+    },
+    {
+      "text": "cali",
+      "relevance": 0.484877,
+      "count": 4
+    },
+    {
+      "text": "proficiencia",
+      "relevance": 0.482759,
+      "count": 2
+    },
+    {
+      "text": "admitidos",
+      "relevance": 0.481421,
+      "count": 18
+    },
+    {
+      "text": "solicitudes",
+      "relevance": 0.480229,
+      "count": 6
     }
   ]
 }

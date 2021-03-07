@@ -7,153 +7,253 @@
   "language": "es",
   "keywords": [
     {
-      "text": "asignatura Lectura",
-      "relevance": 0.587349,
+      "text": "ciclo de asignaturas cr\u00e9ditos",
+      "relevance": 0.576906,
       "count": 1
     },
     {
       "text": "ciclo basico",
-      "relevance": 0.552952,
-      "count": 3
+      "relevance": 0.554059,
+      "count": 4
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.546318,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.549899,
       "count": 17
     },
     {
-      "text": "titulo de Ingeniero de Sistemas",
-      "relevance": 0.546257,
+      "text": "problemas reales",
+      "relevance": 0.546987,
+      "count": 1
+    },
+    {
+      "text": "titulo de ingeniero de sistemas",
+      "relevance": 0.546089,
       "count": 1
     },
     {
       "text": "desarrollo de la sociedad",
-      "relevance": 0.546166,
-      "count": 1
-    },
-    {
-      "text": "problemas reales",
-      "relevance": 0.545891,
-      "count": 1
-    },
-    {
-      "text": "estudiantes anuales",
-      "relevance": 0.541543,
-      "count": 2
-    },
-    {
-      "text": "asignaturas de manera integral",
-      "relevance": 0.540446,
-      "count": 1
-    },
-    {
-      "text": "Estatuto General",
-      "relevance": 0.539532,
-      "count": 1
-    },
-    {
-      "text": "forma oral",
-      "relevance": 0.539061,
-      "count": 1
-    },
-    {
-      "text": "discapacidad auditiva",
-      "relevance": 0.536923,
-      "count": 1
-    },
-    {
-      "text": "Ciclo de Namero de Porcentaje",
-      "relevance": 0.536129,
+      "relevance": 0.543372,
       "count": 1
     },
     {
       "text": "facultades legales",
-      "relevance": 0.534371,
+      "relevance": 0.541813,
       "count": 1
     },
     {
-      "text": "siguientes Aambitos",
-      "relevance": 0.534365,
+      "text": "forma oral",
+      "relevance": 0.54102,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.539838,
+      "count": 1
+    },
+    {
+      "text": "estudiantes anuales",
+      "relevance": 0.538665,
+      "count": 2
+    },
+    {
+      "text": "ciclo de namero de porcentaje",
+      "relevance": 0.537667,
+      "count": 1
+    },
+    {
+      "text": "discapacidad auditiva",
+      "relevance": 0.537539,
+      "count": 1
+    },
+    {
+      "text": "siguientes aambitos",
+      "relevance": 0.5331,
       "count": 1
     },
     {
       "text": "nivel local",
-      "relevance": 0.533663,
+      "relevance": 0.533058,
       "count": 1
     },
     {
-      "text": "Programa Acad\u00e9mico de Ingenieria de Sistemas",
-      "relevance": 0.530196,
-      "count": 4
-    },
-    {
-      "text": "formacion cientifica",
-      "relevance": 0.530126,
+      "text": "asignatura lectura",
+      "relevance": 0.532982,
       "count": 1
     },
     {
-      "text": "Nimero de cr\u00e9ditos Porcentaje",
-      "relevance": 0.529013,
+      "text": "componentes de la formaci6",
+      "relevance": 0.532596,
       "count": 1
     },
     {
-      "text": "Consejo de la Facultad de Ingenieria",
-      "relevance": 0.528776,
+      "text": "programa acad\u00e9mico de ingenieria de sistemas",
+      "relevance": 0.529796,
+      "count": 3
+    },
+    {
+      "text": "consejo de la facultad de ingenieria",
+      "relevance": 0.529616,
       "count": 2
     },
     {
-      "text": "Ingenieria de Sistemas",
-      "relevance": 0.527891,
-      "count": 4
-    },
-    {
-      "text": "componentes de la Formaci6",
-      "relevance": 0.527672,
+      "text": "nimero de cr\u00e9ditos porcentaje",
+      "relevance": 0.529575,
       "count": 1
     },
     {
-      "text": "parte del sello institucional",
-      "relevance": 0.527265,
+      "text": "formacion cientifica",
+      "relevance": 0.5292,
       "count": 1
     },
     {
       "text": "ciclo profesional",
-      "relevance": 0.527194,
+      "relevance": 0.5278,
       "count": 6
     },
     {
+      "text": "parte del sello institucional",
+      "relevance": 0.527762,
+      "count": 1
+    },
+    {
+      "text": "ingenieria de sistemas",
+      "relevance": 0.527502,
+      "count": 4
+    },
+    {
       "text": "actividades extracurriculares",
-      "relevance": 0.526688,
+      "relevance": 0.526205,
       "count": 1
     },
     {
-      "text": "Politica Curricular",
-      "relevance": 0.526253,
-      "count": 1
-    },
-    {
-      "text": "literal b",
-      "relevance": 0.523985,
-      "count": 1
-    },
-    {
-      "text": "Seminario de trabajo",
-      "relevance": 0.522338,
+      "text": "seminario de trabajo",
+      "relevance": 0.52296,
       "count": 2
     },
     {
-      "text": "Desarrollo de software",
-      "relevance": 0.522158,
-      "count": 5
-    },
-    {
       "text": "siguientes cargos",
-      "relevance": 0.521619,
+      "relevance": 0.521184,
       "count": 1
     },
     {
       "text": "calidad del programa",
-      "relevance": 0.521571,
+      "relevance": 0.520979,
+      "count": 1
+    },
+    {
+      "text": "asignaturas de manera integral",
+      "relevance": 0.520936,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacio\u00e9n nacional",
+      "relevance": 0.520271,
+      "count": 1
+    },
+    {
+      "text": "total ciclo profesional",
+      "relevance": 0.520077,
+      "count": 1
+    },
+    {
+      "text": "conjunto de actividades",
+      "relevance": 0.51985,
+      "count": 1
+    },
+    {
+      "text": "desarrollo de software",
+      "relevance": 0.519806,
+      "count": 3
+    },
+    {
+      "text": "manera creativa",
+      "relevance": 0.519271,
+      "count": 1
+    },
+    {
+      "text": "dignidad de las personas",
+      "relevance": 0.51873,
+      "count": 1
+    },
+    {
+      "text": "analisis inteligente de datos",
+      "relevance": 0.518508,
+      "count": 1
+    },
+    {
+      "text": "largo de su vida profesional",
+      "relevance": 0.51792,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9ditos cr\u00e9ditos",
+      "relevance": 0.517318,
+      "count": 1
+    },
+    {
+      "text": "vida profesional",
+      "relevance": 0.517268,
+      "count": 1
+    },
+    {
+      "text": "escuela de ingenieria de sistemas",
+      "relevance": 0.516941,
+      "count": 1
+    },
+    {
+      "text": "ingenieros de sistemas",
+      "relevance": 0.516935,
+      "count": 3
+    },
+    {
+      "text": "lenguajes de programacion",
+      "relevance": 0.516574,
+      "count": 1
+    },
+    {
+      "text": "idioma ingl\u00e9s de acuerdo",
+      "relevance": 0.516516,
+      "count": 1
+    },
+    {
+      "text": "aprendizaje autonomo",
+      "relevance": 0.516369,
+      "count": 1
+    },
+    {
+      "text": "electiva profesional iii",
+      "relevance": 0.516069,
+      "count": 1
+    },
+    {
+      "text": "parte de los componentes de la fg",
+      "relevance": 0.515834,
+      "count": 1
+    },
+    {
+      "text": "objetivo general",
+      "relevance": 0.515336,
+      "count": 1
+    },
+    {
+      "text": "manejo del ingl\u00e9s",
+      "relevance": 0.514724,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 central de curriculo",
+      "relevance": 0.51425,
+      "count": 1
+    },
+    {
+      "text": "idioma ingl\u00e9s",
+      "relevance": 0.514175,
+      "count": 2
+    },
+    {
+      "text": "ciencias naturales",
+      "relevance": 0.514106,
       "count": 1
     }
   ]

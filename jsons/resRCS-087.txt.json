@@ -7,154 +7,239 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Estatuto General",
-      "relevance": 0.625358,
+      "text": "doctor ivan enrique",
+      "relevance": 0.65051,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.625991,
       "count": 2
+    },
+    {
+      "text": "senor luis",
+      "relevance": 0.61017,
+      "count": 1
+    },
+    {
+      "text": "sefor juan",
+      "relevance": 0.606532,
+      "count": 1
     },
     {
       "text": "periodo periodo",
-      "relevance": 0.61594,
+      "relevance": 0.605082,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.602571,
+      "text": "consejo superior",
+      "relevance": 0.603907,
       "count": 2
     },
     {
-      "text": "Paragrafo del Articulo",
-      "relevance": 0.575573,
+      "text": "paragrafo del articulo",
+      "relevance": 0.568699,
       "count": 2
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.568482,
+      "text": "santiago de cali",
+      "relevance": 0.556599,
       "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.554738,
+      "count": 2
     },
     {
       "text": "correo electr\u00e9nico",
-      "relevance": 0.564098,
+      "relevance": 0.552133,
+      "count": 1
+    },
+    {
+      "text": "sefor luis",
+      "relevance": 0.548906,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.539596,
       "count": 1
     },
     {
       "text": "proceso de designacion de rector",
-      "relevance": 0.53453,
+      "relevance": 0.526085,
       "count": 1
     },
     {
-      "text": "Rector de la Universidad",
-      "relevance": 0.530417,
+      "text": "representante del presidente",
+      "relevance": 0.525418,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad",
+      "relevance": 0.524862,
       "count": 1
     },
     {
       "text": "fallo de fecha",
-      "relevance": 0.526553,
+      "relevance": 0.513933,
       "count": 1
     },
     {
-      "text": "c\u00e9dula de ciudadania No",
-      "relevance": 0.513012,
-      "count": 2
+      "text": "manuel garc\u00e9s",
+      "relevance": 0.512147,
+      "count": 1
     },
     {
       "text": "dias del mes de octubre",
-      "relevance": 0.512303,
+      "relevance": 0.499473,
       "count": 1
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.507373,
-      "count": 1
-    },
-    {
-      "text": "RESOLUCION No",
-      "relevance": 0.502786,
+      "text": "rector encargado",
+      "relevance": 0.495793,
       "count": 2
     },
     {
-      "text": "Asuntos Penales",
-      "relevance": 0.501756,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.494477,
       "count": 1
     },
     {
-      "text": "Rector Encargado",
-      "relevance": 0.500796,
+      "text": "corchuelo marmolejo",
+      "relevance": 0.494133,
+      "count": 1
+    },
+    {
+      "text": "c\u00e9dula de ciudadania",
+      "relevance": 0.490531,
       "count": 2
     },
     {
-      "text": "Rector Encargado de la Universidad del Valle",
-      "relevance": 0.500232,
+      "text": "asuntos penales",
+      "relevance": 0.488784,
       "count": 1
     },
     {
-      "text": "sefor Luis Carlos Castillo Gomez",
-      "relevance": 0.498602,
+      "text": "tribunal superior del distrito judicial de cali",
+      "relevance": 0.481209,
       "count": 1
-    },
-    {
-      "text": "Doctor Ivan Enrique Ramos Calderon",
-      "relevance": 0.497264,
-      "count": 1
-    },
-    {
-      "text": "Tribunal Superior del Distrito Judicial de Cali",
-      "relevance": 0.494274,
-      "count": 1
-    },
-    {
-      "text": "sefor Juan Manuel Garc\u00e9s O",
-      "relevance": 0.494176,
-      "count": 1
-    },
-    {
-      "text": "Valle",
-      "relevance": 0.490304,
-      "count": 2
     },
     {
       "text": "atribuciones",
-      "relevance": 0.489369,
+      "relevance": 0.477628,
       "count": 1
     },
     {
-      "text": "salon de reuniones del Consejo Acad\u00e9mico",
-      "relevance": 0.480875,
+      "text": "valle",
+      "relevance": 0.477193,
+      "count": 2
+    },
+    {
+      "text": "rector",
+      "relevance": 0.472538,
+      "count": 3
+    },
+    {
+      "text": "salon de reuniones del consejo acad\u00e9mico",
+      "relevance": 0.467657,
       "count": 1
     },
     {
       "text": "noviembre",
-      "relevance": 0.480206,
+      "relevance": 0.466437,
       "count": 2
     },
     {
       "text": "conformidad",
-      "relevance": 0.475912,
+      "relevance": 0.463108,
       "count": 1
     },
     {
-      "text": "Adolescentes",
-      "relevance": 0.475106,
+      "text": "adolescentes",
+      "relevance": 0.461829,
       "count": 1
     },
     {
-      "text": "Universidad",
-      "relevance": 0.471928,
+      "text": "universidad",
+      "relevance": 0.45862,
       "count": 3
     },
     {
       "text": "cuenta",
-      "relevance": 0.467296,
+      "relevance": 0.454242,
       "count": 1
     },
     {
       "text": "renuncia",
-      "relevance": 0.46702,
+      "relevance": 0.453666,
       "count": 1
     },
     {
       "text": "propiedad",
-      "relevance": 0.46619,
+      "relevance": 0.452829,
       "count": 2
+    },
+    {
+      "text": "alos",
+      "relevance": 0.452496,
+      "count": 1
+    },
+    {
+      "text": "ramos",
+      "relevance": 0.451027,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.449252,
+      "count": 2
+    },
+    {
+      "text": "sala",
+      "relevance": 0.448564,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.448281,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.446952,
+      "count": 2
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.446952,
+      "count": 1
+    },
+    {
+      "text": "byrne",
+      "relevance": 0.446952,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.445624,
+      "count": 2
+    },
+    {
+      "text": "uso",
+      "relevance": 0.445624,
+      "count": 1
+    },
+    {
+      "text": "orden",
+      "relevance": 0.445624,
+      "count": 1
+    },
+    {
+      "text": "sede",
+      "relevance": 0.445624,
+      "count": 1
     }
   ]
 }

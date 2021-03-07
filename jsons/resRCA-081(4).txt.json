@@ -7,153 +7,253 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.653377,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.656684,
       "count": 12
     },
     {
-      "text": "trav\u00e9s de la Secretaria General",
-      "relevance": 0.62755,
+      "text": "trav\u00e9s de la secretaria general",
+      "relevance": 0.633127,
       "count": 1
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.609347,
+      "text": "estatuto general",
+      "relevance": 0.614873,
       "count": 3
     },
     {
-      "text": "Reglamento Interno del Consejo Acad\u00e9mico",
-      "relevance": 0.575143,
+      "text": "reglamento interno del consejo acad\u00e9mico",
+      "relevance": 0.578144,
       "count": 1
     },
     {
-      "text": "reuniones del Consejo Acad\u00e9mico",
-      "relevance": 0.569243,
-      "count": 1
+      "text": "secretaria general",
+      "relevance": 0.561813,
+      "count": 11
     },
     {
-      "text": "Secretaria General",
-      "relevance": 0.558225,
-      "count": 10
+      "text": "reuniones del consejo acad\u00e9mico",
+      "relevance": 0.557252,
+      "count": 1
     },
     {
       "text": "audiencia podra",
-      "relevance": 0.55077,
+      "relevance": 0.554095,
       "count": 1
     },
     {
       "text": "miembros podra",
-      "relevance": 0.546629,
+      "relevance": 0.550325,
       "count": 1
     },
     {
-      "text": "Presidente del Consejo Acad\u00e9mico",
-      "relevance": 0.546186,
+      "text": "presidente del consejo acad\u00e9mico",
+      "relevance": 0.548578,
       "count": 3
     },
     {
-      "text": "ORDEN DEL DIA",
-      "relevance": 0.544481,
-      "count": 2
-    },
-    {
       "text": "periodicidad semanal",
-      "relevance": 0.540666,
+      "relevance": 0.541726,
       "count": 1
     },
     {
       "text": "caso de ausencia temporal",
-      "relevance": 0.537988,
+      "relevance": 0.539924,
       "count": 1
     },
     {
-      "text": "Secretario General",
-      "relevance": 0.53538,
+      "text": "secretario general",
+      "relevance": 0.538028,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.5318,
+      "text": "santiago de cali",
+      "relevance": 0.534547,
       "count": 1
     },
     {
       "text": "suficiente ilustracion",
-      "relevance": 0.525506,
+      "relevance": 0.5323,
       "count": 1
     },
     {
-      "text": "Secretaria General hara",
-      "relevance": 0.525171,
-      "count": 1
+      "text": "orden del dia",
+      "relevance": 0.53118,
+      "count": 2
     },
     {
-      "text": "presente Paragrafo",
-      "relevance": 0.52511,
+      "text": "determinaciones del consejo academico",
+      "relevance": 0.526672,
       "count": 1
     },
     {
       "text": "sesion siguiente",
-      "relevance": 0.524992,
+      "relevance": 0.525753,
       "count": 1
     },
     {
-      "text": "DETERMINACIONES DEL CONSEJO ACADEMICO",
-      "relevance": 0.524143,
-      "count": 1
-    },
-    {
-      "text": "ausencia del Secretario General",
-      "relevance": 0.522036,
-      "count": 1
-    },
-    {
-      "text": "reuniones ordinarias",
-      "relevance": 0.520534,
-      "count": 1
-    },
-    {
-      "text": "aplicacion de lo dispuesto",
-      "relevance": 0.520236,
-      "count": 1
-    },
-    {
-      "text": "asuntos universitarios",
-      "relevance": 0.519242,
-      "count": 1
-    },
-    {
-      "text": "forma individual",
-      "relevance": 0.518919,
-      "count": 1
-    },
-    {
-      "text": "Oficio explicativo",
-      "relevance": 0.517781,
-      "count": 1
-    },
-    {
-      "text": "reunion del Consejo Acad\u00e9mico",
-      "relevance": 0.516875,
-      "count": 1
-    },
-    {
-      "text": "organismos asesores",
-      "relevance": 0.516424,
-      "count": 1
-    },
-    {
-      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.514505,
-      "count": 1
-    },
-    {
-      "text": "sesi\u00e9n correspondiente",
-      "relevance": 0.514372,
+      "text": "ausencia del secretario general",
+      "relevance": 0.524015,
       "count": 1
     },
     {
       "text": "conclusiones de las decisiones formuladas",
-      "relevance": 0.513628,
+      "relevance": 0.519486,
+      "count": 1
+    },
+    {
+      "text": "forma individual",
+      "relevance": 0.519486,
+      "count": 1
+    },
+    {
+      "text": "oficio explicativo",
+      "relevance": 0.519479,
+      "count": 1
+    },
+    {
+      "text": "asuntos universitarios",
+      "relevance": 0.518957,
+      "count": 1
+    },
+    {
+      "text": "reunion del consejo acad\u00e9mico",
+      "relevance": 0.518334,
+      "count": 1
+    },
+    {
+      "text": "organismos asesores",
+      "relevance": 0.518045,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.516384,
+      "count": 1
+    },
+    {
+      "text": "reuniones ordinarias",
+      "relevance": 0.515937,
+      "count": 1
+    },
+    {
+      "text": "sesi\u00e9n correspondiente",
+      "relevance": 0.515879,
+      "count": 1
+    },
+    {
+      "text": "objeto de la citacion",
+      "relevance": 0.514671,
+      "count": 1
+    },
+    {
+      "text": "aplicacion de lo dispuesto",
+      "relevance": 0.51436,
+      "count": 1
+    },
+    {
+      "text": "sesion del consejo acad\u00e9mico",
+      "relevance": 0.513692,
+      "count": 1
+    },
+    {
+      "text": "original del acta",
+      "relevance": 0.51325,
+      "count": 1
+    },
+    {
+      "text": "calidad de invitados permanentes",
+      "relevance": 0.51269,
+      "count": 1
+    },
+    {
+      "text": "periodicidad fija",
+      "relevance": 0.512169,
+      "count": 1
+    },
+    {
+      "text": "constancias escritas",
+      "relevance": 0.51201,
+      "count": 1
+    },
+    {
+      "text": "podra",
+      "relevance": 0.511049,
+      "count": 3
+    },
+    {
+      "text": "presente paragrafo",
+      "relevance": 0.510735,
+      "count": 1
+    },
+    {
+      "text": "proceso disciplinaric de conformidad",
+      "relevance": 0.509574,
+      "count": 1
+    },
+    {
+      "text": "literal p",
+      "relevance": 0.509573,
+      "count": 1
+    },
+    {
+      "text": "parte del rector",
+      "relevance": 0.509571,
+      "count": 1
+    },
+    {
+      "text": "sesiones ordinarias consecutivas",
+      "relevance": 0.508932,
+      "count": 1
+    },
+    {
+      "text": "sesiones del consejo acad\u00e9mico",
+      "relevance": 0.508455,
+      "count": 1
+    },
+    {
+      "text": "impedimento de los miembros",
+      "relevance": 0.50833,
+      "count": 1
+    },
+    {
+      "text": "miembro de la comunidad universitaria",
+      "relevance": 0.508016,
+      "count": 1
+    },
+    {
+      "text": "persona convocada",
+      "relevance": 0.507533,
+      "count": 1
+    },
+    {
+      "text": "constancia del hecho",
+      "relevance": 0.507331,
+      "count": 1
+    },
+    {
+      "text": "asuntos habituales",
+      "relevance": 0.506528,
+      "count": 1
+    },
+    {
+      "text": "borrador correspondiente",
+      "relevance": 0.50622,
+      "count": 2
+    },
+    {
+      "text": "normas internas",
+      "relevance": 0.506191,
+      "count": 1
+    },
+    {
+      "text": "orden de prioridades",
+      "relevance": 0.506173,
+      "count": 1
+    },
+    {
+      "text": "determinaciones de aquellos asuntos",
+      "relevance": 0.505883,
       "count": 1
     }
   ]

@@ -7,153 +7,253 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Programas Acad\u00e9micos de Pregrado",
-      "relevance": 0.687554,
+      "text": "programas acad\u00e9micos de pregrado",
+      "relevance": 0.677427,
       "count": 2
     },
     {
-      "text": "pruebas adicionales de aptitud",
-      "relevance": 0.563263,
-      "count": 1
-    },
-    {
-      "text": "Examen de Estado",
-      "relevance": 0.555984,
+      "text": "examen de estado",
+      "relevance": 0.554961,
       "count": 13
     },
     {
-      "text": "condiciones de excepcion",
-      "relevance": 0.553529,
+      "text": "pruebas adicionales de aptitud",
+      "relevance": 0.553759,
       "count": 1
     },
     {
-      "text": "Programa Acad\u00e9mico de Pregrado",
-      "relevance": 0.550982,
+      "text": "condiciones de excepcion",
+      "relevance": 0.548081,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de pregrado",
+      "relevance": 0.546088,
       "count": 2
     },
     {
-      "text": "Transferencia aspirantes",
-      "relevance": 0.54077,
+      "text": "transferencia aspirantes",
+      "relevance": 0.541779,
       "count": 1
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.538644,
+      "text": "universidad del valle",
+      "relevance": 0.538754,
       "count": 8
     },
     {
       "text": "determinado periodo acad\u00e9mico",
-      "relevance": 0.53704,
+      "relevance": 0.537727,
       "count": 1
     },
     {
       "text": "presente reglamento",
-      "relevance": 0.536627,
+      "relevance": 0.537668,
       "count": 2
     },
     {
       "text": "aspectos acad\u00e9micos",
-      "relevance": 0.535923,
+      "relevance": 0.536265,
       "count": 1
     },
     {
-      "text": "Programa Acad\u00e9mico",
-      "relevance": 0.535468,
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.532687,
       "count": 20
     },
     {
       "text": "cupos de los admitidos",
-      "relevance": 0.530897,
+      "relevance": 0.531128,
       "count": 1
     },
     {
       "text": "aspirantes",
-      "relevance": 0.529439,
+      "relevance": 0.53018,
       "count": 38
     },
     {
-      "text": "Divisi6n de Admisiones",
-      "relevance": 0.528522,
-      "count": 4
-    },
-    {
-      "text": "primer semestre",
-      "relevance": 0.525487,
-      "count": 5
-    },
-    {
-      "text": "Condiciones de Excepcidn",
-      "relevance": 0.525077,
+      "text": "divisi6n de admisiones",
+      "relevance": 0.529746,
       "count": 2
     },
     {
-      "text": "resultados del Examen",
-      "relevance": 0.524075,
-      "count": 1
+      "text": "primer semestre",
+      "relevance": 0.527273,
+      "count": 5
     },
     {
-      "text": "Programas Acad\u00e9micos",
-      "relevance": 0.523527,
-      "count": 12
-    },
-    {
-      "text": "Calendario Acad\u00e9mico",
-      "relevance": 0.523311,
-      "count": 12
-    },
-    {
-      "text": "Pruebas Adicionales de Admision",
-      "relevance": 0.523259,
-      "count": 1
-    },
-    {
-      "text": "Registro Acad\u00e9mico",
-      "relevance": 0.523045,
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.523927,
       "count": 18
     },
     {
-      "text": "Disefio Grafico",
-      "relevance": 0.521916,
+      "text": "resultados del examen",
+      "relevance": 0.523917,
+      "count": 1
+    },
+    {
+      "text": "educacion superior",
+      "relevance": 0.523791,
+      "count": 1
+    },
+    {
+      "text": "disefio grafico",
+      "relevance": 0.523637,
+      "count": 1
+    },
+    {
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.523448,
+      "count": 12
+    },
+    {
+      "text": "condiciones de excepcidn",
+      "relevance": 0.5225,
+      "count": 2
+    },
+    {
+      "text": "estudiante de la universidad",
+      "relevance": 0.522039,
       "count": 1
     },
     {
       "text": "responsabilidad del aspirante",
-      "relevance": 0.521841,
+      "relevance": 0.521867,
       "count": 4
     },
     {
-      "text": "Educacion Superior",
-      "relevance": 0.520583,
+      "text": "pruebas adicionales de admision",
+      "relevance": 0.520485,
       "count": 1
     },
     {
       "text": "requisitos establecidos",
-      "relevance": 0.520491,
+      "relevance": 0.520404,
       "count": 2
     },
     {
-      "text": "estudiante de la Universidad",
-      "relevance": 0.520465,
+      "text": "autoridad competente",
+      "relevance": 0.519528,
       "count": 1
     },
     {
-      "text": "INGRESO A",
-      "relevance": 0.519072,
-      "count": 2
+      "text": "presente empate",
+      "relevance": 0.519241,
+      "count": 1
     },
     {
-      "text": "profesionales de pregrado",
-      "relevance": 0.518248,
+      "text": "solicitud de reserva de cupo",
+      "relevance": 0.518874,
       "count": 1
     },
     {
       "text": "aspirante sdlo",
-      "relevance": 0.518159,
+      "relevance": 0.518725,
       "count": 3
     },
     {
-      "text": "presente empate",
-      "relevance": 0.518127,
+      "text": "profesionales de pregrado",
+      "relevance": 0.518574,
+      "count": 1
+    },
+    {
+      "text": "vinculo laboral",
+      "relevance": 0.517555,
+      "count": 13
+    },
+    {
+      "text": "convocatorias de admisi6n",
+      "relevance": 0.51637,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle del cauca",
+      "relevance": 0.516107,
+      "count": 3
+    },
+    {
+      "text": "colegios oficiales",
+      "relevance": 0.515959,
+      "count": 2
+    },
+    {
+      "text": "demas requisitos",
+      "relevance": 0.51583,
+      "count": 2
+    },
+    {
+      "text": "acta de la asamblea",
+      "relevance": 0.515379,
+      "count": 1
+    },
+    {
+      "text": "altos puntajes",
+      "relevance": 0.515077,
+      "count": 7
+    },
+    {
+      "text": "existencia de inconsistencias",
+      "relevance": 0.515025,
+      "count": 1
+    },
+    {
+      "text": "titulo de bachiller",
+      "relevance": 0.514899,
+      "count": 1
+    },
+    {
+      "text": "programas de pregrado",
+      "relevance": 0.514484,
+      "count": 1
+    },
+    {
+      "text": "periodo respectivo",
+      "relevance": 0.514234,
+      "count": 1
+    },
+    {
+      "text": "acceso personal",
+      "relevance": 0.514118,
+      "count": 1
+    },
+    {
+      "text": "bachilleres provenientes de departamentos",
+      "relevance": 0.514037,
+      "count": 3
+    },
+    {
+      "text": "mayor nota",
+      "relevance": 0.513839,
+      "count": 3
+    },
+    {
+      "text": "copia original del recibo",
+      "relevance": 0.513712,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.513639,
+      "count": 10
+    },
+    {
+      "text": "constancia de cumplimiento de este requisito",
+      "relevance": 0.513044,
+      "count": 1
+    },
+    {
+      "text": "cupo",
+      "relevance": 0.51272,
+      "count": 23
+    },
+    {
+      "text": "numero de cupos",
+      "relevance": 0.512391,
+      "count": 1
+    },
+    {
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.512209,
       "count": 1
     }
   ]

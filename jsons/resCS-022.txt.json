@@ -1,160 +1,260 @@
 {
   "usage": {
-    "text_units": 3,
-    "text_characters": 25534,
+    "text_units": 1,
+    "text_characters": 4352,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "asignaci\u00e9n de las actividades acad\u00e9micas",
-      "relevance": 0.720601,
+      "text": "calidad de vida de los servidores",
+      "relevance": 0.603601,
       "count": 1
     },
     {
-      "text": "trabajo acad\u00e9mico",
-      "relevance": 0.652867,
+      "text": "empleados universitarios",
+      "relevance": 0.599562,
+      "count": 1
+    },
+    {
+      "text": "comision de asuntos",
+      "relevance": 0.599269,
       "count": 3
     },
     {
-      "text": "asignaci\u00e9n acad\u00e9mica",
-      "relevance": 0.603765,
-      "count": 3
+      "text": "consejo superior",
+      "relevance": 0.589874,
+      "count": 6
     },
     {
-      "text": "trabajo acad\u00e9mico de los profesores",
-      "relevance": 0.593388,
+      "text": "servidores ptblico",
+      "relevance": 0.580927,
       "count": 1
     },
     {
-      "text": "asignacion del trabajo acad\u00e9mico de los profesores",
-      "relevance": 0.578796,
-      "count": 1
-    },
-    {
-      "text": "unidad acad\u00e9mica",
-      "relevance": 0.573314,
-      "count": 7
-    },
-    {
-      "text": "hora catedra",
-      "relevance": 0.572305,
-      "count": 1
-    },
-    {
-      "text": "efectos cuantitativos",
-      "relevance": 0.571791,
-      "count": 1
-    },
-    {
-      "text": "asignaci\u00e9n de sus profesores",
-      "relevance": 0.562422,
-      "count": 1
-    },
-    {
-      "text": "medio tiempo",
-      "relevance": 0.560884,
-      "count": 1
-    },
-    {
-      "text": "periodo acad\u00e9mico",
-      "relevance": 0.559535,
-      "count": 1
-    },
-    {
-      "text": "asignaci\u00e9n de trabajo anual",
-      "relevance": 0.543995,
-      "count": 1
-    },
-    {
-      "text": "concepcidn integral del desarrollo",
-      "relevance": 0.543921,
-      "count": 1
-    },
-    {
-      "text": "tipos de programas de trabajo",
-      "relevance": 0.539618,
-      "count": 1
-    },
-    {
-      "text": "tiempo total",
-      "relevance": 0.537837,
+      "text": "formulacion de politicas",
+      "relevance": 0.559932,
       "count": 2
     },
     {
-      "text": "distribucidn de las actividades de los profesores",
-      "relevance": 0.536176,
+      "text": "sesiones extraordinarias",
+      "relevance": 0.558527,
       "count": 1
     },
     {
-      "text": "asignaci\u00e9n acad\u00e9mica de un profesor",
-      "relevance": 0.535929,
+      "text": "secretaria t\u00e9cnica de la comisidn",
+      "relevance": 0.558054,
       "count": 1
     },
     {
-      "text": "proyectos de investigacidn",
-      "relevance": 0.535853,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.557672,
+      "count": 1
+    },
+    {
+      "text": "sesiones ordinarias",
+      "relevance": 0.557449,
+      "count": 1
+    },
+    {
+      "text": "principal funcion",
+      "relevance": 0.545707,
+      "count": 1
+    },
+    {
+      "text": "direcci\u00e9n universitaria",
+      "relevance": 0.543837,
+      "count": 1
+    },
+    {
+      "text": "vicerrector administrativo",
+      "relevance": 0.54317,
+      "count": 1
+    },
+    {
+      "text": "sindicato nacional de trabajadores",
+      "relevance": 0.540887,
+      "count": 1
+    },
+    {
+      "text": "direcci6n universitaria",
+      "relevance": 0.539155,
+      "count": 1
+    },
+    {
+      "text": "representante principal de los profesores",
+      "relevance": 0.534704,
+      "count": 1
+    },
+    {
+      "text": "comisi\u00e9n de asuntos",
+      "relevance": 0.525462,
+      "count": 5
+    },
+    {
+      "text": "manera extraordinaria",
+      "relevance": 0.524884,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.518497,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedici6n",
+      "relevance": 0.517595,
+      "count": 1
+    },
+    {
+      "text": "mejoramiento de las condiciones de trabajo",
+      "relevance": 0.515829,
+      "count": 1
+    },
+    {
+      "text": "programas administrativos",
+      "relevance": 0.513244,
+      "count": 1
+    },
+    {
+      "text": "departamento del valle",
+      "relevance": 0.51237,
+      "count": 1
+    },
+    {
+      "text": "discusi6n",
+      "relevance": 0.511925,
+      "count": 1
+    },
+    {
+      "text": "proyecto de resolucion",
+      "relevance": 0.509949,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.509824,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.508718,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.508027,
+      "count": 1
+    },
+    {
+      "text": "seccional cali",
+      "relevance": 0.507813,
+      "count": 1
+    },
+    {
+      "text": "siguientes funcionarios",
+      "relevance": 0.50734,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.507324,
+      "count": 1
+    },
+    {
+      "text": "empleados publicos",
+      "relevance": 0.507258,
+      "count": 1
+    },
+    {
+      "text": "andalisis del presupuesto de la universidad",
+      "relevance": 0.505587,
+      "count": 1
+    },
+    {
+      "text": "caracter permanente",
+      "relevance": 0.503729,
+      "count": 1
+    },
+    {
+      "text": "informe semestral",
+      "relevance": 0.50188,
+      "count": 1
+    },
+    {
+      "text": "administraci\u00e9n de sus empleados",
+      "relevance": 0.501861,
+      "count": 1
+    },
+    {
+      "text": "planta de personal",
+      "relevance": 0.5017,
+      "count": 1
+    },
+    {
+      "text": "respectivo suplente",
+      "relevance": 0.499977,
+      "count": 1
+    },
+    {
+      "text": "marzo del afio",
+      "relevance": 0.499977,
+      "count": 1
+    },
+    {
+      "text": "manejo de las relaciones",
+      "relevance": 0.499839,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de abril",
+      "relevance": 0.498901,
+      "count": 1
+    },
+    {
+      "text": "comision de personal",
+      "relevance": 0.49864,
+      "count": 1
+    },
+    {
+      "text": "representante del sefior presidente de la republica",
+      "relevance": 0.498389,
+      "count": 1
+    },
+    {
+      "text": "escala salarial",
+      "relevance": 0.497115,
+      "count": 1
+    },
+    {
+      "text": "politicas generales",
+      "relevance": 0.496921,
+      "count": 1
+    },
+    {
+      "text": "trabajadores oficiales",
+      "relevance": 0.495898,
       "count": 2
     },
     {
-      "text": "desarrollo del trabajo colectivo",
-      "relevance": 0.53324,
+      "text": "presente resolucion",
+      "relevance": 0.495452,
       "count": 1
     },
     {
-      "text": "categoria de los profesores",
-      "relevance": 0.53269,
+      "text": "lopez pulecio",
+      "relevance": 0.494725,
       "count": 1
     },
     {
-      "text": "programas de cursos",
-      "relevance": 0.532405,
+      "text": "administrativos de la universidad",
+      "relevance": 0.493046,
       "count": 1
     },
     {
-      "text": "actividades",
-      "relevance": 0.531571,
-      "count": 15
-    },
-    {
-      "text": "calculo de horas",
-      "relevance": 0.53152,
+      "text": "desempefio laboral",
+      "relevance": 0.492271,
       "count": 1
-    },
-    {
-      "text": "multiplicador de docencia",
-      "relevance": 0.531298,
-      "count": 4
-    },
-    {
-      "text": "sede regional",
-      "relevance": 0.529992,
-      "count": 1
-    },
-    {
-      "text": "director del instituto acad\u00e9mico",
-      "relevance": 0.527855,
-      "count": 1
-    },
-    {
-      "text": "talleres de caracter especial.UNIVERSIDAD",
-      "relevance": 0.526706,
-      "count": 1
-    },
-    {
-      "text": "evaluacidn de la asignacidn acad\u00e9mica",
-      "relevance": 0.525331,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.524724,
-      "count": 3
-    },
-    {
-      "text": "consejo de facultad",
-      "relevance": 0.524643,
-      "count": 3
     }
   ]
 }

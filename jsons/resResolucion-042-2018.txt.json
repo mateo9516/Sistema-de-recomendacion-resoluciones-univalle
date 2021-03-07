@@ -8,153 +8,253 @@
   "keywords": [
     {
       "text": "derechos humanos",
-      "relevance": 0.729509,
+      "relevance": 0.699739,
       "count": 2
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.622816,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.639686,
       "count": 5
     },
     {
       "text": "literal g",
-      "relevance": 0.59415,
-      "count": 1
-    },
-    {
-      "text": "Programa de Educacion",
-      "relevance": 0.59317,
+      "relevance": 0.595363,
       "count": 1
     },
     {
       "text": "cultura de paz",
-      "relevance": 0.583578,
+      "relevance": 0.593208,
       "count": 3
     },
     {
-      "text": "Reparacion Integral de las Victimas",
-      "relevance": 0.573451,
+      "text": "programa de educacion",
+      "relevance": 0.584435,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.563294,
+      "text": "reparacion integral de las victimas",
+      "relevance": 0.577573,
       "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.569535,
+      "count": 1
+    },
+    {
+      "text": "poblacion desplazada",
+      "relevance": 0.554902,
+      "count": 1
+    },
+    {
+      "text": "comit\u00e9 operativo",
+      "relevance": 0.546674,
+      "count": 1
+    },
+    {
+      "text": "gobierno nacional",
+      "relevance": 0.546185,
+      "count": 2
     },
     {
       "text": "condici\u00e9n de excepcion",
-      "relevance": 0.552206,
+      "relevance": 0.545723,
       "count": 3
     },
     {
-      "text": "Poblacion Desplazada",
-      "relevance": 0.552171,
+      "text": "promocidn de espacios acad\u00e9micos",
+      "relevance": 0.5446,
       "count": 1
     },
     {
-      "text": "Gobierno Nacional",
-      "relevance": 0.547896,
-      "count": 2
-    },
-    {
-      "text": "Comit\u00e9 Operativo",
-      "relevance": 0.544663,
+      "text": "programa institucional de paz",
+      "relevance": 0.541944,
       "count": 1
-    },
-    {
-      "text": "Programa Institucional de Paz",
-      "relevance": 0.541734,
-      "count": 1
-    },
-    {
-      "text": "Fotografia reciente",
-      "relevance": 0.540893,
-      "count": 2
     },
     {
       "text": "literal i",
-      "relevance": 0.537892,
+      "relevance": 0.538597,
       "count": 2
     },
     {
-      "text": "promocidn de espacios acad\u00e9micos",
-      "relevance": 0.534884,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.534101,
-      "count": 1
-    },
-    {
-      "text": "Acuerdo No",
-      "relevance": 0.531819,
+      "text": "consejo superior",
+      "relevance": 0.535926,
       "count": 1
     },
     {
       "text": "construcci\u00e9n de la paz",
-      "relevance": 0.531446,
-      "count": 1
-    },
-    {
-      "text": "Defensa Nacional",
-      "relevance": 0.530506,
+      "relevance": 0.53549,
       "count": 1
     },
     {
       "text": "mejoramiento de competencias acad\u00e9micas",
-      "relevance": 0.527966,
+      "relevance": 0.53169,
       "count": 1
     },
     {
-      "text": "propositos del programa",
-      "relevance": 0.52759,
-      "count": 1
-    },
-    {
-      "text": "reuniones de la Rectoria",
-      "relevance": 0.527357,
+      "text": "defensa nacional",
+      "relevance": 0.529187,
       "count": 1
     },
     {
       "text": "respecto de la dejacion de armas",
-      "relevance": 0.527347,
+      "relevance": 0.528702,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la rectoria",
+      "relevance": 0.527123,
       "count": 1
     },
     {
       "text": "oportunidades de discriminaci6",
-      "relevance": 0.524027,
-      "count": 1
-    },
-    {
-      "text": "DOCUMENTO ORIGINAL",
-      "relevance": 0.522037,
+      "relevance": 0.526492,
       "count": 1
     },
     {
       "text": "transformacion social",
-      "relevance": 0.522008,
+      "relevance": 0.524166,
       "count": 1
     },
     {
-      "text": "Oficina del Alto",
-      "relevance": 0.520869,
+      "text": "propositos del programa",
+      "relevance": 0.523549,
       "count": 1
     },
     {
       "text": "excombatientes de los grupos",
-      "relevance": 0.519364,
+      "relevance": 0.521563,
       "count": 1
     },
     {
       "text": "dias de abril",
-      "relevance": 0.518177,
+      "relevance": 0.521449,
+      "count": 1
+    },
+    {
+      "text": "documento original",
+      "relevance": 0.520148,
       "count": 1
     },
     {
       "text": "informacion presentada",
-      "relevance": 0.518083,
+      "relevance": 0.520087,
       "count": 1
+    },
+    {
+      "text": "paz",
+      "relevance": 0.519991,
+      "count": 4
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.517289,
+      "count": 2
+    },
+    {
+      "text": "compromiso de la universidad",
+      "relevance": 0.516591,
+      "count": 1
+    },
+    {
+      "text": "sola vez",
+      "relevance": 0.516436,
+      "count": 1
+    },
+    {
+      "text": "paz de la presidencia de la republica",
+      "relevance": 0.515674,
+      "count": 1
+    },
+    {
+      "text": "vida civil",
+      "relevance": 0.515397,
+      "count": 1
+    },
+    {
+      "text": "uso de sus atribuciones",
+      "relevance": 0.514753,
+      "count": 1
+    },
+    {
+      "text": "area de admisiones",
+      "relevance": 0.514106,
+      "count": 1
+    },
+    {
+      "text": "rectoria de la universidad del valle",
+      "relevance": 0.512631,
+      "count": 1
+    },
+    {
+      "text": "direccion de extension",
+      "relevance": 0.512495,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9micos de formacion",
+      "relevance": 0.512427,
+      "count": 1
+    },
+    {
+      "text": "excombatientes de los grupos armados",
+      "relevance": 0.511452,
+      "count": 1
+    },
+    {
+      "text": "oportunidades de acceso",
+      "relevance": 0.510775,
+      "count": 1
+    },
+    {
+      "text": "plan de paz del gobierno",
+      "relevance": 0.510341,
+      "count": 1
+    },
+    {
+      "text": "proyecto institucional",
+      "relevance": 0.510159,
+      "count": 1
+    },
+    {
+      "text": "fecha de expedici6n",
+      "relevance": 0.509524,
+      "count": 1
+    },
+    {
+      "text": "lineamientos estrat\u00e9gicos",
+      "relevance": 0.508968,
+      "count": 1
+    },
+    {
+      "text": "competencias sociales",
+      "relevance": 0.50768,
+      "count": 1
+    },
+    {
+      "text": "acuerdos de paz",
+      "relevance": 0.507652,
+      "count": 1
+    },
+    {
+      "text": "actividades misionales de formacion",
+      "relevance": 0.506039,
+      "count": 1
+    },
+    {
+      "text": "programas acad\u00e9mico de la universidad",
+      "relevance": 0.505609,
+      "count": 1
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.505479,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.505024,
+      "count": 8
     }
   ]
 }

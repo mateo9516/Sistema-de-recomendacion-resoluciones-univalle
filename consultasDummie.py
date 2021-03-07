@@ -24,8 +24,8 @@ import plotly.offline as py
 import plotly.graph_objs as go
 from IPython import get_ipython
 
-model = Word2Vec.load("word2vec.model")
-#model = Word2Vec.load("fastText.model")
+#model = Word2Vec.load("word2vec.model")
+model = Word2Vec.load("C:/Users/Mateo/Documents/OCR/modelosAutogenerados/W2VCbow/seleccionados/word2vec255.model")
 #print(len(model.wv.vocab))
 
 #model.build_vocab([["beneficios","admision","afro"]], update=True)
@@ -49,40 +49,47 @@ for x in consulta:
     if x in model.wv.vocab:
         entrada.append(x)
 
-top = model.wv.most_similar(entrada,topn=30)
+try:
+        
+    top = model.wv.most_similar(entrada,topn=30)
 
-lista_terminos = []
-lista_valores = []
-#print(top)
+    lista_terminos = []
+    lista_valores = []
+    #print(top)
 
-for palabra, valor in top:
-    lista_terminos.append(palabra)
-    lista_valores.append(valor)
+    for palabra, valor in top:
+        lista_terminos.append(palabra)
+        lista_valores.append(valor)
 
-#print(lista_terminos)
+    #print(lista_terminos)
 
-matriz = []
-with open('./Categorias.txt', 'rt',encoding='utf-8') as f:
-    lineas = f.readlines()
-    for linea in lineas:
-        linea = linea.split('*')
-        matriz.append(linea)
+    matriz = []
+    with open('./Categorias.txt', 'rt',encoding='utf-8') as f:
+        lineas = f.readlines()
+        for linea in lineas:
+            linea = linea.split('*')
+            matriz.append(linea)
 
-aux=[]
-resoluciones = []
-valores =[]
+    aux=[]
+    resoluciones = []
+    valores =[]
 
 
-for i in range(len(lista_terminos)):
     for a,b in matriz:
         aux=re.split(' |,',b)
-        if lista_terminos[i] in aux:
-            elemento = matriz.index([a,b])
-            resoluciones.append(elemento)
-            valores.append(lista_valores[i])
+        for i in range(len(lista_terminos)):
+            if lista_terminos[i] in aux:
+                elemento = matriz.index([a,b])
+                if elemento not in resoluciones:
+                    resoluciones.append(elemento)
+                    valores.append(lista_valores[i])
 
-
-
-print('puede consultar las resoluciones: ')
-for i in range(len(resoluciones)):
-    print(matriz[resoluciones[i]][0]," /// ",valores[i])
+    print(resoluciones)
+    
+    print('puede consultar las resoluciones: ')
+    for i in range(len(resoluciones)):
+        if valores[i] > 0.87:
+            print(matriz[resoluciones[i]][0]," /// ",valores[i])
+        
+except:
+    print("No se encontraron resultados")

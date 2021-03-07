@@ -16,7 +16,7 @@ import xlsxwriter
 
 
 # este se ejecuta segundo
-
+diccionario = ["-","_","°",")","(","%","—","consejo", "academico", "universidad", "superior", "santiago de cali", "superior", "universidad","valle","resolucion","no","literal","paragrafo","reeoluciin"]
 entries = os.scandir('/Users/Mateo/Documents/OCR/corpus')
 #wr = open('/Users/Mateo/Documents/OCR/prueba.txt',"w", encoding='utf-8') 
 
@@ -29,6 +29,7 @@ for entry in entries:
             texto+=x        
 #wr.close()
 
+texto = texto.lower()
 texto = texto.replace("\n"," ")
 #texto =f.read()
 #texto = texto.replace(",","")
@@ -37,13 +38,9 @@ texto = texto.replace("ó","o")
 texto = texto.replace("á","a")
 texto = texto.replace("é","e")
 texto = texto.replace("í","i")
-texto = texto.replace("-","")
-texto = texto.replace("_","")
-texto = texto.replace("°","")
-texto = texto.replace(")","")
-texto = texto.replace("(","")
-texto = texto.replace("%","")
-texto = texto.replace("—","")
+
+for d in diccionario:
+    texto.replace(d,"")
 
 #Este se ejecuta de quuinto
 
@@ -63,7 +60,6 @@ def normalizar_texto(texto):
         
         retorna: texto modificado
     """
-    texto = texto.lower()
     #texto = re.sub("[-_ ;]"," ",texto)
     texto = re.sub("[0-9]","",texto)
     texto = re.sub("\b[a-zA-Z]\b","",texto)
@@ -92,9 +88,15 @@ for i in range(len(all_sentences)):
 print(len(all_sentences))
 
 all_words = [nltk.word_tokenize(sent) for sent in all_sentences]
+
+
+
 #all_words = [toktok.tokenize(sent) for sent in sent_tokenize(all_sentences, language='spanish')]
 #rint(all_words[0])
  # con esto separo todas las palabras de las supuestas oraciones
+ #### w2v #######
+
+"""
 idxModelo = 0
 excel = []
 for i in range(150,400,10):
@@ -105,13 +107,13 @@ for i in range(150,400,10):
             param.append(i)
             param.append(j)
             param.append(k)
-            model=Word2Vec(all_words, size=i, window = j, min_count=k, workers=7,sg=0)
-            model.save("word2vec"+str(idxModelo)+".model")
+            model=Word2Vec(all_words, size=i, window = j, min_count=k, workers=7,sg=1)
+            model.save("W2VSkipGram"+str(idxModelo)+".model")
             excel.append(param)
             idxModelo+=1
 
 
-workbook = xlsxwriter.Workbook('CbowW2v.xlsx')
+workbook = xlsxwriter.Workbook('w2vsg.xlsx')
 worksheet = workbook.add_worksheet()
 
 fila = 0 
@@ -125,17 +127,40 @@ for idxModelo,i,j,k in excel:
     fila +=1
 
 workbook.close()
-#model = Word2Vec(all_words, size=350, window = 7, min_count=5, workers=4,sg=0) # este es el modelo del word2vec
-#modelFT = FastText(all_words ,size=300, window = 8, min_count=5, workers=3)
+"""
 
-#model.save("word2vec67.model")
-#modelFT.save("FastText.model")
+####### Parametros estaticos para generacion de modelos fast Text######
 
-#vector = model.wv["afrocolombiano"]
+vec_size = [150,160,230,230,250,280,300,360]
+wind = [4,6,3,4,4,4,5,3]
+min_c = [7,9,5,7,7,9,9,5]
 
-#print(vector)
+idxModelo = 0
+excel = []
+for i in range(len(vec_size)):
+  
+    param =[]
+    param.append(idxModelo)
+    param.append(vec_size[i])
+    param.append(wind[i])
+    param.append(min_c[i])
+    model=FastText(all_words, size=vec_size[i], window = wind[i], min_count=min_c[i], workers=7,sg=1)
+    model.save("FTSG"+str(idxModelo)+".model")
+    excel.append(param)
+    idxModelo+=1
 
-#sim_words = model.wv.most_similar('afrocolombianas',topn=10)
 
-#for palabra,valor in sim_words:
-    #print(palabra,',',valor)
+workbook = xlsxwriter.Workbook('FTSG.xlsx')
+worksheet = workbook.add_worksheet()
+
+fila = 0 
+col = 0
+
+for idxModelo,i,j,k in excel:
+    worksheet.write(fila,col,idxModelo)
+    worksheet.write(fila,col+1,i)
+    worksheet.write(fila,col+2,j)
+    worksheet.write(fila,col+3,k)
+    fila +=1
+
+workbook.close()
