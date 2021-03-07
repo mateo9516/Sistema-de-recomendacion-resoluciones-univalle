@@ -1,159 +1,259 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 10045,
+    "text_units": 1,
+    "text_characters": 7100,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "umidades acad\u00e9micas",
-      "relevance": 0.633142,
-      "count": 1
+      "text": "docentes de la universidad del valle",
+      "relevance": 0.693207,
+      "count": 3
     },
     {
-      "text": "CONSEJO SUPERIOR",
-      "relevance": 0.580542,
+      "text": "cargos de empleados",
+      "relevance": 0.640016,
+      "count": 6
+    },
+    {
+      "text": "profesores contratistas",
+      "relevance": 0.616811,
       "count": 2
     },
     {
-      "text": "docentes nombrados",
-      "relevance": 0.574164,
-      "count": 1
+      "text": "consejo superior",
+      "relevance": 0.608895,
+      "count": 9
     },
     {
-      "text": "mantenimiento de las unidades acad\u00e9micas",
-      "relevance": 0.569102,
-      "count": 1
-    },
-    {
-      "text": "proyecto de investigacion",
-      "relevance": 0.563048,
-      "count": 1
-    },
-    {
-      "text": "servicios temporales",
-      "relevance": 0.563028,
-      "count": 1
-    },
-    {
-      "text": "actividades de docencia",
-      "relevance": 0.561643,
-      "count": 1
-    },
-    {
-      "text": "REST ae Homiticactonres",
-      "relevance": 0.556334,
-      "count": 1
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.555925,
+      "text": "oferta acad\u00e9mica de cursos",
+      "relevance": 0.592792,
       "count": 2
     },
     {
-      "text": "necesidades reales",
-      "relevance": 0.552778,
+      "text": "cupos vacantes",
+      "relevance": 0.575881,
+      "count": 2
+    },
+    {
+      "text": "desarrollo institucional",
+      "relevance": 0.552125,
+      "count": 2
+    },
+    {
+      "text": "normatividad vigente",
+      "relevance": 0.549547,
       "count": 1
     },
     {
-      "text": "personal docente",
-      "relevance": 0.543839,
+      "text": "profesores de carrera",
+      "relevance": 0.549136,
       "count": 1
     },
     {
-      "text": "En ningtin caso",
-      "relevance": 0.543253,
+      "text": "cupos de tce",
+      "relevance": 0.545266,
       "count": 1
     },
     {
-      "text": "Estatuto General de la Universidad",
-      "relevance": 0.538801,
+      "text": "acreditaci6n de programas",
+      "relevance": 0.545052,
       "count": 1
     },
     {
-      "text": "pago de salarios del personal",
-      "relevance": 0.536668,
+      "text": "visitas de pares acad\u00e9micos",
+      "relevance": 0.544701,
       "count": 1
     },
     {
-      "text": "beneficio acad\u00e9mico",
-      "relevance": 0.536062,
+      "text": "institutos acad\u00e9micos",
+      "relevance": 0.544234,
+      "count": 2
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.539301,
+      "count": 3
+    },
+    {
+      "text": "mismos criterios",
+      "relevance": 0.533261,
       "count": 1
     },
     {
-      "text": "funciones correspondientes",
-      "relevance": 0.532652,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.532966,
       "count": 1
     },
     {
-      "text": "servicios acad\u00e9micos",
-      "relevance": 0.530012,
+      "text": "ultimos afios",
+      "relevance": 0.530696,
+      "count": 2
+    },
+    {
+      "text": "acreditacion institucional",
+      "relevance": 0.529959,
       "count": 1
     },
     {
-      "text": "tel\u00e9fonos celulares",
-      "relevance": 0.529702,
+      "text": "programa de reemplazo de profesores",
+      "relevance": 0.529483,
       "count": 1
     },
     {
-      "text": "excedentes de los fondos especiales",
-      "relevance": 0.529061,
+      "text": "cuerpo docente",
+      "relevance": 0.528837,
       "count": 1
     },
     {
-      "text": "recursos propios",
-      "relevance": 0.526068,
+      "text": "planta de cargos de empleados",
+      "relevance": 0.527203,
+      "count": 4
+    },
+    {
+      "text": "unidades acad\u00e9micas",
+      "relevance": 0.526891,
+      "count": 2
+    },
+    {
+      "text": "presupuesto de servicios personales",
+      "relevance": 0.526447,
       "count": 1
     },
     {
-      "text": "previa evaluacion",
-      "relevance": 0.525818,
+      "text": "cupo adicional",
+      "relevance": 0.525564,
       "count": 1
     },
     {
-      "text": "normas tendientes",
-      "relevance": 0.525059,
+      "text": "modalidad de profesor ocasional",
+      "relevance": 0.524112,
       "count": 1
     },
     {
-      "text": "fecha mayo",
-      "relevance": 0.524458,
+      "text": "costos adicionales de acuerdo",
+      "relevance": 0.521293,
       "count": 1
     },
     {
-      "text": "tiempo maximo",
-      "relevance": 0.521155,
+      "text": "cronograma de ampliacion de la planta",
+      "relevance": 0.521013,
       "count": 1
     },
     {
-      "text": "DISPOSICIONES GENERALES",
-      "relevance": 0.520385,
+      "text": "necesidades de docencia",
+      "relevance": 0.520225,
       "count": 1
     },
     {
-      "text": "caso especial",
-      "relevance": 0.519603,
+      "text": "universidad",
+      "relevance": 0.519859,
+      "count": 7
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.519539,
       "count": 1
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.51959,
+      "text": "direccidn de planeacion",
+      "relevance": 0.518993,
       "count": 1
     },
     {
-      "text": "racionalizacion del gasto",
-      "relevance": 0.519065,
+      "text": "ampliaci\u00e9n de la planta",
+      "relevance": 0.518942,
       "count": 1
     },
     {
-      "text": "apoyo de la actividad acad\u00e9mica",
-      "relevance": 0.519057,
+      "text": "garantia de calidad de la formacidon",
+      "relevance": 0.518484,
       "count": 1
     },
     {
-      "text": "Programa Acad\u00e9mico",
-      "relevance": 0.518548,
+      "text": "nombramiento de profesores de carrera",
+      "relevance": 0.517979,
+      "count": 1
+    },
+    {
+      "text": "disponibilidad presupuestal",
+      "relevance": 0.517348,
+      "count": 2
+    },
+    {
+      "text": "divisi6n financiera",
+      "relevance": 0.517183,
+      "count": 1
+    },
+    {
+      "text": "planta actual",
+      "relevance": 0.516449,
+      "count": 1
+    },
+    {
+      "text": "deuda publica bancaria",
+      "relevance": 0.516332,
+      "count": 1
+    },
+    {
+      "text": "siguientes acciones",
+      "relevance": 0.51456,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.513581,
+      "count": 1
+    },
+    {
+      "text": "mes julio",
+      "relevance": 0.513549,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.513078,
+      "count": 1
+    },
+    {
+      "text": "misma cantidad",
+      "relevance": 0.512537,
+      "count": 1
+    },
+    {
+      "text": "horas de docencia directa",
+      "relevance": 0.512253,
+      "count": 1
+    },
+    {
+      "text": "sostenibilidad de la universidad",
+      "relevance": 0.511551,
+      "count": 2
+    },
+    {
+      "text": "situacion financiera",
+      "relevance": 0.511097,
+      "count": 1
+    },
+    {
+      "text": "relaci6n",
+      "relevance": 0.5109,
+      "count": 1
+    },
+    {
+      "text": "profesores hora",
+      "relevance": 0.509553,
+      "count": 1
+    },
+    {
+      "text": "porcentaje de sus ingresos",
+      "relevance": 0.509552,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad",
+      "relevance": 0.508576,
       "count": 1
     }
   ]

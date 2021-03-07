@@ -1,159 +1,189 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 2594,
+    "text_characters": 1503,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "programa Acad\u00e9mico de MAESTRIA",
-      "relevance": 0.750493,
-      "count": 1
-    },
-    {
-      "text": "RESOLUCION No",
-      "relevance": 0.707409,
-      "count": 3
-    },
-    {
-      "text": "presente resolucion",
-      "relevance": 0.68443,
-      "count": 1
-    },
-    {
-      "text": "Ingenieria de la Universidad del Valle",
-      "relevance": 0.598837,
-      "count": 1
-    },
-    {
-      "text": "Educacion Superior",
-      "relevance": 0.592594,
-      "count": 1
-    },
-    {
-      "text": "Maestria de Profundizaci6n",
-      "relevance": 0.585561,
-      "count": 1
-    },
-    {
-      "text": "atribuciones legales",
-      "relevance": 0.582177,
-      "count": 1
-    },
-    {
-      "text": "Ministerio de Educacion",
-      "relevance": 0.576629,
+      "text": "estudiantes especiales",
+      "relevance": 0.725581,
       "count": 2
     },
     {
-      "text": "alcance de los programas de Posgrado",
-      "relevance": 0.55814,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.55417,
+      "text": "consejo superior",
+      "relevance": 0.677901,
       "count": 2
     },
     {
-      "text": "modalidades de investigacion",
-      "relevance": 0.536265,
+      "text": "santiago de cali",
+      "relevance": 0.647827,
       "count": 1
     },
     {
-      "text": "jornada diurna",
-      "relevance": 0.526769,
+      "text": "escuela de musica de la facultad",
+      "relevance": 0.614607,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.526769,
+      "text": "salon de reuniones del despache",
+      "relevance": 0.586712,
       "count": 1
     },
     {
-      "text": "dias del mes de septiembre",
-      "relevance": 0.519861,
+      "text": "dias del mes de mayo",
+      "relevance": 0.577224,
       "count": 1
     },
     {
-      "text": "Facultad de Ingenieria",
-      "relevance": 0.510313,
+      "text": "uso de las atribuciones",
+      "relevance": 0.56942,
       "count": 1
     },
     {
-      "text": "Resoluci\u00e9n No",
-      "relevance": 0.510094,
+      "text": "distribucion de unos ingresos provenientes",
+      "relevance": 0.542813,
+      "count": 1
+    },
+    {
+      "text": "division de admisiones",
+      "relevance": 0.525971,
+      "count": 1
+    },
+    {
+      "text": "artes integradas",
+      "relevance": 0.519587,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519013,
+      "count": 1
+    },
+    {
+      "text": "escuela de musica",
+      "relevance": 0.512267,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.508217,
+      "count": 1
+    },
+    {
+      "text": "vicerrectoria acad\u00e9mica",
+      "relevance": 0.504837,
       "count": 2
     },
     {
-      "text": "Programa de Maestria",
-      "relevance": 0.509511,
+      "text": "facultad de artes integradas",
+      "relevance": 0.500555,
       "count": 1
     },
     {
-      "text": "INGENIERIA",
-      "relevance": 0.505041,
-      "count": 7
-    },
-    {
-      "text": "Salon de la Torre Institucional",
-      "relevance": 0.497681,
+      "text": "secretario general",
+      "relevance": 0.496892,
       "count": 1
     },
     {
-      "text": "fecha de su expedicion",
-      "relevance": 0.496419,
+      "text": "registro acad\u00e9mico",
+      "relevance": 0.492968,
+      "count": 2
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.48963,
       "count": 1
     },
     {
-      "text": "acta de grado.UNIVERSIDAD",
-      "relevance": 0.488673,
+      "text": "valle del cauca",
+      "relevance": 0.48963,
       "count": 1
     },
     {
-      "text": "modalidades",
-      "relevance": 0.48797,
+      "text": "dineros",
+      "relevance": 0.488744,
       "count": 1
     },
     {
-      "text": "areas de \u00e9nfasis",
-      "relevance": 0.484186,
-      "count": 4
+      "text": "categoria",
+      "relevance": 0.461721,
+      "count": 2
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.484186,
+      "text": "facultad",
+      "relevance": 0.459382,
       "count": 1
     },
     {
-      "text": "servicio publico",
-      "relevance": 0.484186,
+      "text": "gobernador",
+      "relevance": 0.448818,
       "count": 1
     },
     {
-      "text": "literal b",
-      "relevance": 0.482767,
+      "text": "concepto",
+      "relevance": 0.447978,
       "count": 1
     },
     {
-      "text": "diferentes niveles",
-      "relevance": 0.482767,
+      "text": "musica",
+      "relevance": 0.446908,
       "count": 1
     },
     {
-      "text": "Decreto",
-      "relevance": 0.481475,
+      "text": "siguiente",
+      "relevance": 0.441191,
       "count": 1
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.47659,
+      "text": "universidad",
+      "relevance": 0.439053,
       "count": 1
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.47636,
+      "text": "unico",
+      "relevance": 0.43708,
+      "count": 1
+    },
+    {
+      "text": "departamento",
+      "relevance": 0.43708,
+      "count": 1
+    },
+    {
+      "text": "jaramillo",
+      "relevance": 0.43708,
+      "count": 1
+    },
+    {
+      "text": "oouniversidad",
+      "relevance": 0.436013,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "programa",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "curso",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "sentido",
+      "relevance": 0.432978,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.432978,
       "count": 1
     }
   ]

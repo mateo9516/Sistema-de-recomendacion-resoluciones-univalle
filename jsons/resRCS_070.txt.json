@@ -1,159 +1,259 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 11636,
+    "text_units": 1,
+    "text_characters": 3093,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "producto de los diferentes ajustes",
-      "relevance": 0.597712,
-      "count": 1
-    },
-    {
-      "text": "Planes de Fomento",
-      "relevance": 0.592135,
-      "count": 3
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.579221,
-      "count": 10
-    },
-    {
-      "text": "interrelaci\u00e9n de la estructura existente",
-      "relevance": 0.56606,
-      "count": 1
-    },
-    {
-      "text": "aulas inteligentes del edificio",
-      "relevance": 0.560652,
-      "count": 1
-    },
-    {
-      "text": "desarrollo institucionales",
-      "relevance": 0.559683,
-      "count": 1
-    },
-    {
-      "text": "recursos provenientes del Impuesto",
-      "relevance": 0.554365,
-      "count": 1
-    },
-    {
-      "text": "Junta de Contratacion",
-      "relevance": 0.553231,
-      "count": 1
-    },
-    {
-      "text": "nueva norma RETIE",
-      "relevance": 0.54653,
-      "count": 1
-    },
-    {
-      "text": "Gobierno Nacional",
-      "relevance": 0.534901,
-      "count": 3
-    },
-    {
-      "text": "comunidad universitaria de la Sede",
-      "relevance": 0.534592,
-      "count": 1
-    },
-    {
-      "text": "uso industrial",
-      "relevance": 0.533572,
-      "count": 1
-    },
-    {
-      "text": "Alvaro Carvajal Valencia",
-      "relevance": 0.530467,
-      "count": 1
-    },
-    {
-      "text": "condiciones de la infraestructura fisica",
-      "relevance": 0.529831,
-      "count": 1
-    },
-    {
-      "text": "proyectos",
-      "relevance": 0.529605,
+      "text": "consejo superior",
+      "relevance": 0.756784,
       "count": 4
     },
     {
-      "text": "t\u00e9rminos de elementos existentes",
-      "relevance": 0.529542,
-      "count": 1
-    },
-    {
-      "text": "cambios dificiles",
-      "relevance": 0.528,
-      "count": 1
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.527939,
-      "count": 6
-    },
-    {
-      "text": "inversion social",
-      "relevance": 0.527112,
-      "count": 1
-    },
-    {
-      "text": "marco de desarrollo del proyecto",
-      "relevance": 0.526508,
-      "count": 1
-    },
-    {
-      "text": "desarrollo profesoral",
-      "relevance": 0.525417,
-      "count": 1
-    },
-    {
-      "text": "estructura metalica",
-      "relevance": 0.524283,
-      "count": 1
-    },
-    {
-      "text": "especificaciones t\u00e9cnicas",
-      "relevance": 0.523412,
-      "count": 1
-    },
-    {
-      "text": "mayor cantidad de obras",
-      "relevance": 0.522981,
-      "count": 1
-    },
-    {
-      "text": "DOCUMENTO ORIGINAL",
-      "relevance": 0.521966,
-      "count": 1
-    },
-    {
-      "text": "mejoramiento de la calidad",
-      "relevance": 0.52194,
-      "count": 1
-    },
-    {
-      "text": "norma t\u00e9cnica",
-      "relevance": 0.521718,
-      "count": 1
-    },
-    {
-      "text": "trav\u00e9s del Icetex",
-      "relevance": 0.520693,
+      "text": "pardgrafo del articulo",
+      "relevance": 0.717024,
       "count": 2
     },
     {
-      "text": "nuevos requerimientos",
-      "relevance": 0.519606,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.657225,
+      "count": 5
+    },
+    {
+      "text": "instituto acad\u00e9mico",
+      "relevance": 0.647282,
       "count": 1
     },
     {
-      "text": "fachada norte de la edificacion",
-      "relevance": 0.5187,
+      "text": "consejos de facultad",
+      "relevance": 0.640172,
+      "count": 2
+    },
+    {
+      "text": "acto administrativo",
+      "relevance": 0.619325,
+      "count": 1
+    },
+    {
+      "text": "doctorado honoris causa",
+      "relevance": 0.610881,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.594259,
+      "count": 1
+    },
+    {
+      "text": "uso de sus facultades legales",
+      "relevance": 0.590947,
+      "count": 1
+    },
+    {
+      "text": "honoris causa",
+      "relevance": 0.567302,
+      "count": 2
+    },
+    {
+      "text": "solicitudes expresas",
+      "relevance": 0.564266,
+      "count": 1
+    },
+    {
+      "text": "distinciones doctorado",
+      "relevance": 0.552911,
+      "count": 2
+    },
+    {
+      "text": "gobernadora del departamento del valle",
+      "relevance": 0.551055,
+      "count": 1
+    },
+    {
+      "text": "distinci6n doctorado",
+      "relevance": 0.546595,
+      "count": 1
+    },
+    {
+      "text": "profesor distinguido",
+      "relevance": 0.540597,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.537787,
+      "count": 1
+    },
+    {
+      "text": "honoris causa serdn",
+      "relevance": 0.522513,
+      "count": 1
+    },
+    {
+      "text": "entrega de la distincidn",
+      "relevance": 0.522183,
+      "count": 1
+    },
+    {
+      "text": "sal\u00e9n de reuniones del despacho",
+      "relevance": 0.508541,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.50727,
+      "count": 1
+    },
+    {
+      "text": "considerandos anteriores",
+      "relevance": 0.502162,
+      "count": 1
+    },
+    {
+      "text": "efem\u00e9rides de la universidad del valle",
+      "relevance": 0.498038,
+      "count": 1
+    },
+    {
+      "text": "pardgrafos de los articulos",
+      "relevance": 0.497896,
+      "count": 1
+    },
+    {
+      "text": "castillo gomez",
+      "relevance": 0.494947,
+      "count": 1
+    },
+    {
+      "text": "maximo",
+      "relevance": 0.493887,
+      "count": 2
+    },
+    {
+      "text": "junio dia",
+      "relevance": 0.493516,
+      "count": 1
+    },
+    {
+      "text": "modificaci\u00e9dn de la resoluci\u00e9dn",
+      "relevance": 0.493516,
+      "count": 1
+    },
+    {
+      "text": "dias del mes",
+      "relevance": 0.486157,
+      "count": 1
+    },
+    {
+      "text": "estilo",
+      "relevance": 0.481679,
+      "count": 1
+    },
+    {
+      "text": "solemne acto acad\u00e9mico de investidura",
+      "relevance": 0.47957,
+      "count": 1
+    },
+    {
+      "text": "diploma",
+      "relevance": 0.475047,
+      "count": 1
+    },
+    {
+      "text": "candidatos",
+      "relevance": 0.475041,
+      "count": 2
+    },
+    {
+      "text": "consejo",
+      "relevance": 0.474506,
+      "count": 3
+    },
+    {
+      "text": "presente",
+      "relevance": 0.468905,
+      "count": 1
+    },
+    {
+      "text": "aspectos",
+      "relevance": 0.466798,
+      "count": 1
+    },
+    {
+      "text": "aho",
+      "relevance": 0.465401,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.464743,
+      "count": 2
+    },
+    {
+      "text": "honoris causa serdn otorgadas",
+      "relevance": 0.464198,
+      "count": 1
+    },
+    {
+      "text": "investidura",
+      "relevance": 0.463135,
+      "count": 1
+    },
+    {
+      "text": "mds",
+      "relevance": 0.462667,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.461755,
+      "count": 4
+    },
+    {
+      "text": "criterios",
+      "relevance": 0.461599,
+      "count": 1
+    },
+    {
+      "text": "facultades",
+      "relevance": 0.461329,
+      "count": 1
+    },
+    {
+      "text": "institutos",
+      "relevance": 0.461226,
+      "count": 1
+    },
+    {
+      "text": "grado",
+      "relevance": 0.461146,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.461023,
+      "count": 2
+    },
+    {
+      "text": "sesidn",
+      "relevance": 0.460965,
+      "count": 1
+    },
+    {
+      "text": "cr\u00e9dito",
+      "relevance": 0.460523,
+      "count": 1
+    },
+    {
+      "text": "cauca",
+      "relevance": 0.460188,
+      "count": 1
+    },
+    {
+      "text": "citada",
+      "relevance": 0.459562,
       "count": 1
     }
   ]

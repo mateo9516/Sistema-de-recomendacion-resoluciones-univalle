@@ -7,154 +7,254 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Centros de Documentaci6n",
-      "relevance": 0.76205,
+      "text": "centros de documentaci6n",
+      "relevance": 0.76391,
       "count": 2
     },
     {
-      "text": "Centros de Documentacion",
-      "relevance": 0.679089,
+      "text": "centros de documentacion",
+      "relevance": 0.668982,
       "count": 2
     },
     {
-      "text": "Comit\u00e9 Central de Bibliotecas",
-      "relevance": 0.621191,
+      "text": "comit\u00e9 central de bibliotecas",
+      "relevance": 0.630577,
       "count": 1
     },
     {
-      "text": "Unidad Acad\u00e9mica",
-      "relevance": 0.604021,
+      "text": "unidad acad\u00e9mica",
+      "relevance": 0.59807,
       "count": 1
     },
     {
-      "text": "presente Resolucion",
-      "relevance": 0.588217,
-      "count": 1
-    },
-    {
-      "text": "Funcionamiento de los Centros de Documentacion",
-      "relevance": 0.584184,
+      "text": "presente resolucion",
+      "relevance": 0.594178,
       "count": 1
     },
     {
       "text": "plazo de un afio",
-      "relevance": 0.575554,
+      "relevance": 0.581674,
       "count": 1
     },
     {
-      "text": "Biblioteca Especializada",
-      "relevance": 0.56788,
+      "text": "funcionamiento de los centros de documentacion",
+      "relevance": 0.579808,
       "count": 1
     },
     {
-      "text": "Documentacion Salud Publica",
-      "relevance": 0.562104,
+      "text": "salud publica",
+      "relevance": 0.566188,
       "count": 1
     },
     {
       "text": "proceso continuo",
-      "relevance": 0.554814,
+      "relevance": 0.557867,
       "count": 1
     },
     {
       "text": "proceso de evaluacion",
-      "relevance": 0.549563,
+      "relevance": 0.555346,
       "count": 1
     },
     {
       "text": "importante funcion de apoyo",
-      "relevance": 0.54792,
+      "relevance": 0.553624,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.546186,
+      "text": "santiago de cali",
+      "relevance": 0.550122,
       "count": 1
     },
     {
-      "text": "Centros de Documentaci6",
-      "relevance": 0.542764,
+      "text": "biblioteca de matematicas",
+      "relevance": 0.545939,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.541205,
+      "text": "centros de documentaci6",
+      "relevance": 0.544011,
       "count": 1
     },
     {
-      "text": "Biblioteca de Matematicas",
-      "relevance": 0.540629,
-      "count": 1
-    },
-    {
-      "text": "Documentacion Cendoc Facultad",
-      "relevance": 0.531239,
+      "text": "consejo superior",
+      "relevance": 0.542538,
       "count": 1
     },
     {
       "text": "formas organizativas",
-      "relevance": 0.525458,
+      "relevance": 0.529936,
       "count": 1
     },
     {
       "text": "pendientes de un requisito",
-      "relevance": 0.523067,
+      "relevance": 0.527397,
       "count": 1
     },
     {
       "text": "ultimo plazo",
-      "relevance": 0.519781,
+      "relevance": 0.522753,
       "count": 1
     },
     {
-      "text": "Centro de Documentaci\u00e9n",
-      "relevance": 0.517584,
+      "text": "division de bibliotecas",
+      "relevance": 0.516781,
       "count": 1
     },
     {
-      "text": "Facultad de Ciencias Naturales",
-      "relevance": 0.516625,
+      "text": "sistema de bibliotecas",
+      "relevance": 0.513158,
       "count": 1
     },
     {
-      "text": "Division de Bibliotecas",
-      "relevance": 0.512996,
-      "count": 1
-    },
-    {
-      "text": "Documentacion Cinara Facultad",
-      "relevance": 0.512898,
-      "count": 1
-    },
-    {
-      "text": "Sistema de Bibliotecas",
-      "relevance": 0.509564,
+      "text": "centro de documentacion",
+      "relevance": 0.512301,
       "count": 1
     },
     {
       "text": "reglamentacion estipulada",
-      "relevance": 0.508554,
+      "relevance": 0.512091,
       "count": 1
     },
     {
-      "text": "Resolucion No",
-      "relevance": 0.507964,
+      "text": "facultad de ciencias naturales",
+      "relevance": 0.511206,
       "count": 1
     },
     {
-      "text": "salon del Consejo de la Facultad",
-      "relevance": 0.507486,
+      "text": "documentacion cendoc",
+      "relevance": 0.510466,
       "count": 1
     },
     {
-      "text": "funcionamiento de los Centros de Documentaci6n",
-      "relevance": 0.505384,
+      "text": "salon del consejo de la facultad",
+      "relevance": 0.509695,
       "count": 1
     },
     {
-      "text": "Nombre Adscrito",
-      "relevance": 0.504447,
+      "text": "alvaro lopez toro",
+      "relevance": 0.507634,
       "count": 1
+    },
+    {
+      "text": "funcionamiento de los centros de documentaci6n",
+      "relevance": 0.506536,
+      "count": 1
+    },
+    {
+      "text": "momento de aprobacion de la resolucion",
+      "relevance": 0.501554,
+      "count": 1
+    },
+    {
+      "text": "atribuciones legales",
+      "relevance": 0.500635,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.500635,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de febrero",
+      "relevance": 0.499817,
+      "count": 1
+    },
+    {
+      "text": "departamento de matematicas",
+      "relevance": 0.498181,
+      "count": 1
+    },
+    {
+      "text": "documentacion de la escuela",
+      "relevance": 0.498043,
+      "count": 1
+    },
+    {
+      "text": "documentacion cisalva",
+      "relevance": 0.497789,
+      "count": 1
+    },
+    {
+      "text": "nueva evaluacion",
+      "relevance": 0.49699,
+      "count": 1
+    },
+    {
+      "text": "documentacion rehabilitaci6",
+      "relevance": 0.496239,
+      "count": 1
+    },
+    {
+      "text": "documento marco",
+      "relevance": 0.496014,
+      "count": 2
+    },
+    {
+      "text": "expedicion",
+      "relevance": 0.495917,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.491259,
+      "count": 1
+    },
+    {
+      "text": "expedici6on",
+      "relevance": 0.490589,
+      "count": 1
+    },
+    {
+      "text": "labor investigativa",
+      "relevance": 0.490589,
+      "count": 1
+    },
+    {
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.489147,
+      "count": 1
+    },
+    {
+      "text": "documentacion existente",
+      "relevance": 0.488875,
+      "count": 1
+    },
+    {
+      "text": "fecha",
+      "relevance": 0.488214,
+      "count": 2
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.485311,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.481227,
+      "count": 2
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.480385,
+      "count": 2
+    },
+    {
+      "text": "facultad",
+      "relevance": 0.479911,
+      "count": 7
+    },
+    {
+      "text": "consejo acad\u00e9mico de la universidad del valle expidio",
+      "relevance": 0.479216,
+      "count": 1
+    },
+    {
+      "text": "ratificacion",
+      "relevance": 0.478686,
+      "count": 3
     }
   ]
 }

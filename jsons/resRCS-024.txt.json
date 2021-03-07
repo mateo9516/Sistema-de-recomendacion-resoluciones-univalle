@@ -1,159 +1,124 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 3919,
+    "text_characters": 832,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "larga trayectoria",
-      "relevance": 0.65266,
+      "text": "representante del sector productivo",
+      "relevance": 0.76291,
       "count": 1
     },
     {
-      "text": "responsabilidad social empresarial",
-      "relevance": 0.597393,
+      "text": "senor gobernador",
+      "relevance": 0.751477,
       "count": 1
     },
     {
-      "text": "Comision evaluadora",
-      "relevance": 0.570522,
+      "text": "consejo superior",
+      "relevance": 0.713169,
       "count": 1
     },
     {
-      "text": "sesion del dia",
-      "relevance": 0.566519,
+      "text": "uso de las atribuciones",
+      "relevance": 0.657345,
       "count": 1
     },
     {
-      "text": "frente del Grupo Carvajal",
-      "relevance": 0.562435,
+      "text": "santiago de cali",
+      "relevance": 0.621057,
       "count": 1
     },
     {
-      "text": "importantes organismos nacionales",
-      "relevance": 0.560085,
+      "text": "dia del mes de junio",
+      "relevance": 0.565832,
       "count": 1
     },
     {
-      "text": "empresas de familia",
-      "relevance": 0.558496,
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.543985,
       "count": 1
     },
     {
-      "text": "numerosos reconocimientos",
-      "relevance": 0.55786,
+      "text": "doctor alfredo",
+      "relevance": 0.526792,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.556651,
-      "count": 3
-    },
-    {
-      "text": "temas empresariales",
-      "relevance": 0.55431,
+      "text": "larreamendy joerns",
+      "relevance": 0.515257,
       "count": 1
     },
     {
-      "text": "serie de publicaciones",
-      "relevance": 0.551893,
+      "text": "representante del presidente",
+      "relevance": 0.481319,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.550497,
+      "text": "unico",
+      "relevance": 0.449254,
       "count": 1
     },
     {
-      "text": "Doctor ALFREDO CARVAJAL SINISTERRA",
-      "relevance": 0.550245,
-      "count": 4
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.429038,
+      "count": 2
     },
     {
-      "text": "modo importante",
-      "relevance": 0.549662,
+      "text": "fecha",
+      "relevance": 0.419539,
       "count": 1
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.5489,
+      "text": "representante",
+      "relevance": 0.418182,
       "count": 1
     },
     {
-      "text": "Centro de Convenciones del Pacifico",
-      "relevance": 0.543535,
+      "text": "universidad",
+      "relevance": 0.412588,
       "count": 1
     },
     {
-      "text": "uso de sus atribuciones",
-      "relevance": 0.538179,
+      "text": "periodo",
+      "relevance": 0.412106,
       "count": 1
     },
     {
-      "text": "largo de su carrera profesional",
-      "relevance": 0.537261,
+      "text": "junio",
+      "relevance": 0.411144,
       "count": 1
     },
     {
-      "text": "invitado permanente",
-      "relevance": 0.534047,
+      "text": "resolucion",
+      "relevance": 0.408261,
+      "count": 2
+    },
+    {
+      "text": "marzo",
+      "relevance": 0.408261,
       "count": 1
     },
     {
-      "text": "diversos sectores de los paises",
-      "relevance": 0.532351,
+      "text": "carvajal",
+      "relevance": 0.408261,
       "count": 1
     },
     {
-      "text": "sectores publico",
-      "relevance": 0.527489,
+      "text": "anos",
+      "relevance": 0.408261,
       "count": 1
     },
     {
-      "text": "ceremonia especial",
-      "relevance": 0.526379,
+      "text": "afo",
+      "relevance": 0.408261,
       "count": 1
     },
     {
-      "text": "contexto internacional",
-      "relevance": 0.525834,
-      "count": 1
-    },
-    {
-      "text": "solucion de problemas sociales",
-      "relevance": 0.5241,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.522584,
-      "count": 1
-    },
-    {
-      "text": "trayectoria de empresario",
-      "relevance": 0.519577,
-      "count": 1
-    },
-    {
-      "text": "Consejo de la Facultad de Ciencias",
-      "relevance": 0.516107,
-      "count": 1
-    },
-    {
-      "text": "Doctorado Honoris Causa",
-      "relevance": 0.514156,
-      "count": 1
-    },
-    {
-      "text": "modelo de gerencia exitoso",
-      "relevance": 0.512059,
-      "count": 1
-    },
-    {
-      "text": "trav\u00e9s de su gestion",
-      "relevance": 0.510918,
+      "text": "presidente",
+      "relevance": 0.408261,
       "count": 1
     }
   ]

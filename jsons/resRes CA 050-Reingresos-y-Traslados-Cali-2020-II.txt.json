@@ -8,153 +8,253 @@
   "keywords": [
     {
       "text": "programas acad\u00e9micos",
-      "relevance": 0.697932,
+      "relevance": 0.704046,
       "count": 1
     },
     {
-      "text": "Calendario Acad\u00e9mico",
-      "relevance": 0.644316,
+      "text": "primer semestre",
+      "relevance": 0.681715,
       "count": 1
     },
     {
-      "text": "Publicaci6n de resultados",
-      "relevance": 0.637031,
+      "text": "calendario acad\u00e9mico",
+      "relevance": 0.643526,
       "count": 1
     },
     {
-      "text": "procesos de  Reingreso",
-      "relevance": 0.617983,
+      "text": "documento original",
+      "relevance": 0.612511,
       "count": 1
     },
     {
-      "text": "DOCUMENTO ORIGINAL",
-      "relevance": 0.60843,
+      "text": "procesos de  reingreso",
+      "relevance": 0.609451,
       "count": 1
     },
     {
-      "text": "Programas de PREGRADO",
-      "relevance": 0.58211,
+      "text": "programas de pregrado",
+      "relevance": 0.582856,
       "count": 1
     },
     {
-      "text": "SEMESTRES SUPERIORES",
-      "relevance": 0.574684,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.572586,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.574977,
       "count": 2
+    },
+    {
+      "text": "directores de programa junio",
+      "relevance": 0.573233,
+      "count": 1
+    },
+    {
+      "text": "semestres superiores",
+      "relevance": 0.570897,
+      "count": 1
     },
     {
       "text": "segundo periodo acad\u00e9mico",
-      "relevance": 0.565263,
+      "relevance": 0.564681,
       "count": 1
     },
     {
-      "text": "solicitudes via",
-      "relevance": 0.563241,
+      "text": "siguiente calendario acad\u00e9mico",
+      "relevance": 0.555306,
+      "count": 1
+    },
+    {
+      "text": "6n de resultados",
+      "relevance": 0.553921,
       "count": 2
     },
     {
-      "text": "siguiente Calendario Acad\u00e9mico",
-      "relevance": 0.557427,
-      "count": 1
+      "text": "solicitudes via",
+      "relevance": 0.551012,
+      "count": 2
     },
     {
-      "text": "parte de los Entre",
-      "relevance": 0.549043,
-      "count": 1
-    },
-    {
-      "text": "Descarga de recibos",
-      "relevance": 0.548943,
+      "text": "proceso de reingreso",
+      "relevance": 0.547863,
       "count": 1
     },
     {
       "text": "fechas de reingreso",
-      "relevance": 0.530757,
+      "relevance": 0.525371,
       "count": 1
     },
     {
-      "text": "Sede CALI",
-      "relevance": 0.525972,
+      "text": "sede cali",
+      "relevance": 0.52463,
       "count": 2
     },
     {
-      "text": "SRA de las decisiones",
-      "relevance": 0.522687,
+      "text": "sra de las decisiones",
+      "relevance": 0.521216,
       "count": 2
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.519914,
+      "text": "jose echeverry",
+      "relevance": 0.521216,
       "count": 1
     },
     {
-      "text": "programa acad\u00e9mico de Medicina",
-      "relevance": 0.519434,
+      "text": "santiago de cali",
+      "relevance": 0.518335,
       "count": 1
     },
     {
-      "text": "parte de los Directores",
-      "relevance": 0.517417,
+      "text": "parte de los directores",
+      "relevance": 0.512197,
       "count": 2
-    },
-    {
-      "text": "REINGRESO",
-      "relevance": 0.51301,
-      "count": 5
     },
     {
       "text": "dias del mes de abril",
-      "relevance": 0.512995,
+      "relevance": 0.511144,
       "count": 1
     },
     {
-      "text": "pagina web del Area",
-      "relevance": 0.508628,
+      "text": "pagina web del area",
+      "relevance": 0.506606,
       "count": 2
     },
     {
-      "text": "PROCESO DE REINGRESO A PRIMER SEMESTRE",
-      "relevance": 0.501639,
+      "text": "reingreso",
+      "relevance": 0.50426,
+      "count": 5
+    },
+    {
+      "text": "directores de programa",
+      "relevance": 0.49974,
+      "count": 1
+    },
+    {
+      "text": "programa acad\u00e9mico de medicina",
+      "relevance": 0.497792,
       "count": 1
     },
     {
       "text": "procesos",
-      "relevance": 0.493789,
+      "relevance": 0.48921,
       "count": 1
     },
     {
-      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.479186,
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.47596,
       "count": 1
     },
     {
-      "text": "TRASLADO",
-      "relevance": 0.475999,
+      "text": "traslado",
+      "relevance": 0.472534,
       "count": 4
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.470861,
+      "text": "universidad del valle",
+      "relevance": 0.467381,
       "count": 1
     },
     {
       "text": "atribuciones",
-      "relevance": 0.470761,
+      "relevance": 0.467277,
       "count": 1
     },
     {
       "text": "equivalencias",
-      "relevance": 0.464777,
+      "relevance": 0.460446,
       "count": 1
     },
     {
-      "text": "Directores",
-      "relevance": 0.463588,
+      "text": "parte",
+      "relevance": 0.455081,
       "count": 2
+    },
+    {
+      "text": "semestres",
+      "relevance": 0.450824,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.448833,
+      "count": 2
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.447313,
+      "count": 1
+    },
+    {
+      "text": "web",
+      "relevance": 0.446977,
+      "count": 2
+    },
+    {
+      "text": "informacion",
+      "relevance": 0.446977,
+      "count": 2
+    },
+    {
+      "text": "pago",
+      "relevance": 0.446977,
+      "count": 1
+    },
+    {
+      "text": "recibos",
+      "relevance": 0.446817,
+      "count": 1
+    },
+    {
+      "text": "solicitudes",
+      "relevance": 0.446342,
+      "count": 2
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.445373,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.443769,
+      "count": 2
+    },
+    {
+      "text": "abril",
+      "relevance": 0.443769,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.443769,
+      "count": 1
+    },
+    {
+      "text": "mayo",
+      "relevance": 0.443769,
+      "count": 2
+    },
+    {
+      "text": "junio",
+      "relevance": 0.443769,
+      "count": 8
+    },
+    {
+      "text": "respectivas",
+      "relevance": 0.443769,
+      "count": 1
+    },
+    {
+      "text": "banco",
+      "relevance": 0.443769,
+      "count": 1
+    },
+    {
+      "text": "recargo",
+      "relevance": 0.443769,
+      "count": 1
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.443769,
+      "count": 1
     }
   ]
 }

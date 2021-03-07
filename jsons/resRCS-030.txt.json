@@ -1,159 +1,224 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 6437,
+    "text_characters": 2171,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "FACULTAD DE CIENCIAS NATURALES",
-      "relevance": 0.578557,
+      "text": "consejo directivo",
+      "relevance": 0.83424,
       "count": 3
     },
     {
-      "text": "Alberto Guzman Naranjo",
-      "relevance": 0.57728,
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.699562,
       "count": 1
     },
     {
-      "text": "Carlos Armando Rodriguez",
-      "relevance": 0.577134,
+      "text": "atribuciones legales",
+      "relevance": 0.694122,
       "count": 1
     },
     {
-      "text": "Profesor Distinguido",
-      "relevance": 0.574737,
+      "text": "direccion de autoevaluaci6n",
+      "relevance": 0.664436,
       "count": 1
     },
     {
-      "text": "Escuela de Ingenieria de Sistemas",
-      "relevance": 0.558437,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.552521,
+      "text": "titulo de especialista",
+      "relevance": 0.610341,
       "count": 3
     },
     {
-      "text": "Alfonso Toro Patino",
-      "relevance": 0.55033,
-      "count": 1
-    },
-    {
-      "text": "Efrain Solarte Rodriguez",
-      "relevance": 0.548711,
-      "count": 1
-    },
-    {
-      "text": "Profesor Honorario",
-      "relevance": 0.54818,
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.60422,
       "count": 2
     },
     {
-      "text": "FACULTAD DE ARTES INTEGRADAS",
-      "relevance": 0.547446,
+      "text": "calidad acad\u00e9mica",
+      "relevance": 0.587196,
+      "count": 1
+    },
+    {
+      "text": "medicina fisica",
+      "relevance": 0.587015,
+      "count": 5
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.583228,
+      "count": 1
+    },
+    {
+      "text": "planes de estudio",
+      "relevance": 0.574312,
+      "count": 1
+    },
+    {
+      "text": "medidas correctivas",
+      "relevance": 0.569872,
+      "count": 1
+    },
+    {
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.565609,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.557353,
+      "count": 1
+    },
+    {
+      "text": "programa especialidad",
+      "relevance": 0.528415,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.522763,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de julio",
+      "relevance": 0.505336,
+      "count": 1
+    },
+    {
+      "text": "cargo de la division de salud",
+      "relevance": 0.498019,
       "count": 2
     },
     {
-      "text": "Alejandro Gonzalez Puche",
-      "relevance": 0.542705,
+      "text": "estatuto general",
+      "relevance": 0.48644,
       "count": 1
     },
     {
-      "text": "Rodrigo Abonia Gonzalez",
-      "relevance": 0.533891,
+      "text": "solicitud de registro",
+      "relevance": 0.482526,
       "count": 1
     },
     {
-      "text": "Alberto Galvis Castafio",
-      "relevance": 0.53145,
+      "text": "planes de estudio de postgrado conducentes",
+      "relevance": 0.479315,
       "count": 1
     },
     {
-      "text": "Adolfo Le6",
-      "relevance": 0.531162,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.478897,
       "count": 1
     },
     {
-      "text": "Artes Visuales",
-      "relevance": 0.530915,
+      "text": "facultad de salud",
+      "relevance": 0.465196,
       "count": 1
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.530578,
+      "text": "salon de reuniones de la torre institucional",
+      "relevance": 0.450758,
       "count": 1
     },
     {
-      "text": "Consejo Superior de la Universidad",
-      "relevance": 0.530071,
+      "text": "diciembre",
+      "relevance": 0.45001,
       "count": 1
     },
     {
-      "text": "Profesor Titular del Departamento",
-      "relevance": 0.53001,
-      "count": 14
-    },
-    {
-      "text": "H\u00e9ctor Fabio Zuluaga",
-      "relevance": 0.529879,
+      "text": "instancias",
+      "relevance": 0.442086,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.527855,
-      "count": 8
-    },
-    {
-      "text": "ceremonia de celebracion del aniversario",
-      "relevance": 0.525889,
+      "text": "unico",
+      "relevance": 0.440504,
       "count": 1
     },
     {
-      "text": "Humberto Carvajal",
-      "relevance": 0.52507,
+      "text": "rehabilitacion",
+      "relevance": 0.44027,
+      "count": 5
+    },
+    {
+      "text": "resolvi6",
+      "relevance": 0.43945,
       "count": 1
     },
     {
-      "text": "Profesora Titular de la Escuela",
-      "relevance": 0.524347,
-      "count": 6
+      "text": "especialista",
+      "relevance": 0.438585,
+      "count": 1
     },
     {
-      "text": "candidatos",
-      "relevance": 0.522602,
+      "text": "curriculo",
+      "relevance": 0.438432,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.437603,
+      "count": 1
+    },
+    {
+      "text": "nombres",
+      "relevance": 0.436514,
+      "count": 1
+    },
+    {
+      "text": "resoluci6",
+      "relevance": 0.435758,
+      "count": 1
+    },
+    {
+      "text": "actualizaci6",
+      "relevance": 0.434417,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.434417,
+      "count": 1
+    },
+    {
+      "text": "julio",
+      "relevance": 0.433842,
+      "count": 4
+    },
+    {
+      "text": "uso",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "abril",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "promociones",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "resolucio\u00e9n",
+      "relevance": 0.433842,
+      "count": 1
+    },
+    {
+      "text": "especializacion",
+      "relevance": 0.433842,
       "count": 2
     },
     {
-      "text": "Artes Esc\u00e9nicas",
-      "relevance": 0.522089,
-      "count": 1
-    },
-    {
-      "text": "otorgamiento de las distinciones",
-      "relevance": 0.520514,
-      "count": 1
-    },
-    {
-      "text": "lista final de profesores",
-      "relevance": 0.518859,
-      "count": 1
-    },
-    {
-      "text": "Ingenieria Quimica",
-      "relevance": 0.517281,
-      "count": 1
-    },
-    {
-      "text": "distinciones acad\u00e9micas de Profesor Em\u00e9rito",
-      "relevance": 0.517019,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.516501,
+      "text": "presidente",
+      "relevance": 0.433842,
       "count": 1
     }
   ]

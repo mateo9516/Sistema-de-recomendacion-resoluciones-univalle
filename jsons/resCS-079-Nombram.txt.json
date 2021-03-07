@@ -8,153 +8,253 @@
   "keywords": [
     {
       "text": "nombramientos provisionales",
-      "relevance": 0.8447,
+      "relevance": 0.844317,
       "count": 2
     },
     {
       "text": "funcionarios vinculados",
-      "relevance": 0.78804,
+      "relevance": 0.787588,
       "count": 1
     },
     {
       "text": "nombramientos provisionales de los funcionarios",
-      "relevance": 0.727545,
+      "relevance": 0.727047,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.609484,
-      "count": 1
-    },
-    {
-      "text": "Cargos de Empleados Publicos",
-      "relevance": 0.599635,
+      "text": "consejo superior",
+      "relevance": 0.609423,
       "count": 1
     },
     {
       "text": "nombramiento provisional",
-      "relevance": 0.598318,
+      "relevance": 0.597795,
+      "count": 1
+    },
+    {
+      "text": "cargos de empleados",
+      "relevance": 0.578402,
       "count": 1
     },
     {
       "text": "actos administrativos",
-      "relevance": 0.563916,
+      "relevance": 0.56388,
       "count": 1
     },
     {
-      "text": "Febrero del ano",
-      "relevance": 0.563846,
+      "text": "febrero del ano",
+      "relevance": 0.563331,
       "count": 1
     },
     {
       "text": "vacantes existentes",
-      "relevance": 0.55288,
+      "relevance": 0.552368,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.53216,
+      "text": "santiago de cali",
+      "relevance": 0.531657,
       "count": 1
     },
     {
-      "text": "servicio de la Instituci\u00e9n",
-      "relevance": 0.531295,
+      "text": "servicio de la instituci\u00e9n",
+      "relevance": 0.530792,
       "count": 1
     },
     {
-      "text": "Docentes de la Universidad",
-      "relevance": 0.529422,
+      "text": "secretario generaluniversidad",
+      "relevance": 0.530624,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.529465,
+      "count": 1
+    },
+    {
+      "text": "docentes de la universidad",
+      "relevance": 0.528919,
       "count": 1
     },
     {
       "text": "concursos correspondientes",
-      "relevance": 0.529247,
+      "relevance": 0.528745,
+      "count": 1
+    },
+    {
+      "text": "servicio de la universidad del valle",
+      "relevance": 0.514559,
       "count": 1
     },
     {
       "text": "proceso de concursos internos",
-      "relevance": 0.513864,
+      "relevance": 0.513369,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.508463,
+      "count": 1
+    },
+    {
+      "text": "cargos de los empleados",
+      "relevance": 0.508161,
       "count": 1
     },
     {
       "text": "dias del mes de diciembre",
-      "relevance": 0.50801,
+      "relevance": 0.507519,
       "count": 1
     },
     {
-      "text": "servicio de la Universidad del Valle",
-      "relevance": 0.505072,
+      "text": "vacantes de la planta",
+      "relevance": 0.505715,
+      "count": 2
+    },
+    {
+      "text": "sal\u00e9n de reuniones del despacho",
+      "relevance": 0.499141,
       "count": 1
     },
     {
-      "text": "Sal\u00e9n de Reuniones del Despacho",
-      "relevance": 0.499628,
+      "text": "febrero del ario",
+      "relevance": 0.498154,
       "count": 1
     },
     {
-      "text": "Febrero del ario",
-      "relevance": 0.49864,
-      "count": 1
-    },
-    {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.498393,
+      "text": "manera definitiva",
+      "relevance": 0.497013,
       "count": 1
     },
     {
       "text": "fecha de su expedicion",
-      "relevance": 0.494467,
+      "relevance": 0.493983,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.492914,
+      "text": "estatuto general",
+      "relevance": 0.487321,
       "count": 1
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.487801,
-      "count": 1
-    },
-    {
-      "text": "Empleados Publicos",
-      "relevance": 0.480523,
+      "text": "lopez pulecio",
+      "relevance": 0.487321,
       "count": 2
     },
     {
-      "text": "Rector de la Universidad",
-      "relevance": 0.478562,
+      "text": "valle del cauca",
+      "relevance": 0.482156,
       "count": 1
     },
     {
-      "text": "Valle del Cauca",
-      "relevance": 0.478393,
+      "text": "secretario general",
+      "relevance": 0.482029,
       "count": 1
     },
     {
-      "text": "Resoluciones No",
-      "relevance": 0.475468,
+      "text": "rector de la universidad",
+      "relevance": 0.478088,
       "count": 1
     },
     {
-      "text": "Valle",
-      "relevance": 0.472231,
+      "text": "acuerdo",
+      "relevance": 0.465471,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.463666,
       "count": 2
     },
     {
-      "text": "Planta Unica de Cargos de los Empleados Publicos",
-      "relevance": 0.465959,
+      "text": "gobernador",
+      "relevance": 0.463207,
       "count": 1
     },
     {
-      "text": "Acuerdo",
-      "relevance": 0.465937,
-      "count": 1
-    },
-    {
-      "text": "Universidad",
-      "relevance": 0.46413,
+      "text": "planta",
+      "relevance": 0.462623,
       "count": 2
+    },
+    {
+      "text": "funcionarios",
+      "relevance": 0.462548,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.460936,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.455152,
+      "count": 1
+    },
+    {
+      "text": "vigencia",
+      "relevance": 0.45257,
+      "count": 1
+    },
+    {
+      "text": "planta de cargos definitiva de los empleados",
+      "relevance": 0.450733,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.448094,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.447069,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.446095,
+      "count": 1
+    },
+    {
+      "text": "periodo",
+      "relevance": 0.444873,
+      "count": 1
+    },
+    {
+      "text": "vacantes",
+      "relevance": 0.444688,
+      "count": 1
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.44447,
+      "count": 2
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.44447,
+      "count": 1
+    },
+    {
+      "text": "noviembre",
+      "relevance": 0.444239,
+      "count": 1
+    },
+    {
+      "text": "cargos",
+      "relevance": 0.444222,
+      "count": 2
+    },
+    {
+      "text": "empleados",
+      "relevance": 0.44415,
+      "count": 2
+    },
+    {
+      "text": "docentes",
+      "relevance": 0.443887,
+      "count": 4
     }
   ]
 }

@@ -7,153 +7,198 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.607117,
+      "text": "profesora sandra",
+      "relevance": 0.666553,
+      "count": 2
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.643403,
+      "count": 3
+    },
+    {
+      "text": "milena ramirez rivera",
+      "relevance": 0.635549,
+      "count": 1
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.606798,
+      "count": 1
+    },
+    {
+      "text": "universidad javeriana",
+      "relevance": 0.602008,
       "count": 1
     },
     {
       "text": "estimulos acad\u00e9micos",
-      "relevance": 0.603744,
+      "relevance": 0.598336,
       "count": 1
     },
     {
-      "text": "Universidad Javeriana",
-      "relevance": 0.599179,
+      "text": "profesora ramirez rivera",
+      "relevance": 0.565082,
       "count": 1
     },
     {
-      "text": "Consejo Superior No",
-      "relevance": 0.598356,
+      "text": "santiago de cali",
+      "relevance": 0.561978,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.583182,
-      "count": 2
-    },
-    {
-      "text": "profesora Ramirez Rivera",
-      "relevance": 0.571571,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.568567,
+      "text": "representante del presidente",
+      "relevance": 0.541108,
       "count": 1
     },
     {
       "text": "costo total",
-      "relevance": 0.54378,
+      "relevance": 0.536388,
+      "count": 1
+    },
+    {
+      "text": "ffinanciacion adicional de matricula",
+      "relevance": 0.525991,
       "count": 1
     },
     {
       "text": "dias del mes de junio",
-      "relevance": 0.532119,
+      "relevance": 0.524359,
       "count": 1
     },
     {
       "text": "segunda especialidad m\u00e9dica",
-      "relevance": 0.527055,
-      "count": 1
-    },
-    {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.526811,
+      "relevance": 0.519138,
       "count": 1
     },
     {
       "text": "carrera profesoral",
-      "relevance": 0.525241,
+      "relevance": 0.517269,
       "count": 1
     },
     {
-      "text": "sede Bogota",
-      "relevance": 0.520428,
+      "text": "milena ramirez",
+      "relevance": 0.516366,
       "count": 1
     },
     {
-      "text": "Salon de Reuniones",
-      "relevance": 0.517951,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.514452,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones",
+      "relevance": 0.509756,
       "count": 1
     },
     {
       "text": "tarifa maxima de financiaci6n",
-      "relevance": 0.51425,
+      "relevance": 0.505945,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.511856,
+      "text": "larreamendy joerns",
+      "relevance": 0.503478,
       "count": 1
     },
     {
       "text": "costo de la matricula",
-      "relevance": 0.507875,
+      "relevance": 0.499378,
       "count": 1
     },
     {
-      "text": "Profesora Sandra Milena Ramirez Rivera",
-      "relevance": 0.507761,
-      "count": 1
-    },
-    {
-      "text": "Universidad",
-      "relevance": 0.48223,
+      "text": "universidad",
+      "relevance": 0.473,
       "count": 3
     },
     {
       "text": "excepcion",
-      "relevance": 0.478369,
+      "relevance": 0.463685,
       "count": 2
     },
     {
-      "text": "Colombia",
-      "relevance": 0.471212,
-      "count": 1
-    },
-    {
       "text": "equidad",
-      "relevance": 0.469302,
+      "relevance": 0.461332,
       "count": 1
     },
     {
       "text": "afio",
-      "relevance": 0.469273,
+      "relevance": 0.459691,
       "count": 1
     },
     {
       "text": "estudios",
-      "relevance": 0.467368,
+      "relevance": 0.457736,
       "count": 2
     },
     {
       "text": "equivalente",
-      "relevance": 0.466982,
+      "relevance": 0.45734,
       "count": 1
     },
     {
       "text": "smmv",
-      "relevance": 0.464154,
+      "relevance": 0.454438,
       "count": 2
     },
     {
-      "text": "Resoluci\u00e9n",
-      "relevance": 0.463468,
+      "text": "sede",
+      "relevance": 0.44918,
       "count": 1
     },
     {
-      "text": "Presidente",
-      "relevance": 0.458065,
-      "count": 2
+      "text": "presidente",
+      "relevance": 0.448192,
+      "count": 1
     },
     {
       "text": "6n",
-      "relevance": 0.457579,
+      "relevance": 0.447693,
       "count": 1
     },
     {
-      "text": "Junio",
-      "relevance": 0.454942,
+      "text": "valle",
+      "relevance": 0.446591,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.44499,
+      "count": 1
+    },
+    {
+      "text": "junio",
+      "relevance": 0.44499,
+      "count": 1
+    },
+    {
+      "text": "desarrollo",
+      "relevance": 0.44499,
+      "count": 1
+    },
+    {
+      "text": "uso",
+      "relevance": 0.44499,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.44499,
+      "count": 1
+    },
+    {
+      "text": "determino",
+      "relevance": 0.44499,
+      "count": 1
+    },
+    {
+      "text": "duracion",
+      "relevance": 0.44499,
+      "count": 1
+    },
+    {
+      "text": "via",
+      "relevance": 0.44499,
       "count": 1
     }
   ]

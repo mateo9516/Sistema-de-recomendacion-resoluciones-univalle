@@ -77,6 +77,7 @@ for entry in entries:
         # usamos pytesseract para convertir la imagen a texto 
         text = str(((pytesseract.image_to_string(Image.open(filename))))) 
 
+        ### Eliminar esta linea para seguir jugando, con los mismos pdfs
         os.remove(filename)
     
         # The recognized text is stored in variable text 
@@ -95,5 +96,5 @@ for entry in entries:
 
     
     f.close()
-    os.remove(entry) 
+    #os.remove(entry) 
     

@@ -1,160 +1,263 @@
 {
   "usage": {
-    "text_units": 1,
-    "text_characters": 2233,
+    "text_units": 5,
+    "text_characters": 50000,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Programa Acad\u00e9mico MAESTRIA",
-      "relevance": 0.681779,
-      "count": 1
-    },
-    {
-      "text": "Facultad de Humanidades",
-      "relevance": 0.616154,
+      "text": "facultad de ciencias sociales",
+      "relevance": 0.864402,
       "count": 2
     },
     {
-      "text": "grupo de investigacion de la Facultad",
-      "relevance": 0.61545,
+      "text": "laboratorios de la facultad",
+      "relevance": 0.79168,
+      "count": 130
+    },
+    {
+      "text": "equipos de laboratorio",
+      "relevance": 0.686786,
       "count": 1
     },
     {
-      "text": "presente Resolucion",
-      "relevance": 0.601697,
-      "count": 1
+      "text": "ingenieria de laboratorio",
+      "relevance": 0.649267,
+      "count": 3
     },
     {
-      "text": "E INTERCULTURALES",
-      "relevance": 0.590579,
-      "count": 1
+      "text": "laboratorios",
+      "relevance": 0.61245,
+      "count": 4
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.583966,
-      "count": 1
-    },
-    {
-      "text": "uso de las atribuciones",
-      "relevance": 0.572866,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.571774,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.555046,
-      "count": 1
-    },
-    {
-      "text": "Programa Acad\u00e9mico de Maestria",
-      "relevance": 0.554544,
+      "text": "salud de laboratorio",
+      "relevance": 0.603209,
       "count": 2
     },
     {
-      "text": "dias del mes de septiembre",
-      "relevance": 0.547809,
+      "text": "aboratenes de ie faeuiog",
+      "relevance": 0.572528,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.545312,
+      "text": "isica de la universidad del s200",
+      "relevance": 0.554284,
       "count": 1
     },
     {
-      "text": "Estudios Interlingiiisticos",
-      "relevance": 0.54114,
+      "text": "equipos activos de la red",
+      "relevance": 0.550531,
       "count": 1
     },
     {
-      "text": "ESTUDIOS INTERLINGUISTICOS E",
-      "relevance": 0.534621,
+      "text": "ciencias naturales",
+      "relevance": 0.548054,
+      "count": 46
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.543819,
+      "count": 23
+    },
+    {
+      "text": "aboratorios de la facultad",
+      "relevance": 0.541492,
+      "count": 3
+    },
+    {
+      "text": "humanidades de laboratorio",
+      "relevance": 0.536949,
       "count": 1
     },
     {
-      "text": "creacion del mismo",
-      "relevance": 0.523697,
+      "text": "ingenieria s",
+      "relevance": 0.5322,
       "count": 1
     },
     {
-      "text": "Estudios Interlingtiisticos",
-      "relevance": 0.521065,
+      "text": "laboratorios de la facultad micropipeta",
+      "relevance": 0.531197,
       "count": 1
     },
     {
-      "text": "diferentes campos disciplinarios",
-      "relevance": 0.517719,
+      "text": "salud fisiologia humana",
+      "relevance": 0.530506,
       "count": 1
     },
     {
-      "text": "sdlida formacion",
-      "relevance": 0.515171,
+      "text": "laboratorios de la facultad fuente",
+      "relevance": 0.527502,
       "count": 1
     },
     {
-      "text": "recursos docentes",
-      "relevance": 0.512291,
+      "text": "asamblea departamental del valle",
+      "relevance": 0.526486,
       "count": 1
     },
     {
-      "text": "Estudios Interlinglisticos",
-      "relevance": 0.51048,
+      "text": "plan de inversiones",
+      "relevance": 0.526407,
+      "count": 2
+    },
+    {
+      "text": "sostenibilidad de la planta adecuaciones",
+      "relevance": 0.52425,
+      "count": 2
+    },
+    {
+      "text": "laboratorios de la facultad sistema",
+      "relevance": 0.523651,
       "count": 1
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.508279,
+      "text": "aboratorios de la facultad refrigerado",
+      "relevance": 0.522653,
       "count": 1
     },
     {
-      "text": "Estatuto General",
-      "relevance": 0.503517,
+      "text": "consejo superior",
+      "relevance": 0.522617,
+      "count": 31
+    },
+    {
+      "text": "cierre de la vigencia fiscal",
+      "relevance": 0.522191,
+      "count": 2
+    },
+    {
+      "text": "mantenimiento de la planta contrato",
+      "relevance": 0.520955,
       "count": 1
     },
     {
-      "text": "enfoque de la Maestria",
-      "relevance": 0.503217,
+      "text": "s120 de siemens",
+      "relevance": 0.519118,
       "count": 1
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.498015,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.518494,
+      "count": 2
+    },
+    {
+      "text": "laboratorios de la facultad instrumentos",
+      "relevance": 0.518332,
       "count": 1
     },
     {
-      "text": "Resolucio\u00e9n No",
-      "relevance": 0.495657,
+      "text": "recursos del balance",
+      "relevance": 0.518315,
+      "count": 3
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.516463,
+      "count": 2
+    },
+    {
+      "text": "biblioteca de la sede buga",
+      "relevance": 0.515943,
       "count": 1
     },
     {
-      "text": "ESTUDIOS",
-      "relevance": 0.485568,
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.514956,
       "count": 1
     },
     {
-      "text": "Profundizacion",
-      "relevance": 0.483023,
+      "text": "recaudo de la estampilla",
+      "relevance": 0.514485,
       "count": 1
     },
     {
-      "text": "amplia demanda de profesionales procedentes",
-      "relevance": 0.479363,
+      "text": "fecha posterior",
+      "relevance": 0.51411,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.513066,
+      "count": 13
+    },
+    {
+      "text": "isica de la universidad",
+      "relevance": 0.512551,
+      "count": 3
+    },
+    {
+      "text": "segundo semestre del afio",
+      "relevance": 0.511977,
       "count": 1
     },
     {
-      "text": "administrativos",
-      "relevance": 0.478138,
+      "text": "aboratorios de la facultad sbiema",
+      "relevance": 0.511214,
       "count": 1
     },
     {
-      "text": "Salon de Reuniones de la Torre Institucional",
-      "relevance": 0.474311,
+      "text": "sefior rector",
+      "relevance": 0.510774,
+      "count": 1
+    },
+    {
+      "text": "planta fisica",
+      "relevance": 0.510612,
+      "count": 2
+    },
+    {
+      "text": "figura de la vigencia futura",
+      "relevance": 0.510175,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.50987,
+      "count": 1
+    },
+    {
+      "text": "laboratorios de la facultad equipo de filiracion",
+      "relevance": 0.509766,
+      "count": 1
+    },
+    {
+      "text": "sostenibilidad de la planta interventoria",
+      "relevance": 0.509675,
+      "count": 1
+    },
+    {
+      "text": "ingenieria posicionamiento",
+      "relevance": 0.509558,
+      "count": 1
+    },
+    {
+      "text": "ciudad universitaria",
+      "relevance": 0.509027,
+      "count": 2
+    },
+    {
+      "text": "concepto de recaudo de la estampilla",
+      "relevance": 0.508974,
+      "count": 1
+    },
+    {
+      "text": "fuente de poder dc",
+      "relevance": 0.508967,
+      "count": 1
+    },
+    {
+      "text": "inicio de procesos contractuales",
+      "relevance": 0.508701,
+      "count": 1
+    },
+    {
+      "text": "s0",
+      "relevance": 0.508516,
       "count": 1
     }
+  ],
+  "warnings": [
+    "Text content exceeds 50000 character limit. Only first 50000 characters processed..."
   ]
 }

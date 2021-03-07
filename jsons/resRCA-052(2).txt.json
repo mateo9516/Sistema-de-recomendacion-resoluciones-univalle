@@ -7,153 +7,168 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Facultad de Salud",
-      "relevance": 0.707766,
+      "text": "facultad de salud",
+      "relevance": 0.730182,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.631104,
+      "text": "santiago de cali",
+      "relevance": 0.648446,
       "count": 1
     },
     {
-      "text": "Reglamento de Inscripci6n",
-      "relevance": 0.620855,
+      "text": "reglamento de inscripci6n",
+      "relevance": 0.603077,
+      "count": 1
+    },
+    {
+      "text": "saldn de reuniones del consejo",
+      "relevance": 0.571677,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de mayo",
+      "relevance": 0.557234,
       "count": 1
     },
     {
       "text": "aplicacid\u00e9n de los literales",
-      "relevance": 0.561749,
+      "relevance": 0.546654,
       "count": 1
     },
     {
-      "text": "saldn de reuniones del Consejo",
-      "relevance": 0.560615,
+      "text": "condiciones de excepcid\u00e9n",
+      "relevance": 0.543437,
       "count": 1
     },
     {
-      "text": "dias del mes de Mayo",
-      "relevance": 0.538,
+      "text": "lopez pulecio",
+      "relevance": 0.533697,
       "count": 1
     },
     {
-      "text": "Condiciones de Excepcid\u00e9n",
-      "relevance": 0.534901,
+      "text": "universidad del valle",
+      "relevance": 0.532551,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.531561,
+      "count": 1
+    },
+    {
+      "text": "parte de la universidad del valle",
+      "relevance": 0.527577,
       "count": 1
     },
     {
       "text": "literal f",
-      "relevance": 0.529813,
-      "count": 1
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.525009,
-      "count": 1
-    },
-    {
-      "text": "Resoluci\u00e9n No",
-      "relevance": 0.522455,
-      "count": 2
-    },
-    {
-      "text": "parte de la Universidad del Valle",
-      "relevance": 0.520494,
+      "relevance": 0.525124,
       "count": 1
     },
     {
       "text": "aplicacidn de los literales",
-      "relevance": 0.517599,
+      "relevance": 0.516618,
       "count": 1
     },
     {
-      "text": "Comunidades Indigenas",
-      "relevance": 0.517213,
+      "text": "consejo academico de la universidad del valle",
+      "relevance": 0.482237,
       "count": 1
     },
     {
       "text": "atribuciones",
-      "relevance": 0.482922,
+      "relevance": 0.477332,
       "count": 1
     },
     {
-      "text": "CONSEJO ACADEMICO DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.47938,
+      "text": "unico",
+      "relevance": 0.473165,
       "count": 1
     },
     {
-      "text": "UNICO",
-      "relevance": 0.475231,
+      "text": "estatuto general de la universidad del valle",
+      "relevance": 0.468239,
       "count": 1
     },
     {
-      "text": "Articulo",
-      "relevance": 0.47231,
-      "count": 3
-    },
-    {
-      "text": "Estatuto General de la Universidad del Valle",
-      "relevance": 0.466695,
-      "count": 1
-    },
-    {
-      "text": "Ley",
-      "relevance": 0.462632,
+      "text": "ley",
+      "relevance": 0.463757,
       "count": 1
     },
     {
       "text": "abril",
-      "relevance": 0.462259,
+      "relevance": 0.463346,
       "count": 1
     },
     {
       "text": "condiciones",
-      "relevance": 0.458275,
+      "relevance": 0.45895,
       "count": 1
     },
     {
-      "text": "Universidad",
-      "relevance": 0.455286,
+      "text": "universidad",
+      "relevance": 0.455653,
       "count": 1
     },
     {
       "text": "alos",
-      "relevance": 0.45484,
+      "relevance": 0.45516,
       "count": 1
     },
     {
-      "text": "Capitulo",
-      "relevance": 0.453312,
+      "text": "consejo",
+      "relevance": 0.449954,
       "count": 1
     },
     {
-      "text": "Consejo",
-      "relevance": 0.450121,
+      "text": "ramos",
+      "relevance": 0.449878,
       "count": 1
     },
     {
-      "text": "Admisi\u00e9n",
-      "relevance": 0.44785,
+      "text": "articulo",
+      "relevance": 0.448692,
+      "count": 2
+    },
+    {
+      "text": "comunidades",
+      "relevance": 0.447451,
       "count": 1
     },
     {
-      "text": "Mayo",
-      "relevance": 0.445651,
+      "text": "resolucion",
+      "relevance": 0.445026,
       "count": 1
     },
     {
-      "text": "Pregrado",
-      "relevance": 0.445651,
+      "text": "pregrado",
+      "relevance": 0.445026,
       "count": 1
     },
     {
       "text": "uso",
-      "relevance": 0.445651,
+      "relevance": 0.445026,
       "count": 1
     },
     {
       "text": "cumplimiento",
-      "relevance": 0.445651,
+      "relevance": 0.445026,
+      "count": 1
+    },
+    {
+      "text": "modificacion",
+      "relevance": 0.445026,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.445026,
+      "count": 1
+    },
+    {
+      "text": "rector",
+      "relevance": 0.445026,
       "count": 1
     }
   ]

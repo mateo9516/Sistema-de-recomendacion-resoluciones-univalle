@@ -1,160 +1,260 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 2873,
+    "text_characters": 3031,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Departamento de Disefo de la Facultad",
-      "relevance": 0.643692,
-      "count": 1
-    },
-    {
-      "text": "Artes Integradas",
-      "relevance": 0.636855,
+      "text": "denominacion del programa acad\u00e9mico",
+      "relevance": 0.778974,
       "count": 2
     },
     {
-      "text": "Universidad de Buenos Aires",
-      "relevance": 0.62632,
-      "count": 4
-    },
-    {
-      "text": "Comisi6n de Estudios",
-      "relevance": 0.625894,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.613424,
+      "text": "consejo superior",
+      "relevance": 0.671143,
       "count": 3
     },
     {
-      "text": "DOCUMENTO ORIGINAL",
-      "relevance": 0.577758,
+      "text": "programa acad\u00e9mico",
+      "relevance": 0.651571,
+      "count": 3
+    },
+    {
+      "text": "ciencias sociales",
+      "relevance": 0.638596,
+      "count": 9
+    },
+    {
+      "text": "consejo acad\u00e9mico",
+      "relevance": 0.637371,
+      "count": 3
+    },
+    {
+      "text": "resultados del proceso de autoevaluacion",
+      "relevance": 0.588831,
       "count": 1
     },
     {
-      "text": "uso de sus atribuciones",
-      "relevance": 0.56636,
+      "text": "ciudad de cali-valle",
+      "relevance": 0.572432,
       "count": 1
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.548308,
+      "text": "denominacion acorde",
+      "relevance": 0.567321,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.544496,
+      "text": "educacion basica",
+      "relevance": 0.558638,
+      "count": 6
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.552329,
       "count": 1
     },
     {
-      "text": "comision de estudios",
-      "relevance": 0.542844,
+      "text": "curriculo del programa acad\u00e9mico",
+      "relevance": 0.543887,
       "count": 1
     },
     {
-      "text": "profesor Miguel Alejandro Bohorquez Nates",
-      "relevance": 0.531975,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.541092,
+      "count": 1
+    },
+    {
+      "text": "saldn de reuniones de la gobernacion",
+      "relevance": 0.539351,
+      "count": 1
+    },
+    {
+      "text": "demandas del entorno local",
+      "relevance": 0.539216,
+      "count": 1
+    },
+    {
+      "text": "objetivo del programa acad\u00e9mico",
+      "relevance": 0.513683,
+      "count": 1
+    },
+    {
+      "text": "revision permanente de los curriculos",
+      "relevance": 0.510349,
+      "count": 1
+    },
+    {
+      "text": "literal b",
+      "relevance": 0.503267,
+      "count": 1
+    },
+    {
+      "text": "facultad de humanidades",
+      "relevance": 0.503267,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.502479,
       "count": 2
     },
     {
-      "text": "renovacion de una comision",
-      "relevance": 0.531566,
+      "text": "sesion de septiembre",
+      "relevance": 0.502321,
       "count": 1
     },
     {
-      "text": "Departamento de Disefio de la Facultad",
-      "relevance": 0.522283,
+      "text": "t\u00e9rminos de nuevos conocimientos",
+      "relevance": 0.499321,
       "count": 1
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.522145,
+      "text": "estatuto general",
+      "relevance": 0.49853,
       "count": 1
     },
     {
-      "text": "comisi\u00e9n de estudios",
-      "relevance": 0.516727,
+      "text": "reglamentacidn complementaria",
+      "relevance": 0.495256,
       "count": 1
     },
     {
-      "text": "Salon de Reuniones del Despacho",
-      "relevance": 0.514988,
+      "text": "castillo gomez",
+      "relevance": 0.495256,
       "count": 1
     },
     {
-      "text": "limites establecidos",
-      "relevance": 0.513703,
+      "text": "normativa existente",
+      "relevance": 0.493667,
       "count": 1
     },
     {
-      "text": "Facultad de Arquitectura Disefio",
-      "relevance": 0.512813,
+      "text": "dias del mes",
+      "relevance": 0.493667,
       "count": 1
     },
     {
-      "text": "estudios de Doctorado",
-      "relevance": 0.512652,
+      "text": "departamento del valle",
+      "relevance": 0.493627,
       "count": 1
     },
     {
-      "text": "segun Acta No",
-      "relevance": 0.50744,
+      "text": "ministerio de educacion nacional",
+      "relevance": 0.493102,
       "count": 1
     },
     {
-      "text": "periodo adicional",
-      "relevance": 0.507358,
+      "text": "secretario general",
+      "relevance": 0.4919,
       "count": 1
     },
     {
-      "text": "remuneraci6on",
-      "relevance": 0.504234,
+      "text": "acreditacion institucional del alta calidad",
+      "relevance": 0.48173,
       "count": 1
     },
     {
-      "text": "correo electr\u00e9nico",
-      "relevance": 0.504234,
+      "text": "mismas ofertas de las unidades acad\u00e9micas",
+      "relevance": 0.477144,
       "count": 1
     },
     {
-      "text": "Resoluci6n del Consejo Superior No",
-      "relevance": 0.499641,
+      "text": "resolvio",
+      "relevance": 0.476604,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.498,
+      "text": "necesidad",
+      "relevance": 0.475333,
       "count": 1
     },
     {
-      "text": "Universidad",
-      "relevance": 0.496235,
+      "text": "licenciatura",
+      "relevance": 0.47303,
+      "count": 11
+    },
+    {
+      "text": "solicitud de registro calificado del programa acad\u00e9mico",
+      "relevance": 0.472382,
+      "count": 1
+    },
+    {
+      "text": "cambio de denominacion del programa acad\u00e9mico",
+      "relevance": 0.471327,
+      "count": 1
+    },
+    {
+      "text": "educacion",
+      "relevance": 0.471162,
+      "count": 1
+    },
+    {
+      "text": "conformidad",
+      "relevance": 0.467984,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.465566,
+      "count": 1
+    },
+    {
+      "text": "enfasis",
+      "relevance": 0.465122,
+      "count": 7
+    },
+    {
+      "text": "unico",
+      "relevance": 0.465042,
+      "count": 1
+    },
+    {
+      "text": "octubre",
+      "relevance": 0.459218,
+      "count": 1
+    },
+    {
+      "text": "ley",
+      "relevance": 0.459097,
+      "count": 1
+    },
+    {
+      "text": "ministerio",
+      "relevance": 0.458795,
+      "count": 1
+    },
+    {
+      "text": "t\u00e9rmino",
+      "relevance": 0.457911,
+      "count": 1
+    },
+    {
+      "text": "resolucio\u00e9n",
+      "relevance": 0.45754,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.45642,
       "count": 2
     },
     {
-      "text": "dias de diciembre",
-      "relevance": 0.491125,
+      "text": "uso",
+      "relevance": 0.45558,
       "count": 1
     },
     {
-      "text": "Resoluci\u00e9n No",
-      "relevance": 0.490815,
-      "count": 2
-    },
-    {
-      "text": "estudios",
-      "relevance": 0.490265,
+      "text": "termino",
+      "relevance": 0.45558,
       "count": 1
     },
     {
-      "text": "Argentina",
-      "relevance": 0.490117,
-      "count": 4
+      "text": "noviembre",
+      "relevance": 0.45558,
+      "count": 1
     }
   ]
 }

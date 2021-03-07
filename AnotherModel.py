@@ -11,9 +11,15 @@ from nltk.tokenize import sent_tokenize
 import nltk.data
 from nltk.corpus import stopwords
 import tempfile
-
-# este se ejecuta segundo
 """
+################# HM 
+import seaborn as sns
+import matplotlib.pyplot as plt
+sns.set(style="white")
+import pandas as pd
+import numpy as np
+# este se ejecuta segundo
+
 entries = os.scandir('/Users/Mateo/Documents/OCR/corpus')
 #wr = open('/Users/Mateo/Documents/OCR/prueba.txt',"w", encoding='utf-8') 
 
@@ -87,18 +93,47 @@ print(len(all_sentences))
 all_words = [nltk.word_tokenize(sent) for sent in all_sentences]
 #all_words = [toktok.tokenize(sent) for sent in sent_tokenize(all_sentences, language='spanish')]
 #rint(all_words[0])
+### inicializo el modelo 
+model = Word2Vec(size=350, window = 7, min_count=5, workers=4,sg=0)
+
+model.build_vocab(all_words)
  # con esto separo todas las palabras de las supuestas oraciones
-model = Word2Vec(all_words, size=350, window = 7, min_count=5, workers=4,sg=0) # este es el modelo del word2vec
+model.train(all_words, epochs=20, total_examples=model.corpus_count) # este es el modelo del word2vec
 #modelFT = FastText(all_words ,size=300, window = 8, min_count=5, workers=3)
 
-model.save("word2vec67.model")
+
+model.save("word2vecHM.model")
 #modelFT.save("FastText.model")
+
+def draw_factors_heatmap(words):
+    #get words
+    topwords = np.array(model.wv.index2entity)
+    #get the ids of words we are interested in
+    ind = np.where(np.isin(topwords, words))[0]
+    #extract values from word2vec
+    data = pd.DataFrame(model.wv.vectors_norm[ind, :], 
+	                    index = topwords[ind],
+                        columns = list(range(10)))
+    #draw heatmap
+    sns.heatmap(data, 
+	            cmap = sns.diverging_palette(250, 10, s = 90, as_cmap = True),
+                vmax = data.values.max(), vmin = data.values.min(), 
+                square = True, linewidths = 2, cbar = False)
+    plt.yticks(rotation = 0)
+    plt.show()
+
+#mostrando 
+
+draw_factors_heatmap(['resolucion','academica','pregrado','regionales','matricula','derechos'])
 """
-#vector = model.wv["afrocolombiano"]
-model=Word2Vec.load("word2vec69.model")
-#print(vector)
 
-sim_words = model.wv.most_similar('rendimiento',topn=30)
+model = FastText.load("C:/Users/Mateo/Documents/OCR/modelosAutogenerados/FTCbow/FTCBoW0.model")
 
-for palabra,valor in sim_words:
-    print(palabra,',',valor)
+top = model.wv.most_similar(["calendario"],topn=30)
+for i in top:
+    print(i)
+
+##vector = model.wv["afrocolombiano"]
+##print(vector)
+
+

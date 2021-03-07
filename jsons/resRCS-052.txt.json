@@ -1,159 +1,259 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 6650,
+    "text_characters": 3990,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "actividades de los estudiantes",
-      "relevance": 0.689991,
+      "text": "vigencias futuras",
+      "relevance": 0.654571,
+      "count": 2
+    },
+    {
+      "text": "mediano plazo",
+      "relevance": 0.586767,
       "count": 1
     },
     {
-      "text": "estudiantes de pregrado",
-      "relevance": 0.630183,
+      "text": "disponibilidad presupuestal correspondiente",
+      "relevance": 0.575701,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.573729,
       "count": 3
     },
     {
-      "text": "reglamentacion del Programa de Semilleros",
-      "relevance": 0.62571,
-      "count": 1
-    },
-    {
-      "text": "trabajo de profesores",
-      "relevance": 0.600793,
-      "count": 1
-    },
-    {
-      "text": "trav\u00e9s de un programa",
-      "relevance": 0.587642,
-      "count": 1
-    },
-    {
-      "text": "eventos nacionales",
-      "relevance": 0.561107,
-      "count": 1
-    },
-    {
-      "text": "vinculaci6n de estudiantes",
-      "relevance": 0.559113,
-      "count": 1
-    },
-    {
-      "text": "vinculaci\u00e9n de los estudiantes de pregrado",
-      "relevance": 0.557799,
-      "count": 1
-    },
-    {
-      "text": "Universidad del Valle",
-      "relevance": 0.548064,
-      "count": 4
-    },
-    {
-      "text": "Estatuto de Investigaciones",
-      "relevance": 0.546049,
-      "count": 1
-    },
-    {
-      "text": "institutos de investigacion",
-      "relevance": 0.544273,
-      "count": 1
-    },
-    {
-      "text": "marco de proyectos",
-      "relevance": 0.542306,
-      "count": 1
-    },
-    {
-      "text": "trav\u00e9s de las siguientes opciones",
-      "relevance": 0.538205,
-      "count": 1
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.53459,
-      "count": 1
-    },
-    {
-      "text": "Consejo Superior",
-      "relevance": 0.534462,
-      "count": 5
-    },
-    {
-      "text": "Semilleros de Investigacion",
-      "relevance": 0.532486,
+      "text": "suministro de energia el\u00e9ctrica",
+      "relevance": 0.566196,
       "count": 2
     },
     {
-      "text": "Programa de Semilleros de Investigaci\u00e9n",
-      "relevance": 0.53043,
+      "text": "vigencia futura",
+      "relevance": 0.563807,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.561292,
+      "count": 1
+    },
+    {
+      "text": "vigencias de los anos",
+      "relevance": 0.557486,
       "count": 2
     },
     {
-      "text": "numero minimo",
-      "relevance": 0.529894,
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.553889,
       "count": 1
     },
     {
-      "text": "estudiantes de pregrado de la Universidad",
-      "relevance": 0.52885,
+      "text": "proceso de contratacion",
+      "relevance": 0.547008,
       "count": 1
     },
     {
-      "text": "siguientes requisitos",
-      "relevance": 0.527311,
-      "count": 1
-    },
-    {
-      "text": "trav\u00e9s de la incorporacion de la investigaci\u00e9n",
-      "relevance": 0.527143,
-      "count": 1
-    },
-    {
-      "text": "Comit\u00e9 Central de Investigaciones",
-      "relevance": 0.526343,
-      "count": 1
-    },
-    {
-      "text": "Vicerrectoria de Investigaciones",
-      "relevance": 0.524227,
+      "text": "consejo superior",
+      "relevance": 0.545959,
       "count": 2
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.523844,
+      "text": "contrataci6n",
+      "relevance": 0.543465,
       "count": 1
     },
     {
-      "text": "tutoria de un profesor de la Universidad",
-      "relevance": 0.522684,
+      "text": "ordenador del gasto",
+      "relevance": 0.543303,
       "count": 1
     },
     {
-      "text": "trav\u00e9s de proyectos",
-      "relevance": 0.51835,
+      "text": "educacion nacional",
+      "relevance": 0.543157,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.517285,
+      "text": "modalidad de usuario",
+      "relevance": 0.536834,
       "count": 1
     },
     {
-      "text": "Resoluci\u00e9n No",
-      "relevance": 0.516563,
+      "text": "prestacion del servicio",
+      "relevance": 0.536507,
+      "count": 1
+    },
+    {
+      "text": "orden departamental",
+      "relevance": 0.53594,
+      "count": 1
+    },
+    {
+      "text": "departamento valle del cauca",
+      "relevance": 0.535148,
+      "count": 1
+    },
+    {
+      "text": "sefior rector de la universidad",
+      "relevance": 0.529883,
+      "count": 1
+    },
+    {
+      "text": "estatuto general",
+      "relevance": 0.528093,
+      "count": 1
+    },
+    {
+      "text": "esquema de usuario",
+      "relevance": 0.525683,
+      "count": 1
+    },
+    {
+      "text": "gastos de funcionamiento de la universidad",
+      "relevance": 0.522872,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.52137,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.521153,
+      "count": 1
+    },
+    {
+      "text": "altos niveles de consumo",
+      "relevance": 0.51779,
+      "count": 1
+    },
+    {
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.515641,
       "count": 2
     },
     {
-      "text": "programa acad\u00e9mico",
-      "relevance": 0.516449,
+      "text": "tiempo de una partida",
+      "relevance": 0.515548,
       "count": 1
     },
     {
-      "text": "Asignaci\u00e9n de apoyo econdmico",
-      "relevance": 0.516382,
+      "text": "procesos de contrataci6",
+      "relevance": 0.515056,
+      "count": 1
+    },
+    {
+      "text": "consumidor de energia el\u00e9ctrica",
+      "relevance": 0.512445,
+      "count": 1
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.512288,
+      "count": 1
+    },
+    {
+      "text": "programas preventivos",
+      "relevance": 0.511935,
+      "count": 1
+    },
+    {
+      "text": "tarifas del suministro",
+      "relevance": 0.511344,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.510361,
+      "count": 2
+    },
+    {
+      "text": "vigencia imputacion",
+      "relevance": 0.508241,
+      "count": 1
+    },
+    {
+      "text": "ente universitario",
+      "relevance": 0.504327,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de diciembre",
+      "relevance": 0.504242,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones de la gobernacion",
+      "relevance": 0.503012,
+      "count": 1
+    },
+    {
+      "text": "valor total",
+      "relevance": 0.502225,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de gastos",
+      "relevance": 0.502009,
+      "count": 1
+    },
+    {
+      "text": "ejecucion de la obra",
+      "relevance": 0.500343,
+      "count": 1
+    },
+    {
+      "text": "fecha de su expedicion",
+      "relevance": 0.500136,
+      "count": 1
+    },
+    {
+      "text": "pago de los compromisos",
+      "relevance": 0.498718,
+      "count": 1
+    },
+    {
+      "text": "adquisici\u00e9n de energia el\u00e9ctrica",
+      "relevance": 0.497815,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.49642,
+      "count": 1
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.493708,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.493708,
+      "count": 1
+    },
+    {
+      "text": "periodo fiscal",
+      "relevance": 0.493708,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.493708,
+      "count": 1
+    },
+    {
+      "text": "precios razonables",
+      "relevance": 0.493708,
+      "count": 1
+    },
+    {
+      "text": "buenas de practicas",
+      "relevance": 0.493708,
       "count": 1
     }
   ]

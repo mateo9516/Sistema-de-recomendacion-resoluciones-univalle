@@ -1,160 +1,260 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 4739,
+    "text_characters": 3474,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Programa Acad\u00e9mico de Maestria",
-      "relevance": 0.735014,
-      "count": 1
-    },
-    {
-      "text": "Educacion Nacional",
-      "relevance": 0.654097,
+      "text": "lote guadalupe",
+      "relevance": 0.648744,
       "count": 2
     },
     {
-      "text": "numero de cr\u00e9ditos matriculados",
-      "relevance": 0.643624,
+      "text": "estatuto general",
+      "relevance": 0.605917,
       "count": 1
     },
     {
-      "text": "programas acad\u00e9micos de posgrado",
-      "relevance": 0.614629,
+      "text": "propiedad del suelo",
+      "relevance": 0.599803,
       "count": 1
     },
     {
-      "text": "cr\u00e9dito acad\u00e9mico",
-      "relevance": 0.569338,
+      "text": "oeste de la ciudad de cali",
+      "relevance": 0.587128,
       "count": 1
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.558622,
+      "text": "estatuto de contratacion de la universidad",
+      "relevance": 0.572669,
+      "count": 1
+    },
+    {
+      "text": "control de zoonosis",
+      "relevance": 0.566206,
+      "count": 1
+    },
+    {
+      "text": "salud municipal",
+      "relevance": 0.562735,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.560046,
+      "count": 5
+    },
+    {
+      "text": "lotes de terreno",
+      "relevance": 0.554565,
+      "count": 1
+    },
+    {
+      "text": "control animal del municipio",
+      "relevance": 0.553222,
+      "count": 1
+    },
+    {
+      "text": "liquidacion de la sociedad",
+      "relevance": 0.549562,
+      "count": 1
+    },
+    {
+      "text": "notaria cuarta de cali",
+      "relevance": 0.545715,
+      "count": 2
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.545585,
+      "count": 1
+    },
+    {
+      "text": "rector de la universidad del valle",
+      "relevance": 0.544108,
+      "count": 1
+    },
+    {
+      "text": "senor rector de la universidad",
+      "relevance": 0.54171,
+      "count": 1
+    },
+    {
+      "text": "municipio de santiago de cali",
+      "relevance": 0.541155,
+      "count": 1
+    },
+    {
+      "text": "siguientes casos",
+      "relevance": 0.537251,
+      "count": 1
+    },
+    {
+      "text": "venta del lote de terreno",
+      "relevance": 0.535005,
+      "count": 1
+    },
+    {
+      "text": "area de zoonosis",
+      "relevance": 0.532124,
+      "count": 1
+    },
+    {
+      "text": "siguientes propuestas",
+      "relevance": 0.530285,
+      "count": 1
+    },
+    {
+      "text": "realizacion de los procesos contractuales",
+      "relevance": 0.530141,
+      "count": 1
+    },
+    {
+      "text": "reuniones de la torre institucional",
+      "relevance": 0.530141,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.524394,
+      "count": 2
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519493,
+      "count": 1
+    },
+    {
+      "text": "parte de la secretaria",
+      "relevance": 0.518641,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle avanzaria",
+      "relevance": 0.515605,
+      "count": 1
+    },
+    {
+      "text": "estatuto de contratacion",
+      "relevance": 0.510829,
+      "count": 1
+    },
+    {
+      "text": "titulo bienes inmuebles",
+      "relevance": 0.509563,
+      "count": 1
+    },
+    {
+      "text": "sociedad urbanizadora",
+      "relevance": 0.508887,
+      "count": 1
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.508567,
+      "count": 4
+    },
+    {
+      "text": "representante del presidente",
+      "relevance": 0.50314,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.499828,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.499322,
+      "count": 1
+    },
+    {
+      "text": "atribuciones",
+      "relevance": 0.499058,
+      "count": 1
+    },
+    {
+      "text": "guadalupe ltda",
+      "relevance": 0.497076,
+      "count": 1
+    },
+    {
+      "text": "tramites necesarios",
+      "relevance": 0.496844,
+      "count": 1
+    },
+    {
+      "text": "dias de noviembre",
+      "relevance": 0.496045,
+      "count": 1
+    },
+    {
+      "text": "construcci6n",
+      "relevance": 0.495641,
+      "count": 1
+    },
+    {
+      "text": "matricula inmobiliaria",
+      "relevance": 0.495641,
+      "count": 1
+    },
+    {
+      "text": "negociacion",
+      "relevance": 0.482744,
+      "count": 1
+    },
+    {
+      "text": "lotes",
+      "relevance": 0.479805,
+      "count": 1
+    },
+    {
+      "text": "guillermo",
+      "relevance": 0.479484,
+      "count": 1
+    },
+    {
+      "text": "vigilancia",
+      "relevance": 0.47816,
+      "count": 1
+    },
+    {
+      "text": "conferidas",
+      "relevance": 0.478147,
+      "count": 1
+    },
+    {
+      "text": "valle",
+      "relevance": 0.477428,
+      "count": 2
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.475131,
+      "count": 2
+    },
+    {
+      "text": "problemas",
+      "relevance": 0.472946,
+      "count": 1
+    },
+    {
+      "text": "septiembre",
+      "relevance": 0.472888,
+      "count": 1
+    },
+    {
+      "text": "m2",
+      "relevance": 0.472496,
+      "count": 2
+    },
+    {
+      "text": "paragrafo",
+      "relevance": 0.4722,
       "count": 3
-    },
-    {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.555972,
-      "count": 2
-    },
-    {
-      "text": "aprobacion del curriculo",
-      "relevance": 0.548172,
-      "count": 1
-    },
-    {
-      "text": "numero de cr\u00e9ditos acad\u00e9mico",
-      "relevance": 0.547782,
-      "count": 1
-    },
-    {
-      "text": "modalidades de Maestria de Investigaci\u00e9n",
-      "relevance": 0.547037,
-      "count": 1
-    },
-    {
-      "text": "cobro de los Derechos Econ\u00e9micos",
-      "relevance": 0.546038,
-      "count": 1
-    },
-    {
-      "text": "Resoluci6\u00e9n",
-      "relevance": 0.53783,
-      "count": 1
-    },
-    {
-      "text": "costo total",
-      "relevance": 0.535383,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.534237,
-      "count": 1
-    },
-    {
-      "text": "Mensuales Legales Vigentes",
-      "relevance": 0.532732,
-      "count": 1
-    },
-    {
-      "text": "porcentaje de cr\u00e9ditos acad\u00e9micos",
-      "relevance": 0.526611,
-      "count": 1
-    },
-    {
-      "text": "valor de la matricula",
-      "relevance": 0.52504,
-      "count": 1
-    },
-    {
-      "text": "oferta de Programas de Posgrado",
-      "relevance": 0.524495,
-      "count": 1
-    },
-    {
-      "text": "Derechos Economicos",
-      "relevance": 0.522329,
-      "count": 1
-    },
-    {
-      "text": "mes de Diciembre del ano",
-      "relevance": 0.519522,
-      "count": 1
-    },
-    {
-      "text": "Consejo de la Facultad de Ingenieria",
-      "relevance": 0.518405,
-      "count": 1
-    },
-    {
-      "text": "matricula de asignaturas",
-      "relevance": 0.517331,
-      "count": 1
-    },
-    {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.516704,
-      "count": 2
-    },
-    {
-      "text": "cr\u00e9ditos promedio",
-      "relevance": 0.516433,
-      "count": 3
-    },
-    {
-      "text": "presente Resolucion",
-      "relevance": 0.515858,
-      "count": 2
-    },
-    {
-      "text": "condiciones de calidad de Programas",
-      "relevance": 0.515429,
-      "count": 1
-    },
-    {
-      "text": "RESOLUCION No",
-      "relevance": 0.514338,
-      "count": 1
-    },
-    {
-      "text": "efectos de liquidacion",
-      "relevance": 0.514022,
-      "count": 1
-    },
-    {
-      "text": "area de Matricula Financiera",
-      "relevance": 0.512874,
-      "count": 1
-    },
-    {
-      "text": "modalidades de Investigacion",
-      "relevance": 0.512562,
-      "count": 1
     }
   ]
 }

@@ -1,160 +1,150 @@
 {
   "usage": {
     "text_units": 1,
-    "text_characters": 5066,
+    "text_characters": 1097,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "creacion del Departamento del Valle",
-      "relevance": 0.6802,
-      "count": 2
-    },
-    {
-      "text": "Independencia de la Republica de Colombia",
-      "relevance": 0.672004,
-      "count": 2
-    },
-    {
-      "text": "ganadores de los Concursos de Ensayo",
-      "relevance": 0.62841,
+      "text": "escasos recursos",
+      "relevance": 0.823075,
       "count": 1
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.582885,
+      "text": "consejo superior",
+      "relevance": 0.761107,
       "count": 2
     },
     {
-      "text": "orden nacional",
-      "relevance": 0.58011,
+      "text": "santiago de cali",
+      "relevance": 0.625133,
       "count": 1
     },
     {
-      "text": "sola vez exenciones",
-      "relevance": 0.576198,
+      "text": "representante del presidente de la republica",
+      "relevance": 0.600252,
       "count": 1
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.575292,
+      "text": "dias del mes de mayo",
+      "relevance": 0.569105,
+      "count": 1
+    },
+    {
+      "text": "cobertura de los subsidios",
+      "relevance": 0.564917,
+      "count": 1
+    },
+    {
+      "text": "salon de reuniones del despacho",
+      "relevance": 0.5488,
+      "count": 1
+    },
+    {
+      "text": "secretario general",
+      "relevance": 0.545408,
+      "count": 1
+    },
+    {
+      "text": "siguiente manera",
+      "relevance": 0.520296,
+      "count": 1
+    },
+    {
+      "text": "larreamendy joerns",
+      "relevance": 0.520296,
+      "count": 1
+    },
+    {
+      "text": "lopez pulecio",
+      "relevance": 0.520296,
+      "count": 1
+    },
+    {
+      "text": "numero total",
+      "relevance": 0.512367,
+      "count": 1
+    },
+    {
+      "text": "ampliacion de cobertura",
+      "relevance": 0.500795,
+      "count": 1
+    },
+    {
+      "text": "subsidios sera",
+      "relevance": 0.49227,
+      "count": 2
+    },
+    {
+      "text": "021-2011consejo superior",
+      "relevance": 0.471478,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.446371,
+      "count": 1
+    },
+    {
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.438526,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.437905,
+      "count": 2
+    },
+    {
+      "text": "diciembre",
+      "relevance": 0.437905,
+      "count": 1
+    },
+    {
+      "text": "articulo",
+      "relevance": 0.429811,
+      "count": 2
+    },
+    {
+      "text": "universidad",
+      "relevance": 0.425103,
       "count": 4
     },
     {
-      "text": "carrera respectiva",
-      "relevance": 0.568236,
+      "text": "agosto",
+      "relevance": 0.425074,
       "count": 2
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.564062,
-      "count": 4
-    },
-    {
-      "text": "programas conmemorativos",
-      "relevance": 0.563334,
+      "text": "cuenta",
+      "relevance": 0.420409,
       "count": 1
     },
     {
-      "text": "promedio semestral",
-      "relevance": 0.560119,
-      "count": 2
-    },
-    {
-      "text": "presente Resolucion",
-      "relevance": 0.55957,
-      "count": 2
-    },
-    {
-      "text": "desarrollo de nuestra nacion",
-      "relevance": 0.557752,
+      "text": "presidente",
+      "relevance": 0.419584,
       "count": 1
     },
     {
-      "text": "misma manera",
-      "relevance": 0.554547,
+      "text": "valle",
+      "relevance": 0.416703,
       "count": 1
     },
     {
-      "text": "realizacion de un concurso de ensayos",
-      "relevance": 0.546959,
+      "text": "uso",
+      "relevance": 0.413827,
       "count": 1
     },
     {
-      "text": "premio Unico",
-      "relevance": 0.546764,
-      "count": 2
-    },
-    {
-      "text": "diversidad \u00e9tnica",
-      "relevance": 0.543687,
+      "text": "atribuciones",
+      "relevance": 0.413827,
       "count": 1
     },
     {
-      "text": "afios de creacion de la Universidad",
-      "relevance": 0.542759,
+      "text": "estudiantes",
+      "relevance": 0.413827,
       "count": 1
-    },
-    {
-      "text": "estudiantes universitarios",
-      "relevance": 0.541681,
-      "count": 1
-    },
-    {
-      "text": "motivo de estas efem\u00e9rides",
-      "relevance": 0.536213,
-      "count": 1
-    },
-    {
-      "text": "ambitos de la ciencia",
-      "relevance": 0.536213,
-      "count": 1
-    },
-    {
-      "text": "Valle del Cauca",
-      "relevance": 0.53616,
-      "count": 1
-    },
-    {
-      "text": "Bicentenario de la Independencia",
-      "relevance": 0.529455,
-      "count": 3
-    },
-    {
-      "text": "conmemoracion del Bicentenario de creacion",
-      "relevance": 0.527846,
-      "count": 1
-    },
-    {
-      "text": "dias del mes de Abril",
-      "relevance": 0.527218,
-      "count": 1
-    },
-    {
-      "text": "Centenario de la creacion del Departamento",
-      "relevance": 0.526054,
-      "count": 1
-    },
-    {
-      "text": "Santiago de Cali",
-      "relevance": 0.523118,
-      "count": 1
-    },
-    {
-      "text": "expresiones del proceso de construccion",
-      "relevance": 0.522311,
-      "count": 1
-    },
-    {
-      "text": "Posgrado de acuerdo",
-      "relevance": 0.521627,
-      "count": 1
-    },
-    {
-      "text": "programas de Pregrado",
-      "relevance": 0.51825,
-      "count": 2
     }
   ]
 }

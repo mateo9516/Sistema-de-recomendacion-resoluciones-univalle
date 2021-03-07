@@ -7,153 +7,218 @@
   "language": "es",
   "keywords": [
     {
-      "text": "Trabajo de Grado",
-      "relevance": 0.617842,
+      "text": "trabajo de grado",
+      "relevance": 0.615494,
       "count": 1
     },
     {
       "text": "semestres adicionales",
-      "relevance": 0.59941,
+      "relevance": 0.598992,
       "count": 2
     },
     {
-      "text": "estudiante de Pregrado",
-      "relevance": 0.582872,
+      "text": "estudiante de pregrado",
+      "relevance": 0.586034,
       "count": 1
     },
     {
-      "text": "Santiago de Cali",
-      "relevance": 0.581632,
+      "text": "santiago de cali",
+      "relevance": 0.583659,
       "count": 1
     },
     {
-      "text": "Comit\u00e9 de Plan podr",
-      "relevance": 0.564107,
+      "text": "holguin sardi nietnnott",
+      "relevance": 0.551104,
+      "count": 1
+    },
+    {
+      "text": "gobernador del departamento",
+      "relevance": 0.546914,
       "count": 1
     },
     {
       "text": "dias del mes de febrero",
-      "relevance": 0.545382,
+      "relevance": 0.544887,
       "count": 1
     },
     {
-      "text": "Sald\u00e9n de Reuniones del Despacho",
-      "relevance": 0.540333,
-      "count": 1
+      "text": "comit\u00e9 de plan",
+      "relevance": 0.542896,
+      "count": 2
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.538526,
+      "text": "sald\u00e9n de reuniones del despacho",
+      "relevance": 0.539483,
       "count": 1
     },
     {
       "text": "uso de sus atribuciones",
-      "relevance": 0.538526,
+      "relevance": 0.537548,
       "count": 1
     },
     {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.526729,
+      "text": "secretario general",
+      "relevance": 0.537548,
       "count": 1
     },
     {
-      "text": "Comit\u00e9 de Plan",
-      "relevance": 0.524172,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.530675,
       "count": 1
     },
     {
-      "text": "Trabajo de Tesisa criterio del Comit\u00e9",
-      "relevance": 0.516038,
-      "count": 1
-    },
-    {
-      "text": "Trabajo de Tesis",
-      "relevance": 0.515595,
+      "text": "trabajo de tesis",
+      "relevance": 0.510681,
       "count": 1
     },
     {
       "text": "semestres",
-      "relevance": 0.514723,
+      "relevance": 0.510491,
       "count": 3
     },
     {
+      "text": "trabajo de tesisa criterio del comit\u00e9",
+      "relevance": 0.5088,
+      "count": 1
+    },
+    {
       "text": "estudiantes",
-      "relevance": 0.508489,
+      "relevance": 0.505843,
       "count": 1
     },
     {
-      "text": "actividades propias del Plan de Estudios",
-      "relevance": 0.507408,
-      "count": 1
-    },
-    {
-      "text": "Gobernador",
-      "relevance": 0.503424,
+      "text": "actividades propias del plan de estudios",
+      "relevance": 0.501378,
       "count": 1
     },
     {
       "text": "plazo",
-      "relevance": 0.499535,
+      "relevance": 0.494762,
       "count": 1
     },
     {
-      "text": "CARLOS HOLGUIN SARDI Nietnnott",
-      "relevance": 0.499374,
-      "count": 1
-    },
-    {
-      "text": "Gobernador del Departamento WUD MANY",
-      "relevance": 0.495728,
+      "text": "valle juan manuel jaramillo",
+      "relevance": 0.490014,
       "count": 1
     },
     {
       "text": "asignaturas",
-      "relevance": 0.494717,
+      "relevance": 0.489977,
+      "count": 1
+    },
+    {
+      "text": "gobernador",
+      "relevance": 0.487825,
       "count": 1
     },
     {
       "text": "valor de la tercera parte del salario minimo legal mensual",
-      "relevance": 0.489952,
+      "relevance": 0.485564,
       "count": 1
     },
     {
       "text": "condiciones",
-      "relevance": 0.481658,
+      "relevance": 0.476821,
       "count": 1
     },
     {
-      "text": "PARAGRAFO",
-      "relevance": 0.480244,
+      "text": "universidad",
+      "relevance": 0.47603,
       "count": 1
     },
     {
-      "text": "UNIVERSIDAD",
-      "relevance": 0.478458,
-      "count": 1
-    },
-    {
-      "text": "COF",
-      "relevance": 0.477224,
+      "text": "paragrafo",
+      "relevance": 0.475183,
       "count": 1
     },
     {
       "text": "estudiante",
-      "relevance": 0.476649,
+      "relevance": 0.471488,
       "count": 2
     },
     {
-      "text": "Plan",
-      "relevance": 0.474537,
-      "count": 1
-    },
-    {
       "text": "vez",
-      "relevance": 0.474431,
+      "relevance": 0.468969,
       "count": 1
     },
     {
       "text": "presente",
-      "relevance": 0.474431,
+      "relevance": 0.468969,
+      "count": 1
+    },
+    {
+      "text": "perfodo",
+      "relevance": 0.468136,
+      "count": 1
+    },
+    {
+      "text": "plan",
+      "relevance": 0.46771,
+      "count": 1
+    },
+    {
+      "text": "cof",
+      "relevance": 0.467018,
+      "count": 1
+    },
+    {
+      "text": "pregrado",
+      "relevance": 0.466732,
+      "count": 1
+    },
+    {
+      "text": "causa",
+      "relevance": 0.465614,
+      "count": 1
+    },
+    {
+      "text": "semestre",
+      "relevance": 0.465564,
+      "count": 1
+    },
+    {
+      "text": "resolucion",
+      "relevance": 0.462262,
+      "count": 1
+    },
+    {
+      "text": "febrero",
+      "relevance": 0.462262,
+      "count": 1
+    },
+    {
+      "text": "proyectos",
+      "relevance": 0.462262,
+      "count": 1
+    },
+    {
+      "text": "tesis",
+      "relevance": 0.462262,
+      "count": 2
+    },
+    {
+      "text": "pais",
+      "relevance": 0.462262,
+      "count": 1
+    },
+    {
+      "text": "culminaci\u00e9n",
+      "relevance": 0.462262,
+      "count": 1
+    },
+    {
+      "text": "disposiciones",
+      "relevance": 0.462262,
+      "count": 1
+    },
+    {
+      "text": "presidente",
+      "relevance": 0.462262,
+      "count": 1
+    },
+    {
+      "text": "grado",
+      "relevance": 0.458324,
       "count": 1
     }
   ]

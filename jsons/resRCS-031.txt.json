@@ -1,159 +1,259 @@
 {
   "usage": {
-    "text_units": 2,
-    "text_characters": 11536,
+    "text_units": 1,
+    "text_characters": 4259,
     "features": 1
   },
   "language": "es",
   "keywords": [
     {
-      "text": "Programa de Semilleros de Docentes",
-      "relevance": 0.657887,
+      "text": "atenci\u00e9n m\u00e9dica integral",
+      "relevance": 0.594788,
+      "count": 1
+    },
+    {
+      "text": "asamblea departamental del valle",
+      "relevance": 0.579712,
+      "count": 1
+    },
+    {
+      "text": "mayor capacidad",
+      "relevance": 0.574436,
+      "count": 1
+    },
+    {
+      "text": "suministros m\u00e9dicos",
+      "relevance": 0.571688,
       "count": 2
     },
     {
-      "text": "fortalecimiento acad\u00e9mico",
-      "relevance": 0.593874,
+      "text": "r\u00e9gimen especial",
+      "relevance": 0.57086,
       "count": 1
     },
     {
-      "text": "siguiente manera",
-      "relevance": 0.570375,
+      "text": "servicio de salud",
+      "relevance": 0.566229,
       "count": 1
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.570146,
-      "count": 5
-    },
-    {
-      "text": "nuevos cupos de profesores",
-      "relevance": 0.569127,
+      "text": "vigencias futuras",
+      "relevance": 0.562156,
       "count": 1
     },
     {
-      "text": "planta docente",
-      "relevance": 0.565599,
+      "text": "vida de sus usuarios",
+      "relevance": 0.556551,
       "count": 1
     },
     {
-      "text": "unidades acad\u00e9micas",
-      "relevance": 0.55783,
+      "text": "vicerrectoria de bienestar universitario",
+      "relevance": 0.544155,
       "count": 1
     },
     {
-      "text": "Semillero de Docentes",
-      "relevance": 0.549933,
+      "text": "estatuto general",
+      "relevance": 0.544059,
+      "count": 1
+    },
+    {
+      "text": "medicamentos de uso humano",
+      "relevance": 0.541957,
       "count": 2
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.548401,
-      "count": 11
-    },
-    {
-      "text": "formacion de jovenes profesores",
-      "relevance": 0.545254,
+      "text": "objeto del compromiso",
+      "relevance": 0.541844,
       "count": 1
     },
     {
-      "text": "Consejo Acad\u00e9mico",
-      "relevance": 0.544606,
-      "count": 5
-    },
-    {
-      "text": "estudios de posgrado",
-      "relevance": 0.541343,
+      "text": "pago de los compromisos",
+      "relevance": 0.541376,
       "count": 1
     },
     {
-      "text": "lengua extranjera",
-      "relevance": 0.539666,
+      "text": "siguientes conceptos",
+      "relevance": 0.539481,
       "count": 1
     },
     {
-      "text": "nueva generacion acad\u00e9mica",
-      "relevance": 0.539264,
+      "text": "tiempo de una partida",
+      "relevance": 0.539375,
       "count": 1
     },
     {
-      "text": "efectos legales",
-      "relevance": 0.535504,
+      "text": "senor rector",
+      "relevance": 0.539203,
       "count": 1
     },
     {
-      "text": "caso de Medicina",
-      "relevance": 0.535292,
-      "count": 1
-    },
-    {
-      "text": "estudios doctorales",
-      "relevance": 0.534814,
+      "text": "estatuto organico del presupuesto",
+      "relevance": 0.536882,
       "count": 2
     },
     {
-      "text": "Programa de Semilleros",
-      "relevance": 0.532675,
+      "text": "centro de costos valor",
+      "relevance": 0.536778,
+      "count": 1
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.533174,
+      "count": 1
+    },
+    {
+      "text": "figura de vigencia futura",
+      "relevance": 0.53135,
+      "count": 1
+    },
+    {
+      "text": "ordenador del gasto",
+      "relevance": 0.530813,
+      "count": 1
+    },
+    {
+      "text": "consejo superior",
+      "relevance": 0.529957,
       "count": 2
     },
     {
-      "text": "excepcion de las Artes",
-      "relevance": 0.53262,
+      "text": "ente universitario",
+      "relevance": 0.526132,
       "count": 1
     },
     {
-      "text": "corto plazo",
-      "relevance": 0.53244,
+      "text": "valor total",
+      "relevance": 0.525685,
       "count": 1
     },
     {
-      "text": "alto nivel",
-      "relevance": 0.532317,
+      "text": "mejores servicios",
+      "relevance": 0.524188,
       "count": 1
     },
     {
-      "text": "tal efecto",
-      "relevance": 0.531164,
+      "text": "periodo fiscal",
+      "relevance": 0.523107,
       "count": 1
     },
     {
-      "text": "titulo de doctor",
-      "relevance": 0.530047,
+      "text": "dias del mes de julio",
+      "relevance": 0.516306,
+      "count": 1
+    },
+    {
+      "text": "despacho de medicamentos",
+      "relevance": 0.512846,
+      "count": 1
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.512635,
+      "count": 1
+    },
+    {
+      "text": "ejecuci\u00e9n proyectada",
+      "relevance": 0.511235,
+      "count": 1
+    },
+    {
+      "text": "senor rector de la universidad",
+      "relevance": 0.509633,
+      "count": 1
+    },
+    {
+      "text": "literales k",
+      "relevance": 0.503702,
+      "count": 1
+    },
+    {
+      "text": "personeria juridica",
+      "relevance": 0.503702,
+      "count": 1
+    },
+    {
+      "text": "valor",
+      "relevance": 0.503662,
       "count": 2
     },
     {
-      "text": "respectiva Unidad Acad\u00e9mica",
-      "relevance": 0.530037,
+      "text": "vigencia futura del afo",
+      "relevance": 0.502188,
+      "count": 1
+    },
+    {
+      "text": "clinicas",
+      "relevance": 0.501321,
       "count": 2
     },
     {
-      "text": "respectivos perfiles",
-      "relevance": 0.526212,
+      "text": "servicios m\u00e9dico asistenciales de acuerdo",
+      "relevance": 0.501298,
       "count": 1
     },
     {
-      "text": "nivel de Maestria",
-      "relevance": 0.523988,
+      "text": "6n requeridos",
+      "relevance": 0.501148,
+      "count": 1
+    },
+    {
+      "text": "presupuesto de gastos",
+      "relevance": 0.499881,
+      "count": 1
+    },
+    {
+      "text": "patrimonio independiente",
+      "relevance": 0.498526,
+      "count": 1
+    },
+    {
+      "text": "principio de anualidad",
+      "relevance": 0.498526,
+      "count": 1
+    },
+    {
+      "text": "dependencia",
+      "relevance": 0.497028,
       "count": 2
     },
     {
-      "text": "Artes Visuales",
-      "relevance": 0.523305,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.496716,
       "count": 1
     },
     {
-      "text": "calidad de su planta docente",
-      "relevance": 0.522668,
+      "text": "concepto periodo",
+      "relevance": 0.49574,
       "count": 1
     },
     {
-      "text": "reglamentacion del Semilleros",
-      "relevance": 0.52233,
+      "text": "pesos",
+      "relevance": 0.494954,
+      "count": 3
+    },
+    {
+      "text": "cuenta",
+      "relevance": 0.492667,
+      "count": 3
+    },
+    {
+      "text": "vigencias fiscales",
+      "relevance": 0.491567,
       "count": 1
     },
     {
-      "text": "siguientes criterios",
-      "relevance": 0.52212,
+      "text": "universidad",
+      "relevance": 0.491046,
+      "count": 2
+    },
+    {
+      "text": "suministro",
+      "relevance": 0.49094,
+      "count": 1
+    },
+    {
+      "text": "capacidad",
+      "relevance": 0.489455,
       "count": 1
     }
   ]

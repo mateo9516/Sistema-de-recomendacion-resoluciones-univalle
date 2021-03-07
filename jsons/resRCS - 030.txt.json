@@ -8,153 +8,253 @@
   "keywords": [
     {
       "text": "laboratorios de la isiath",
-      "relevance": 0.6309,
+      "relevance": 0.644938,
       "count": 1
     },
     {
       "text": "fecha posterior",
-      "relevance": 0.606609,
+      "relevance": 0.612775,
       "count": 1
     },
     {
       "text": "cierre de la vigencia fiscal",
-      "relevance": 0.593627,
+      "relevance": 0.602062,
       "count": 4
     },
     {
-      "text": "Edificio de Microbiologia",
-      "relevance": 0.582851,
-      "count": 1
-    },
-    {
-      "text": "Facultad de Salud",
-      "relevance": 0.581682,
-      "count": 2
-    },
-    {
       "text": "equipos de laboratorio",
-      "relevance": 0.58161,
+      "relevance": 0.590082,
       "count": 15
     },
     {
-      "text": "Asamblea Departamental del Valle",
-      "relevance": 0.571999,
+      "text": "asamblea departamental del valle",
+      "relevance": 0.57859,
       "count": 1
     },
     {
       "text": "r\u00e9gimen especial",
-      "relevance": 0.569916,
+      "relevance": 0.578117,
       "count": 1
     },
     {
-      "text": "Plan de Inversiones de la Universidad",
-      "relevance": 0.56615,
-      "count": 1
-    },
-    {
-      "text": "despacho de la Vicerrectoria de Bienestar",
-      "relevance": 0.552378,
+      "text": "facultad de salud",
+      "relevance": 0.570484,
       "count": 2
     },
     {
-      "text": "Consejo Superior",
-      "relevance": 0.54843,
-      "count": 7
+      "text": "plan de inversiones de la universidad",
+      "relevance": 0.568396,
+      "count": 1
+    },
+    {
+      "text": "edificio de microbiologia",
+      "relevance": 0.568022,
+      "count": 1
+    },
+    {
+      "text": "sede zarzal",
+      "relevance": 0.567198,
+      "count": 2
     },
     {
       "text": "adici\u00e9n de recursos de estampilla",
-      "relevance": 0.546136,
+      "relevance": 0.550843,
       "count": 1
     },
     {
-      "text": "correctivo de las Obras de adecuacion",
-      "relevance": 0.545842,
-      "count": 1
-    },
-    {
-      "text": "vigencias siguientes",
-      "relevance": 0.542935,
-      "count": 1
-    },
-    {
-      "text": "Sede Regional",
-      "relevance": 0.542339,
+      "text": "sede regional",
+      "relevance": 0.550408,
       "count": 2
     },
     {
+      "text": "consejo superior",
+      "relevance": 0.549918,
+      "count": 8
+    },
+    {
+      "text": "vigencias siguientes",
+      "relevance": 0.547164,
+      "count": 1
+    },
+    {
+      "text": "correctivo de las obras de adecuacion",
+      "relevance": 0.546188,
+      "count": 1
+    },
+    {
       "text": "ente universitario",
-      "relevance": 0.539724,
+      "relevance": 0.543474,
       "count": 1
     },
     {
-      "text": "Senor Rector",
-      "relevance": 0.538883,
-      "count": 1
-    },
-    {
-      "text": "planta fisica de la Facultad de Obras",
-      "relevance": 0.538158,
-      "count": 1
-    },
-    {
-      "text": "laboratorios de Electronica",
-      "relevance": 0.536907,
+      "text": "laboratorios de electronica",
+      "relevance": 0.543024,
       "count": 1
     },
     {
       "text": "actividades acad\u00e9micas",
-      "relevance": 0.536879,
+      "relevance": 0.541641,
       "count": 1
     },
     {
       "text": "adecuacion de laboratorios",
-      "relevance": 0.533715,
+      "relevance": 0.538473,
       "count": 1
     },
     {
-      "text": "Microbiologia de la Facultad de Salud",
-      "relevance": 0.53365,
+      "text": "senor rector",
+      "relevance": 0.538117,
+      "count": 1
+    },
+    {
+      "text": "planta fisica de la facultad de obras",
+      "relevance": 0.533551,
       "count": 2
     },
     {
-      "text": "Departamento de Microbiologia",
-      "relevance": 0.531245,
+      "text": "planes de inversid\u00e9n de las vigencias",
+      "relevance": 0.529963,
       "count": 1
     },
     {
-      "text": "Universidad del Valle",
-      "relevance": 0.530786,
+      "text": "mantenimiento preventivo",
+      "relevance": 0.5295,
+      "count": 1
+    },
+    {
+      "text": "plan de recuperacion",
+      "relevance": 0.52835,
+      "count": 1
+    },
+    {
+      "text": "alimentos de la sede",
+      "relevance": 0.527981,
+      "count": 1
+    },
+    {
+      "text": "fecha estimada",
+      "relevance": 0.52612,
+      "count": 3
+    },
+    {
+      "text": "microbiologia de la facultad de salud",
+      "relevance": 0.525538,
+      "count": 3
+    },
+    {
+      "text": "despacho de la vicerrectoria de bienestar",
+      "relevance": 0.525012,
       "count": 2
     },
     {
-      "text": "RESOLUCION No",
-      "relevance": 0.5302,
+      "text": "departamento de microbiologia",
+      "relevance": 0.522684,
       "count": 1
     },
     {
-      "text": "Planes de Inversid\u00e9n de las vigencias",
-      "relevance": 0.528446,
-      "count": 1
-    },
-    {
-      "text": "Mantenimiento preventivo",
-      "relevance": 0.527895,
-      "count": 1
-    },
-    {
-      "text": "Plan de recuperacion",
-      "relevance": 0.527439,
-      "count": 1
-    },
-    {
-      "text": "CONSEJO SUPERIOR DE LA UNIVERSIDAD DEL VALLE",
-      "relevance": 0.523998,
+      "text": "procesamiento digital",
+      "relevance": 0.521562,
       "count": 2
     },
     {
-      "text": "Alimentos de la Sede",
-      "relevance": 0.522461,
+      "text": "consejo superior de la universidad del valle",
+      "relevance": 0.519797,
+      "count": 2
+    },
+    {
+      "text": "interventoria de obra",
+      "relevance": 0.51957,
       "count": 1
+    },
+    {
+      "text": "recibo de bienes",
+      "relevance": 0.51768,
+      "count": 3
+    },
+    {
+      "text": "universidad del valle",
+      "relevance": 0.516012,
+      "count": 2
+    },
+    {
+      "text": "santiago de cali",
+      "relevance": 0.515368,
+      "count": 1
+    },
+    {
+      "text": "recursos del balance",
+      "relevance": 0.514665,
+      "count": 1
+    },
+    {
+      "text": "segundo semestre del afo",
+      "relevance": 0.513406,
+      "count": 1
+    },
+    {
+      "text": "instituto de educacion",
+      "relevance": 0.512612,
+      "count": 2
+    },
+    {
+      "text": "proyectos de inversi6n",
+      "relevance": 0.512441,
+      "count": 1
+    },
+    {
+      "text": "literal k",
+      "relevance": 0.510384,
+      "count": 1
+    },
+    {
+      "text": "edificio multitaller",
+      "relevance": 0.510251,
+      "count": 2
+    },
+    {
+      "text": "adecuaci6\u00e9n",
+      "relevance": 0.510026,
+      "count": 1
+    },
+    {
+      "text": "vigencia del afho",
+      "relevance": 0.509451,
+      "count": 1
+    },
+    {
+      "text": "dotacidn del laboratorio inte",
+      "relevance": 0.50896,
+      "count": 1
+    },
+    {
+      "text": "valor estimadoa",
+      "relevance": 0.508925,
+      "count": 1
+    },
+    {
+      "text": "dias del mes de junio",
+      "relevance": 0.508217,
+      "count": 1
+    },
+    {
+      "text": "dotacion de ibquipos",
+      "relevance": 0.508066,
+      "count": 1
+    },
+    {
+      "text": "laboratorio de alimentos sede",
+      "relevance": 0.508042,
+      "count": 2
+    },
+    {
+      "text": "adecuacion fisica",
+      "relevance": 0.507782,
+      "count": 1
+    },
+    {
+      "text": "agroambiental de la sede regional",
+      "relevance": 0.507417,
+      "count": 2
     }
   ]
 }
