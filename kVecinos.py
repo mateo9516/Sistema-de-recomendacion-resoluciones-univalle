@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 from gensim.models import Word2Vec
 
-#model = Word2Vec.load("word2vec.model")
-model = Word2Vec.load("fastText.model")
-keys = ['excepcion','matricula','derechos','deberes','admision','titulacion','programa']
+model = Word2Vec.load("C:/Users/Mateo/Documents/OCR/modelosAutogenerados/W2VSG/W2VSkipGram1473.model")
+#model = Word2Vec.load("fastText.model")
+keys = ["afrocolombianas","equivalencias","homologacion","rendimiento","asignatura","calificacion","reingreso","exencion","matricula","cancelacion"]
 
 
 embedding_clusters = []
@@ -28,7 +28,7 @@ embeddings_en_2d = np.array(tsne_model_en_2d.fit_transform(embedding_clusters.re
 
 
 
-def tsne_plot_similar_words(title, labels, embedding_clusters, word_clusters, a, filename=None):
+def tsne_plot_similar_words(title, labels, embedding_clusters, word_clusters, a, filename):
     plt.figure(figsize=(16, 9))
     colors = cm.rainbow(np.linspace(0, 1, len(labels)))
     for label, embeddings, words, color in zip(labels, embedding_clusters, word_clusters, colors):
@@ -42,9 +42,9 @@ def tsne_plot_similar_words(title, labels, embedding_clusters, word_clusters, a,
     plt.title(title)
     plt.grid(True)
     if filename:
-        plt.savefig(filename, format='png', dpi=150, bbox_inches='tight')
+        plt.savefig(filename, format='png', dpi=300, bbox_inches='tight')
     plt.show()
 
 
 tsne_plot_similar_words('Similar words resoluciones', keys, embeddings_en_2d, word_clusters, 0.7,
-                        'palabras Similares.png')
+                        'W2VSkipGram1473')

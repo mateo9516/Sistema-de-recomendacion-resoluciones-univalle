@@ -25,7 +25,7 @@ import plotly.graph_objs as go
 from IPython import get_ipython
 
 #model = Word2Vec.load("word2vec.model")
-model = Word2Vec.load("C:/Users/Mateo/Documents/OCR/modelosAutogenerados/W2VCbow/seleccionados/word2vec255.model")
+model = Word2Vec.load("C:/Users/Mateo/Documents/OCR/W2VCbow255.model")
 #print(len(model.wv.vocab))
 
 #model.build_vocab([["beneficios","admision","afro"]], update=True)
@@ -88,7 +88,7 @@ try:
     
     print('puede consultar las resoluciones: ')
     for i in range(len(resoluciones)):
-        if valores[i] > 0.87:
+        if valores[i] > 0.79:
             print(matriz[resoluciones[i]][0]," /// ",valores[i])
         
 except:

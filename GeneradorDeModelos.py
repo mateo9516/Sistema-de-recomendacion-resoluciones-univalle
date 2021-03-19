@@ -128,9 +128,26 @@ for idxModelo,i,j,k in excel:
 
 workbook.close()
 """
+### Parametros estaticos para generacion word2vec ultimo tunning del proyecto
+vec_size = [150,160,230,230,250,280]
+wind = [4,6,3,4,4,4]
+min_c = [7,9,5,7,7,9]
+idxmodelos =[16,157,897,912,1136,1473]
+
+for i in range(len(vec_size)):
+    #model = Word2Vec(all_words, size=vec_size[i], window = wind[i], min_count=min_c[i], workers=7,sg=0)
+    #model.save("W2VCbow"+str(idxmodelos[i])+".model")
+    model = Word2Vec(all_words, size=vec_size[i], window = wind[i], min_count=min_c[i], workers=7,sg=1)
+    model.save("W2VSkipG"+str(idxmodelos[i])+".model")
+
+
+
+#####
+
+
 
 ####### Parametros estaticos para generacion de modelos fast Text######
-
+"""
 vec_size = [150,160,230,230,250,280,300,360]
 wind = [4,6,3,4,4,4,5,3]
 min_c = [7,9,5,7,7,9,9,5]
@@ -164,3 +181,4 @@ for idxModelo,i,j,k in excel:
     fila +=1
 
 workbook.close()
+"""
